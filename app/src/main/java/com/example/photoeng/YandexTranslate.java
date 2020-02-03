@@ -3,6 +3,7 @@ package com.example.photoeng;
 import android.os.AsyncTask;
 import android.os.StrictMode;
 import android.util.Log;
+import android.widget.Toast;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -28,6 +29,8 @@ public class YandexTranslate extends AsyncTask<String, Void, String> {
             String yandexKey = "trnsl.1.1.20200201T153154Z.f1d264195453e402.11b9b9d9bb7ca58ddef73bd559fdff41c8c0c54b";
             String yandexUrl = "https://translate.yandex.net/api/v1.5/tr.json/translate?key=" + yandexKey
                     + "&text=" + textToBeTranslated + "&lang=" + languagePair;
+            System.out.println("--------------------");
+            System.out.println(yandexUrl);
             URL yandexTranslateURL = new URL(yandexUrl);
 
             StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
