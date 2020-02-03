@@ -330,18 +330,17 @@ public class MainScreen extends MainActivity {
                //TODO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
                 String word = TextReader.getText().toString().trim();//delete "_" in text
+                if(isNetworkAvailable(MainScreen.this)){
                 try {
-
-                    TranslatedWord.setText(TranslateYandex("test", "en-ru"));
+                    TranslatedWord.setText(TranslateYandex(word, "en-ru"));
                 } catch (Exception e) {
                     e.printStackTrace();
-                }
-
+                }}else{
                 try {
                     translationNoInternet(word);
                 } catch (Exception e) {
                     e.printStackTrace();
-                }
+                }}
 
             }
 
@@ -639,23 +638,27 @@ public class MainScreen extends MainActivity {
     }
 
 
-    public static boolean hasConnection(final Context context)
-    {
-        ConnectivityManager cm = (ConnectivityManager)context.getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo wifiInfo = cm.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
-        if (wifiInfo != null && wifiInfo.isConnected())
-        {
-            return true;
+    public static boolean isNetworkAvailable(Context context) {
+        ConnectivityManager connectivity = (ConnectivityManager) context
+                .getSystemService(Context.CONNECTIVITY_SERVICE);
+        if (connectivity == null) {
+            Log.d("NetworkCheck", "isNetworkAvailable: No");
+            return false;
         }
-        wifiInfo = cm.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
-        if (wifiInfo != null && wifiInfo.isConnected())
-        {
-            return true;
-        }
-        wifiInfo = cm.getActiveNetworkInfo();
-        if (wifiInfo != null && wifiInfo.isConnected())
-        {
-            return true;
+
+        // get network info for all of the data interfaces (e.g. WiFi, 3G, LTE, etc.)
+        NetworkInfo[] info = connectivity.getAllNetworkInfo();
+
+        // make sure that there is at least one interface to test against
+        if (info != null) {
+            // iterate through the interfaces
+            for (int i = 0; i < info.length; i++) {
+                // check this interface for a connected state
+                if (info[i].getState() == NetworkInfo.State.CONNECTED) {
+                    Log.d("NetworkCheck", "isNetworkAvailable: Yes");
+                    return true;
+                }
+            }
         }
         return false;
     }
