@@ -1,0 +1,4947 @@
+
+rabbet
+шпунтовать	паз
+rabbeted
+шпунтовать
+rabbeting
+шпунтовать	шпунтовка
+rabbi
+раввин
+rabbinate
+сан раввина
+rabbinic
+раввинский
+rabbinical
+раввинский
+rabbit
+кролик
+rabbitlike
+кроличий
+rabble
+толпа
+rabelais
+рабле
+rabelaisian
+раблезианский
+rabelaisians
+раблезианец
+rabid
+бешеный
+rabidity
+бешенство
+rabidness
+бешенство
+rabies
+бешенство
+raccoon
+енот
+race
+состязаться	гонка	раса	расовый
+race-course
+дорожка	трек
+racecourse
+скаковая	дорожка
+racehorse
+скаковая	лошадь
+racehourse
+скаковая	лошадь
+racemate
+рацемат
+raceme
+кисть
+racemose
+гроздевидный
+racer
+гонщик
+racetrack
+кольцевой	конвейер
+raceway
+гоночная	дорожка
+rachis
+позвоночник
+rachitic
+рахитический
+rachitis
+рахит
+racial
+расовый
+racialism
+расизм
+racialist
+расист
+racialistic
+расистский
+racine
+расин
+racing
+состязаться	гонка
+racism
+расизм
+racist
+расист
+rack
+мучить	стойка
+racket
+ракетка	рэкет
+racketeer
+рэкетир
+rackety
+шумный
+raconteur
+рассказчик
+racoon
+енот	енотовый
+racquet
+ракетка
+racquetball
+игра
+racy
+колоритный
+radar
+радар	радиолокационный
+radar set
+радиолокатор
+radarscope
+индикатор рлс
+raddish
+редис
+raddled
+запутавшийся
+radial
+радиальный
+radian
+радиан
+radiance
+сияние
+radiancy
+сияние
+radiant
+лучистый
+radiate
+излучать
+radiated
+излучать
+radiating
+излучать	излучающий
+radiation
+излучение
+radiative
+излучающий
+radiator
+источник излучения
+radical
+радикал	радикальный
+radicalism
+радикализм
+radicalization
+радикализация
+radicalize
+радикализировать
+radically
+радикально
+radicalness
+радикальность
+radices
+основание
+radicular
+корешковый
+radiculitis
+радикулит
+radii
+радиус
+radio
+радио	радио
+radio drama
+радиопостановка
+radio play
+радиопостановка
+radio service
+радиообслуживание
+radio set
+радиоприемник
+radio-telegram
+радио(теле)грамма
+radioactive
+радиоактивный
+radioactivity
+радиоактивность
+radiogram
+радиограмма
+radiography
+радиография
+radioisotope
+радиоизотоп
+radiologist
+радиолог
+radiology
+радиология
+radiometrically
+радиометрически
+radiometry
+радиометрия
+radiopaque
+радиопаг
+radioscopic
+рентгеноскопический
+radioscopy
+радиоскопия
+radiosonde
+радиозонд
+radiotelegraph
+радиотелеграф
+radiotelegraphy
+радиотелеграфия
+radiotelephone
+радиотелефон
+radiotelephony
+радиотелефония
+radiotherapist
+рентгенотерапевт
+radiotherapy
+радиотерапия
+radish
+редис
+radisson
+радисон
+radium
+радий	радиевый
+radius
+радиус
+radix
+корень	инф)основание
+radix complement
+точное дополнение. положительное	число, которое, при сложении с данным положительным числом в данной	системе счисления, дает 0 во всех	разрядах и перенос из старшего разряда. например, в десятичной системе точное дополнение 847 равно 153,	т.к. 847+153=1000. используется для	представления отрицательных чисел в	дополнительном коде.-
+radome
+обтекатель
+radon
+радон
+rafael
+рафаэль
+raffia
+рафия
+raffish
+беспутный
+raffishly
+вульгарно
+raffishness
+вульгарность
+raffle
+разыгрывать	лотерея	лотерейный
+raft
+плот
+rafter
+стропило
+raftsman
+сплавщик
+rag
+тряпка
+ragamuffin
+оборвыш
+rage
+бушевать	ярость
+ragged
+неровный
+ragged array
+(двумерный) массив со строками разной длины
+raggedness
+неровность
+raging
+свирепствовать	увлекаться	непримиримый
+raglan
+реглан
+ragman
+тряпичник
+ragout
+рагу
+ragtag
+оборванный
+ragtime
+рэгтайм
+ragweed
+амброзия
+rah
+ура
+raid
+налет
+raider
+налетчик
+rail
+бранить	шина	железнодорожный
+rail shipments
+перевозки по железным дорогам
+railage
+железнодорожный	перевозка
+railer
+рэйлер
+railhead
+временный	конечный	пункт
+railing
+ограда
+raillery
+беззлобная	насмешка
+railroad
+железная	дорога	железнодорожный
+railroader
+железнодорожник
+railway
+железная	дорога	железнодорожный
+railwayman
+железнодорожник
+raiment
+одеяние
+rain
+лить	дождь
+rain bow
+радуга
+rain-proof
+непромокаемый
+rainbow
+радуга
+raincoat
+плащ
+raindrop
+капля
+rainfall
+количество осадков
+raininess
+дождливость
+rainmaker
+призыватель дождя
+rainmaking
+призывание дождя
+rainproof
+непромокаемый
+rainstorm
+ливень
+rainwater
+дождевая	вода
+rainy
+дождливый
+raisable
+поднимаемый
+raise
+поднимать	возводить
+raise charity
+провести сбор благотворительных средств
+raise funds
+мобилизовать средства
+raise hell
+скандалить, безобразничать
+raise money
+добывать деньги	делать деньги	зарабатывать деньги	собирать деньги на какое-либо мероприятие
+raise takes
+собирать налоги
+raise taxes
+собирать	повышать налоги
+raised
+поднимать	возводить	рельефный
+raiser
+подъемник
+raisin
+изюм
+raisins
+изюм
+raison
+основание
+rajah
+раджа
+rajas
+раджа
+rake
+грабли
+rake for
+тщательно искать (*В|*Р)
+rakeoff
+комиссонные
+rakeoffs
+комиссионные
+rakers
+грабли
+rakish
+лихой
+rakishness
+распущенность
+rally
+сплачивать	набираться	экон)оживлять	слет	ралли	экон)рост(улучшение)
+ralph
+блевать	тошнить	ральф
+ram
+забивать	инф)рам	баран
+ramadan
+рамадан
+ramage
+хворост	ветви	сучья
+ramazan
+рамадан
+ramble
+бродить
+rambler
+бродяга
+rambling
+бродить	бродячий
+rambunctious
+буйный
+ramekin
+сырник
+ramequin
+сырник
+rami
+ветвь
+ramie
+рами
+ramies
+рами
+ramification
+разветвление
+ramifications
+последствие
+ramified
+разветвляться	разветвленный
+ramify
+разветвляться
+ramifying
+разветвляться	разветвляющийся
+ramjet
+прямоточный	воздушнореактивный	двигатель
+rammer
+трамбовка
+ramose
+ветвистый
+ramp
+пилообразный	сигнал
+rampage
+буйство	инф)=
+rampager
+буйствующий
+rampant
+безудержный
+rampart
+крепостной	вал
+ramrod
+шомпол
+ramshackle
+ветхий
+ramus
+ветвь
+ranch
+ранчо
+rancher
+скотовод
+ranchland
+ферма
+ranchman
+хозяин ранчо
+rancho
+ранчо
+rancid
+прогорклый
+rancidity
+прогорклость
+rancidness
+прогорклость
+rancor
+злоба
+rancorous
+злобный
+rancorously
+злобно
+rancour
+злоба
+rand
+ранд
+random
+произвольный
+random access
+произвольный доступ
+random distribution
+(стат.) случайное распределение
+random error
+случайная ошибка
+random experiment
+случайный эксперимент
+random file
+файл прямого доступа
+random number
+случайное число
+random numbers
+случайные числа
+random sample
+случайная выборка	(стат.) случайный отбор
+random sampling
+случайная выборка	(#стат.) случайный отбор
+random value
+случайная величина
+random variable
+случайная величина (переменная)
+random walk
+метод случайного блуждания
+randomization
+рандомизация
+randomize
+перемешивать
+randomizer
+рандомизатор
+randomizing
+хеширование
+randomness
+произвольность
+randy
+похотливый
+ranee
+рани
+ranees
+рани
+rang
+звонить
+range
+колебаться	дипазон	область
+range check
+проверка принадлежности к диапазону, контроль границ. проверка принадлежности значения переменной допустимому диапазону или принадлежности значения индекса границам массива
+range sensing
+определение расстояния. при обработке трехмерных изображений - определение расстояния до анализируемого	объекта
+rangeland
+простор
+ranger
+объездчик
+ranges
+колебаться	область
+ranginess
+долговязость
+ranging
+колебаться	диапазон
+rangy
+долговязый
+rank
+ранжировать	ранг	ранговый
+ranked
+ранжировать	упорядоченный
+ranked data
+упорядоченные данные
+ranking
+ранжировать	ранжирование	старший
+rankle
+мучить
+rankle in
+терзать
+ranklingly
+надоедливо
+rankness
+надоедливость
+ransack
+обшаривать
+ransacker
+грабитель
+ransom
+выкупать	выкуп
+rant
+неистовствовать
+ranter
+пустослов
+rantingly
+бурно
+ranway
+взлетная	полоса
+rap
+ударять	рэп
+rapacious
+хищный
+rapaciousness
+хищность
+rapacity
+прожорливость
+rape
+насиловать	насилие
+raper
+рэпер
+rapeseed
+рапсовое	семя
+raphael
+рафаэль
+rapid
+быстрый
+rapid prototyping
+быстрое макетирование
+rapidity
+быстрота
+rapidly
+быстро
+rapidness
+быстрота
+rapids
+порог
+rapier
+рапира
+rapine
+грабеж
+raping
+насиловать	насилие
+rapist
+насильник
+rappers
+рэпник
+rapport
+взаимопонимание
+rapporteur
+докладчик
+rapprochement
+сближение
+rapscallion
+мошенник
+rapt
+ударять	поглощенный
+raptness
+поглощенность
+raptor
+рэптор
+raptorial
+хищный
+rapture
+восторг
+rapturous
+восторженный
+rare
+редкий
+rarefaction
+разрежение
+rarefied
+разреженный
+rarefy
+разрежать
+rarely
+редко
+rareness
+редкость
+rarity
+редкость
+rascal
+подлец
+rascality
+подлость
+rash
+сыпь	поток	опрометчивый	стремительный
+rasher
+ломтик бекона
+rashly
+опрометчиво
+rashness
+опрометчивость
+rasp
+скрести	рашпиль
+raspberry
+малина
+rasper
+рашпиль	терка	зануда
+rasping
+скрипучий
+raspy
+скрежещущий
+raster
+растр	растровый
+raster graphics
+растровая графика. машинная графика, в которой изображение представляется двумерным массивом точек	(элементов растра), цвет и яркость	каждой из которых задаются независимо
+raster plotter
+растровый графопостроитель. графопостроитель, рисующий заданное растровой матрицей изображение, сканируя строку за строкой
+raster processor
+растровый процессор. спецализированный процессор, преобразующий изображение, заданное в виде совокупности линий, в растровое изображение	для вывода на экран дисплея или растровый графопостроитель
+raster unit
+единица растра, шаг растра
+rasterization
+растеризация
+rasterizer
+генератор развертки
+rat
+крыса	крысиный
+ratable
+оценочный	пропорциональный	экон)	подлежащий обложению налогом
+ratables
+доход с налога на собственность
+ratably
+пропорционально
+ratchet
+храповник	храповой
+rate
+оценивать	показатель	ставка	темп
+rate among
+считаться среди
+rate cutting
+сокращение нормы (времени, расценки)	урезывание заработной платы
+rate discrimination
+дискриминация клиентуры
+rate scale
+тарифное расписание	расценка	такса
+rate setting
+переговоры о заработной плате между профсоюзом и предпринимателями
+rate slashing
+резкое снижение ставок, курсов и т.д
+rate war
+тарифная война
+rate-slashing
+резкое снижение ставок	курсов и т.д
+rateable
+оценочный	пропорциональный	экон)	подлежащий обложению налогом
+rateably
+пропорционально
+rated
+оценивать	номинальный
+rated capacity
+проектная (расчетная, номинальная) мощность (производительность, емкость)
+rated power
+номинальная (проектная,расчетная) мощность (производительность)
+rated value
+номинальная величина	номинальное значение
+ratemaking
+установление цен
+ratepayer
+налогоплательщик
+rater
+ругатель
+rates
+оценивать	показатель
+ratesetting
+установление платежей
+rather
+довольно	предпочтительно
+rathole
+крысиная	нора
+rathskeller
+пивная
+ratification
+ратификация
+ratifiers
+ратифицирующие	сторона
+ratify
+ратифицировать
+rating
+оценивать	оценка
+ratio
+коэффициент
+ratiocinate
+рассуждать логически
+ratiocination
+логическое	рассуждение
+ratiocinative
+логический
+ratiocinator
+логик
+ratiometer
+логометр
+ration
+нормировать	рацион	продовольствие
+rational
+рациональный
+rational use
+рациональное использование
+rationale
+разумное	обоснование
+rationalisation
+рационализация
+rationalism
+рационализм
+rationalist
+рационалист	рационалистический
+rationalistic
+рациональный
+rationality
+рациональность
+rationalization
+рационализация
+rationalize
+рационализировать
+rationalized
+рационализировать	рационализированный
+rationalizer
+рационализатор
+rationally
+рационально
+rationed
+нормировать	обдуманный
+rationing
+нормировать	рационирование
+rationing arrangements
+карточная система
+ratline
+линь
+ratsbane
+крысиный	яд
+rattan
+ротанг	ротанговый
+ratter
+крысолов
+rattle
+трещать
+rattle off
+отбарабанить
+rattlebrain
+пустомеля
+rattlebrained
+пустоголовый
+rattlers
+трещотка
+rattlesnake
+гремучая	змея
+rattletrap
+колымага
+rattly
+грохоча
+rattrap
+крысоловка
+ratty
+крысиный
+raucous
+хриплый
+raucousness
+хриплость
+raunchiness
+вульгарность
+raunchy
+вульгарный
+ravage
+разорять	разорение
+ravaged
+разорять	разоренный
+ravaging
+разорять	разорение
+rave
+бредить	восторженный
+raved
+бредить
+ravel
+распутывать
+raveled
+распутывать
+raveling
+распутывать
+ravelled
+распутывать
+ravelling
+распутывать
+raven
+ворон
+ravenous
+хищный
+ravine
+овраг
+raving
+бредить	восхитительный
+ravishing
+восхитительный
+raw
+сырой	грубый	необработанный
+raw cotton
+хлопок-сырец
+raw data
+исходные данные	первичные (необработанные) данные
+raw materials
+сырье
+raw produce
+сырье
+raw products
+сырье
+raw rice
+необрушенный рис
+raw sugar
+сахар-сырец
+raw-boned
+худой, костлявый
+rawboned
+костлявый
+rawdon
+родон
+rawhide
+сыромять	сыромятный
+rawly
+сыро	грубо
+rawness
+сырость	грубость
+ray
+луч	И)рэй
+ray treatment
+* облучение
+rayon
+вискоза	вискозный
+razor
+бритва
+razor-blade
+лезвие безопасной бритвы
+re
+#см	
+re-arm
+перевооружать(ся) [-жить(ся)]
+re-elect
+переизб(и)рать
+re-enter
+входить снова в
+re-establish
+восстанавливать [-новить]
+reach
+достигать
+reach ceiling
+исчерпать лимит
+reachability
+достижимость
+react
+противодействовать	и)В)реагировать
+reaction
+реакция
+reactionary
+реакционер	реакционный
+reactive
+реактивный
+reactor
+реактор
+reactron
+реактрон
+read
+читать	чтение
+read operation
+операция чтения, чтение
+read over
+перечитывать [-читать]
+read rate
+скорость чтения
+read time
+время считывания
+read-only
+неизменяемый. о данных, изменение	которых запрещено или физически невозможно
+readability
+удобочитаемость
+readable
+удобочитаемый
+readdress
+переадресовывать
+readdressed
+переадресовывать	переадресованный
+readdressing
+переадресовывать	переадресация
+readeable
+удобочитаемый
+reader
+читатель	инф)считыватель
+readership
+круг читателей
+readied
+подготавливать
+readies
+подготавливать
+readily
+легко
+readiness
+готовность
+reading
+читать	чтение
+readings
+считывание
+readjust
+регулировать
+readjustment
+приспособление
+readme
+Йинф)
+reads
+читать
+ready
+готовый
+ready cash
+наличные (деньги)
+ready made
+готовое (изделие) (в отличие от сделанного на заказ)
+ready money
+наличные деньги
+ready task
+(ready-to-run task) задача, готовая	продолжать. в многозадачной системе	- задача, имеющая все необходимые	ей ресурсы, и ждущая в очереди задач предоставления кванта времени	процессора
+reaffirm
+подтверждать
+reagent
+реагент
+real
+реальный
+real accumulation
+реальное накопление
+real balance
+отчетный баланс
+real constant
+вещественная константа, действительная константа
+real estate
+недвижимость (земля, строения)	недвижимая собственность
+real goods
+реальные блага
+real investment
+реальные инвестиции
+real part
+вещественная часть (комплексного	числа)
+real property
+недвижимость	земля
+real resources
+реальные ресурсы
+real saving
+реальное накопление
+real storage
+физическая оперативная память, основная память
+real time
+реальное время
+real-world
+реальный, практический (о решаемой	задаче или применении системы)
+realign
+перестраивать
+realignment
+перестройка
+realism
+реализм
+realist
+реалист
+realistic
+реалистичный
+realistic plan
+реальный план
+realistically
+достоверно
+reality
+действительность
+realizable
+осуществимый
+realization
+реализация
+realize
+реализовывать	понимать
+realized
+реализовывать	понимать
+realizing
+реализовывать	понимать
+reallocation
+перераспределение
+really
+действительно
+realm
+область
+realtime
+реальное	время
+realtor
+агент по продаже недвижимости
+ream
+стопа	уйма
+reamer
+развертка
+reanimation
+реанимация
+reap
+пожинать
+reaper
+жатка
+reappear
+появляться	снова
+reapply
+использовать	повторно
+reapportion
+перераспределять
+reapportionment
+перераспределение
+reappraisal
+переоценка
+reappraise
+пересматривать
+rear
+сооружать	задняя	сторона	задний
+rear-admiral
+контр-адмирал
+rear-guard
+арьергард
+rearguard
+арьергардный
+rearm
+перевооружать
+rearrange
+перестраивать
+rearranged
+перестраивать	перестроенный
+rearrangement
+перегруппировка
+rearranging
+перестраивать	реконфигурация
+reason
+причина
+reason out
+продумать до конца
+reasonable
+разумный
+reasonably
+разумно
+reasoner
+блок рассуждений
+reasoning
+рассуждать	аргументация
+reassemble
+перебирать
+reassembly
+перебирать	переборка
+reassert
+подтверждать
+reassess
+переоценивать
+reassessment
+переоценка
+reassign
+переназначать
+reassigned
+переназначать	переназначенный
+reassigning
+переназначать	переназначение
+reassurance
+ободрение
+reassure
+успокаивать
+reassured
+успокаивать	ободрять	ободренный
+reassuring
+ободрять	ободряющий
+reauthenticating
+повторное	установление полномочий
+rebandage
+перебинтовать
+rebate
+сбавлять	скидка
+rebated
+сбавлять
+rebating
+сбавлять
+rebel
+восставать	мятежник
+rebelled
+восставать	восставший
+rebelling
+восставать
+rebellion
+восстание
+rebellious
+мятежный
+rebelliousness
+непокорность
+rebirth
+возрождение
+reboot
+перезагружать	перезагрузка
+rebooting
+перезагружать	перезагрузка
+reboring
+расточка
+reborn
+возрожденный
+rebound
+давать обратный зффект	спад
+rebuff
+дать отпор	отпор
+rebuild
+создавать вновь
+rebuilt
+ремонтировать
+rebuke
+упрекать	упрек
+rebuking
+упрекать	упрекающий
+rebus
+ребус
+rebut
+опровергать
+rebuttal
+опровержение
+rebutted
+опровергать
+rebutting
+опровергать
+recalcitrance
+непокорность
+recalcitrant
+непокорный
+recalculate
+пересчитывать
+recalculated
+пересчитывать	пересчитанный
+recalculation
+пересчет
+recall
+восстанавливать	1)учитывать	возврат	одуш)воспоминание
+recalled
+восстанавливать	1)учитывать	восстановленный
+recalling
+восстанавливать	1)учитывать	напоминание	восстанавливающий
+recant
+отрекаться от
+recapitulate
+резюмировать
+recapitulation
+резюме
+recapture
+отбивать
+recast
+приводить
+recede
+убывать
+receding
+убывать	покатый
+receipient country
+страна-получатель (помощи)	страна-бенефициарий
+receipt
+дрез)получение
+receipt book
+квитанционная книжка
+receipts
+выручка
+receipts tax
+налог с оборота
+receiptss tax
+налог с оборота
+receivable
+годный к принятию
+receive
+получать	приемник
+received
+получать	полученный
+receiver
+получатель
+receivership
+преемственность
+receiving
+получать	получающий
+receiving act
+приемный акт
+receiving state
+государство-бенефициарний	страна-получатель (помощи)
+recent
+последний
+recently
+недавно
+recept
+прием
+receptacle
+вместилище
+reception
+прием
+receptionist
+секретарша
+receptive
+восприимчивый
+receptiveness
+восприимчивость
+receptivity
+восприимчивость
+receptor
+рецептор
+recertification
+повторная	аттестация
+recess
+перерыв	каникулы
+recesses
+углубление
+recession
+экон)спад
+recessionary tendencies
+тенденция к спаду	кризисные тенденции
+recessive
+рецессивный
+recharge
+перезаряжать
+rechristen
+перекрещивать
+recidivism
+рецидивист
+recipe
+рецепт
+recipient
+получатель
+recipient countries
+страны-получатели	получающие помощь (кредиты) страны	страны резервных валют	страны бедные (с незначительными) ресурсами
+reciprocal
+обратная	величина	обратный
+reciprocal clause
+оговорка о взаимности
+reciprocal concessions
+взаимные уступки
+reciprocal contract
+двусторонняя сделка
+reciprocal principle
+принцип о взаимности
+reciprocal privileges
+равные (аналогичные, одинаковые) привилегии
+reciprocal provision
+положение о взаимности
+reciprocal value
+(#мат.) обратное значение	reciprocity	взаимность	обоюдность	взаимодействие	обмен
+reciprocate
+отплатить
+reciprocating
+отвечать	поршневой
+reciprocity
+взаимность
+recirculating
+кольцевой
+recirculation
+зацикливание
+recital
+изложение
+recitals
+изложение
+recitation
+декламация
+recitative
+речитатив
+recite
+читать
+reciter
+декламатор
+reckless
+опрометчивый
+recklessly
+неосмотрительно
+recklessness
+безрассудство
+reckon
+подсчитывать	Т)расплачиваться
+reckoning
+расчет
+reclaim
+восстанавливать	исправление
+reclaim land
+осваивать земли	восстанавливать плодородие земель (заболоченных, засоленных и т.п.)
+reclaiming
+восстанавливать	восстановление
+reclamation
+восстановление
+reclassification
+переклассификация
+recline
+полулежать
+recliner
+кресло
+recluse
+затворник
+recoating
+облицовывать	облицовка
+recognition
+опознавание
+recognize
+признавать	распознавать	1)осознавать
+recognized
+признавать	распознавать	1)осознавать	признанный
+recognizer
+распознаватель
+recognizing
+распознавать	1)осознавать	осознание
+recoil
+отскакивать	отдача
+recoilless
+безотказный
+recollect
+вспоминать
+recollection
+воспоминание
+recombination
+рекомбинация
+recommend
+рекомендовать
+recommendation
+рекомендация
+recommended
+рекомендовать	рекомендуемый
+recommending
+рекомендовать
+recommission
+ввод в строй
+recompense
+возмещать	возмещение
+recompilation
+повторная	компиляция
+recompile
+перекомпилировать
+recomplementation
+повторное	образование дополнения
+recompute
+вычислять	заново
+reconcile
+выверять	Т)примирять
+reconcile accounts
+согласовывать счета
+reconcile classifications
+сделать различные классификации сопоставимыми
+reconciliation
+примирение
+recondite
+замысловатый
+recondition
+приводить в норму
+reconditioner
+реставратор
+reconfigurability
+реконфигурируемость
+reconfigurable
+перестраиваемый
+reconfiguration
+реконфигурация
+reconfigure
+перестраивать
+reconnaissance
+рекогносцировка	разведывательный
+reconnect
+пересоединять
+reconnection
+пересоединение
+reconnoiter
+разведывать
+reconnoitre
+разведывать
+reconsider
+пересматривать
+reconsideration
+пересмотр
+reconstitute
+воен)переформировывать
+reconstitution
+воссоздание
+reconstruct
+восстанавливать
+reconstruction
+реконструкция
+reconvene
+собираться	снова
+reconverge
+сходиться
+reconvergent
+сходящийся
+reconverging
+сходиться	сходящийся
+reconversion
+обратное	преобразование
+recook
+переваривать
+record
+записывать	запись	рекорд	рекордный
+record gap
+промежуток между записями. расстояние между последовательными записями на носителе данных (обычно магнитной ленте)
+record locking
+захват записей. разновидность захвата файла (file locking), при которой запирается только та часть файла, с которой работает задача, что	позволяет нескольким задачам одновременно работать с непересекающимися участками одного файла
+record type
+запись, тип записи. в языках программирования - составной тип	данных, значения которого состоят из поименованных компонент	разных типов.	тип записи. в базах данных тип, к которому относится данная	запись
+recordable
+записываемый
+recorded
+записывать	записанный
+recorded data
+публикуемые данные
+recorded output
+учитываемый выпуск продукции
+recorded unemployment
+зарегистрированная (официально) безработица
+recorder
+регистратор
+recording
+записывать	запись
+records management
+делопроизводство
+recount
+пересчитывать	пересчет
+recoupe
+возмещать
+recoupment
+окупаемость
+recourse
+обращение за помощью
+recover
+восстанавливать
+recover damages
+взыскивать за убытки
+recover debts
+взыскивать долги
+recoverable
+исправимый
+recoverable error
+исправимая ошибка
+recovering
+восстанавливать	выздоравливающий
+recovery
+восстановление
+recreate
+воссоздавать
+recreation
+развлечение
+recreation services
+развлечения
+recreational
+развлекательный
+recreational facility
+условия для отдыха
+recrimination
+взаимное	обвинение
+recruit
+вербовать	новобранец
+recruited
+вербовать
+recruiter
+вербовщик
+recruiting
+нанимать	пополнение
+recruitment
+вербовка
+rectal
+относящийся к прямой кишке
+rectangle
+прямоугольник
+rectangular
+прямоугольный
+rectifiable
+исправимый
+rectification
+исправление
+rectified
+исправлять	исправленный
+rectifier
+выпрямитель
+rectify
+исправлять
+rectifying
+исправлять
+rectilinear
+прямолинейный
+rectitude
+праведность
+recto
+правая	страница	юрид)	распоряжение о возвращении недвижимости
+rector
+ректор
+rectoral
+всемогущий
+rectorate
+ректорат
+rectorial
+ректорский
+rectos
+правая	страница
+rectum
+прямая	кишка
+recumbent
+лежачий
+recuperate
+выздоравливать
+recuperation
+выздоровление
+recuperative
+укрепляющий
+recur
+возвращаться
+recurred
+возвращаться
+recurrence
+повторение
+recurrent
+повторный
+recurrent expenses
+текущие расходы
+recurrently
+повторно
+recurring
+возвращаться	текущий
+recurring costs
+текущие расходы
+recurring costss
+периодические расходы
+recurring debt
+текущая задолженность
+recurringly
+повторно
+recursion
+рекурсия
+recursive
+рекурсивный
+recursive call
+рекурсивное обращение. обращение к	подпрограмме из нее самой или из	вызванной ею подпрограммы
+recursive definition
+рекурсивное определеление. определение, ссылающееся на определяемый	объект. например, "идентификатор это буква или идентификатор, за которым следует буква или цифра"
+recursive descent
+рекурсивный спуск
+recursive function
+рекурсивная функция. функция, определение которой использует саму определяемую функцию
+recursive procedure
+рекурсивная процедура
+recursive subroutine
+рекурсивная подпрограмма. подпрограмма, при выполнении которой прямо	или косвенно вызывается эта же подпрограмма
+recursiveness
+рекурсивность
+recusant
+нонконформист
+recycle
+повторный	цикл
+recycled
+прошедший повторную обработку
+recycler
+устройство для переработки
+recycling crisis
+кризис рециклирования
+red
+красный
+red heat
+красное каление
+red herring
+отвлечение внимания
+red ink
+убыточный (букв. написанный красными чернилами)
+red radish
+редиска
+red tape
+канцелярщина
+red-handed
+
+red-hot
+накаленный докрасна	взбешенный	горячий
+red-letter
+
+redact
+редактировать
+redaction
+редакция
+redactional
+редакционный
+redden
+краснеть
+reddish
+красноватый
+reddishness
+красноватость
+redeclaration
+повторное	определение
+redeem
+реализовать
+redeemer
+избавитель
+redefine
+переопределять
+redefining
+переопределять	переопределение
+redefinition
+повторное	определение
+redemption
+погашение
+redemption date
+дата погашения (займа)
+redemption price
+выкупная цена	выкупной курс
+redemption value
+выкупная стоимость
+redesign
+перерабатывать
+redetermine
+переопределять
+redevelopment
+перестройка
+redhead
+рыжий
+redheaded
+рыжеволосый
+redirect
+переназначать
+redirection
+переадресация
+rediscount
+переучет	редисконт
+rediscounted
+переучтенный
+redistribute
+перераспределить
+redistribution
+перераспределение
+redline
+красная	строка
+redlining
+красная	строка
+redness
+краснота
+redo
+переделывать
+redolence
+благоухание
+redolency
+благоухание
+redolent
+душистый
+redouble
+усиливать
+redoubt
+редут
+redoubtable
+почтенный
+redound
+благоприятствовать
+redound to
+способствовать , помогать [помочь]
+redpoll
+чечетка
+redraft
+ретратта
+redrafting
+переоформление
+redraw
+перерисовывать	обновление изображения
+redrawing
+перерисовывать	перерисовка
+redress
+заглаживать	возмещение
+redskin
+краснокожий
+redstart
+горихвостка
+reduce
+уменьшать	Д)сводить
+reduced
+уменьшать	сокращенный	уменьшенный
+reduced price
+льготная цена
+reducer
+преобразователь
+reducibility
+сводимость
+reducible
+допускающий уменьшение
+reducing
+уменьшать	уменьшение	уменьшающий
+reducing balance
+амортизация методом сокращающегося остатка
+reduction
+уменьшение	редукционный
+reduction coefficient
+переводной коэффициент
+reduction machine
+редукционная машина. организация	ЭВМ, при которой программа представляет собой набор правил подстановки и выражение, подвыражения которого заменяются (редуцируются) в соответствии с правилами. правила и	подвыражения могут обрабатываться с	произвольной степенью параллелизма.	такая организация соответствует языкам логического программирования	(logical programming)
+redundancy
+избыточность
+redundancy check
+контороль за счет избыточности. способ контроля искажений элемента	данных при хранении или передаче,	при котором вместе с информацией	хранятся или передаются функционально зависящие от нее величины; повторное вычисление контрольных величин при считывании или приеме позволяет обнаружить ошибки. (horizontal redundancy check, longitudal redundancy check, vertical redundancy	check)
+redundant
+излишний
+redundant equipment
+неиспользуемое оборудование
+redundantly
+излишне
+reduplicate
+удваивать
+reduplication
+удвоение
+redwood
+секвойя
+reed
+тростник	тростниковый
+reeducation
+переучивание
+reedy
+камышовый
+reef
+риф
+reek
+вонять	Р)разить
+reeky
+дымящийся
+reel
+наматывать	бобина
+reel off
+разматывать [-мотать]	отбарабанить
+reel up
+наматывать на катушку
+reelect
+переизбирать
+reeling
+наматывать
+reenable
+восстанавливать
+reenterability
+реентерабельность
+reenterable
+реентерабельный
+reenterant
+реентерабельный
+reentrant
+повторно	входимый
+reentries
+повторный	ввод
+reentry
+вводить вторично
+reentry point
+точка повторного входа
+reequip
+переоборудовать
+reequipment
+переоборудование
+reevaluation
+переоценка
+reeve
+пропускать
+reexport
+реэкспортировать	реэкспорт
+refashion
+преобразовывать
+refectory
+столовая	артс)трапезная
+refer
+отсылать	и)В)ссылаться
+referable
+допустимый
+refered liabilities
+обязательства с продленным сроком платежа	отсроченные обязательства
+referee
+судья
+reference
+ссылаться	ссылка
+reference book
+справочник	справочная книга
+reference cycle
+базисный цикл
+reference data
+базовые (контрольные) данные
+reference date
+базисная дата (точка)
+reference language
+условный язык
+reference library
+справочная библиотека
+reference manual
+справочник, справочное описание;	справочное руководство
+reference performance
+работа в нормальном режиме
+reference period
+базовый период	отчетный период
+reference price
+справочная цена
+reference retrieval
+поиск справочной информации
+reference standard
+эталон	образец	единица измерения
+reference table
+таблица ссылок
+reference year
+базисный год
+referenced
+ссылаться	ссылочный
+referencing
+ссылаться	обращение
+referenda
+референдум
+referendum
+референдум
+referent
+референт
+referential
+справочный
+referential transparency
+отсутствие побочного эффекта
+referral
+справочный
+referred
+отсылать
+referrent
+объект ссылки
+referring
+отсылать	относящийся	относительно
+refers
+отмечать
+refill
+заполнять	снова
+refine
+обогащать
+refine on
+[у]совершенствовать
+refine upon
+[у]совершенствовать
+refined
+очищенный
+refinement
+рафинирование
+refiner
+очиститель	рафинатор
+refinery
+нефтеперегонный	завод
+refining
+рафинирование
+refit
+ремонтировать	ремонт
+reflation
+рефляция
+reflationary measures
+мероприятия по стимулированию роста
+reflationary policy
+протекционистская политика
+reflect
+отражать
+reflect on
+бросать тень на	размышлять [-ыслить] о	отражаться [-разиться] на
+reflect upon
+бросать тень на	размышлять [-ыслить] о	отражаться [-разиться] на
+reflectance
+отражательный	способность
+reflected
+отражать	отраженный
+reflecting
+отражать	отражающий
+reflection
+отражение
+reflective
+отражающий
+reflectively
+соответственно
+reflector
+рефлектор
+reflex
+рефлекс	рефлекторный
+reflexive
+рефлексивный
+reflexively
+рефлексивно
+reforge
+перековывать
+reform
+реформа
+reformat
+переформатировать
+reformation
+реформация
+reformative
+реформационный
+reformatory
+исправительный	дом
+reformatting
+переформатировать
+reformed
+исправленный
+reformer
+реформатор
+refract
+преломлять
+refracted
+преломлять	преломленный
+refraction
+преломление
+refractive
+преломляющий
+refractor
+рефрактор
+refractory
+огнеупорный
+refrain
+сдерживать	и)Р)воздерживаться
+refresh
+освежать	восстановление
+refresh buffer
+буфер изображения. буфер, в котором	изображениe хранится в виде цветового растра и из которого оно выводится на экран дисплея
+refresh rate
+частота регенерации. число воспроизведений изображения за одну секунду
+refresher
+освежитель
+refreshing
+освежать	восстановление	освежающий
+refreshingly
+освежающе
+refreshment
+восстановление
+refreshments
+освежение
+refrigerant
+хладагент
+refrigerate
+замораживать
+refrigerated
+замораживать	рефрижераторный
+refrigeration
+охлаждение
+refrigerator
+холодильник
+refuel
+дозаправлять
+refuge
+убежище
+refugee
+беженец
+refugee capital
+капитал, ищущий убежища, утекающий за границу
+refulgence
+сияние
+refulgent
+сияющий
+refulgently
+сияя
+refund
+возмещать	возмещение
+refund department
+отдел возврата покупок (в универмаге)
+refundable
+возместимый
+refunding
+возмещать	возмещение
+refurbish
+обновлять
+refurbishment
+обновление
+refusal
+отказ
+refuse
+отклонять	б)и)отказываться
+refutable
+опровержимый
+refutation
+опровержение
+refute
+опровергать
+reg
+рег
+regain
+восстанавливать
+regal
+королевский
+regale
+угощать
+regalia
+регалия
+regally
+по-царски
+regard
+считать	отношение
+regarded
+считать
+regardful
+внимательный
+regarding
+относительно
+regardless
+независимо от
+regardless of
+не обращая внимания на	не считаясь с
+regards
+считать	привет
+regatta
+регата
+regency
+регентство
+regeneracy
+регенерация
+regenerate
+регенерировать
+regenerated
+регенерировать	восстановленный
+regeneration
+регенерация
+regenerative
+регенеративный
+regenerator
+регенератор
+regent
+регент
+regicide
+цареубийство
+regime
+режим
+regimen
+режим
+regiment
+организовывать	полк	полковой
+regimental
+полковой
+regimentation
+строгая	дисциплина
+reginae
+государство
+region
+регион	инф)область
+regional
+местный
+regional interests
+региональные интересы
+regional pattern
+географическая структура	размещение	районирование
+regionalism
+регионализм
+regionalization
+разбиение на области
+register
+регистрировать	регистр
+register allocation
+распределение регистров, назначение	регистров. определение соответствия	регистров процессора и обрабатываемых данных; выполняется транслятором или, при программировании на языке ассемблера, программистом
+register capacity
+разрядность регистра. число информационных битов в регистре
+register file
+файл регистров, массив регистров.	набор рабочих регистров процессора
+register office
+регистратура	регистрационное бюро
+register ton
+регистровая тонна
+register variable
+регистровая переменная. в языке си	- переменная, для которой транслятор выделяет регистр процессора, а	не ячейку оперативной памяти
+registered
+регистрировать	зарегистрированный
+registered capital
+уставный капитал
+registered mail
+заказное почтовое отправление
+registered securitys
+именные ценные бумаги
+registered unemployment
+официальная безработица	официальное число безработных
+registrar
+архивариус
+registration
+регистрация	регистрационный
+registration fee
+регистрационная (заявочная) пошлина
+registry
+регистратура
+regress
+регрессировать	регресс
+regression
+регрессия
+regression analysis
+регрессионный анализ	(#мат.) анализ методом регрессии
+regression equation
+(#мат.) уравнение регрессии
+regressive
+регрессный
+regressive levys
+регрессивные налоги (сборы)
+regressive tax
+налогообложение по убывающей шкале
+regressor
+регрессор
+regret
+о	сожаление
+regretful
+полный сожаления
+regretfully
+с сожалением
+regrettable
+прискорбный
+regrettably
+к сожалению
+regrind
+перетачивать	переточка
+regroup
+перегруппировывать
+regrouping
+перегруппировывать	перегруппировка
+regular
+регулярный
+regular entity
+регулярная сущность, регулярный объект. объект, существование которого не зависит от существования других объектов
+regular establishment
+штатные сотрудники
+regular expression
+регулярное выражение
+regular grammar
+регулярная грамматика, автоматная	грамматика, грамматика с конечным	числом состояний. грамматика, все	правила которой имеют вид A -> B, A	-> xB или A -> x, где A и B - нетерминальные символы, а x - терминальный символ. класс языков, задаваемых регулярными грамматиками, совпадает с классом языков, распознаваемых конечными автоматами
+regular labour
+постоянная рабочая сила
+regular labourer
+постоянный рабочий
+regular language
+регулярный язык
+regularity
+закономерность
+regularize
+упорядочивать
+regularizing
+упорядочивать	стандартизация
+regularly
+обычно
+regulate
+регулировать
+regulated
+регулировать
+regulating
+регулировать	регулирующий
+regulation
+регулирование	уставной
+regulations
+норма
+regulative
+регулирующий
+regulator
+регулятор	законодатель
+regulatory
+полномочный
+regulatory agencys
+органы государственного регулирования
+regurgitate
+изрыгать
+regurgitation
+изрыгание
+rehab
+реабилитация
+rehabbed
+реабилитировать
+rehabber
+реабилитатор
+rehabbing
+реабилитировать
+rehabilitate
+реабилитировать
+rehabilitation
+реабилитация
+rehabilitative
+реабилитационный
+rehabs
+реабилитировать
+rehash
+повторение
+rehearsal
+репетиция
+rehearse
+репетировать
+reheat
+подогревать
+rei
+юрид)ответчик
+reich
+рейх
+reichstag
+рейхстаг
+reichswehr
+рейхсвер
+reign
+господствовать	правление
+reigning
+царствующий
+reimbursable
+возместимый
+reimburse
+возмещать
+reimbursed
+возмещать
+reimbursement
+возмещение
+reimport
+реимпортировать	реимпорт
+reimportation
+реимпорт
+rein
+осаживать	повод
+reincarnate
+перевоплощать
+reincarnation
+перевоплощение
+reindeer
+северный	олень
+reinforce
+усиливать
+reinforced
+усиливать	укрепленный
+reinforcement
+усиление
+reinitialize
+инициализировать	вновь
+reinstate
+восстанавливать
+reinstatement
+восстановление
+reinsurance
+перстраховка
+reinsure
+перестраховывать
+reintroduction
+нововведение
+reinvest
+вкладывать	снова
+reinvestment
+реинвестиция
+reinvestment allowance
+льготы при реинвестировании (прибыли)
+reinvestment allowances
+льготы по реинвестированию (прибыли)
+reissue
+выпускать	повторно
+reiterate
+повторять
+reiteration
+повторение
+reiterative
+повторяющийся
+reject
+отвергать	отказ
+reject goods
+отказаться от товара	забраковать товар
+rejected
+отвергать	отвергнутый
+rejected goods
+бракованный (отсортированный, отброшенный) товар
+rejecting
+отвергать
+rejection
+отказ	отклонение
+rejoice
+радоваться
+rejoicing
+ликование
+rejoin
+присоединяться к
+rejoinder
+возражение
+rejuvenate
+омолаживать
+rejuvenation
+омоложение
+rekey
+перепечатывать
+rekeying
+перепечатывать	повторный	ввод с клавиатуры	
+relabel
+переразмечать
+relabeling
+переразмечать	смена меток
+relapse
+впадать	снова	рецидив
+relapsing
+повторный
+relate
+связывать
+related
+связывать	связанный
+relatedness
+связанность
+relation
+отношение
+relational
+реляционный
+relational algebra
+реляционная алгебра. язык для описания операций над отношениями (relation). основные операции реляционной алгебры: проекция, соединение,	пересечение и объединение. язык запросов к реляционной базе данных,	основанный на реляционной алгебре,	позволяет задать последовательность	операций над отношениями, которая	приводит к ответу на запрос
+relational calculus
+реляционное исчисление. декларативный язык для описания отношений через другие отношения; является основой языков запросов к реляционным	базам данных. языки запросов, основанные на реляционном исчислении,	позволяют описать поисковое условие, не задавая последовательности	необходимых для ответа действий
+relational language
+реляционный язык. язык, используемый в реляционных базах данных для	описания данных и запросов
+relational operator
+операция сравнения. бинарная операция, вырабатывающая логическое значение;	реляционная операция, операция	реляционной алгебры
+relationship
+отношение
+relationships
+связь
+relative
+относительный
+relative address
+относительный адрес, смещение. адрес, заданный относительно некоторой	базы
+relative addressing
+относительная адресация
+relative command
+относительная команда. в машинной	графике - команда отображения, параметры которой интерпретируются как	координаты относительно предыдущей	точки
+relative coordinate
+относительные координаты. координаты, задающие положение точки относительно некоторой другой точки
+relative costs
+сравнительные издержки производства
+relative efficiency
+относительная (сравнительная) эффективность
+relative error
+относительная погрешность
+relative file
+файл прямого доступа
+relative indicators
+относительные показатели
+relative pathname
+относительное составное имя. составное имя файла или каталога, префикс которого указывает путь от текущего каталога; в частности, для файлов текущего каталога (current directory) относительное составное	имя может иметь пустой префикс
+relative prices
+относительные цены
+relative share
+удельный вес
+relative vector
+относительный вектор. вектор, конечная точка которого задана смещением относительно начальной точки
+relatively
+сравнительно
+relatives
+родственник
+relativity
+относительность
+relax
+ослаблять	и)ослабевать	непринужденный
+relaxation
+релаксация
+relay
+реле	релейный
+relayout
+изменение топологии
+relearn
+переучиваться
+releasable debt
+отчуждаемый долг
+release
+выпускать	выпуск	инф)версия
+released
+выпускать	выпущенный
+releasing
+выпускать	освобождение
+relegate
+отсылать
+relent
+смягчаться
+relentless
+неослабевающий
+relentlessly
+неумолимо
+relentlessness
+неотступность
+relevance
+релевантность
+relevant
+важный	соответствующий	актуальный	релевантный
+reliability
+надежность
+reliable
+надежный
+reliable data
+достоверные данные
+reliable figures
+достоверные данные
+reliable software
+надежное программное обеспечение
+reliably
+надежно
+reliagram
+дейтаграмма надежности
+reliance
+доверие
+reliant
+полагаться
+relic
+реликт
+relict
+реликт	юрид)вдова	реликтовый
+reliction
+отступление воды
+relief
+облегчение	смена	помощь	пособие	артс)рельеф	рельефный
+relief cat
+сокращение пособия
+relief fund
+фонд помощи
+relief works
+общественные работы для безработных
+relievable
+исправимый
+relieve
+облегчать	2)освобождать
+relift
+перегруппировка	передислокация
+religion
+религия
+religiosity
+религиозность
+religious
+религиозный
+religiously
+свято
+relink
+перекомпоновать
+relinquish
+освобождать
+relish
+смаковать	приправа
+relive
+переживать	снова
+reload
+перезагружать	перезагрузка
+reloading
+перезагружать	перезагрузка
+relocatable
+переместимый
+relocatable address
+настраиваемый адрес. адрес в загрузочном модуле, который изменяется	во время загрузки при настройке на	конкретное положение программы в	оперативной памяти
+relocatable loader
+настраивающий загрузчик
+relocatable subroutine
+переместимая подпрограмма, настраиваемая подпрограмма
+relocate
+перемещать
+relocating loader
+настраивающий загрузчик
+relocation
+перемещение
+relocation dictionary
+таблица настройки.	"relocation"	factor константа настройки. величина, прибавляемая к настраиваемым	адресам при настройке. "relocation"	table таблица настройки. часть загрузочного или объектного модуля,	содержащая список адресов, которые	должны быть изменены при настройке,	и информацию для этого изменения
+relocator
+средство перемещения
+relog
+перерегистрация
+reluctance
+противодействие
+reluctant
+сопротивляющийся
+rely
+доверять	9)полагаться
+rely on
+полагаться [-ложиться] на , надеяться на
+rely upon
+полагаться [-ложиться] на , надеяться на
+remade
+переделывать
+remain
+оставаться
+remain flat
+оставаться на одном уровне
+remainder
+разность	остаток
+remained
+оставаться	оставшийся
+remaining
+оставаться	остальное	остальной
+remains
+оставаться	остаток
+remake
+переделывать
+remand
+отсылать
+remanence
+остаточная	намагниченность
+remark
+замечать	замечание
+remarkable
+замечательно	замечательный
+remarkably
+в высшей степени
+remarketing
+ремаркетинг
+remarry
+вступать снова в брак
+rematch
+матч-реванш
+remeasure
+перемеривать
+remediable
+поправимый
+remedial
+ремонтный
+remedial maintenance
+ремонт
+remediation
+излечение
+remedy
+исправлять	средство
+remember
+помнить
+remembrance
+память
+remind
+напоминать
+reminder
+напоминание
+reminisce
+вспоминать
+reminiscence
+воспоминание
+reminiscent
+напоминающий
+remiss
+нерадивый
+remissible
+простительный
+remission
+прощение	отпущение	мед)ремиссия
+remit
+пересылать	отложить	простить
+remittance
+банковский	перевод
+remittance schedule
+правила перевода прибылей 9денежных средств) за границу
+remittance shedule
+правила перевода прибылей (денежных средств) за границу
+remitted
+пересылать	отложить	простить	отправленный	отложенный
+remittee
+получатель перевода
+remitter
+ремитент	переводоотправитель
+remitting
+передавать	перевод
+remmediation
+очистка
+remnant
+остаток
+remodel
+переделывать
+remodeled
+переделывать	переоборудованный
+remodeling
+переделывать	переоборудование
+remold
+перековывать
+remonstrance
+увещание
+remonstrate
+увещевать
+remorse
+раскаяние
+remorseful
+полный раскаяния
+remorseless
+безжалостный
+remote
+дистанционный
+remote console
+удаленный терминал
+remote control
+дистанционное управление
+remote debugging
+дистанционная отладка
+remote file
+дистанционный файл. файл, физически	расположенный на другом узле сети	ЭВМ
+remote host
+удаленная главная ЭВМ
+remote job
+задание, введеное с удаленного терминала
+remote terminal
+удаленный терминал. терминал, подключенный к вычислительной системе	по линии связи, обычно с небольшой	скоростью передачи данных
+remote user
+удаленный пользователь, дистанционный пользователь. пользователь, работающий на удаленном терминале	(remote terminal)
+remoteness
+отдаленность
+remotest
+дальнейший
+remount
+садиться	снова
+removable
+сменный
+removable disk
+съемный диск, сменный диск. жесткий	диск или Winchester disk
+removal
+удаление
+removal van
+фургон для перевоза мебели
+remove
+удалять	удаление
+removed
+удалять	удаленный
+remover
+устройство удаления
+removing
+удалять	удаление
+remunerate
+вознаграждать
+remuneration
+вознаграждение
+remuneration assets
+выгодные	доходные формы вложений
+remunerative
+выгодный
+remunerative business
+выгодная сделка	доходное предприятие
+remunerative price
+выгодная цена	цена обеспечивающая прибыль
+remunerative work
+работа за определенную плату	оплачиваемый труд
+renaissance
+ренессанс
+renal
+почечный
+rename
+переименовывать
+renamed
+переименовывать	переименованный
+renaming
+переименовывать	переименование
+renascence
+возрождение
+renascent
+возрождающийся
+rend
+рвать
+render
+предоставлять
+render homage
+оказывать почтение (to *Д)
+rendered
+представлять
+rendering
+представлять	предоставление
+rendezvous
+рандеву
+rendezvousing
+организация рандеву
+rendition
+преобразование	перевод	выдача
+rendition table
+таблица соответствия, таблица преобразования
+renegade
+отщепенец
+renege
+нарушать
+renew
+заменять	возобновлять	обновлять
+renewal
+восстановление
+renewal schemes
+планы восстановления
+rennet
+сычуг
+rennin
+сычужина
+renounce
+отрекаться от
+renovate
+обновлять
+renovation
+обновление
+renown
+известный
+renowned
+знаменитый
+rent
+арендовать	аренда
+rent control
+контроль над квартирной платой
+rent strike
+коллективный отказ платить квартирную плату	"забастовка" квартиросъемщиков
+rent-free
+без уплаты арендной платы
+rental
+арендная	плата
+rental agency
+фирма по прокату	фирма по аренде помещений
+rental rate
+ставка арендной платы	тариф за прокат
+rental rates
+ставки арендной платы	тариф за прокат
+rental value
+расчетная (условная) арендная плата
+rentaphone
+телефон напрокат
+rented
+арендовать	арендованный
+rented farm
+арендованная ферма
+rented land
+арендуемая земля	земля, сданная в аренду
+renter
+арендатор	арендодатель
+renting
+арендовать	аренда	арендуемый
+renumber
+перенумеровать
+renunciation
+отречение
+reoccur
+повторяться
+reopen
+открывать	вновь
+reorder
+преобразовывать
+reordering
+преобразовывать	переупорядочение
+reorganization
+реорганизация
+reorganize
+реорганизовывать
+rep
+реп	повтор
+repackage
+перепаковывать	распаковка
+repacking
+перепаковывать	переупаковка
+repaint
+перекрашивать
+repair
+исправлять	ремонт
+repair bill
+счет за ремонт	стоимость ремонта
+repair depot
+ремонтная база
+repair parts
+запасные части
+repair shop
+ремонтный цех
+repair to
+отправляться [-авиться] в
+repairable
+исправимый
+repaired
+исправлять	исправленный
+repairing shop
+ремонтная мастерская
+repairman
+монтер
+reparation
+возмещение
+reparations
+репарация
+repast
+еда
+repatriate
+репатриировать	репатриант
+repatriate dividends
+вывозить (перевозить за границу) дивиденты
+repatriate profit
+вывозить (перевозить за границу) прибыли
+repatriated bond
+выкупленные облигации
+repatriated bonds
+выкупленные облигации
+repatriation
+репатриация
+repatriation rights
+право на репатриацию иностранных капиталовложений
+repay
+возвращать
+repayment
+возмещение
+repeal
+аннулировать	отмена
+repeat
+повторять	повторение
+repeat-statement
+оператор цикла с условием завершения
+repeatability
+повторяемость
+repeated
+повторять	регулярный
+repeated unemployment
+повторная безработица
+repeatedly
+многократно
+repeater
+повторитель
+repeating
+повторять	повторяющийся
+repel
+отталкивать
+repellent
+средство от насекомых
+repent
+раскаиваться
+repentance
+покаяние
+repentant
+кающийся
+repercussion
+последствие
+reperforator
+реперфоратор
+repertoire
+набор
+repertory
+набор
+repetition
+повторение
+repetition instruction
+повторяемая команда; команда с повторителем
+repetitious
+повторяющийся
+repetitive
+повторный
+repetitive addressing
+адресация с повторением адреса. разновидность неявной адресации, при	которой адрес берется из предыдущей	команды
+repetitive statement
+оператор цикла
+repholster
+перебивать
+rephrase
+перефразировать
+replace
+заменять	замена
+replaceable
+заменимый
+replaced
+заменять	замененный
+replacement
+замена
+replacement costs
+восстановительная стоимость
+replacement cycles
+циклы возмещения капитала
+replacement funds
+фонды замещения капитала
+replacement investment
+инвестиции для замены выбывающего капитала (оборудования)
+replacement parts
+запасные части
+replacement reserve
+фонд замещения
+replacing
+заменять	заменяющий
+replay
+переигрывать	переигровка
+replenish
+пополнять
+replete
+изобилующий
+replica
+копия
+replicate
+копировать
+replication
+копирование
+replied
+отвечать
+reply
+отвечать	ответ
+replying
+отвечать на
+report
+сообщать	сообщение
+report generator
+генератор отчетов. программа распечатки данных в формате, задаваемом	пользователем
+reported
+сообщать	сообщают	зарегистрированный
+reported data
+сообщенные данные
+reportedly
+по слухам
+reporter
+репортер
+reporting
+сообщать	отчет	репортаж	отчетность
+reporting form
+форма отчета
+reporting period
+отчетный период
+reporting system
+система учета	система отчетности	система сбора информации
+reporting unit
+(#стат.) единица наблюдения	отчетная единица
+reporting year
+отчетный год
+repose
+отдыхать	отдохновение
+repositary
+хранилище
+repository
+хранилище
+reprehensible
+предосудительный
+reprepare
+перестраивать
+repreparing
+перестраивать	перестройка
+represent
+представлять
+representation
+представление
+representational
+представительный
+representationism
+репрезентационизм
+representations
+представительство
+representative
+перс)представитель	представительный
+representative data
+репрезентативные данные
+representative sample
+репрезентативный (представительная) выборка
+represented
+представлять	представленный
+representing
+представлять	представляющий
+repress
+подавлять
+repressed
+подавлять	подавленный
+repressing
+подавлять	подавляющий
+repression
+репрессия	подавление
+repressive
+репрессивный
+reprieve
+отсрочка
+reprimand
+выговаривать	выговор
+reprimanded
+выговаривать
+reprint
+перепечатывать	перепечатка
+reprinted
+перепечатывать	перепечатанный
+reprinting
+перепечатывать	перепечатка
+reprisal
+ответная	мера
+reprise
+реприза
+reproach
+упрекать	осуждение
+reproachful
+укоризненный
+reprobate
+распутник	распутный
+reprobation
+осуждение
+reproduce
+воспроизводить
+reproduced
+воспроизводить	воспроизведенный
+reproducer
+реперфоратор
+reproducible
+воспроизводимый
+reproducing
+воспроизводить	репродуцирование
+reproduction
+воспроизведение
+reproduction process
+процесс воспроизводства
+reproduction rate
+коэффициент воспроизводства (населения)
+reproductive
+воспроизводительный
+reproductor
+реперфоратор
+reprogram
+перепрограммировать
+reprogrammable
+перепрограммируемый
+reprogramming
+перепрограммировать	перестройка программы	
+reprompt
+повторять подсказку
+reproof
+выговор
+reprove
+упрекать
+reptile
+рептилия
+republic
+республика	республиканский
+republican
+республиканский
+republication
+переиздание
+republish
+переиздавать
+repudiate
+отрекаться
+repudiation
+отречение
+repugnance
+отвращение
+repugnant
+отвратительный
+repulse
+отвергать	отталкивать	отпор
+repulsion
+отвращение
+repulsive
+отталкивающий
+repurchase
+перекупать
+reputable
+солидный
+reputation
+репутация
+repute
+репутация
+reputed
+предполагаемый
+reputedly
+по общему мнению,
+request
+просить	инф)запрашивать	просьба	инф)запрос
+requester
+запрашивающая	сторона	инф)=
+requeue
+возвращать в очередь
+requiem
+реквием
+require
+требовать
+required
+требовать	требуется	необходимый
+required parameter
+обязательный параметр
+required space
+обязательный пробел. в системах подготовки текстов - символ, отображаемый как пробел, но обрабатываемый	при форматировании как буква, а не	как разделитель слов
+requirement
+требование
+requirement specification
+техническое задание.	описание требований к программному средству
+requiry
+запрос
+requisite
+необходимый
+requisite capital
+потребный капитал
+requisition
+реквизиция
+requital
+взаимность
+requite
+отплачивать
+reran
+перезапускать
+reread
+перечитывать
+rereading
+перечитывать	повторное	считывание	
+rerecord
+перезаписывать	перезапись
+rerecording
+перезаписывать	перезапись
+rerouting
+повторный	выбор маршрута
+rerun
+перезапускать	перезапуск
+resale
+перепродавать	перепродажа
+resale price
+цена перепродажи	цена подержанного товара
+resaler
+перепродавец
+resample
+восстанавливать форму квантованного сигнала
+rescanning
+повторный	просмотр
+reschedule
+переупорядочивать
+reschedule interval
+период переупорядочения (очереди)
+rescind
+аннулировать
+rescission
+аннулирование
+rescue
+спасать	освобождение
+rescue dump
+полный дамп. запись на внешний носитель состояния памяти, содержимого	регистров процессора и другой информации, необходимой для возобновления выполнения задачи
+rescue point
+контрольная точка
+rescued
+спасать	освобожденный
+rescuer
+спаситель
+rescuing
+спасать	освобождение
+research
+исследовать	исследование	научно-исследовательский
+research grant
+субсидия на проведение исследовательских работ (научных	исследований)
+research project
+научно-исследовательский проект	научно-исследовательская работа
+researched
+исследовать	обоснованный
+researcher
+исследователь
+resection
+резекция
+reseek
+возвращать	повторный	поиск
+resell
+перепродавать
+reseller
+перекупщик
+resemblance
+сходство
+resemble
+иметь сходство с
+resend
+	передавать повторно
+resending
+отправлять	повторно	повторная	отправка	повторный
+resent
+возмущаться
+resentful
+обиженный
+resentment
+негодование
+reservation
+броня	резервация	оговорка
+reservations
+резервирование
+reserve
+резервировать	резерв	резервный
+reserve allocations
+выделение резервных средств	выделение средств в резерв
+reserve balance
+остатки (баланс) резервов
+reserve balances
+остатки (баланс) резервов
+reserve capacity
+резервная (запасная) мощность
+reserve capacityies
+резервные мощности
+reserve capital
+резервный капитал
+reserve currency
+резервная валюта
+reserve fund
+резервный фонд	запасной капитал
+reserve funds
+резервные фонды
+reserve holdings
+золотовалютные авуары
+reserve price
+резервная плата
+reserve ratio
+валютное покрытие импорта	золотовалютные резервы в процентах к импорту
+reserve stocks
+страховые запасы
+reserved
+резервировать	зарезервированный
+reserved code
+зарезервированная команда, запрещенная команда
+reserved instruction
+зарезервированная команда, запрещенная команда. машинная команда, код	которой не входит в систему команд
+reserved word
+зарезервированное слово, служебное	слово. в языках программирования последовательность букв, которая не	может использоваться в качестве идентификатора, так как имеет специальное назначение в языке, например,	является частью синтаксической конструкции
+reservoir
+резервуар
+reset
+восстанавливать	сброс
+reset button
+кнопка сброса; кнопка перезапуска.	кнопка, нажатие которой перезапускает систему
+resetability
+восстанавливаемость
+resets
+восстанавливать	инф)сбрасывать
+resettle
+переселять
+resettlement
+переселение
+reshape
+восстанавливать форму
+reshaper
+формирователь
+reshoot
+переснимать
+reshuffle
+перетасовывать
+reside
+находиться
+reside in
+быть присущим
+resided
+находиться
+residence
+резиденция
+resident
+резидент	резидентный
+resident abroad
+временно проживающий за границей
+resident alien
+иностранец-резидент	иностранец, проживающий в данной стране
+resident company
+компания-резидент
+resident compiler
+резидентный транслятор. транслятор,	постоянно находящийся в оперативной	памяти
+resident executive
+резидентная операционная система.	операционная система, постоянно располагающаяся в оперативной памяти
+resident library
+резидентная библиотека. группа загруженных в оперативную память подпрограмм, к которым могут обращаться	другие программы
+resident population
+постоянное население
+resident software
+резидентная программа
+residential
+резидентный
+residential building
+жилищное строительство	жилой дом	жилое здание
+residential construction
+жилищное строительство
+residential land
+земля, пригодная под жилую застройку	земля под жилыми строениями
+residential quarters
+жилые районы (квартиры)	резиденция
+residential rental
+квартирная плата	арендная плата за жилье
+residing
+находиться	проживать	находящийся
+residual
+остаток	остаточный
+residual demand
+остаточный спрос
+residuary
+оставшийся
+residue
+остаток
+residuum
+остаток
+resign
+уходить в отставку
+resignation
+отставка
+resilience
+эластичность
+resilient
+упругий
+resin
+смолить	смола
+resinate
+резинат
+resinous
+смолистый
+resisitivity
+удельное	сопротивление
+resist
+сопротивляться	противостоять
+resistance
+сопротивление
+resister
+резистор
+resistless
+непреодолимый
+resistor
+резистор
+resize
+менять размеры
+resold
+перепродавать
+resolute
+решительный
+resolution
+решение	вид	И)резолюция	и)	разрешающая	способность
+resolution error
+ошибка в результате недостаточной	разрешающей способности или разрядности
+resolve
+решать
+resolve on
+решаться [-шиться] на
+resolve upon
+решаться [-шиться] на
+resolved
+решать	разрешенный
+resolving
+решать	разрешение	разрешающий
+resonance
+резонанс
+resonant
+звучный
+resonate
+резонировать
+resonator
+резонатор
+resort
+обращаться	курорт	курортный
+resort to
+прибегать [-егнуть] к	часто посещать
+resound
+резонировать
+resounding
+резонировать	резонирующий
+resource
+ресурс
+resource allocation
+распределение ресурсов
+resource development
+освоение природных ресурсов, разработка природных ресурсов
+resource endowment
+обеспеченность ресурсами
+resource industry
+горнодобывающая промышленность
+resource sharing
+совместное использование ресурса
+resourceful
+находчивый
+resourcefulness
+находчивость
+resources endow
+обеспеченность ресурсами
+respect
+уважать	отношение
+respectability
+респектабельность
+respectable
+приличный	порядочный
+respected
+уважать	уважаемый
+respectful
+почтительный	вежливый
+respectfully
+с уважением
+respecting
+относительно
+respective
+соответствующий
+respectively
+соответственно
+respects
+уважать	привет
+respiration
+дыхание
+respirator
+респиратор
+respiratory
+респиративный
+respire
+дышать
+respite
+передышка
+respite days
+льготные дни
+resplendence
+блеск
+resplendent
+блистательный
+respond
+отвечать	В)реагировать	ответ
+respond to
+реагировать на	отзываться [отозваться] на
+respondent
+респондент
+response
+ответ
+response time
+время ответа, время реакции. интервал между нажатием на клавишу и получением первого знака ответа; в	сети передачи данных - интервал между окончанием ввода сообщения и	началом вывода ответного сообщения
+responsibilities
+обязанность
+responsibility
+ответственность
+responsible
+ответственный
+responsive
+отзывчивый
+responsiveness
+ответный	реакция
+rest
+ставить	и)отдыхать	П)лежать	отдых	остальной
+rest of
+остаток	остальные	сальдо
+rest on
+основываться [-оваться] на
+rest upon
+основываться [-оваться] на
+restart
+перезапускать	перезапуск
+restart point
+точка возобновления. адрес, с которого продолжается выполнение программы после аварийного прерывания
+restartable
+прерываемый
+restartable instruction
+прерываемая команда. команда, выполнение которой может быть приостановлено при возникновении прерывания, и продолжено после обработки	прерывания
+restate
+заявлять	вновь
+restaurant
+ресторан
+rested
+оставаться	отдохнувший
+resting
+отдыхать	отдых
+restitution
+восстановление
+restive
+беспокойный
+restless
+беспокойный
+restlessness
+беспокойство
+restorability
+восстанавливаемость
+restoration
+восстановление
+restorative
+закрепитель	укрепляющий
+restore
+восстанавливать	восстановление
+restored
+восстанавливать	восстановленный
+restorer
+восстановитель
+restrain
+удерживать
+restrained
+удерживать	ограниченный
+restraining
+удерживать	ограничивающий
+restraint
+ограничение
+restrict
+ограничивать
+restricted
+ограничивать	ограниченный
+restricted data
+защищенные данные; информация с ограниченным доступом. данные (файл,	запись, часть базы данных), доступ	к которым разрешен только части пользователей
+restricted type
+ограниченный тип, строгий тип. приватный тип (private type) данных,	для переменных которого запрещены	операции присваивания и сравнения	на равенство
+restriction
+ограничение
+restrictive
+ограничительный
+restrictive clause
+ограничительная оговорка
+restrictive condition
+стеснительное условие
+restrictiveness
+ограничительность
+restructure
+перестраивать
+restructuring
+перестраивать	реструктурирование
+resubordinate
+воен)переподчинять
+result
+происходить	результат
+result address
+адрес результата. адрес, по которому записывается значение результата	операции
+result in
+приводить [-вести] к
+resultant
+равнодействующий
+resulting
+проистекать	результирующий
+resulting flows
+результативные потоки
+resume
+продолжать	резюме	итоговый
+resumes
+продолжать	итог
+resumption
+возобновление
+resurgence
+возрождение
+resurrect
+воскрешать
+resurrection
+воскресение
+resuscitate
+оживлять
+resuscitation
+реанимация
+resv
+резерв
+retail
+продавать в розницу	розница	инф)перераспределение	розничный	инф)перераспределенный
+retail business
+розничная торговля
+retail charges
+розничная накидка (наценка)
+retail goods
+розничные товары
+retail margin
+надбавка в розничной торговле	прибыль в розничной торговле
+retail market
+розничный рынок
+retail price
+розничная цена
+retail sale
+розничная продажа
+retail sales
+товарооборот розничной торговли
+retail store
+розничный магазин
+retail trade
+розничная торговля
+retailer
+розничный	торговец
+retailers
+розничный	торговля
+retailing charges
+розничные торговые наценки
+retain
+сохранять	удерживать
+retained
+удерживать	удержанный
+retained earnings
+нераспределенные доходы	доходы, удерживаемые на предприятии
+retained import
+импорт за минусом реэкспорта
+retainer
+гонорар
+retaining
+удерживать	удерживающий
+retaining fee
+предварительный гонорар (юрисконсульту)
+retake
+отбивать
+retaliate
+отплачивать
+retaliation
+отплата
+retaliatory
+ответный
+retard
+задерживать
+retardation
+замедление
+retarded
+задерживать	отсталый
+retarget
+перенастраивать
+retch
+рвать
+retching
+рвота
+retention
+членство
+retentive
+цепкий
+retentivity
+остаточная	намагниченность
+retest
+тестировать повторно	повторное	испытание
+rethought
+пересматривать
+reticent
+сдержанный
+reticle
+сетка
+reticular
+сетчатый
+retie
+перевязывать
+retighten
+перетягивать
+retiming
+синхронизация
+retina
+сетчатка
+retinue
+свита
+retire
+уходить в отставку
+retired
+уходить в отставку	отставной
+retired pay
+пенсия
+retiree
+пенсионер
+retirement
+отставка	пенсионный
+retirement allowance
+пенсия
+retirement benefit
+выходное пособие	пенсия
+retirement pay
+пенсия (вознаграждение) за выслугу лет
+retirement pension
+пенсия (по старости)
+retooling
+переоборудование
+retort
+реторта
+retouch
+ретушировать
+retoucher
+ретушер
+retouching
+ретушь
+retrace
+возвращаться
+retracing
+возвращаться	повторная	трассировка	
+retract
+втягивать
+retraction
+опровержение	стягивающий
+retrain
+переучивать
+retrained
+переучивать	переученный
+retraining
+обучать	переподготовка
+retraining grants
+пособия на переподготовку
+retransmission
+повторная	передача
+retransmit
+передавать	повторно
+retreat
+отступать	отступление
+retrench
+экономить
+retrial
+повторное	слушание дела
+retribution
+возмездие
+retrieval
+поиск
+retrieve
+извлекать
+retriever
+охотничья	собака
+retrieving
+извлекать	поиск
+retroactive
+обратный
+retrofit
+подгонять	переделка
+retrofitting
+подгонять	подгонка
+retrograde
+обратный
+retrogress
+регрессировать
+retrogression
+регрессия
+retrogressive
+регрессивный
+retrospection
+ретроспекция
+retrospective
+ретроспективный
+retrospective balance
+отчетный баланс
+retry
+делать новую попытку	повторная	попытка
+return
+возвращать	обратный	возврат
+return address
+адрес возврата. адрес, указывающий	точку возврата в вызывающей программе. адрес возврата записывается в	регистр или на стек при вызове подпрограммы
+return cargo
+обратный груз
+return code
+код возврата, код завершения
+return fare
+плата за проезд туда и обратно
+return instruction
+команда возврата. команда перехода,	осуществляющая выход из подпрограммы и возврат в вызвавшую программу
+return key
+клавиша "возврат каретки"
+return ticket
+обратный билет
+returnable
+подлежащий возврату
+returned
+возвращать
+returns
+возвращать	возврат	выручка
+retype
+перепечатывать	повторный	набор
+reuben
+бутерброд
+reunification
+воссоединение
+reunion
+встреча
+reunite
+воссоединять
+reunited
+воссоединять	воссоединенный
+reus
+юрид)ответчик
+reusability
+возможность повторного использования
+reusable
+многократно	используемый
+reuse
+использовать многократно
+reuter
+рейтер
+revalorization
+ревалоризация
+revaluation
+ревальвация
+revalue
+переоценивать
+revamp
+переделывать
+revamping
+переделывать	переоборудование
+reveal
+показывать	обнаруживать
+revealed
+обнаруживать
+reveille
+побудка
+revel
+пировать
+revelation
+раскрытие	библ)апокалипсис
+reveler
+кутила
+reveller
+кутила
+revelry
+веселье
+revenge
+месть
+revengeful
+мстительный
+revenue
+доход	доходный
+revenue account
+счет доходов
+revenue board
+департамент государственных сборов
+revenue bonds
+облигации, приносящие доход
+revenue curve
+кривая доходов
+revenue duty
+фискальная пошлина
+revenue office
+департамент государственных сборов
+revenue officer
+таможенный чиновник	налоговый инспектор
+revenue stamp
+гербовая марка
+revenue tariff
+фискальный тариф (пошлина)
+revenues
+поступление
+reverberate
+реверберировать
+reverbration
+реверберация
+revere
+почитать
+reverence
+почтение
+reverend
+преподобие
+reverent
+почтительный
+reverie
+мечтательность
+reversal
+изменение	конт)отмена
+reverse
+возобновлять	реверс	обратный
+reverse assembler
+дисассемблер (disassembler)
+reverse engineering
+"переконструирование" (патентное право)
+reverse execution
+обратное выполнение. имитация выполнения программы от точки останова	или конца программы к началу. для	обеспечения обратного выполнения	при каждом присваивании значения	переменной сохраняется ее старое	значение. при обратном выполнении	переменные восстанавливают сохраненные значения
+reverse index
+обратный индекс, инвертированный	список.	перемещение текущей позиции вверх (в обработке текста)
+reverse preferences
+ответные преференции
+reverser
+инвертор
+reversibility
+обратимость
+reversible
+обратимый
+reversion
+реверсия
+revert
+возвращать
+revet
+облицовывать
+revetment
+облицовка
+review
+просматривать	обзор
+reviewer
+рецензент
+reviewing
+просматривать	просмотр
+revile
+поносить
+revise
+проверять	П)пересматривать	сверка
+revised
+проверять	П)пересматривать	пересмотренный
+reviser
+ревизионный	корректор
+revising
+пересматривать	пересмотр
+revision
+исправленное	издание
+revisionism
+ревизионизм
+revisionist
+ревизионист	ревизионистский
+revisions
+исправление
+revisit
+посещать вновь
+revisory
+ревизионный
+revitalize
+оживлять
+revival
+оживление
+revive
+восстанавливать
+revocable
+возвратный
+revocation
+ревокация
+revoke
+отменять
+revoked
+отменять
+revoking
+отменять
+revolt
+восставать	мятеж
+revolting
+восставать	отвратительный
+revolution
+революция	оборот
+revolutionary
+революционер	революционный
+revolutionize
+революционизировать
+revolve
+вращаться
+revolver
+револьвер
+revolving
+вращаться	вращающийся	экон)возобновляемый
+revolving capital
+обращающийся капитал
+revolving credit
+автоматически возобновляемый кредит
+revolving fund
+оборотный фонд
+revue
+обозрение
+revulsion
+отвращение
+reward
+награждать	вознаграждение
+rewarding
+награждать	полезный
+rewind
+перематывать	перемотка
+rewinding
+перематывать	перемотка
+rewiring
+перемонтаж
+reword
+перефразировать
+rework
+перерабатывать	доработка
+rewrite
+перезаписывать	перезапись
+rewrite rule
+правило подстановки
+rhapsody
+рапсодия
+rhenium
+рений
+rheostat
+реостат
+rhetoric
+риторика
+rhetorical
+риторический
+rheumatic
+ревматик	ревматический
+rheumatism
+ревматизм
+rhine
+рейн
+rhinelander
+рейнландец
+rhinestone
+искусственный	бриллиант
+rhinoceros
+носорог
+rhizome
+корневище
+rhodium
+родий
+rhododendron
+рододендрон
+rhombic
+ромбический
+rhomboid
+ромбоид
+rhombus
+ромб
+rhubarb
+ревень	ревенный
+rhyme
+рифма
+rhymer
+рифмач
+rhythm
+ритм
+rialto
+риальто
+rib
+ребро
+ribald
+скабрезный
+ribaldry
+скабрезность
+ribbed
+ребристый
+ribbon
+лента	ленточный
+rice
+рис	рисовый
+rich
+богатый
+rich milk
+цельное молоко
+richard
+ричард
+richen
+богатеть
+riches
+богатство
+richly
+богато
+richmond
+ричмонд
+richness
+богатство
+rick
+рик
+rickets
+рахит
+rickety
+шаткий	мед)рахитичный
+rickshaw
+рикша
+ricochet
+рикошет
+rid
+освобождать	избавлять
+riddance
+избавление
+ridden
+ехать
+riddle
+загадка
+ride
+ездить	ехать	поездка
+ridel
+алтарная	завеса
+rider
+всадник
+ridge
+гребень
+ridicule
+насмехаться	осмеяние
+ridiculous
+нелепый
+ridiculously
+до смешного
+riding
+ехать	конный	спорт	верховой
+rife
+распространенный	Т)изобилующий
+rife with
+изобилующий
+riffraff
+сброд
+rifle
+винтовка
+rifleman
+стрелок
+rift
+трещина
+rig
+оснащать	оснастка
+riga
+рига
+rigging
+такелаж
+right
+	право	правый	правильный	вправо
+right away
+сразу
+right justified
+выравненный по правому краю; выравненный по правому полю
+right on
+прямо вперед
+rightful
+законный
+rightfully
+по праву
+rightist
+правый	правый
+rightly
+правильно
+rightmost
+самый	правый
+rightness
+правильность
+rigid
+жесткий
+rigid disk
+жесткий диск
+rigidity
+твердость
+rigor
+строгость
+rigorous
+строгий
+rile
+раздражать
+rill
+ручеек
+rim
+обод
+rime
+иней
+rimy
+заиндевелый
+rind
+кожура
+ring
+звонить	кольцо	кольцевой
+ring network
+кольцевая сеть, сеть типа "кольцо".	топология сети ЭВМ, при которой каждый узел связан с двумя другими;	все узлы вместе образуют кольцо.	узел получает сообщение от одного	из своих соседей и либо обрабатывает его сам, либо ретранслирует его	другому соседу
+ring structure
+кольцевая структура; кольцевой список. список, последний элемент которого указывает на первый
+ring topology
+кольцевая топология, топология типа	"кольцо"
+ringdown
+вызов по звонку
+ringer
+звонок
+ringing
+звонить	звон
+ringleader
+зачинщик
+ringlet
+колечко
+rink
+каток
+rinse
+полоскать
+rinsed
+полоскать	выполосканный
+rinsing
+полоскать	полоскание
+rio
+рио
+riot
+бунт
+rioter
+бунтовщик
+riotous
+бунтующий
+rip
+разрывать
+ripcord
+вытяжной	трос
+ripe
+зрелый
+ripen
+зреть
+ripeness
+спелость
+ripoff
+обкрадывать	кража
+riposte
+выпад
+ripout
+отсекать
+ripped
+разрывать	разорванный
+ripping
+разрывать
+ripple
+пульсировать	пульсация	волновой
+rippling
+пульсировать	распространение
+ripsaw
+продольная	пила
+rise
+повышать	и)подниматься	повышение
+rise to
+быть в состоянии справиться с
+risen
+подниматься
+riser
+надстрочный	элемент
+rises
+повышать	и)расти
+rising
+повышать	и)подниматься	повышение	растущий
+risk
+рисковать	риск
+risk capital
+капитал, ищущий приложения в сферах, сопряженных с повышенным риском	капитал, вложенный в дело, сопряженное с повышенным риском
+risk manager
+управляющий по технике безопасности
+riskiness
+рискованность
+risky
+рискованный
+risque
+рискованный
+rite
+обряд
+ritual
+ритуал	ритуальный
+rival
+конкурент	конкурирующий
+rival firm
+конкурирующая фирма
+rival supply
+предложение со стороны конкурентов
+rivalry
+конкуренция
+river
+река	речной
+riverbank
+берег реки
+riverbed
+русло
+riverboat
+речное	судно
+riverside
+берег реки
+rivet
+клепать	заклепка
+riveted
+приковать	прикованный	заклепка
+riveter
+клепальщик
+riviere
+ожерелье
+rivulet
+ручей
+rna
+рнк
+roach
+таракан
+road
+дорога	дорожный
+roadbed
+полотно
+roadblock
+заграждение
+roadmap
+дорожная	карта
+roadside
+обочина	придорожный
+roadstead
+рейд
+roadway
+мостовая
+roadwheel
+колесо
+roam
+бродить	прогулка
+roan
+чалый	баранья	кожа	чалый
+roar
+реветь	рев
+roared
+реветь
+roast
+жарить	жаркое	жареный
+roast meat
+жареное, жаркое
+roasted
+жарить	жареный
+roasting
+жарить	жарочный
+rob
+грабить	роб
+robbed
+грабить	ограбленный
+robber
+грабитель
+robbery
+ограбление
+robbing
+грабить
+robe
+халат
+robert
+роберт
+roberta
+роберта
+robin
+малиновка
+robot
+робот
+robotic
+Пробота	робототехнический
+robotics
+робототехника
+robotized
+роботизированный
+robust
+прочный	живучий
+robustly
+надежно
+robustness
+ошибкоустойчивость
+rock
+качаться	скала
+rock crystal
+горный хрусталь *
+rockaway
+прогулочный	экипаж
+rocked
+качаться
+rockefeller
+рокфеллер
+rocker
+качалка
+rocket
+ракета	ракетный
+rocket-powered
+с ракетным двигателем
+rockfeller
+рокфеллер
+rockford
+рокфор
+rockies
+скалистый	гора
+rocking
+качаться	качающийся
+rocking-chair
+кресло-качалка
+rocky
+скалистый
+rococo
+рококо
+rod
+стержень	прут
+rode
+ехать
+rodent
+грызун
+rodeo
+родео
+roe
+икра
+roebuck
+самец косули
+roentgen
+рентген
+roger
+роджер
+rogers
+роджерс
+roget
+роже
+rogue
+жулик
+roguish
+жуликоватый
+roi
+#прибыль на инвест	капитал
+roil
+раздражать	приводить в беспорядок
+role
+роль
+roll
+прокручивать	мех)прокатывать	о)переворачивать	инф)перематывать	реестр	рулон	мех)ролик
+roll up
+свертывать [свернуть]	скатывать [скатать]
+roll-call
+перекличка
+roll-in
+загрузка, подкачка.		загрузка, считывание. считывание	группы данных из внешней памяти	в оперативную память
+roll-out
+выгрузка, откачка.		выгрузка, сохранение. запись группы данных из оперативной памяти во внешнюю память
+rollback
+повторный	прогон
+rolled
+прокручивать	мех)прокатывать
+roller
+мех)ролик	роликовый
+roller skate
+конек на роликах
+rollerblades
+роликовый	конек
+rollick
+резвиться
+rollicking
+резвиться	резвящийся
+rollin
+подкачка
+rolling
+прокручивать	мех)прокатывать	прокрутка	мех)прокатывание	волнистый
+rolling adjustment
+небольшие колебания конъюнктуры
+rolling capital
+оборотный капитал
+rolling mill
+прокатный стан
+rolling plan
+переходящий (скользящий) план
+rolling stock
+подвижной состав
+rollout
+откачка
+rollover
+одновременное	нажатие клавиш
+rollup
+сдвиг строк
+roman
+римский
+romance
+роман	романский
+romancing
+роман
+romanesque
+романский	стиль	романский
+romanian
+румын	румынский
+romantic
+романтический
+romanticism
+романтизм
+romanticist
+романтик
+romanticize
+романтизировать
+romanticized
+романтизировать	романтичный
+rome
+рим
+romeo
+ромео
+romp
+возиться
+rondo
+рондо
+roof
+крыть	крыша
+roofer
+кровельщик
+roofing
+крыть	кровля
+roofing felt
+кровельный толь *
+rook
+обсчитывать	грач	ладья
+rookery
+лежбище
+rookie
+новичок
+room
+размещать	комната
+roomer
+пансионер
+roominess
+вместительность
+rooming
+размещать	вмещающий
+roommate
+сосед по комнате
+roomy
+просторный
+roost
+садиться на насест	насест
+rooster
+петух
+root
+ботан)корень	корневой
+root directory
+корневой каталог
+root out
+вырывать с корнем (FIG*)	выискивать [выискать] ( ~ up)
+root segment
+корневой сегмент
+rooted
+образовывать	прикованный
+rooter
+болельщик
+rooting
+извлечение корня
+rootlet
+корешок
+rope
+веревка
+rorqual
+полосатик
+rosary
+четки
+rose
+подниматься	роза	розовый
+roseate
+розовый
+rosebud
+розовый	бутон
+rosebush
+розовый	куст
+rosemary
+розмарин
+rosette
+розетка
+rosewood
+палисандр	палисандровый
+rosin
+канифоль
+roster
+список
+rostrum
+трибуна
+rosy
+румяный
+rot
+гнить	порча
+rotable
+переносимый
+rotary
+ротационный
+rotate
+вращать	сдвиг
+rotated
+вращать
+rotating
+вращать	вращающийся
+rotation
+вращение
+rotational
+вращающийся
+rotationally
+по скорости
+rote
+зубрежка	зазубренный
+rothschild
+ротшильд
+rotor
+ротор
+rotted
+гнить	сгнивший
+rotten
+гнилой
+rottenness
+гнилость
+rotterdam
+роттердам
+rotting
+гнить	гниющий
+rotund
+пухлый
+rotunda
+ротонда
+rouble
+рубль
+roue
+распутник
+rouge
+румяна
+rough
+грубый
+rough balance
+брутто-баланс
+rough design
+эскизный проект
+rough estimate
+приблизительная оценка	черновая смета
+rough it
+перебиваться с трудом
+rough shaping
+черновая работа
+rough work
+черновая работа	грубая работа
+roughage
+грубая	пища
+roughen
+грубеть
+roughly
+приблизительно	грубо
+roughly comparable
+приблизительно сопоставимый
+roughneck
+буян
+roughness
+грубость
+roughshod
+подкованный на шипы
+roulade
+рулада
+roulette
+рулетка
+round
+округлять	круг	круглый
+round trip
+поездка туда и обратно
+round up
+окружать [-жить]
+round-down
+округлять в меньшую сторону
+round-off
+округлять; округлять до ближайшего	целого. прибавлять к округляему числу величину, равную половине единицы последнего сохраняемого разряда, и затем округлять в меньшую сторону
+round-robin
+"карусель". кольцевой список готовых к продолжению задач (ready task), каждой из которых последовательно предоставляется квант времени	центрального процессора
+round-up
+округлять в большую сторону
+roundabout
+окольный
+rounded
+округлять	закругленный
+roundhouse
+паровозное	депо
+rounding
+округлять
+rounding error
+погрешность округления
+roundish
+кругловатый
+roundly
+резко
+roundoff
+округление
+roundoff error
+ошибка округления
+roundup
+загон
+rouse
+будить
+roused
+будить
+rousing
+будить	волнующий
+rout
+выгонять	разгром
+routability
+трассируемость
+route
+направлять	маршрут
+router
+трассировщик	инф)маршрутизатор
+routine
+программа	обычный
+routine duty
+внутренняя служба	повседневная обязанность
+routine maintenance
+текущее техническое обслуживание	текущий ремонт	плановое обеспечение	планово-предупредительный ремонт
+routine management
+традиционный характер управления
+routine order
+правила обслуживания	инструкция
+routine practice
+установившаяся практика
+routine work
+простая (обычная) работа
+routinely
+программно
+routing
+маршрутизация
+routing directory
+таблица маршрутизации.	= routing table
+routing table
+таблица маршрутизации. таблица, связанная с узлом сети коммутации пакетов или сообщений и указывающая	для каждого адресата оптимальный	выходной канал; может быть указано	несколько каналов в порядке их предпочтительности
+rove
+бродить
+rover
+вездеход
+roving
+бродить	внешний	контекст	бродячий
+roving pointer
+указатель на внешний контекст
+row
+грести	колонка
+row-boat
+гребная лодка
+rowan
+рябина
+rowanberry
+рябина
+rowboat
+гребная	лодка
+rowdiness
+хулиганство
+rowdy
+скандалист	буйный
+rower
+гребец
+rowing
+грести	укрупнение
+rowlock
+уключина
+rowwise
+построчный
+roy
+рой
+royal
+королевский
+royalism
+роялизм
+royalist
+роялист
+royalty
+авторский	гонорар
+rpm
+#об	мин
+rte
+#марш	
+rub
+тереть
+rub along
+проби(ва)ться с трудом
+rub on
+проби(ва)ться с трудом
+rub out
+стирать [стереть]
+rub up
+[от]полировать	освежать [-жить] (в памяти)
+rubbed
+тереть
+rubber
+резина	резиновый
+rubber banding
+метод резиновой нити. в интерактивной графике - перемещение общих концов набора отрезков, при котором	другие их концы остаются зафиксированными
+rubberize
+прорезинивать
+rubberized
+прорезинивать	прорезиненный
+rubberizing
+прорезинивать	прорезинивание
+rubberpipes
+резиновая	труба
+rubbing
+тереть
+rubbish
+вздор
+rubble
+развалины
+rubdown
+обтирание
+rube
+деревенщина
+rubella
+краснуха
+rubicon
+рубикон
+rubicund
+румяный
+rubidium
+рубидий
+ruble
+рубль	рублевый
+rubric
+рубрика
+ruby
+рубин	рубиновый
+rucksack
+рюкзак
+ruckus
+гвалт
+rudder
+руль
+ruddy
+румяный
+rude
+грубый
+rudeness
+грубость
+rudiment
+рудимент
+rudimentary
+элементарный
+rudiments
+основа
+rue
+проклинать	и)сожалеть
+rueful
+унылый
+ruff
+ерш
+ruffian
+хулиган
+ruffle
+ерошить	оборка
+ruffled
+ерошить	взъерошенный
+ruffling
+ерошить
+rug
+ковер	плед
+rugby
+регби
+rugged
+износоустойчивый
+ruin
+разрушать	крах
+ruination
+гибель
+ruined
+разрушать	разрушенный
+ruining
+разрушать	разрушение
+ruinous
+губительный
+ruins
+губить	руина
+rule
+управлять	правило
+rule language
+язык правил
+rule out
+исключать [-чить]
+rulebase
+база правил
+ruled
+управлять	линованный
+ruleing price
+настоящая (действующая, текущая) цена
+ruleless
+отклоняющийся от правил
+ruler
+граничная	линия
+ruling
+управлять	постановление	правящий
+ruling price
+настоящая (действующая, текущая) цена
+rum
+ром
+rumanian
+румын	румынский
+rumba
+румба
+rumble
+громыхать	грохот
+rumen
+рубец
+rumina
+рубец
+ruminant
+жвачное	животное	жвачный
+ruminate
+жевать
+rummage
+обшаривать
+rumor
+слух
+rumored
+по слухам
+rumour
+слух
+rumoured
+по слухам
+rump
+крестец
+rumple
+мять
+rumpus
+шум
+run
+запускать	л)бежать	и)работать	Р)достигать	прогон
+run business
+вести дело
+run idle
+работать впустую	работать на холостом ходу
+run into
+впадать [впасть] в	доходить [дойти] до	встречать [-етить]
+run on
+продолжаться [-должиться]	говорить без умолку
+run out
+кончаться [кончиться]
+run over
+переезжать [-ехать], задавлять [-вить]	прочитать бегло
+run riot
+вести себя буйно	разгуливаться [-ляться]
+run short
+кончаться [кончиться]
+run through
+прочитать бегло	проматывать [-мотать]
+run time
+время выполнения, время счета
+run to
+достигать [-игнуть] (суммы)
+run up
+взду(ва)ть (цены)	возводить [-вести] (здание)
+run wild
+расти без присмотра
+run-on-costss
+дополнительные (сверхсметные) расходы
+run-time
+динамический. выполняемый или происходящий во время выполнения программы
+runaround
+уклонение
+runaway
+беглец	бежавший
+runaway corporations
+корпорации-дезертиры
+runaway inflation
+безудержная инфляция
+rundown
+завершение
+rune
+руна
+rung
+звонить	ступенька
+runic
+рунический
+runlet
+ручеек
+runnable
+работоспособный
+runner
+бегун
+runner-up
+занимающий второе место (в состязании)
+running
+выполнять	л)бежать	и)работать	прогон	бегущий	инф)выполняющийся
+running account
+текущий счет
+running expenses
+текущие расходы	стоимость эксплуатации
+running expensess
+стоимость эксплуатации	текущие расходы
+running fire
+беглый огонь *
+running hand
+беглый почерк
+running inventory
+текущие запасы
+running maintenance
+ежедневный уход	текущий ремонт	текущее снабжение
+running practice
+обычная практика
+running repairs
+текущий ремонт
+running task
+текущая задача, задача, выполняемая	в данный момент
+running-board
+подножка
+runoff
+сток	отходы
+runout
+выход
+runs
+выполнять	л)бежать	и)работать	прогон
+runt
+недоросток
+runtime
+время прогона
+runway
+взлетная	полоса
+rupee
+рупия
+rupture
+прорываться	разрыв
+rural
+сельский
+rural population
+сельское население
+ruse
+уловка
+rush
+спешить	спешка	срочный	срочно
+rush hours
+часы-пик	перебежка
+rush into
+бросаться необдуманно в
+rush season
+разгар сезона
+rusification
+русификация
+rusk
+сладкий	сухарь
+russet
+красно-бурый
+russia
+россия	российский
+russian
+русский	русский	русско
+russification
+русификация
+russify
+русифицировать	русификация
+russophile
+русофил
+russophobe
+русофоб
+russophobia
+русофобия
+rust
+ржаветь	ржавчина	ржавый
+rusted
+ржаветь	ржавый
+rustic
+деревенский
+rusting
+ржаветь	ржавый
+rustle
+шелестеть	шелест	шорох
+rusty
+ржавый
+rut
+колея
+rutabaga
+брюква	брюквенный
+ruthenium
+рутений
+rutherfordium
+рузерфордиум
+ruthless
+безжалостный
+ruthlessly
+безжалостно
+ruthlessness
+безжалостность
+rwanda
+руанда
+rye
+рожь	ржаной
+rythm
+ритм

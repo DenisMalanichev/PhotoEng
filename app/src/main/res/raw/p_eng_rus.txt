@@ -1,0 +1,10006 @@
+
+
+pa
+папа
+pabular
+кормовой
+pabulary
+пищевой	кормовой
+pabulum
+пища
+pabulums
+пища
+paca
+пака
+pace
+темп	шаг
+pacemaker
+водитель ритма
+pacemaking
+кардиостимуляция
+pacer
+иноходец
+pacesetter
+лидер
+pacesetting
+задавание ритма
+pachuco
+стиляга
+pachuke
+стиляжный
+pachyderm
+толстокожее	животное
+pachydermatous
+толстокожий
+pacific
+тихий	океан	мирный	тихоокеанский
+pacifically
+миротворно
+pacificate
+умиротворять
+pacification
+умиротворение
+pacifier
+миротворец
+pacifism
+пацифизм
+pacifist
+пацифист
+pacify
+умиротворять
+pack
+упаковывать	Т)заполнять	упаковка
+package
+упаковывать	пакет	пакетный
+package body
+тело пакета. в языке ада (Ada) описание реализации (implementation	specification) пакета
+package contract
+контракт на проведение всего комплекса работ
+package deal
+комплексная сделка (за общую сумму)	комплексное соглашение профсоюза с предпринимателями
+package generator
+генератор пакетов прикладных программ. программа, настраивающая пакет	прикладных программ на конкретный	класс задач
+package input
+комплексная затрата
+package licensing
+комплексное лицензирование
+package specification
+описание пакета, спецификация пакета. в языке ада - описание интерфейса пакета
+package technology
+комплексная технология
+package trip
+комплексная туристская путевка	комплексное путешествие	путешествие по комплексной путевке
+packaged
+упаковывать	упакованный
+packaged goods
+расфасованные товары	(#амер.) винная торговля
+packaged transfer
+комплексная передача
+packager
+упаковщик
+packaging
+упаковывать	пакетирование
+packard
+паккард
+packed decimal
+упакованное десятичное (число). О	представлении чисел в двоично-десятичной системе, при котором в каждом байте хранится две десятичные	цифры
+packer
+упаковщик
+packet
+пакет
+packet assembly
+формирование пакета
+packet deal
+комплексная сделка
+packet disassembly
+разборка пакета
+packet interleaving
+чередование пакетов. способ передачи данных, при котором по одному	физическому каналу последовательно	передаются пакеты (packet) разных	сообщений
+packetization
+пакетирование
+packetize
+пакетировать
+packhorse
+вьючная	лошадь
+packing
+упаковывать	упаковка
+packing house
+мясохладобойное предприятие	бойня	(сезонное) предприятие по первичной обработке овощей или фруктов
+packing instructions
+инструкции об упаковке
+packing plant
+мясохладобойное предприятие	бойня	(сезонное) предприятие по первичной обработке овощей или фруктов
+packinghouse
+пищевая	фирма
+packplain
+транспортный	самолет
+packsack
+рюкзак
+packsaddle
+вьючное	седло
+packthread
+шнур
+pact
+пакт	договор
+pactum
+Й
+pad
+заполнять	панель	блокнот
+pad character
+символ-заполнитель. символ, дополняющий поле записи или управляющую	последовательность до требуемого	формата
+padding
+заполнять	заполнение
+paddle
+грести	весло
+paddle-wheel
+гребное колесо
+paddler
+гребец
+paddling
+грести	гребной
+paddock
+загон
+paddy
+рисовое	поле
+padlock
+висячий	замок
+padre
+падре
+paean
+хвалебная	песнь
+pagan
+язычник	языческий
+paganism
+язычество
+page
+страница	страничный
+page fault
+отсутствие страницы; обращение к	отсутствующей странице
+page footer
+нижний колонтитул. текст, повторяющийся в нижней части каждой страницы текста
+page frame
+страничный блок, страница. страница	памяти с точки зрения системы управления виртуальной памятью. "страничный блок" означает либо сегмент	физической оперативной памяти, в	котором может быть размещена страница виртуальной памяти, либо копию	содержимого страницы виртуальной	памяти на внешнем запоминающем устройстве
+page header
+колонтитул, шапка (страницы). текст, печатаемый в верхней части каждой страницы текста
+page locking
+фиксация страницы. запрещение откачки страницы виртуальной памяти
+page pool
+множество свободных страниц
+page printer
+постранично-печатающее устройство
+page table
+таблица страниц. структура данных	операционной системы, связывающая	виртуальные адреса с номерами страниц и указывающая, какие страницы	виртуальной памяти находятся в оперативной памяти
+pageable
+листаемый
+pageant
+парад
+pageantry
+великолепие
+pageboy
+паж
+paged
+находить	страничный
+paged system
+страничная система; система со страничной организацией (виртуальной)	памяти
+pagemaker
+Йпейджмейкер
+pager
+пейджер
+paginal
+постраничный
+paginate
+форматировать	форматирование
+pagination
+пагинация
+paging
+подкачка
+paging policy
+алгоритм замещения страниц, алгоритм подкачки. алгоритм системы управления виртуальной памятью, определяющий, какие страницы оперативной	памяти следует освободить, и какие	страницы виртуальной памяти следует	загрузить.		recently used
+pagoda
+пагода
+paid
+платить	 1)обращать	оплаченный
+paid leave
+оплачиваемый отпуск
+paid vacation
+оплачиваемый отпуск
+paid vocation
+оплачиваемый отпуск
+pail
+ведро
+pailful
+полное	ведро
+pain
+боль
+pained
+огорченный
+painful
+болезненный
+painfully
+болезненно
+painfulness
+болезненность
+painkiller
+обезболивающее	средство
+painless
+безболезненный
+painlessly
+безболезненно
+painlessness
+безболезненность
+painstaking
+тщательный
+painstakingly
+тщательно
+paint
+закрашивать	Т)артс)изображать	краска	закрашивание
+paint-brush
+кисть *
+paintbrush
+кисть
+paintbrush program
+программа рисования. программа, позволяющая рисовать произвольные картинки на экране, используя мышь	(mouse) в качестве карандаша, кисти	или аэрографа. в отличие от систем	машинной графики, программы рисования работают непосредственно с растром и не предоставляют операций	над графическими примитивами и сегментами
+painter
+артс)художник	инф)раскраска
+painting
+изображать	живопись
+paintings
+артс)картина
+pair
+спаривать	пара
+pairing
+спаривать	спаривание
+pajama
+пижама
+pajamas
+пижама
+pakistan
+пакистан
+pakistani
+пакистанец	пакистанский
+pal
+друг	пал
+palace
+дворец	дворцовый
+paladin
+паладин
+palanquin
+паланкин
+palatability
+смягчаемость
+palatable
+вкусный
+palatably
+вкусно
+palatal
+палатальный
+palatalization
+палатализация
+palatalize
+палатализовать
+palate
+нёбо
+palatial
+роскошный
+palatinate
+палатинат
+palatine
+дворцовый
+palatka
+палатка
+palaver
+пустая	болтовня
+pale
+бледный
+pale ale
+светлое пиво
+paleface
+бледнолицый
+paleholder
+пустышка
+paleness
+бледность
+paleocene
+палеоцен
+paleogene
+палеоген
+paleographer
+палеограф
+paleographic
+палеографический
+paleographical
+палеографический
+paleography
+палеография
+paleolithic
+палеолитический
+paleontological
+палонтологический
+paleontologist
+палеонтолог
+paleontology
+палеонтология
+paleozic
+палеозой	палеозойский
+paleozoic
+палеозойский
+palestine
+палестина	палестинский
+palestinian
+палестинец	палестинский
+palette
+палитра
+palettized
+цветной
+palfrey
+верховая	лошадь
+palimpsest
+палимпсест
+palindrome
+палиндром
+paling
+частокол
+palinode
+палинодия
+palisade
+палисад
+pall
+окутывать	и)приедаться	покров
+palladia
+оплот
+palladium
+палладий
+pallbearer
+человек, несущий гроб
+pallet
+палета
+palletd goods
+грузы, транспортируемые на поддонах
+palletise
+укладывать в штабеля
+palletised
+пакетированный
+palletize
+укладывать в штабеля
+palliate
+смягчать
+palliation
+облегчение
+palliative
+паллиатив	паллиативный
+pallid
+бледный
+pallor
+бледность
+palm
+ладонь	пальма
+palmate
+пальчатый
+palmer
+паломник	личинка	приманка	палмер
+palmetto
+пальметто
+palmist
+хиромант
+palmistry
+хиромантия
+palmtop
+вершина пальмы
+palmy
+пальмовый
+palp
+щупальце
+palpability
+осязаемость
+palpable
+осязаемый
+palpably
+осязаемо
+palpate
+ощупывать
+palpation
+пальпация
+palpitate
+трепетать
+palpitation
+трепет
+palpus
+пальпа
+palsy
+паралич
+palter
+хитрить
+paltrily
+ничтожно
+paltriness
+ничтожность
+paltry
+ничтожный
+pam
+мушка	пам
+pampa
+пампа
+pampas
+пампас
+pamper
+баловать
+pampered
+баловать	избалованный
+pampering
+баловать	баловство
+pamphlet
+памфлет	брошюра
+pamphleteer
+памфлетист
+pan
+промывать	инф)фото)панарамировать	сковорода	плавный
+pan scrolling
+плавная прокрутка
+panacea
+панацея
+panama
+панама
+panamanian
+панамец
+panaramic
+панорамный
+panasonic
+панасоник
+panatella
+сигара
+pancake
+блин
+panchromatic
+панхроматический
+pancreas
+поджелудочная	железа
+pancreatic
+поджелудочный
+panda
+панда
+pandemic
+пандемия	пандемический
+pandemonium
+хаос
+pander
+потворствовать	сводник
+panderer
+сводник
+pandering
+потворствовать	потворничество
+pane
+подокно
+panegyric
+пенегирик
+panegyrical
+хвалебный
+panegyrist
+панегирист
+panegyrize
+восхвалять
+panel
+обшивать	панель	панельный
+paneled
+обшивать	филенчатый
+paneling
+обшивать	панель
+panelist
+член комиссии
+pang
+острая	боль
+pangolin
+ящер
+pangs
+боль
+panhandle
+попрошайничать
+panhandler
+попрошайка
+panic
+паниковать	паника
+panicked
+паниковать	панический
+panicky
+панический
+panicle
+метелка
+panjandrum
+важная	персона
+panniers
+корзина
+panoply
+доспех
+panorama
+фото)панорама
+panoramic
+фото)панорамный
+panoramically
+фото)панорамно
+pansy
+анютин	глазок
+pant
+задыхаться	вздох
+pantaloons
+брюки
+pantheism
+пантеизм
+pantheist
+пантеист
+pantheistic
+пантеистический
+pantheon
+пантеон
+panther
+пантера
+panties
+трусики
+pantingly
+тяжело дыша
+pantomime
+пантомима	пантомимный
+pantomimic
+пантомимический
+pantomimist
+мим
+pantry
+кладовая
+pants
+задыхаться	брюки
+pantsuit
+брючный	костюм
+pantyhose
+колготки
+pantywaist
+детский	комбинезон
+panzer
+танк	танковый
+pap
+кашка
+papa
+папа
+papacy
+папство
+papain
+папский
+papal
+папский
+papaverine
+папаверин
+papaw
+азимина
+papaya
+папайя
+paper
+бумага	граф)статья	бумажный
+paper circulation
+обращение бумажных денег	вексельное обращение
+paper currency
+бумажные деньги
+paper feed
+подача бумаги. прогон бумаги (в печатающем устройстве)
+paper profit
+(нереализованный) прирост стоимости имущества (активов,	ценных бумаг)
+paper slew
+прогон бумаги (в печатающем устройстве)
+paper standard
+бумажно-денежная система
+paper tape
+(бумажная) перфолента
+paper throw
+подача бумаги (в печатающем устройстве)
+paper-bag
+кулек
+paper-clip
+скрепка
+paper-fastener
+скрепка
+paper-hanger
+обойщик
+paper-weight
+пресс-папье *
+paperback
+книга в бумажной обложке
+paperboard
+картон	бумажно-картонный
+paperclip
+скрепка
+paperhanger
+обойщик
+paperhanging
+наклеивание обоев
+paperless
+безбумажный
+paperless office
+безбумажное делопроизводство. применение ЭВМ в управленческой деятельности для хранения, поиска и отображения информации
+papermaker
+изготовитель бумаги
+papermill
+бумажная	фабрика
+paperweight
+пресс-папье
+paperwork
+делопроизводство
+papery
+тонкий
+papilla
+папилла
+papillae
+папилла
+papillary
+папиллярный
+papist
+папист
+papoose
+индейский	ребенок
+paprika
+паприка
+papua
+папуа
+papuan
+папуас	папуасский
+papular
+папулезный
+papule
+папула
+papyri
+папирус
+papyrus
+папирус
+par
+равенство
+par value
+номинальная цена	стоимость по номиналу	номинал	официальный паритет валют (в золоте или долл. США), сообщаемый странами международному валютному фонду
+parable
+притча
+parabola
+парабола
+parabolic
+параболический
+paracetamol
+парацетамол
+parachute
+парашют
+parachutist
+парашютист
+parade
+парад
+paradigm
+парадигма
+paradise
+рай
+paradisiacal
+райский
+paradisiacally
+райски
+paradox
+парадокс
+paradoxical
+парадоксальный
+paradrop
+десантировать	десант
+paraffin
+парафин	парафиновый
+paragon
+образец
+paragraph
+параграф
+paraguay
+парагвай
+paraguayan
+парагваец	парагвайский
+parakeet
+маленький	попугай
+paraldehyde
+паральдегид
+paralegal
+помощник адвоката
+parallax
+параллакс
+parallel
+	быть	параллельный	параллельный
+parallel adder
+параллельный сумматор. сумматор, обрабатывающий все разряды слагаемых одновременно
+parallel computer
+параллельная ЭВМ. ЭВМ, в которой	одновременно выполняются одинаковые	или различные операции над несколькими группами данных.		hitecture
+parallel interface
+параллельный интерфейс.	средства подключения и передачи данных по параллельному каналу
+parallel processing
+параллельная обработка; параллельное выполнение
+parallel search
+параллельный поиск.	поиск данных, удовлетворяющих	одному из нескольких указанных	критериев.	поиск, при котором все элементы	области поиска анализируются одновременно
+parallelepiped
+параллелепипед
+paralleling
+запараллеливание
+parallelism
+параллелизм
+parallelogram
+параллелограмм
+paralyses
+паралич
+paralysis
+паралич
+paralytic
+паралитик	паралитический
+paralyze
+парализовать
+paralyzed
+парализовать	парализованный
+paralyzer
+ингибитор
+paralyzingly
+парализующе
+paramecia
+парамеция
+paramecium
+парамеция
+paramedic
+врач скорой помощи
+paramedical
+срочной медицинской помощи
+paramedics
+врач скорой помощи
+parameter
+параметр
+parameter mismatch
+несоответствие параметров. при обращении к подпрограмме - несоответствие числа или типов фактических	параметров числу или типам формальных параметров
+parameter passing
+передача параметров. операции и структуры данных, используемые вызывающей программой для указания вызываемой процедуре обьектов и значений, над которыми должны выполняться	действия
+parameter qualifier
+ключ параметра. в командных языках	операционных систем фирмы DEC - управляющий ключ, воздействующий на	один параметр
+parameter specification
+описание параметров; спецификации	параметров. описание типа и способа	передачи параметров и, возможно,	ограничений, которым они должны удовлетворять
+parametric
+параметрический
+parametron
+параметрон
+paramilitary
+полувоенный
+paramount
+парамаунт	первостепенный
+paramour
+любовник
+paramp
+параметрический	усилитель
+paranoia
+паранойя
+paranoiac
+параноик
+paranoid
+параноический
+paranotion
+парапонятие
+parapet
+парапет
+paraph
+парафировать	вызировать	параф
+paraphernalia
+принадлежность
+paraphrase
+перефразировать	перефразировка
+paraphrasers
+пересказчик
+paraplegia
+параплегия
+paraplegic
+больной параплегией
+parapsychology
+парапсихология
+paras
+парашют
+parasite
+помеха	паразитный
+parasitic
+паразитный
+parasitism
+паразитизм
+parasitize
+паразитировать
+parasitizing
+паразитировать	паразитирующий
+parasol
+солнечный	зонтик
+parasympathetic
+парасимпатический
+parathyroid
+паращитовидная	железа
+paratrooper
+парашютист
+paratroops
+парашютная	часть
+paratyphoid
+паратиф
+parboil
+обваривать кипятком
+parcel
+выделять	пакет
+parch
+иссушать
+parched
+иссушать	пересохший
+parchment
+пергамент	пергаментный
+pard
+компаньон
+pardner
+партнер
+pardon
+прощать	прощение
+pardonable
+простительный
+pardonably
+простительно
+pardoned
+прощать	прощенный
+pardoner
+продавец индульгенций
+pare
+урезывать
+pared
+урезывать	урезанный
+paregoric
+болеутоляющее	средство
+parent
+родитель	родительский
+parent bank
+родительский банк
+parent company
+родительская (материнская) компания
+parent firm
+родительская (материнская) фирма
+parent node
+родительская вершина. вершина дерева, ссылающаяся на данную вершину
+parent process
+родительский процесс. процесс, породивший данный процесс
+parentage
+происхождение
+parental
+родительский
+parenteral
+парентеральный
+parenterally
+парентерально
+parentheses
+круглая	скобка
+parenthesis
+скобки
+parenthesize
+заключать в скобки
+parenthetic
+вводный
+parenthetical
+вводный
+parenthetically
+в скобках
+parenthood
+отцовство	материнство
+parents
+родитель
+parer
+машинка для снимания кожицы
+paresis
+парез
+paretic
+паретический
+pariah
+пария
+parietal
+париетальный
+parimutuel
+тотализатор
+paring
+урезывать	урезывание
+paris
+париж	парижский
+parish
+приход	приходский
+parishioner
+прихожанин
+parisian
+парижанин	парижский
+parity
+четность
+parity bit
+бит четности, разряд четности
+parity check
+контроль четности. способ контроля искажений при хранении и передаче посредством добавления к	информационным разрядам слова	контрольного бита, значение которого уставливается в соответствии с суммой по модулю два информационных битов.		ошибка четности
+parity error
+ошибка четности. ошибка передачи	или хранения данных с контролем четности
+parity index
+паритетный индекс	индекс паритетного соотношения
+parity prices
+паритетные цены (в сельском хозяйстве)
+parity rate
+паритет
+park
+парковать	парк
+parka
+парка
+parked
+парковать	припаркованный
+parking
+парковать	парковка
+parkinson
+паркинсон
+parkland
+парк	парклэнд
+parkway
+шоссе
+parlance
+язык
+parlay
+держать пари
+parley
+вести переговоры	переговор
+parleyer
+участник переговоров
+parliament
+парламент
+parliamentarian
+парламентарий
+parliamentarianism
+парламентаризм
+parliamentary
+парламентский
+parlor
+гостиная
+parlour
+гостиная
+parlour-maid
+горничная
+parlous
+опасный
+parlously
+опасно
+parma
+парма
+parmesan
+пармезан
+parmigiana
+Пс пармезанским сыром
+parochial
+приходский
+parochialism
+узость
+parodist
+пародист
+parody
+пародия
+parol
+устное	заявление
+parole
+освобождать под честное словов	условно -	досрочное	освобождение
+parolee
+условно	освобожденный
+paroxysm
+пароксизм
+paroxysmal
+судорожный
+parquet
+паркет
+parquetry
+паркет
+parricide
+отцеубийство
+parrot
+попугай
+parry
+отражать
+parse
+выполнять грамматический разбор	грамматический	разбор
+parsec
+парсек
+parsed
+разбирать	разобранный
+parser
+синтаксический	анализатор
+parsimonious
+скупой
+parsimony
+скупость
+parsing
+выполнять грамматический разбор	синтаксический	анализ	
+parsley
+петрушка
+parsnip
+пастернак
+parson
+приходский	священник
+parsonage
+пасторат
+part
+разделять	часть
+part payment
+частичный платеж
+part performance
+частичное исполнение (выполнение)
+part time
+не на полном окладе	по совместительству	работающий неполное рабочее время
+part-owner
+частичный собственник	совладелец
+part-time
+неполная занятость *	не полностью занятый
+partake
+принимать участие
+partaker
+участник
+parted
+разделять	разделенный
+parterre
+партер
+parthenic
+нетронутый
+parthenogenesis
+партеногенез
+parthenogenetic
+партеногенетический
+parthenon
+парфенон
+partial
+частичный
+partial disability
+частичная потеря трудоспособности
+partial evaluation
+смешанные вычисления. выполнение не	зависящих от входных данных операций программы во время трансляции
+partial matching
+частичное совпадение; частичное отождествление
+partial pathname
+относительное составное имя
+partiality
+пристрастие
+partially
+частично
+participant
+участник
+participate
+участвовать
+participating
+участвовать	участие
+participation
+участие
+participator
+участник
+participial
+причастный
+participle
+причастие
+particle
+частица
+particular
+конкретный	в частности
+particularity
+особенность
+particularize
+вдаваться в подробности
+particularly
+особенно
+particulars
+сведение
+particulate
+Пиз частиц
+parting
+разделять	разделение
+partisan
+сторонник	партизанский	фанатичный
+partisanship
+пристрастие
+partition
+разделять	раздел	элек)перегородка
+partition off
+отделять перегородкой
+partitioned
+разделять	разделенный	инф)библиотечный
+partitioning
+разделять	разметка
+partitive
+разделительный
+partly
+частично
+partner
+партнер
+partnership
+партнерство
+partnership agreement
+договор о товариществе (партнерстве)
+partridge
+куропатка
+parts
+часть
+parttime
+неполный
+parturition
+роды
+partway
+полпути
+party
+партия	конт)экон)транс)сторона	встр)вечеринка
+party line
+партийные директивы *
+party ticket
+партийная программа
+parvenu
+парвеню
+paschal
+пасхальный
+pasha
+паша
+pasquinade
+пасквиль
+pass
+передавать	и)проходить	проход
+pass as
+считаться , слыть
+pass away
+исчезать [-езнуть]	умирать [умереть]
+pass by
+проходить мимо
+pass for
+считаться , слыть
+pass into
+переходить [перейти] в
+pass key
+пароль
+pass off
+проходить [пройти] (о боли и т.п.)
+pass on
+идти дальше
+pass out
+выходить [выйти]
+passable
+проходимый
+passably
+удовлетворительно
+passage
+проход	проезд
+passageway
+проход
+passant
+идущий с поднятой правой передней лапой
+passband
+полоса пропускания
+passbook
+сберегательная	книжка
+passe
+устаревший
+passed
+проходить	и)проходить	прошедший
+passel
+масса
+passenger
+пассажир	пассажирский
+passenger-train
+пассажирский поезд
+passer-by
+прохожий
+passerby
+прохожий
+passerine
+птица из семейства воробьиных
+passers
+прохожий
+passersby
+прохожий
+passim
+повсюду
+passing
+передавать	и)проходить	прохождение	проходящий
+passion
+страсть
+passionate
+страстный
+passionately
+страстно
+passivation
+пассивирование
+passive
+пассивный
+passive balance
+пассивное сальдо	пассивный (отрицательный) баланс
+passive graphics
+пассивная графика. организация работы графической системы, при котором дисплей используется только для	вывода изображений под управлением	программы без вмешательства пользователя
+passive star
+пассивная звезда. звездообразная	топология (star topology) сети ЭВМ,	в которой центральный узел выполняет только ретрансляцию сигналов и,	возможно, коммутацию
+passiveness
+пассивность
+passivism
+пассивность
+passivist
+пассивист
+passivity
+пассивность
+passkey
+отмычка
+passover
+пасха
+passport
+паспорт	паспортный
+passthrough
+транзитная	пересылка
+passway
+проход
+password
+пароль
+password authentification
+проверка пароля; аутентификация пользователя по паролю
+password protection
+защита с использованием пароля
+passworded
+защищенный паролем
+past
+прошлое	прошлый
+past compare
+вне всякого сравнения
+past endurance
+нестерпимый
+past hope
+безнадежный
+past labour
+прошлый труд
+pasta
+макароны
+pastas
+макароны
+paste
+клеить	паста
+paste buffer
+буфер. область памяти, в которой	временно хранится удаленный текст
+pasteboard
+картон
+pasted
+вставлять	вставленный
+pastel
+пастель	пастельный
+pastelist
+артс)пастелист
+pastellist
+артс)пастелист
+pastern
+бабка
+pasteurization
+пастеризация
+pasteurize
+пастеризовать
+pasteurized
+пастеризовать	пастеризованный
+pasteurizer
+пастеризатор
+pasteurizing
+пастеризовать	пастеризация
+pastiche
+пародия
+pastille
+таблетка
+pastime
+времяпрепровождение
+pastiness
+тестообразность
+pasting
+склеивать	склеивание
+pastor
+пастор
+pastoral
+пастораль	пасторальный
+pastorale
+пастораль
+pastorate
+пасторат
+pastrami
+пастрами
+pastry
+кондитерские	изделие
+pastry-cook
+кондитер
+pasturage
+пастбище
+pasture
+пастбище
+pastureland
+пастбище
+pasty
+тестообразный
+pat
+похлопывать	хлопок	И)пэт	готовый
+patagonia
+патагония
+patch
+исправлять	корректор	воен)нашивка
+patchcord
+соединительный	шнур
+patcher
+шпонопочинный	станок
+patchhole
+коммутационное	гнездо
+patchiness
+испещренность
+patchplug
+штекер
+patchtip
+штекер
+patchword
+слово&-	связка
+patchwork
+мешанина
+patchy
+испещренный
+patdown
+охлопывание
+pate
+паштет
+patella
+надколенная	чашечка
+patellar
+чашеобразный
+patellate
+чашеобразный
+paten
+дискос
+patency
+очевидность
+patent
+патентовать	патент	патентный
+patent agreement
+патентное соглашение
+patent annuity
+патентная пошлина
+patent application
+заявка на патент
+patent bank
+патентный банк
+patent control
+патентный контроль
+patent document
+патентный документ
+patent family
+семейство патентов-аналогов
+patent fastener
+кнопка (застежка)
+patent fee
+дата за пользование патентом
+patent holder
+владелец патента
+patent law
+патентное право
+patent leather
+лакированная кожа
+patent license
+патентная лицензия
+patent life
+срок действия патента
+patent office
+патентное бюро	патентное ведомство
+patent pool
+патентный пул
+patent protection
+патентная защита	охрана патентов
+patent register
+патентный справочник
+patent rights
+патентные права
+patent-holder
+патентообладатель	владелец патента
+patentability
+патентоспособность
+patentable
+патентоспособный
+patentably
+патентоспособно
+patented
+патентовать	запатентованный
+patented technology
+запатентованный технологический способ
+patentee
+патентовладелец
+patenting
+патентовать	патентование
+paterfamilias
+отец семейства
+paternal
+отеческий
+paternalism
+отеческое	попечение
+paternalistic
+отеческий
+paternity
+отцовство
+paternoster
+"отче наш"
+paternosters
+"отче наш"
+patersfamilias
+отец семейства
+path
+путь	инф)маршрут
+pathetic
+жалкий
+pathetically
+патетически
+pathfinder
+искатель пути
+pathogen
+патоген
+pathogenic
+патогенный
+pathogenicity
+патогенность
+pathologic
+патологический
+pathological
+патологический
+pathologist
+патолог
+pathology
+патология
+pathos
+трогательность
+pathway
+магистраль
+patience
+терпение
+patient
+пациент	терпеливый
+patiently
+терпеливо
+patina
+патина
+patio
+патио
+patois
+патио
+patriarch
+патриарх
+patriarchal
+патриархальный
+patriarchate
+патриархия
+patriarchy
+патриархат
+patrice
+патрица
+patricia
+патриция
+patrician
+патриций
+patricide
+отцеубийство
+patrick
+патрик
+patrico
+поп
+patrimonial
+родовой
+patrimonial estate
+родовое (наследственное) имение
+patrimony
+отцовское	наследие
+patrimony national
+национальное достояние
+patriot
+патриот
+patriotic
+патриотический
+patriotically
+патриотически
+patriotism
+патриотизм
+patristic
+принадлежащий "отцам церкви"
+patrix
+патрица
+patrol
+патрулировать	патруль
+patrolled
+патрулировать	патрулируемый
+patroller
+патрульный
+patrolling
+патрулировать
+patrolman
+полицейский
+patrolwoman
+женщина&-	полицейский
+patron
+патрон	покровитель
+patronage
+протекция
+patroness
+покровительница
+patronize
+покровительствовать
+patronized
+покровительствовать
+patronizer
+покровитель
+patronizing
+покровительствовать	покровительственный
+patronymic
+отчество
+patsy
+простак	И)пэтси
+patter
+барабанить	стук
+pattern
+формировать	образец
+pattern matching
+сопоставление с образцом, отождествление
+pattern recognition
+распознавание образов
+patterned
+формировать	сформированный
+patterning
+формировать	нанесение рисунка	
+patty
+пирожок
+patulous
+развесистый
+paucity
+скудность
+paul
+пол
+paula
+паула
+paunch
+брюшко
+paunchy
+пузатый
+pauper
+нищий
+pauperism
+ниценство
+pauperization
+обнищание
+pauperize
+доводить до нищеты	доведенный до нищеты
+pause
+останавливаться	пауза
+pave
+мостить
+paved
+мостить	вымощенный
+pavement
+тротуар
+paver
+мостильщик
+pavilion
+павильон
+paving
+мостить	мощение
+pavis
+щит
+pavlovian
+павловский
+paw
+копать	лапа
+pawl
+собачка
+pawn
+закладывать	пешка
+pawn broker
+ростовщик	ссужающий деньги под залог вещей
+pawn shop
+ломбард	лавка ростовщика
+pawnbroker
+залогодержатель
+pawnee
+залогодержатель
+pawnshop
+ломбард
+pay
+экон)платить	 1)обращать	оплата
+pay allowance
+выплачивать пособие
+pay back
+период окупаемости капиталовложений
+pay day
+день выдачи заработной платы
+pay down
+платить наличными
+pay for
+[у-, за]платить за , оплачивать [оплатить]	[по]платиться за
+pay homage
+оказывать почтение (to *Д)
+pay list
+расчетный лист	платежная ведомость
+pay load
+коммерческая нагрузка	полезная нагрузка (грузоподъемность)
+pay master
+кассир	казначей
+pay off
+выигрыш	барыш
+pay office
+казначейство	платежная касса
+pay-day
+день выплаты жалования
+pay-roll
+платежная ведомость	фонд заработной платы
+payable
+оплачиваемый
+payable contributions
+причитающиеся взносы
+payables
+документ	кредит
+payback period
+срок погашения
+paycheck
+зарплата
+payday
+день платежа
+payed
+платить	 1)обращать	оплаченный
+payee
+получатель платежа
+payer
+плательщик
+paying
+платить	 1)обращать	оплата	платный
+paying capacity
+платежеспособность
+paying concern
+рентабельное предприятие
+paying off
+погашение (долгов)
+payload
+полезная	нагрузка
+paymaster
+кассир
+payment
+оплата	взнос	вознаграждение	возмездие
+payment advice
+извещение (уведомление) о платеже
+payment advise
+извещение (уведомление) о платеже
+payment agreement
+соглашение о платежах	платежное соглашение
+payment forward
+наложенный платеж
+payment operations
+расчетные операции	платежный (расчетный) оборот
+payment transactions
+расчетные операции
+payments
+платеж	платежный
+payments equilibrium
+равновесие платежных балансов
+payments problems
+проблемы платежных балансов	проблемы международных расчетов
+payoff
+взятка
+payorder
+платежное	поручение
+payout
+выплата
+payroll
+платежная	ведомость
+payroll flows
+потоки заработной платы
+payroll period
+период между двумя выплатами заработной платы
+payroll sheet
+расчетная (платежная) ведомость
+payroll tax
+налог на фонд заработной платы
+payroll transactions
+расчеты по заработной плате и аналогичным выплатам
+pb
+#
+pbs
+#сист	обществ	радиовещ	
+pc
+Й
+pcb
+#псб
+pea
+горошина	гороховый
+peace
+мир	мирный
+peaceable
+мирный
+peaceably
+мирно
+peaceful
+мирный
+peacefully
+мирно
+peacefulness
+мирность
+peacekeeper
+миротворец
+peacekeeping
+поддержание мира
+peacemaker
+миротворец
+peacemaking
+миротворчество
+peacetime
+мирное	время
+peach
+персик	персиковый
+peacock
+павлин
+peafowl
+павлин
+peahen
+пава
+peak
+пик	максимальный
+peak cycle
+высшая точка экономического цикла
+peak load
+максимальная загрузка
+peak output
+предельная мощность	максимальная выработка
+peak performance
+предельная производительность
+peaked
+заостренный
+peakedness
+заостренность
+peal
+греметь	раскат
+peanut
+арахис	арахисовый
+pear
+груша	грушевый
+pearl
+жемчуг	жемчужный
+pearly
+жемчужный
+peasant
+крестьянин	крестьянский
+peasantry
+крестьянство
+peat
+торф	торфяной
+peaty
+торфяной
+pebble
+галька
+pebbly
+покрытый галькой
+pecan
+пекан
+peccadillo
+грешок
+peccary
+пекари
+peccavi
+исповедь
+peck
+клевать	клевок
+pecker
+клюв	дятел	тех)язычок	кирка
+pectic
+пектиновый
+pectin
+пектин	пектиновый
+pectoral
+грудной
+peculate
+присваивать
+peculation
+растрата
+peculator
+расхититель
+peculiar
+специфический	Р)типичный
+peculiarity
+специфичность
+pecuniarily
+в денежном отношении
+pecuniary
+денежный
+pecuniary accumulation
+денежное накопление
+pecuniary accumulations
+денежное накопление
+pecuniary affairs
+финансовые дела (вопросы)
+pecuniary capital
+денежный капитал
+pecuniary compensation
+единовременное пособие
+pecuniary institutions
+финансовые институты
+pecuniary loss
+денежный (финансовый) убыток
+pecuniary payment
+денежная плата
+pedagogic
+педагогический
+pedagogical
+педагогический
+pedagogically
+педагогически
+pedagogue
+педагог
+pedagogy
+педагогика
+pedal
+нажимать	педаль
+pedaled
+нажимать
+pedaling
+нажимать
+pedalled
+нажимать
+pedalling
+нажимать
+pedant
+педант
+pedantic
+педантичный
+pedantically
+педантично
+pedantry
+педантичность
+peddle
+торговать вразнос	внештатный
+peddler
+разносчик
+pederast
+педераст
+pederasty
+педерастия
+pedestal
+пьедестал
+pedestrial
+пешеходный
+pedestrian
+пешеход
+pedestrianism
+ходьба
+pediatric
+педиатрический
+pediatrician
+педиатр
+pediatrics
+педиатрия
+pedicab
+велорикша
+pedicel
+цветоножка
+pedicure
+педикюр
+pedicurist
+педикюрша
+pedigree
+родословная
+pedigreed
+породистый
+pediment
+фронтон
+pedlar
+разносчик
+pedometer
+педометр
+pedophile
+педофил
+pedophiliac
+педофил
+peduncle
+ножка
+peek
+заглядывать	взгляд
+peek in
+заглядывать [-януть]
+peeking
+заглядывать	обращение
+peel
+чистить	кожура
+peeling
+чистить
+peelings
+очистки
+peen
+боек
+peep
+подглядывать
+peep-hole
+глазок (окошечко)
+peeper
+соглядатай
+peephole
+глазок	локальный
+peer
+равняться	сверстник	равный
+peer at
+вглядываться [-деться] в
+peerage
+пэрство
+peeress
+леди
+peeresses
+леди
+peerless
+несравненный
+peery
+любопытный	подозрительный	недоверчивый
+peeve
+раздражать
+peeved
+раздражать	раздраженный
+peevish
+сварливый
+peevishness
+раздражительность
+peewee
+малыш
+peg
+стержень
+peg along
+упорно работать
+peg away
+упорно работать
+peg-top
+юла (игрушка)
+pegasus
+пегас
+pegboard
+игровая	доска
+pegged price
+искусственно поддерживаемая цена
+pegmatite
+пегматит
+pegmatitic
+пегматитовый
+peignoir
+пеньюар
+pejorative
+уничижительный
+peking
+пекин
+pekingese
+пекинец
+pekoe
+высший	сорт чая
+pelage
+шкура
+pelagic
+пелагический
+pele
+пеле
+pelf
+богатство
+pelican
+пеликан
+pellagra
+пеллагра
+pellagrous
+пеллагрический
+pellet
+шарик
+pelletize
+гранулировать
+pelletized
+гранулировать	гранулированный
+pelletizing
+гранулировать	гранулирование
+pellicle
+пленка
+pellucid
+прозрачный
+peloponese
+пелопонесский	полуостров
+pelt
+забрасывать	шкура
+pelter
+ринуться	проливной	дождь	вспышка гнева	скакун
+pelve
+таз
+pelvic
+тазовый
+pelvimetry
+пельвиметрия
+pelvis
+таз
+pen
+сочинять	ручка	загон
+pen plotter
+перьевой графопостроитель
+pen-name
+псевдоним
+penal
+штрафной
+penal servitude
+каторжные работы *
+penalization
+наказание
+penalize
+наказывать	штрафовать
+penalized
+наказывать	штрафовать	наказанный
+penalizing
+наказывать	штрафовать	наказание
+penalties
+штраф
+penalty
+штраф	штрафной
+penalty clause
+оговорка о штрафной неустойке
+penance
+покаяние
+penates
+пенаты
+pence
+пенс
+penchant
+склонность
+pencil
+карандаш	карандашный
+pendant
+подвеска
+pendency
+неопределенность
+pendent
+подвеска
+pendently
+неопределенно
+pending
+рассматривать	незаконченный
+pending interrupt
+отложенное прерывание
+pending job
+повисшее задание, повисшая задача.	задание, процесс или задача, ждущие	наступления события, которое не может произойти в результате ошибки в	программе или в вычислительной системе. например, задача может повиснуть в результате обращения к выключенному устройству
+pending request
+ждущий запрос; отложенный запрос.	необработанное обращение к операционной системе. (system call)
+pendular
+качающийся
+pendulous
+подвесной
+pendulum
+маятник
+peneplain
+пенеплен
+penetrable
+проницаемый
+penetrably
+проницаемо
+penetrate
+проходить через
+penetrating
+проникать	пронизывающий
+penetration
+проникновение
+penetration price
+цена "прорыва" на рынок
+penetration pricing
+политика цен при "прорыве" на рынок
+penetrative
+проникающий
+penguin
+пингвин
+penholder
+ручка
+penicilin
+пенициллин
+penicillin
+пенициллин
+peninsula
+полуостров
+peninsular
+полуостровной
+penis
+пенис
+penitant
+кающийся
+penitence
+покаяние
+penitent
+кающийся
+penitential
+покаянный
+penitentiary
+каторжная	тюрьма
+penknife
+перочинный	нож
+penlight
+фонарик&-	карандаш
+penman
+каллиграф
+penmanship
+каллиграфия
+pennant
+вымпел
+penney
+пенни
+penniless
+безденежный
+pennilessness
+безденежье
+pennon
+флажок
+pennsylvania
+штт)пенсильвания
+pennsylvanian
+пенсильванец	пенсильванский
+penny
+пенни
+penny-weight
+24 грана (= 1,5552 гр)
+pennyroyal
+болотная	мята
+penological
+пенологический
+penologist
+пенолог
+penology
+пенология
+penpal
+друг по переписке
+pension
+пенсия	пенсионный
+pension fund
+пенсионный фонд
+pensionable remuneration
+засчитываемое для пенсии вознаграждение
+pensionable salary
+оклад, учитывающийся при начислении пенсии
+pensionable scales
+шкала окладов, учитываемых при начислении пенсий
+pensioner
+пенсионер
+pensive
+задумчивый
+pensiveness
+задумчивость
+penstock
+шлюз
+pent
+запертый
+pent-up
+накопленный (о гневе и т.п.)
+pentachlorphenol
+пентахлорфенол
+pentacle
+пентаграмма
+pentaclhlorphenol
+пентахлорфенол
+pentagon
+пентагон
+pentagonal
+пятиугольный
+pentahedron
+пятигранник
+pentameter
+пентаметр
+pentateuch
+пятикнижие
+pentateuchal
+пятикнижный
+pentathlon
+пятиборье
+pentecost
+пятидесятница
+pentecostal
+пятидесятный
+penultimate
+предпоследний
+penumbra
+полутень
+penumbrae
+полутень
+penumbral
+теневой
+penurious
+скупой
+penuriousness
+скупость
+penury
+недостаток
+peon
+пеон
+peonage
+пеонаж
+peony
+пион
+people
+люди
+pep
+стимулировать	энергия
+pepper
+перец
+peppercorn
+перчинка
+pepperiness
+острота
+peppermint
+перечная	мята
+peppery
+острый
+peppy
+энергичный
+pepsi
+пепси
+pepsin
+пепсин
+peptic
+пищеварительный
+peptide
+пептид
+peptone
+пептон
+per
+за	на	в)в
+per annum
+в год	ежегодно
+per capita
+(в расчете) на душу населения	среднедушевой
+per cent
+процент
+per day
+в день
+per head
+(в расчете) на душу населения
+per mile
+на тысячу	промилле
+peradventure
+возможно
+perambulate
+обходить границы
+perambulated
+расхаживать
+perambulating
+расхаживать
+perambulation
+ходьба
+perambulator
+детская	коляска
+percale
+перкаль
+perceivable
+воспринимаемый
+perceive
+воспринимать
+percent
+процент	процентный
+percentage
+процент
+percentage allocation
+процентные отчисления
+percentage points
+процентные пункты
+percentile
+процентиль
+percentum
+процент
+percept
+объект восприятия
+perceptibility
+воспринимаемость
+perceptible
+воспринимаемый
+perception
+восприятие
+perceptional
+перцептивный
+perceptive
+восприимчивый
+perceptiveness
+восприимчивость
+perceptivity
+восприимчивость
+perceptron
+перцептрон
+perceptual
+восприимчивый
+perceptually
+ощущаемо
+perch
+сидеть	окунь	насест
+perchance
+случайно
+perched
+сидеть|усесться
+percher
+доходяга
+perching
+сидеть
+perchlorate
+перхлорат
+perchloric
+хлорный
+percipience
+восприятие
+percipient
+перципиент
+percolate
+процеживать
+percolated
+процеживать	процеженный
+percolating
+процеживать
+percolation
+процеживание
+percolator
+кофейник с ситечком
+percussion
+столкновение
+percussional
+ударный
+percussionist
+ударник
+percussions
+ударные
+percussive
+ударный
+percy
+перси
+perdition
+проклятие
+perdue
+притаившийся
+perdurability
+прочность
+perdurable
+вечный
+peregrinate
+путешествовать
+peregrination
+странствие
+peremption
+повелительность
+peremptive
+повелительный
+peremptorily
+безапелляционно
+peremptoriness
+безапелляционность
+peremptory
+безапелляционный
+perennial
+вечный	многолетний
+perestroika
+перестройка
+perfect
+улучшать	отличный
+perfect competition
+совершенная конкуренция
+perfect elasticity
+полная эластичность
+perfect market
+совершенный рынок
+perfect substitutes
+совершенные (полные) заменители
+perfectibility
+совершенство	способность к совершенству
+perfection
+совершенство
+perfectionism
+перфекционизм
+perfectionist
+перфекционист
+perfective
+совершенный	вид	совершенный
+perfectly
+вполне
+perfectness
+совершенство
+perfecto
+сигара
+perfidious
+вероломный
+perfidy
+вероломство
+perforate
+перфорировать
+perforated
+перфорировать	перфорированный
+perforation
+перфорация
+perforation skip
+прогон бумаги к началу следующей	страницы; для фальцованной бумаги
+perforator
+перфоратор
+perforce
+по необходимости
+perform
+выполнять
+performance
+исполнение
+performance balance
+отчетный баланс
+performance efficiency
+уровень производительности рабочего	соотношение между нормативным и фактически затраченным временем	(в процентах)
+performance rate
+норма выработки	уровень производительности
+performance rating
+оценка производительности рабочего
+performance specification
+требования к эффективности
+performance standard
+норма выработки	нормативный уровень производительности рабочего
+performance test
+эксплуатационное испытание
+performance testing
+проверка режима работы
+performance-rating
+оценка производительности рабочего
+performed
+выполнять
+performer
+исполнитель
+performing
+выполнять	выполнение	дрессированный
+perfume
+духи
+perfumer
+парфюмер
+perfumery
+парфюмерия
+perfunctorily
+поверхностно
+perfunctoriness
+поверхностность
+perfunctory
+небрежный
+pergola
+беседка из вьющихся растений
+perhaps
+возможно
+pericardia
+перикардия
+pericardial
+перикардительный
+pericardium
+околосердечная	сумка
+pericarp
+околоплодник
+pericles
+перикл
+perigee
+перигей
+perigree
+перигей
+perihelia
+перигелий
+perihelion
+перигелий
+peril
+риск
+perilous
+рискованный
+perimeter
+периметр
+perinatal
+перинатальный
+perinea
+промежность
+perineal
+промежностный
+perineum
+промежность
+period
+период	точка
+period contract
+долгосрочный контракт
+periodic
+периодический
+periodical
+периодический
+periodically
+периодически
+periodicals
+периодика
+periodicity
+периодичность
+periodogram
+периодограмма
+periodontal
+периодонтальный
+periodontics
+пародонтология
+peripatetic
+странствующий
+peripheral
+периферийное	устройство	периферийный
+peripheral controller
+контроллер внешнего устройства; контроллер ввода/вывода. процессор,	управляющий обменом (input-output)	между внешним устройством и памятью	ЭВМ
+peripheral device
+внешнее устройство, периферийное	устройство
+peripheral interrupt
+прерывание от внешнего устройства;	прерывание ввода/вывода
+peripheral limited
+ограниченный быстродействием внешних устройств
+peripheral storage
+внешнее запоминающее устройство	(ВЗУ); внешняя память
+peripheral unit
+внешнее устройство, периферийное	устройство
+peripherally
+периферийно
+peripherial
+внешний
+periphery
+периферия	периферийный
+periphrases
+перифраза
+periphrasis
+перифраза
+perique
+темно-коричневый
+periscope
+перископ
+perish
+гибнуть
+perishable
+скоропортящийся
+perishable freight
+скоропортящийся груз
+perishable goods
+скоропортящиеся товары
+perishable traffic
+перевозка скоропортящихся товаров
+perishableness
+непрочность
+perishably
+непрочно
+perished
+гибнуть	погибший
+peristalses
+перистальтика
+peristalsis
+перистальтика
+peristaltic
+перистальтический
+peristyle
+перистиль
+peritonea
+брюшина
+peritoneal
+брюшинный
+peritoneum
+брюшина
+peritonital
+брюшинный
+peritonitic
+перитонеальный
+peritonitis
+перитонит
+periwig
+парик
+periwinkle
+барвинок
+perjure
+лжесвидетельствовать
+perjured
+лжесвидетельствовать	лжествидетельствующий
+perjurer
+лжесвидетель
+perjuring
+лжесвидетельствовать	лжествидетельствующий
+perjurious
+лжесвидетельствующий
+perjuriously
+ложно
+perjury
+лжесвидетельство
+perk
+оживлять
+perk up
+задирать нос
+perkiness
+бойкость
+perky
+бойкий
+perm
+постоянный
+permafrost
+вечная	мерзлота
+permanence
+постоянство
+permanency
+постоянство
+permanent
+постоянный
+permanent appointment
+постоянное назначение	постоянный контракт
+permanently
+навсегда
+permeability
+проницаемость
+permeable
+проницаемый
+permeably
+проницаемо
+permeance
+магнитная	проводимость
+permeate
+проникать в
+permeation
+проникновение
+permian
+пермский
+permissibility
+разрешение
+permissible
+допустимый
+permissibly
+допустимо
+permission
+разрешение
+permissive
+не	строгий
+permissiveness
+вседозволенность
+permit
+разрешать	разрешение
+permitholder
+обладатель разрешения
+permitted
+разрешать	разрешенный
+permittee
+обладатель разрешения
+permitting
+разрешать	разрешающий
+permutation
+перестановка
+permutational
+перестановочный
+permutationist
+перестановщик
+permute
+переставлять
+pernicious
+пагубный
+perniciousness
+пагубность
+perone
+малая	берцовая	кость
+peroneal
+перонеальный
+peroraly
+перорально
+perorate
+разглагольствовать
+perorated
+разглагольствовать
+perorating
+разглагольствовать	разглагольствующий
+peroration
+разглагольствование
+peroxidase
+пероксидаза
+peroxide
+перекись
+perpendicular
+перпендикулярный
+perpetrate
+совершать
+perpetrated
+совершать	совершенный
+perpetrating
+совершать
+perpetration
+совершение
+perpetrator
+виновник
+perpetual
+бессрочный
+perpetual annuities
+бессрочные аннуитеты
+perpetual annuitys
+бессрочные аннуитеты
+perpetual inventory
+"непрерывная" инвентаризация
+perpetual liabilities
+долгосрочные пассивы (обязательства)
+perpetually
+вечно
+perpetualness
+нескончаемость
+perpetuate
+увековечивать
+perpetuated
+увековечивать	увековеченный
+perpetuating
+увековечивать	увековечивающий
+perpetuation
+увековечение
+perpetuity
+вечность
+perplex
+усложнять
+perplexed
+усложнять	недоуменный
+perplexing
+усложнять
+perplexity
+недоумение
+perquisite
+льгота
+persecute
+преследовать
+persecuted
+преследовать	преследуемый
+persecuting
+преследовать	преследующий
+persecution
+преследование
+persecutor
+преследователь
+persephone
+персефона
+perseus
+персей
+perseverance
+настойчивость
+persevere
+упорствовать
+persevered
+упорствовать	упорствующий
+persevering
+упорствовать	упорство
+pershing
+першинг
+persia
+персия
+persian
+персидский	персидско
+persiflage
+беззлобная	насмешка
+persimmon
+хурма
+persist
+упорствовать	настаивать
+persistence
+настойчивость
+persistency
+настойчивость
+persistent
+устойчивый
+persistently
+упорно
+persisting
+упорствовать	настаивать	остаточный
+persnicketiness
+придирчивость
+persnickety
+придирчивый
+person
+человек
+persona
+персона
+personable
+симпатичный
+personableness
+привлекательность
+personably
+привлекательно
+personae
+персона
+personage
+персонаж
+personal
+персональный
+personal account
+лицевой счет
+personal allowance
+надбавка на личные надобности
+personal computer
+персональная ЭВМ, ПЭВМ. однопользовательская ЭВМ на базе микропроцессора; типичная ПЭВМ имеет оперативную память от 64 кбайт до 512 кбайт, видеомонитор или выход на бытовой телевизор, внешнюю память на	гибких магнитных дисках и последовательный интерфейс для подлючения	внешних устройств; многие ПЭВМ имеют также винчестерский диск и модем
+personal consumption
+личное потребление
+personal incomes
+личные доходы
+personal library
+личная библиотека, библиотека пользователя
+personal loan
+личный (необеспеченный залогом) кредит	ссуда на потребительские цели	потребительский кредит
+personal manager
+управляющий по кадрам	заведующий отдела кадров
+personal property
+личная собственность	личное имущество
+personal reference
+личная рекомендация
+personal saving
+личные сбережения
+personal savings
+личные сбережения
+personal tax
+личный подоходный налог
+personality
+личность
+personalization
+индивидуализация
+personalize
+персонализировать
+personalized
+персонализированный
+personally
+лично
+personalties
+движимость
+personalty
+движимость
+personate
+играть роль
+personation
+олицетворение
+personification
+олицетворение
+personified
+воплощать	конкретный
+personify
+воплощать
+personnel
+персонал
+personnel administration
+управление кадрами	"человеческие" отношения в промышленности
+personnel arrangements
+штатное расписание
+personnel audit
+проверка работы персонала
+personnel inventory
+штатное расписание
+personnel management
+управление кадрами
+personnel manager
+управляющий отделом кадров
+personnel men
+штатный персонал
+personnel organization
+штатное расписание
+persons
+лицо
+perspective
+перспектива	перспективный
+perspicacious
+проницательный
+perspicacity
+проницательность
+perspicuity
+ясность
+perspicuous
+понятный
+perspicuously
+ясно
+perspicuousness
+понятность
+perspiration
+пот
+perspire
+потеть
+perspired
+потеть
+perspiring
+потеть	вспотевший
+persuadable
+поддающийся убеждению
+persuadably
+убедительно
+persuade
+убеждать
+persuaded
+убеждать	убежденный
+persuading
+убеждать	убеждающий
+persuasion
+убеждение
+persuasive
+убедительный
+persuasively
+убедительно
+persuasiveness
+убедительность
+pert
+свежий	дерзкий
+pertain
+относиться
+pertaining
+относиться	относящийся
+pertinacious
+упорный
+pertinacity
+упорство
+pertinence
+уместность
+pertinency
+релевантность
+pertinent
+соответствующий
+pertinent data
+требуемые данные
+pertness
+бойкость
+perturb
+волновать
+perturbation
+пертурбация
+pertussis
+коклюш
+peru
+перу
+perusal
+прочтение
+peruse
+просматривать
+peruvian
+перуанский
+pervade
+наполнять
+pervaded
+наполнять	наполненный
+pervading
+наполнять	наполняющий
+pervasive
+повсеместный
+perverse
+порочный
+perverseness
+порочность
+perversion
+извращение
+perversity
+порочность
+pervert
+извращать	извращенец
+perverted
+извращать	порочный
+peseta
+песета
+peskiness
+надоедливость
+pesky
+надоедливый
+peso
+песо
+pessimism
+пессимизм
+pessimist
+пессимист
+pessimistic
+пессимистичный
+pessimistically
+пессимистично
+pest
+вредитель
+pester
+донимать
+pesterer
+зануда
+pesticidal
+пестицидный
+pesticide
+пестицид
+pestiferous
+заразный
+pestilence
+чума
+pestilent
+заразный
+pestilential
+чумной
+pestilentially
+заразно
+pestilently
+заразно
+pestle
+пестик
+pet
+баловать	домашнее	животное
+pet dog
+комнатная собачка, болонка
+pet name
+ласкательное имя
+petal
+лепесток	лепестковый
+petal printer
+лепестковое печатающее устройство
+petaluma
+петалума
+petard
+петарда
+petcock
+спускной	кран
+pete
+пит
+peter
+питер
+peterburger
+петербуржец
+petersbourg
+петербург	петербургский
+petersbourgh
+петербург	петербургский
+petersburg
+петербург	петербургский
+petiole
+черешок
+petit
+малый
+petite
+миниатюрный
+petition
+ходатайствовать	петиция	прошение
+petitioned
+ходатайствовать
+petitioner
+истец
+petitioning
+ходатайствовать
+petnapping
+похищение домашних животных
+petrel
+буревестник
+petrifaction
+окаменение
+petrified
+окаменеть	окаменелый
+petrify
+окаменеть
+petrifying
+окаменеть	каменеющий
+petrochemical
+нефтехимический
+petrochemistry
+нефтехимия
+petrographer
+петрограф
+petrographic
+петрографический
+petrographical
+петрографический
+petrography
+петрография
+petrol
+бензин
+petrolatum
+петролатум
+petroleous
+нефтяной
+petroleum
+нефть
+petroleum proceeds
+выручка от продажи (экспорта) нефти
+petroleum refinery
+нефтеперерабатывающий завод	нефтеочистительный (нефтеперегонный) завод
+petrolic
+полученный из нефти
+petrologic
+петрологический
+petrological
+петрологический
+petrologically
+петрологически
+petrologist
+петролог
+petrology
+петрология
+petted
+баловать	избалованный
+petticoat
+нижняя	юбка
+pettifog
+крючкотворствовать
+pettifogger
+крючкотвор
+pettifoggery
+крючкотворство
+pettily
+мелочно
+pettiness
+мелочность
+petting
+баловать	баловство
+pettish
+обидчивый
+pettishly
+раздражительно
+pettishness
+обидчивость
+petty
+мелкий	мелочный
+petty cash
+мелкие суммы
+petulance
+раздражительность
+petulancy
+раздражительность
+petulant
+раздражительный
+petulantly
+раздражительно
+petunia
+петуния
+peugeot
+пежо
+pew
+скамья
+pewit
+чибис
+pewter
+сплав	оловянный
+peyote
+кактус
+pfennig
+пфенниг
+pgr
+#прог	
+phaeton
+фаэтон
+phage
+бактериофаг
+phagocyte
+фагоцит
+phalange
+фаланга
+phalanx
+фаланга
+phalarope
+плавунчик
+phalli
+фаллос
+phallic
+фаллический
+phallus
+фаллос
+phantasia
+фантазия
+phantasm
+призрак
+phantasmagoria
+фантасмагория
+phantasmagoric
+фантасмагорический
+phantasmal
+призрачный
+phantom
+фантом	искусственный
+phantomlike
+искусственный
+pharaoh
+фараон
+pharisaic
+фарисейский
+pharisaical
+фарисейский
+pharisaically
+по-фарисейски
+pharisee
+фарисей
+pharmaceutic
+фармацевтический
+pharmaceutical
+фармацевтический
+pharmaceuticals
+фармацевтический	препарат
+pharmaceutics
+фармацевтика
+pharmacist
+фармацевт
+pharmacologic
+фармакологический
+pharmacological
+фармакологический
+pharmacologist
+фармаколог
+pharmacology
+фармакология
+pharmacopeia
+фармакопея
+pharmacopoeia
+фармакопея
+pharmacopoeias
+фармакопея
+pharmacy
+аптека
+pharmocology
+фармакология
+pharyngeal
+глоточный
+pharynges
+зев
+pharyngitis
+фарингит
+pharynx
+зев
+phase
+фаза
+phase-out
+постепенно (поэтапно) свести на нет	постепенно ликвидировать
+phased
+поэтапный
+phasemeter
+фазометр
+phaseout
+затухание
+phasic
+этапный
+phasing
+фазирование
+phasing-in
+пуск в действие
+pheasant
+фазан
+phenol
+фенол
+phenomena
+явление
+phenomenal
+феноменальный
+phenomenon
+феномен
+phenonmenon
+феномен
+phenotype
+фенотип
+phenotypic
+фенотипический
+phenyl
+фенил
+phew
+фу
+phi
+#фи
+phial
+пузырек
+phil
+фил
+philadelphia
+филадельфия
+philadelphian
+филадельфиец
+philander
+флиртовать
+philanderer
+ухажер
+philanthropic
+филантропический
+philanthropist
+филантроп
+philanthropy
+филантропия
+philatelic
+филателистический
+philatelist
+филателист
+philately
+филателия
+philemon
+филемон
+philharmonic
+филармония	филармонический
+philip
+филип
+philipines
+филиппины
+philippian
+филиппиец
+philippic
+филиппика
+philippine
+филиппинский
+philippines
+филиппины
+philips
+филипс
+philistine
+филистин
+phillips
+филипс
+phillis
+пастушка	официантка
+phillumenist
+филуменист
+philodendron
+филодендрон
+philological
+филологический
+philologist
+филолог
+philology
+филология
+philos
+филос	
+philosopher
+философ
+philosophic
+философский
+philosophical
+философский
+philosophize
+философствовать
+philosophized
+философствовать
+philosophizing
+философствовать	философствующий
+philosophy
+философия
+philter
+любовный	напиток
+phlebitis
+флебит
+phlebotomy
+кровопускание
+phlegm
+флегма
+phlegmatic
+флегматический
+phlegmatically
+флегматично
+phloem
+флоэма
+phlox
+флокс
+phobia
+боязнь
+phobic
+боязливый
+phobophobe
+фобофоб
+phoebe
+фиби
+phoenicia
+финикия
+phoenician
+финикиец	финикийский
+phoenix
+феникс
+phone
+звонить	телефон	телефонный
+phoned
+звонить
+phoneme
+фонема
+phonemic
+фонематический
+phonemically
+фонематически
+phonetic
+фонетический
+phonetically
+фонетически
+phonetician
+фонетист
+phonetics
+фонетика
+phoney
+липовый
+phonic
+звуковой
+phonically
+звуком
+phoniness
+лживость
+phono
+фоно
+phonograph
+проигрыватель
+phonological
+фонологический
+phonologist
+фонолог
+phonology
+фонология
+phonorecord
+фонозапись
+phony
+липовый
+phooey
+тьфу
+phosgene
+фосген
+phosphatase
+фосфатаза
+phosphate
+фосфат
+phosphatic
+фосфатный
+phosphide
+фосфид
+phosphite
+фосфит
+phosphor
+фосфор
+phosphorescence
+свечение
+phosphorescent
+светящийся
+phosphoric
+фосфорный
+phosphorous
+фосфор
+phosphorus
+фосфор
+photo
+фото	фото
+photocell
+фотоэлемент
+photoconductor
+фоторезистор
+photocopier
+фотокопировальное	устройство
+photocopy
+фотокопировать	фотокопия
+photocopying
+фотокопирование
+photocurrent
+фототок
+photodiode
+фотодиод
+photodisk
+фотодиск
+photoeffect
+фотоэффект
+photoelectric
+фотоэлектрический
+photoengraving
+фотогравюра
+photoetching
+фототравление
+photogenic
+фотогеничный
+photogenically
+фотогенично
+photograph
+фотографировать	фотография
+photographer
+фотограф
+photographic
+фотографический
+photography
+фотография
+photogravure
+фотогравюра
+photoimpact
+воздействие световым импульсом
+photointerpreter
+фотоинтерпретатор
+photoisolation
+фотоизоляция
+photomask
+фотомаска
+photomasking
+фотомаскирование
+photometer
+фотометр
+photometry
+фотометрия
+photomicrography
+микрофотография
+photomultiplier
+фотоумножитель
+photon
+фотон
+photooscillogram
+фотоосциллография
+photoplate
+фотопластинка
+photoplotter
+фотопостроитель
+photoprocessing
+фотообработка
+photoreader
+фотосчиватель
+photoreduction
+фотоуменьшение
+photoresist
+фоторезист
+photoresistor
+фоторезистор
+photosensitive
+светочувствительный
+photosensitize
+делать светочувствительным
+photosensor
+фотодатчик
+photoshpere
+фотосфера
+photospheric
+фотосферический
+photostat
+фотокопия	ксеро
+photostore
+фотопамять
+photoswitch
+фотореле
+photosynthesis
+фотосинтез
+phototransistor
+фототранзистор
+phototube
+фотоэлемент
+photovaristor
+фотоваристор
+photovoltaic
+фотоэлектрический
+photovoltaics
+фотоэлектричество
+phrasal
+языковый
+phrase
+фраза
+phraseological
+фразеологический
+phraseology
+фразеология
+phrasings
+выражение
+phrenic
+грудобрюшной	психический
+phrenological
+френологический
+phrenologist
+френолог
+phrenology
+френология
+phs
+Йслужба здравоохр	
+phthisis
+туберкулез легких
+phyche
+психика
+phyla
+тип	филум
+phylactery
+филактерия
+phylum
+тип	филум
+physic
+лекарство
+physical
+	медицинский	осмотр	физический
+physical address
+физический адрес.	число, идентифицирующее ячейку	или область физической памяти.	код, задающий физическое положение данных на внешнем устройстве. для диска физический адрес	имеет вид <номер поверхности,	номер дорожки, номер сектора>
+physical block
+физический блок. порция физического	обмена с внешним устройством (обычно диском); участок носителя, на	котором размещается такая порция
+physical capital
+реальный капитал
+physical costs
+затраты в натуральной форме
+physical data
+натуральные показатели	показатели физического объема
+physical depreciation
+физический износ
+physical device
+физическое устройство
+physical efficiency
+физическая эффективность (выражаемая натуральными, а не стоимостными	показателями)
+physical exports
+физический объем экспорта
+physical facilities
+средства труда
+physical imports
+физический объем импорта
+physical interface
+физический интерфейс.		физическое подключение (сопряжение). наличие и способ физической связи
+physical inventory
+инвентаризация с осмотром и замером запасов
+physical layer
+физический уровень. уровень взаимодействия в сети передачи данных,	обеспечивающий интерфейс между вычислительной машиной, участвующей во	взаимодействии, и средой передачи	сигналов
+physical life
+физический срок эксплуатации
+physical measures
+натуральные единицы измерения	натуральные показатели
+physical output
+физический объем производства	материальное производство
+physical person
+физическое лицо
+physical protocol
+физический протокол. уровень протокола сети передачи данных, регламентирующий механические, электрические, функциональные и процедурные	характеристики интерфейса между вычислительной машиной, участвующей	во взаимодействии, и средой передачи (medium) сигналов. стандартом	для этого уровня служит, например,	RS-232C
+physical record
+физическая запись. порция обмена с	внешним устройством. физическая запись может содержать одну логическую запись (logical record), несколько логических записей или часть	логической записи
+physical storage
+физическая память. внешняя или оперативная память вычислительной системы, реализуемая определенным запоминающим устройством
+physically
+физически
+physician
+врач
+physicist
+физик
+physics
+физика
+physiognomy
+физиономика
+physiographic
+физиографический
+physiography
+физиография
+physiologic
+физиологический
+physiological
+физиологический
+physiologist
+физиолог
+physiology
+физиология
+physiotherapist
+физиотерапевт
+physiotherapy
+физитерапия
+physique
+телосложение
+phyto
+фито
+phytocenosis
+фитоценоз
+phytoplankton
+фитопланктон
+phytosanitary
+фитосанитарный
+pianissimo
+пианиссимо
+pianist
+пианист
+piano
+фортепиано
+pianoforte
+фортепиано
+piaster
+пиастр
+piastre
+пиастр
+piazza
+площадь
+piazze
+площадь
+pibroch
+вариация для волынки
+pica
+пика
+pica face
+печать с плотностью 10 символов на	дюйм
+picaresque
+плутовской
+picaroon
+авантюрист
+picasso
+пикассо
+picayune
+мелочный
+piccadilly
+пикадилли
+piccalilli
+маринад
+piccolo
+пикколо
+pice
+пайса
+pick
+выбирать	указка
+pick device
+указка, устройство выбора. в интерактивной графике - логическое устройство ввода для указания элемента	изображения или сегмента. реализуется с помощью мыши, светового пера,	шара трассировки, графического планшета или клавиш управления курсором
+pick identifier
+идентификатор указки
+pick out
+выбирать [выбрать]
+pick up
+соб(и)рать	подбирать [подобрать]	понимать [-нять]	заезжать [заехать] за
+pick-a-back
+(о детях) на спине (отца и т.п.)
+pickax
+кирка
+picked
+выбирать	выбранный
+picker
+сборщик
+pickerel
+щука
+picket
+пикетировать	пикет
+picketer
+пикетчик
+picking
+выбирать	выбор
+pickle
+мариновать	травить	маринад	потрава
+pickled
+мариновать	травить	маринованый	травленый
+pickling
+мариновать	травить	травление
+pickpocket
+карманный	вор
+pickup
+оживление	пикап
+picky
+разборчивый
+picnic
+пикник
+picnicked
+участвовать в пикнике
+picnicker
+участник пикника
+picnicking
+участвовать в пикнике
+picosecond
+пикосекунда
+picot
+пико
+pictograph
+пиктограмма
+pictographic
+пиктографический
+pictography
+пиктография
+pictorial
+живописный
+picture
+изображать	изображение	артс)картина	фото)снимок	картинный
+picture card
+открытка с видом
+picture generation
+формирование изображения
+picture postcard
+открытка с видом
+picture-gallery
+картинная галерея
+pictured
+изображать
+picturephone
+видеотелефон
+picturesque
+живописный
+picturesqueness
+живописность
+piddle
+заниматься пустяками
+piddling
+заниматься пустяками	пустяковый
+pidgin
+пиджин
+pie
+пирог
+piebald
+пегий
+piece
+часть	кусок
+piece goods
+штучные товары
+piece rate
+сдельная расценка
+piece wage
+поштучная (сдельная) оплата
+piece work
+сдельная работа	сдельщина
+piece worker
+рабочий на сдельщине	сдельщик
+piece-of
+одолжить деньги	дать взятку
+piecemeal
+частичный
+piecework
+сдельная	работа
+piecework earnings
+сдельный заработок
+pieceworker
+сдельщик
+piechart
+круговая	диаграмма
+pied
+путать	смешивать
+pieplant
+ботан)ревень
+pier
+пристань	бык
+pierce
+прокалывать
+pierced
+прокалывать	проколотый
+piercing
+проникать	прокалывать	пронзительный
+pierhead
+голова мола	пирса	быка
+piety
+набожность
+piezoelectric
+пьезоэлектрический
+piffle
+болтать	пустяк
+pig
+свинья
+pig crop
+приплод свиней
+pig-iron
+чугун в болванках
+pigeon
+голубь
+pigeon-hole
+отделение (письменного стола и т.п.)	раскладывать по ящикам	откладывать в долгий ящик
+pigeonhole
+ящик для корреспонденции
+piggery
+свинарник
+piggish
+свинский
+piggishness
+жадность
+piggy
+свинка
+piggyback
+нестандартный
+piggyback acknowledgement
+вложенное подтверждение	подтверждение приема, передаваемое как часть другого информационного сообщения, а не оформленное как отдельное сообщение или сигнал
+piggyback card
+нестандарная плата расширения. плата, подлючаемая в специальный разъем на основной плате и расположенная в параллельной ей плоскости
+piggybacking
+Побратного направления
+pigheaded
+тупоумный
+pigheadedness
+тупоумие
+piglet
+поросенок
+pigment
+пигмент
+pigmental
+пигментный
+pigmentary
+пигментный
+pigmentation
+пигментация
+pigmented
+пигментированный
+pigpen
+свинарник
+pigskin
+свиная	кожа
+pigsty
+хлев
+pigtail
+косичка
+pigweed
+марь
+pika
+пищуха
+pike
+щука	пика
+pikeman
+рудокоп	сборщик подати
+piker
+трус
+pikestaff
+древко
+pikestaves
+древко
+pilaf
+плов
+pilaster
+пилястр
+pilate
+пилат
+pilchard
+европейская	сардина
+pile
+кипа
+pileup
+куча
+pilfer
+красть
+pilferage
+мелкая	кража
+pilferer
+мелкий	жулик
+pilgrim
+пилигрим
+pilgrimage
+паломничество
+pill
+пилюля
+pillage
+грабить	мародерство
+pillager
+мародер
+pillar
+колонна	столп
+pillar-box
+почтовый ящик
+pillbox
+дот
+pillion
+заднее	сиденье
+pillory
+пригвождать к позорному столбу	позорный	столб
+pillow
+подушка
+pillow-case
+наволочка
+pillow-slip
+наволочка
+pillowcase
+наволочка
+pillowslip
+наволочка
+pillowy
+мягкий
+pilocarpine
+пилокарпин
+pilot
+управлять	пилот	опытный
+pilot area
+экспериментальный район
+pilot lot
+пробная партия
+pilot plant
+опытный (экспериментальный) завод
+pilot project
+опытный (экспериментальный, показательный) проект
+pilot survey
+предварительное обследование
+pilot system
+эксперементальная версия системы; прототип.	минимальная версия системы, используемая для генерации или разработки полной версии
+pilot-balloon
+шар-пилот
+pilotage
+пилотаж
+piloted
+управлять	управляемый
+pilothouse
+рулевая	рубка
+piloting
+управлять	макетирование
+pilsner
+пильзнер
+pimento
+стручковый	перец
+pimiento
+стручковый	перец
+pimp
+сводник
+pimpernel
+очный	цвет
+pimple
+прыщ
+pin
+прикалывать	штырек	штырьковый
+pinafore
+передник
+pinball
+пинбол
+pinboard
+наборное	поле
+pincer
+клещ
+pincers
+клещ	клешня
+pinch
+щипать	повышение
+pinched
+щипать	повышение
+pinchpenny
+жадина
+pincushion
+подушечка для иголок
+pine
+сосна
+pine-apple
+ананас
+pine-cone
+сосновая шишка
+pineal
+шишковидный
+pineapple
+ананас	ананасовый
+pinfeather
+зоол)пенек
+ping
+звон
+pinhead
+булавочная	головка
+pinhole
+булавочная	дырка
+pinion
+шестерня
+pink
+розовый
+pinkeye
+заразный	конъюнктивит
+pinkie
+мизинец
+pinkish
+розоватый
+pinko
+"розовый"
+pinnace
+пинас
+pinnacle
+вершина
+pinnate
+перистый
+pinnated
+перистый
+pinnately
+перисто
+pinner
+чепчик
+pinniped
+ластоногий	ластоногий
+pinocchio
+пиноккио
+pinochle
+карточная	игра
+pinon
+кедровидная	сосна
+pinout
+цоколевка
+pinpoint
+определять
+pinprick
+булавочный	укол
+pinstripe
+тонкая	полоска
+pinstriped
+Пв тонкую полоску
+pint
+пинта
+pintail
+шилохвость
+pinto
+пегая	лошадь
+pinup
+фотография красотки
+pinwheel
+вертушка
+pioneer
+исследовать	пионер	пионерский
+pioneer activities
+ведущие (новые) отрасли (предприятия)
+pioneer status
+статус (нового, ведущего) предприятия (отрасли
+pioneer statute
+статус ведущего (нового) предприятия (отрасли)
+pioneering
+предлагать первым
+pious
+набожный
+piousness
+набожность
+pip
+типун
+pipe
+труба
+pipe-layer
+прокладчик труб
+pipe-line
+трубопровод	нефтепровод
+pipefitter
+трубоукладчик
+pipefitting
+укладка труб
+pipelayer
+трубоукладчик
+pipeline
+конвейер	конвейерный
+piper
+волынщик
+pipes
+труба
+pipestone
+катлинит
+pipette
+пипетка
+piping
+труба
+piping hot
+очень горячий
+pipistrelle
+нетопырь
+pipit
+конек
+pipkin
+глиняный	горшок
+pippin
+пепин
+pipsqueak
+мелкая	сошка
+piquancy
+пикантность
+piquant
+пикантный
+pique
+уязвлять	обида
+piquet
+пикет
+piracy
+незаконное	копирование
+piranha
+пиранья
+pirate
+воровать	пират	пиратский
+piratical
+пиратский
+pirating
+пиратствовать	пиратствующий
+pirouette
+делать пируэт	пируэт
+piscatorial
+рыбацкий
+pisces
+рыба
+pismire
+муравей
+piss
+писать
+pissed
+обидеться	обиженный
+pistachio
+фисташка	фисташковый
+pistil
+пестик
+pistillate
+пестичный
+pistol
+пистолет
+piston
+поршень	поршневой
+piston-rod
+шатун
+piston-stroke
+ход поршня
+pit
+геол)шахта	косточка	яма
+pita
+пита
+pitapat
+биение
+pitapats
+биение
+pitch
+бросать	шаг
+pitch into
+набрасываться [-роситься] на
+pitchblende
+смоляная	обманка
+pitched
+бросать
+pitcher
+кувшин
+pitchfork
+вилы
+pitchman
+уличный	торговец
+pitchy
+смолистый
+piteous
+жалкий
+piteousness
+жалостность
+pitfall
+западня
+pith
+сердцевина
+pithecanthropus
+питекантроп
+pithily
+в точку
+pithiness
+точность
+pithy
+выразительный
+pitiable
+жалкий
+pitiably
+жалко
+pitiful
+сострадательный
+pitifulness
+жалостность
+pitiless
+безжалостный
+pitilessness
+безжалостность
+pitman
+шахтер
+piton
+крюк
+pittance
+жалкие	грош
+pitting
+выставлять
+pituitary
+гипофиз	гипофизарный
+pity
+жалость
+pityingly
+с жалостью
+pius
+пий
+pivot
+вращать	стержень
+pivotal
+центральный
+pix
+фото	кино
+pixel
+фото)пиксель
+pixelization
+разложение изображения на элементы
+pixie
+чудище
+pixy
+чудище
+pizazz
+стиль	класс
+pizza
+пицца
+pizzazz
+стиль	класс
+pizzeria
+пиццерия
+pizzicato
+щипком	щипковый
+pkg
+пакет
+pkwy
+парковая	дорога
+placable
+благодушный
+placard
+афиша
+placarder
+расклейщик афиш
+placate
+умиротворять
+placation
+умиротворение
+placative
+умиротворяющий
+placatory
+умиротворяющий
+place
+устанавливать	место
+place business
+размещать заказы
+placebo
+плацебо
+placed
+устанавливать	установленный
+placeholder
+метка-заполнитель
+placement
+размещение
+placement firm
+фирма по трудоустройству управленческих кадров (менеджеров)
+placement service
+биржа труда	служба занятости	бюро трудоустройства
+placenta
+плацента
+placentae
+плацента
+placental
+плацентарный
+placer
+россыпь
+placid
+спокойный
+placidity
+спокойствие
+placing
+устанавливать	размещение
+placket
+разрез
+plagerize
+заимствовать
+plagiarie
+плагиатор
+plagiarism
+плагиат
+plagiarist
+плагиатор
+plagiarize
+заниматься плагиатом
+plagiarizer
+плагиатор
+plagiary
+плагиат
+plague
+беспокоить
+plaice
+камбала
+plaid
+шотландка	клетчатый
+plain
+равнина	простой	гладкий
+plain-clothes
+man сыщик
+plainclothes
+штатское	платье
+plainclothesman
+сыщик в штатском
+plainly
+просто
+plainness
+простота
+plainsman
+обитатель равнин
+plaint
+жалоба
+plaintext
+открытый	текст
+plaintiff
+истец
+plaintive
+жалобный
+plait
+заплетать	коса
+plan
+план
+plan balance
+плановый баланс
+plan fulfilment
+выполнение плана	плановая дисциплина
+plan revision
+корректировка плана
+planar
+планарный
+planarity
+плоскостность
+planarization
+планаризация
+plane
+плоскость	самолет
+planeload
+грузоемкость самолета
+planer
+строгальщик
+planet
+астр)планета	планетарный
+planetaria
+планетарий
+planetarium
+планетарий
+planetary
+астр)планетный
+planetesimal
+планетезималь
+planetoid
+астр)астероид
+planetologist
+планетолог
+planetology
+планетология
+plangency
+протяжность
+plangent
+протяжный
+plank
+настилать	доска
+plank down
+выкладывать [выложить] (деньги)
+planking
+настилать	обшивка
+plankton
+планктон
+planned
+планировать	б)собираться	запланированный
+planned capacity
+плановая производительность
+planned costs
+плановые издержки	плановые затраты
+planned damages
+плановые убытки
+planned economy
+плановое хозяйство
+planned figures
+контрольные цифры
+planned maintenance
+планово-предупредительный ремонт
+planned obsolescence
+"планируемое старение" (товаров)
+planned performances
+плановая производительность
+planned price
+плановая цена
+planned protection
+защита растений от вредителей и сорняков
+planned return
+плановая прибыль
+planned value
+плановая стоимость
+planner
+записная	книжка
+planning
+планировать	планирование
+planning agencies
+плановые органы
+planning ahead
+перспективное планирование
+planning estimates
+запланированная смета	сметные предположения
+planning offices
+планирующие органы	плановые органы
+planning output
+планируемая продукция	плановый выпуск (продукции)
+planning period
+планируемый период
+planning standards
+плановые нормативы	нормативы,используемые при планировании
+planning system
+система планирования
+plano
+плоско
+plant
+устанавливать	завод	ботан)растение
+plant capacity
+производственная мощность
+plant content
+содержание действующего вещества
+plant cost
+заводская (фабричная) себестоимость
+plant location
+размещение предприятия
+plant management
+заводоуправление	управление заводом
+plant manager
+директор завода	управляющий
+plant overhead
+заводские накладные расходы
+plant protection
+защита растений (от вредителей и сорняка)
+plant replacement
+замена оборудования (основного капитала)
+plant stock
+основной капитал (здания, сооружения и оборудование)
+plant superintendent
+управляющий заводом
+plant transportation
+внутризаводской транспорт
+plantain
+подорожник
+plantar
+подошвенный
+plantation
+плантация
+planted
+устанавливать	посаженный
+planted acreage
+посевная площадь
+planter
+плантатор
+plaque
+пластинка
+plasm
+плазм
+plasma
+плазма	плазменный
+plasmatic
+плазматический
+plasmic
+плазматический
+plasmids
+плазмид
+plaster
+пластырь	штукатурка
+plasterboard
+штукатурная	плита	сухая штукатурка
+plasterer
+штукатур
+plastery
+вязкий
+plastic
+пластмасса	пластический
+plastically material
+пластмасса
+plasticine
+пластилин
+plasticity
+пластичность
+plasticize
+придавать пластичность
+plasticized
+придавать пластичность	пластичный
+plasticizer
+пластификатор
+plasticizing
+придавать пластичность	
+plat
+участок
+plate
+пластина	листовой
+plateau
+плато
+plateaux
+плато
+plated
+покрывать	плакированный
+plateful
+полная	тарелка
+platelet
+кровяная	пластинка
+platen
+валик
+plates
+листовой	металл
+platform
+платформа
+plating
+покрывать	покрытие	металлизация
+platinum
+платина
+platitude
+банальность
+platitudinous
+банальный
+platitudinously
+банально
+plato
+платон
+platonic
+платонический
+platonically
+платонически
+platoon
+взвод
+platter
+блюдо
+platypus
+утконос
+plaudit
+аплодисмент
+plausibility
+правдоподобие
+plausible
+правдоподобный
+plausibleness
+правдоподобие
+plausibly
+правдоподобно
+play
+играть	игра	пьеса
+play off
+разыгрывать [-рать]	стравливать [стравить] (against с *Т)
+play skittles
+играть в кегли
+play wright
+драматург
+play-ground
+площадка для игр
+play-house
+театр
+playact
+вставать в позу
+playback
+воспроизводить	воспроизведение
+playbill
+афиша
+playboy
+гуляка
+played
+играть
+player
+игрок
+player-piano
+пианола
+playfellow
+друг детства
+playful
+веселый
+playfulness
+игривость
+playgirl
+любительница развлечений
+playgoer
+театрал
+playground
+игровая	площадка
+playhouse
+театр
+playing
+играть	игра	инф)прогон	игральный
+playlet
+пьеска
+playmate
+партнер
+playoff
+розыгрыш
+playpen
+манеж
+playroom
+комната для игр
+plays
+играть	игра	пьеса
+playsuit
+комбинезон
+plaything
+игрушка
+playtime
+время для игр
+playwright
+драматург
+plaza
+площадь
+plea
+заявление
+plead
+просить
+plead for
+вступаться [-питься] за	говорить за
+plead guilty
+признавать себя виновным
+pleaded
+просить
+pleader
+адвокат
+pleading
+просить	просительный
+pleasant
+приятный
+pleasantly
+приятно
+pleasantness
+приятность
+pleasantry
+шутка
+please
+пожалуйста
+pleased
+радовать	радый
+pleases
+угождать
+pleasing
+угождать	приятный
+pleasurable
+доставляющий удовольствие
+pleasurably
+приятно
+pleasure
+удовольствие
+pleasureful
+доставляющий удовольствие
+pleat
+гофрировать	складка
+pleated
+гофрировать	плиссированный
+plebe
+курсант первого курса
+plebeian
+плебей	плебейский
+plebes
+курсант первого курса
+plebiscite
+плебисцит
+plebs
+плебс
+plectra
+плектр
+plectrum
+плектр
+pled
+просить
+pledge
+обязываться	закладывать	обязательство
+pledge liabilities
+взять на себя обязательство по взносам (ООН)
+pledged
+обязываться	закладывать	обещанный	заложенный
+pledged contributions
+официально объявленные взносы
+pledged securitys
+заложенные ценные бумаги
+pledgee
+залогодержатель
+pledgeed contributions
+официально объявленные взносы
+pledgeed securities
+заложенные ценные бумаги
+pledgeholder
+залогодержатель
+pledgeing target
+целевое здание по взносам (ООН)
+pledger
+залогодатель
+pledgor
+залогодатель
+pleiades
+плеяды
+pleistocene
+относящийся к плейстоцену
+plena
+пленум
+plenarily
+полно
+plenary
+полный
+plenipotentiary
+полномочный
+plenitude
+изобилие
+plenteous
+обильный
+plenteousness
+обильность
+plentiful
+обильный
+plentiful jobs
+обилие свободных рабочих мест
+plentifulness
+изобилие
+plenty
+много	обильный
+plenty of
+много
+plenum
+пленум
+plethora
+полнокровие
+plethysmography
+плетисмография
+pleura
+плевра
+pleural
+плевральный
+pleurisy
+плеврит
+plex
+сплетение
+plexiglas
+плексиглас
+plexiglass
+плексиглас
+plexus
+сплетение
+pliability
+гибкость
+pliable
+гибкий
+pliably
+гибко
+pliancy
+гибкость
+pliant
+гибкий
+pliers
+клещ
+plight
+обещать	плачевный	состояние(обязательство)
+plinth
+плинтус
+pliocene
+плиоцен	плиоценовый
+plo
+#ооп
+plod
+брести
+plodders
+труженик
+ploddingly
+тащась
+plop
+бултыхаться	бултых
+plot
+вычерчивать	график
+plotter
+графопостроитель
+plotting
+вычерчивать	вычерчивание
+plough
+пахать	плуг
+plover
+ржанка
+plow
+пахать	плуг
+plow back
+реинвестировать прибыль
+plower
+пахарь
+plowhorse
+трудовая	лошадь
+plowing
+пахать	вспашка
+plowing back
+самофинансирование
+plowman
+пахарь
+plowshare
+лемех
+ploy
+прием
+pluck
+срывать	собирать	смелость	стойкость
+pluck at
+дергать [дернуть]	хватать(ся) [схватить(ся)] за
+pluckily
+смело
+pluckiness
+смелость
+plucky
+смелый
+plug
+закрывать	элек)подключать	разъем
+plug compatible
+совместимый по разъемам
+plug socket
+штепсельная розетка
+plugboard
+коммутационная	панель
+pluggable
+сменный
+plugged
+подключать	подключенный
+plugging
+подключать
+plum
+слива	сливовый
+plumage
+оперение
+plumb
+отвес	отвесный
+plumber
+водопроводчик
+plumbing
+сантехническая	арматура
+plume
+перо
+pluming
+водопровод
+plummet
+падать
+plummeted
+падать
+plump
+пухлый	полный
+plumpness
+пухлость
+plumy
+перистый
+plunder
+грабить	грабеж
+plunderer
+грабитель
+plunge
+погружать	падение
+plunger
+плунжер
+plunk
+бренчать
+pluperfect
+давнопрошедшее	время	давнопрошедший
+plural
+множественный
+pluralism
+плюрализм
+pluralistic
+плюралистический
+plurality
+перевес
+pluralization
+образование множественного числа
+pluralize
+образовывать множественное число
+plus
+плюс
+plush
+плюш	плюшевый
+plushy
+роскошный
+plutarch
+плутарх
+pluto
+плутон
+plutocracy
+плутократия
+plutocrat
+плутократ
+plutocratic
+плутократический
+pluton
+плутон
+plutonic
+плутонический
+plutonium
+плутоний
+pluvial
+дождевой
+ply
+пропускать
+ply-wood
+фанера
+plymouth
+плимут
+plywood
+фанера	фанерный
+pm
+после полудня
+pneumatic
+пневматический
+pneumatic post
+пневматическая почта
+pneumatically
+пневматически
+pneumonia
+пневмония
+pneumonitis
+пневмонит
+poa
+доверенность
+poach
+варить без скорлупы
+poached egg
+яйцо-пашот
+poacher
+браконьер
+poaching
+браконьерство
+pochard
+нырок
+pock
+щербина
+pocked
+изъязвленный
+pocket
+карман	карманный
+pocketbook
+сумочка
+pocketful
+полный	карман
+pocketknife
+карманный	нож
+pockmark
+оспина
+pockmarked
+рябой
+pocky
+рябой
+pod
+стручок
+podia
+помост
+podium
+помост
+podophyllum
+подофилл
+podzol
+подзол
+poem
+стихотворение	поэма
+poesy
+поэзия
+poet
+поэт
+poetaster
+поэт
+poetess
+поэтесса
+poetic
+поэтический
+poetical
+поэтический
+poetry
+поэзия	стихи
+pogrom
+погром
+poignancy
+острота
+poignant
+острый
+poilu
+французский	солдат
+poinciana
+цезальпиния
+poinsettia
+понсеттия
+point
+указывать	точка
+point at
+направлять [-равить] (оружие) на
+point to
+быть направленным на
+pointblank
+прямой	напрямик
+pointe
+пуант
+pointed
+указывать	заостренный
+pointedly
+явно
+pointedness
+заостренность
+pointer
+указатель
+pointer arithmetic
+арифметические операции над указателями
+pointer array
+массив указателей
+pointillism
+пуантиллизм
+pointillist
+пуантиллист
+pointing
+указывать	указывающий
+pointing device
+устройство управления позицией, указка. устройство, позволяющее указать позицию или элемент изображения	на экране дисплея: мышь (mouse),	световое перо (light pen), планшет	(tablet)
+pointless
+бессмысленный
+pointlessness
+бессмысленность
+pointy
+заостренный
+poise
+уравновешивать	равновесие
+poised
+уравновешивать	готовый
+poison
+отравлять	яд
+poisoned
+отравлять	отравленный
+poisoner
+отравитель
+poisoning
+отравлять	отравление	отравляющий
+poisonous
+ядовитый
+poisonousness
+ядовитость
+poisson
+пуассон	пуассоновский
+poke
+протыкать	тычок
+poked
+протыкать	проколотый
+poker
+покер
+pokily
+убого
+pokiness
+убогость
+poking
+протыкать
+poky
+кутузка	тесный
+poland
+польша	польский
+polar
+полярный
+polar bear
+белый медведь *
+polaris
+полярная	звезда
+polarity
+полярность
+polarization
+поляризация
+polarize
+поляризовать
+polarized
+поляризовать	поляризованный
+polarizing
+поляризовать	поляризация	поляризующий
+polaroid
+полароид
+polder
+польдер
+pole
+полюс
+pole-star
+полярная звезда	путеводная звезда
+poleax
+секира
+poleaxe
+секира
+polecat
+хорек
+polemic
+полемика	полемический
+polemical
+полемический
+polemicist
+полемист
+polemics
+полемика
+poler
+багорщик
+polestar
+полярная	звезда
+police
+полиция	полицейский
+police-man
+полицейский
+police-station
+полицейский участок
+policed
+охранять
+policeholder
+страхователь
+policeman
+полицейский
+policewoman
+женщина&-	полицейский
+policing
+охранять
+policy
+полис	союз)политика
+policy makers
+руководители	руководящие круги
+policy measures
+меры в области политики
+policy-mix
+система мероприятий
+policyholder
+страхователь
+policymaker
+политик
+policymaking
+выработка политики
+policyowner
+обладатель полиса
+polio
+полио
+poliomyelitic
+полиомиелитный
+poliomyelitis
+полиомиелит
+polish
+шлифовать	отделка	польский
+polished
+шлифовать	полированный
+polisher
+шлифовальщик
+polishing
+шлифовать	шлифовка	шлифовальный
+polit
+полит	
+politburo
+политбюро
+polite
+вежливый
+politely
+вежливо
+politeness
+вежливость
+politesse
+политес
+politic
+политичный
+political
+политический
+political economy
+политическая экономия
+politician
+политикан	политический деятель
+politicize
+политизировать
+politicized
+политизировать	политизированный
+politicizing
+политизировать	политизирующий
+politick
+политизировать
+politicked
+политизировать	политизированный
+politico
+политик
+politics
+политика
+polity
+образ правления
+polka
+полька
+poll
+опрашивать	опрос
+poll tax
+подушный налог
+poll-book
+список избирателей
+poll-tax
+подушный налог
+pollack
+минтай
+pollacks
+минтай
+polled
+опрашивать	опрошенный
+polled network
+сеть с опросом. сеть передачи данных, в которой для доступа к передающей среде используется опрос (polling)
+pollen
+пыльца
+poller
+опрашиватель
+pollinate
+опылять
+pollinated
+опылять	опыленный
+pollinating
+опылять
+pollination
+опыление
+pollinator
+опылитель
+polling
+опрашивать	опрос
+polling character
+символ опроса
+polling interval
+интервал опроса. промежуток времени	между двумя последовательными опросами станции
+polliwog
+головастик
+pollster
+опрашиватель
+pollutant
+загрязняющее	вещество
+pollute
+загрязнять
+polluted
+загрязнять	зараженный
+polluter
+загрязнитель
+polluting
+загрязнять	загрязняющий
+pollution
+загрязнение
+pollution abatement
+меры по предотвращению и уменьшению загрязнения окружающей среды
+pollyanna
+слепой	оптимист
+pollytechnic
+политехнический
+pollyvalent
+многопараметрический
+polo
+поло
+polonaise
+полонез
+polonium
+полоний
+polt
+сильный	удар
+poltergeist
+полтергейст
+poltroon
+трус
+poltroonery
+трусость
+polus
+полюс
+polution
+загрязнение
+poly
+поли
+polyamides
+полиамид
+polyandry
+полиандрия
+polycarbonate
+поликарбонат
+polychromatic
+многоцветный
+polyclinic
+поликлиника
+polycotton
+хлопок с синтетикой
+polyester
+полиэстр	полиэстровый
+polyethylene
+полиэтилен	полиэтиленовый
+polyfoam
+пенопласт
+polygamist
+многоженец
+polygamous
+полигамный
+polygamy
+полигамия
+polyglot
+полиглот	многоязычный
+polygon
+многоугольник
+polygon surface
+поверхность, составленная из многоугольников
+polygonal
+многоугольный
+polygraphic
+полиграфический
+polygraphist
+полиграфист
+polygynous
+полигиничный
+polygyny
+полигиния
+polyhedra
+многогранник
+polyhedral
+многогранный
+polyhedron
+многогранник
+polyline
+ломаная	линия
+polymarker
+последовательность точек
+polymath
+эрудит
+polymer
+полимер
+polymere
+полимер	полимерный
+polymeric
+полимерный
+polymerizable
+полимеризуемый
+polymerization
+полимеризация
+polymerize
+полимеризовать
+polymerized
+полимеризовать	полимеризованный
+polymerizing
+полимеризовать	полимеризующий
+polymorphic
+полиморфный
+polymorphous
+полиморфный
+polymorphy
+полиморфизм
+polynesia
+полинезия
+polynesian
+полинезиец	полинезийский
+polynomial
+полиномиальный
+polynomial code
+полиномиальный код. код с обнаружением ошибок, в котором контрольные	разряды являются остатком от деления группы распределяемых объектов,	например, блоков памяти одинаковой	длины, элементарных процессоров
+polyp
+полип
+polyphonic
+полифонический
+polyphonically
+полифнически
+polystyrene
+полистирол
+polysulphides
+полисульфид
+polysulphones
+полисульфон
+polysyllabic
+многосложный
+polytheism
+политеизм
+polytheist
+политеист
+polytheistic
+политеистический
+polyurethane
+полиуретан	полиуретановый
+pomade
+помадить	помада
+pomading
+помадить
+pomegranate
+гранат
+pomeranian
+померанский
+pomeranians
+житель померании
+pommel
+колотить	лука
+pomp
+помпа
+pompadour
+помпадур
+pompeii
+помпеи
+pompon
+помпон
+pomposity
+напыщенность
+pompous
+напыщенный
+pompousness
+напыщенность
+ponce
+сутенер
+poncho
+пончо
+pond
+пруд
+ponder
+обдумывать
+ponderer
+мыслитель
+ponderous
+тяжеловесный
+ponderousness
+тяжеловесность
+pondweed
+бот)рдест
+pone
+кукурузная	лепешка
+pong
+китаец
+pongee
+чесуча
+poniard
+короткий	кинжал
+poniards
+короткий	кинжал
+pons
+мост
+pont
+понтонный	мост
+pontiac
+понтиак
+pontiff
+папа	епископ
+pontiffical
+епископский
+pontifficate
+ораторствовать	понтификат
+pontifical
+архиерейский	обрядник	архиерейский
+pontificate
+служить службу	понтификат
+pontius
+понтий
+pontoon
+понтон
+pony
+пони
+ponytail
+хвостик
+pooch
+пес
+poodle
+пудель
+pooh
+фу
+pool
+пул
+poolroom
+бильярдная
+poolside
+у бассейна
+poop
+ют
+poor
+бедный
+poor efficiency
+слабая (низкая) производительность
+poor harvest
+неурожай
+poor housing
+плохие жилищные условия
+poor land
+малоплодородные земли
+poor management
+низкий уровень управления
+poor performance
+низкая производительность	плохая работа
+poor supply
+неудовлетворительное (недостаточное) снабжение
+poor-house
+богадельня
+poor-law
+закон о бедных
+poorbox
+кружка
+poorhouse
+богадельня
+poorly
+слабо
+pop
+выталкивать
+pop in
+внезапно появиться
+popcorn
+воздушная	кукуруза
+pope
+папа
+popeye
+глаз навыкате
+popeyed
+пучеглазый
+popgun
+пугач
+popinjay
+попугай
+poplar
+тополь	тополиный
+poplin
+поплин	поплиновый
+popliteal
+подколенный
+popover
+булочка
+popped
+выталкивать
+popping
+выталкивать	выстреливание
+poppy
+мак
+poppycock
+галиматья
+populace
+население
+popular
+популярный	народный
+popularity
+популярность
+popularization
+популяризация
+popularize
+популяризировать
+populate
+заполнять
+populated
+заполнять
+populating
+заполнять
+population
+население
+population activities
+деятельность (мероприятия) в области народонаселения
+population changes
+динамика численности населения
+population flow
+миграционные потоки	перемещения населения
+population machine
+парк машин
+population mobility
+подвижность населения
+population pressure
+демографическое давление	давление избытка населения
+population programmes
+программы в области народонаселения
+population projections
+прогнозы населения	демографические прогнозы
+population statistic
+демографическая статистика населения
+population statistics
+статистика народонаселения	демографическая статистика
+population survey
+демографическое обследование (обзор)
+populism
+популизм	народничество
+populist
+популист	народник	популисткий	народнический
+populous
+густонаселенный
+populousness
+густонаселенность
+popup
+высвечивание
+porceeded
+продолжать
+porcelain
+фарфор	фарфоровый
+porch
+крыльцо
+porchstone
+каменное	крыльцо
+porcine
+свиной
+porcupine
+дикобраз
+pore
+пора
+porgies
+порги
+porgy
+порги
+pork
+свинина
+porkers
+откармливаемый	поросенок
+porky
+жирный
+porn
+порнография
+porno
+порно
+pornographic
+порнографический
+pornography
+порнография
+porosity
+пористость
+porous
+пористый
+porousness
+пористость
+porphyria
+порфирия
+porphyritic
+порфириновый
+porphyry
+порфир
+porpoise
+морская	свинья
+porridge
+каша
+porridgy
+кашеобразный
+porringer
+мисочка
+porsche
+порш
+port
+переносить	порт
+port charges
+портовые сборы
+port facilities
+портовое оборудование
+port facilitys
+портовые сооружения и оборудование
+port handling
+обработка грузов в порту
+port page
+страница портов. интервал адресов	памяти, соответствующих портам ввода-вывода. используется в ЭВМ с процессором, применяющим для обращения к портам команды пересылки, а не	специальные команды обмена
+port receipt
+портовые расписки
+port receipts
+портовые расписки
+portability
+мобильность
+portable
+портативный
+portable computer
+портативная ЭВМ. персональная ЭВМ	(personal computer), конструктивно	оформленная в удобном для транспортировки виде. технические характеристики таких ЭВМ практически не отличаются от характеристик настольных ПЭВМ
+portable software
+переносимое программное обеспечение; мобильное программное обеспечение
+portably
+компактно
+portage
+волок
+portal
+портал
+portcullis
+опускная	решетка
+portend
+предвещать
+portent
+предзнаменование
+portentous
+предвещающий
+portentousness
+важность
+porter
+швейцар	носильщик	привратник
+porterhouse
+бифштекс
+portfolio
+портфель
+portfolio debt
+портфель обязательств
+portfolio investment
+портфельные инвестиции (т. е. не дающие право контроля)
+portfolio manager
+специалист по инвестированию в ценные бумаги
+porthole
+иллюминатор
+portico
+портик
+portiere
+портьера
+portiered
+завешенный портьерами
+porting
+переносить	перенесение
+portion
+распределять	часть
+portioned
+распределять	распределенный
+portioning
+распределять	распределение
+portliness
+полнота
+portly
+полный
+portmanteau
+чемодан
+portmanteaux
+чемодан
+portrait
+портрет	портретный
+portraitist
+портретист
+portraiture
+портретная	живопись
+portray
+изображать
+portrayal
+изображение
+portside
+левый	борт
+portugal
+португалия	португальский
+portuguese
+португальский	португальско
+pose
+предлагать	поза
+pose as
+выдавать себя за
+posed
+предлагать	предложенный
+poseidon
+посейдон
+poser
+позер
+poseur
+позер
+posh
+роскошный
+poshness
+роскошность
+posit
+устанавливать
+posited
+устанавливать	поставленный
+position
+позиционировать	позиция
+position-independent
+переместимый. о программе или структуре данных, которая может быть	размещена в любом месте памяти без	настройки адресов (address relocation)
+positional
+позиционный
+positional notation
+позиционная нотация. представление	чисел, при котором значение цифры	зависит от ее положения в числе	(например, обычная десятичная запись)
+positional parameter
+позиционный параметр. параметр, значение которого задавается в определенной позиции списка параметров
+positioner
+позиционер
+positioning
+позиционировать	позиционирование
+positioning device
+устройство указания позиции; устройство управления курсором
+positive
+положительный
+positive acknowledgement
+подтверждение (приема)	положительное квитирование
+positive value
+положительная величина
+positive zero
+положительный нуль
+positively
+положительно
+positiveness
+положительность
+positivism
+позитивизм
+positron
+позитрон
+posse
+толпа
+possess
+обладать
+possessed
+обладать	одержимый
+possession
+владение
+possessive
+собственнический	притяжательный
+possessiveness
+собственничество
+possessor
+обладатель
+posset
+поссет
+possibility
+возможность
+possible
+возможно	возможный
+possibly
+возможно
+possum
+опоссум
+post
+посылать	пост	сообщение
+post adjustment
+корректив по месту службы
+post adjustments
+коррективы по месту службы (ОНН)
+post exchange
+гарнизонный магазин
+post plan
+объявлять о плане (цене и т.д.)
+post-card
+открытка
+post-free
+без почтовой оплаты
+post-haste
+поспешно
+post-mortem
+посмертный	вскрытие трупа
+post-office
+почта, почтовая контора
+post-paid
+франкированный
+post-war
+послевоенный
+postage
+пересылка	почтовый
+postage-stamp
+почтовая марка
+postal
+почтовый
+postal order
+денежный почтовый перевод
+postal services
+почтовое обслуживание	почтовые расходы (в бюджете)
+postamble
+заключение	заключительный
+postbellum
+послевоенный
+postcard
+открытка
+postcondition
+постусловие
+postdecrement addressing
+постдекрементная адресация. автоинкрементная адресация (autoincrement	addressing), при которой вычитание	производится после выборки операнда
+posted
+объявлять	размещать	посылать
+posted price
+справочная цена (на нефть)	официально объявленная цена
+postedit
+постредактирование
+postediting
+постредактирование
+poster
+объявление	плакат
+posterior
+последующий	задний	зад
+posteriority
+следование
+posteriory
+на основании опыта
+posterity
+потомство
+postern
+задняя	дверь
+postfix
+постфиксный
+postfix notation
+постфиксная запись; польская инверсная запись, полиз. бесскобочная	запись арифметических выражений,	при которой символ операции ставится после операндов; например, выражение X+(Y-Z)*2 запишется как	XYZ-2*+. используется в трансляторах и стековых языках
+postfix operator
+постфиксная операция. операция, знак которой записывается после операнда (например, ^ в "input^" в языке паскаль);
+postgraduate
+аспирант
+posthaste
+моментально
+posthumous
+посмертный
+posthypnotic
+постгипнотический
+postilion
+форейтор
+postillion
+форейтор
+postincrement addressing
+постинкрементная адресация. автоинкрементная адресация (autoincremental addressing), при которой прибавление производится после выборки	операнда
+posting
+почтовое	отправление	отправка по почте	постинг
+postings
+почтовое	отправление
+postlude
+заключительная	часть
+postman
+почтальон
+postmark
+почтовый	штемпель
+postmaster
+почтмейстер
+postmillennial
+происходящий через тысячелетие
+postmortem
+посмертный
+postmortem dump
+(PMD) аварийный дамп, "посмертный"	дамп. распечатка содержимого памяти	и регистров после (аварийного) завершения задачи
+postmortem routine
+подпрограмма обработки аварийного	завершения; постпрограмма
+postmultiply
+умножать
+postnatal
+послеродовой
+postnormalization
+нормализация результатов
+postnormalize
+нормализовать результат
+postoffice
+почта
+postoperative
+послеоперационный
+postpaid
+Пс оплаченными почтовыми расходами
+postpartum
+послеродовой
+postpone
+откладывать
+postponed
+откладывать	отложенный
+postponement
+отсрочка
+postscript
+постскриптум
+postulant
+проситель	послушник
+postulate
+постулат
+postulation
+требование
+posture
+положение
+postwar
+послевоенный
+posy
+букет
+pot
+горшок
+pot-belly
+пузо	пузатый человек
+pot-herb
+пряное растение
+potability
+пригодность для питья
+potable
+питьевой
+potage
+густой	суп
+potash
+поташ
+potassium
+калий
+potation
+питье
+potations
+питье
+potato
+картофель	картофельный
+potatoes
+картофель
+potbellied
+пузатый
+potbelly
+пузо	пузатый
+potboiler
+халтура
+poteen
+ирландский	самогон
+potency
+сила
+potent
+сильный
+potentate
+властелин
+potential
+потенциал	потенциальный
+potential buyer
+потенциальный покупатель
+potential contributor
+потенциальный донор
+potential demand
+потенциальный спрос
+potential earnings
+ожидаемый заработок
+potential goods
+потенциальные блага
+potential market
+потенциальный рынок
+potentiality
+возможность
+potentially
+потенциально
+potentiate
+делать возможным
+potentiation
+придание силы
+potentiometer
+потенциометр
+potful
+полный	горшок
+pothead
+курильщик марихуаны
+potherb
+съедобная	зелень
+potherbs
+съедобная	зелень
+potholder
+прихватка
+pothole
+рытвина
+pothook
+крюк для котелка
+potion
+зелье
+potluck
+еда
+potomac
+потомак
+potpie
+мясной	пирог
+potpourri
+смесь
+potsdam
+потсдам
+potsherd
+глиняный	черепок
+potshot
+неприцельный	выстрел
+pottage
+похлебка
+potted
+горшечный
+potter
+гончар
+pottery
+гончарный	изделие
+potting
+заливка
+pouch
+сумка
+poult
+цыпленок
+poultice
+припаривать	припарка
+poultry
+птица
+pounce
+набрасываться
+pound
+колотить	фунт	фунтовый
+pound at
+бомбардировать
+pound sterling
+фунт стерлингов (= 20 ш.)
+poundage
+вес
+poundes
+ступка
+pounding
+колотить
+pour
+лить
+pour out
+нали(ва)ть	сыпать, насыпать [насыпать]
+pourboire
+чаевые
+pourboires
+чаевые
+poured
+лить	вылитый
+pouring
+лить
+pout
+дуться
+pouter
+надутый	человек
+pouting
+дуться
+poverty
+бедность
+pow
+военнопленный
+pow-wow
+знахарь (у индейцев) *	шумное собрание
+powder
+пудрить	порошок	пудра	порох	порошковый
+powder-box
+пудреница
+powdered
+пудрить	порошковый
+powdered milk
+молочный порошок
+powderpuff
+пуховка
+powdery
+порошкообразный
+power
+мощность	право	перс)полномочие	силовой
+power available
+наличная мощность
+power capacityies
+энергетические мощности
+power consumption
+расход энергии
+power equipment
+силовое оборудование
+power factor
+коэффициент мощности
+power generation
+производство электроэнергии
+power grid
+энергосистема
+power industrys
+отрасли энергетики
+power operated
+механический
+power plant
+силовая установка	электростанция
+power unit
+блок питания (ЭВМ)
+power-current
+ток высокого напряжения
+power-station
+электростанция
+powerboat
+моторный	катер
+powered
+усиливать
+powerful
+мощный
+powerfully
+сильно
+powerhouse
+электростанция
+powerless
+бессильный
+powerless plant
+силовая установка
+powerline
+кабель
+powerlock
+электрический	замок
+powerpack
+батарея
+powerplant
+электростанция
+powers
+сила
+powwow
+знахарь
+pox
+оспа
+ppg
+#частей на грамм
+practicability
+целесообразность
+practicable
+реальный
+practicably
+осуществимо
+practical
+практический
+practical joke
+(грубая) шутка, проказа
+practicality
+практичность
+practically
+практически
+practice
+практиковать	практика
+practiced
+практика	испытанный
+practices
+практиковать	метод
+practicing
+практика	практикующий
+practise
+практиковать
+practise on
+злоупотреблять [-бить]
+practise upon
+злоупотреблять [-бить]
+practised
+практиковать	испытанный
+practising
+практиковать	практикующий
+practitioner
+практикующий
+praetor
+претор
+praetorian
+преторианец	преторианский
+pragmatic
+прагматический
+pragmatically
+прагматично
+pragmatics
+прагматика
+pragmatism
+прагматизм
+pragmatist
+прагматист
+prague
+прага
+prairie
+прерия
+praise
+хвалить	похвала
+praised
+хвалить	захваленный
+praiseworthily
+похвально
+praiseworthy
+похвальный
+praising
+хвалить	похвала	восхваляющий
+praline
+пралине
+pram
+детская	коляска
+prance
+гарцевать
+pranced
+гарцевать
+prancer
+скакун
+prancing
+гарцевать	гарцующий
+prank
+выходка
+prankish
+проказливый
+prankster
+проказник
+praseodymium
+празеодим
+prat
+зад
+prate
+болтать
+prater
+болтун
+pratfall
+падение на зад
+pratique
+разрешение на сообщение с берегом
+prattle
+лепетать	лепет
+prawn
+креветка
+pray
+молить
+prayed
+молить
+prayer
+молитва
+prayer-book
+молитвенник
+prayerful
+набожный
+prayerfully
+набожно
+prayerfulness
+набожность
+praying
+молить	молящийся
+preach
+проповедовать
+preacher
+проповедник
+preaching
+проповедование
+preachment
+чтение проповеди
+preachy
+нравоучительный
+preact
+упреждение
+preamble
+преамбула
+preamplifier
+предусилитель
+preanalysis
+преданализ
+prearranged
+условный
+preassigned
+заранее	установленный
+preassurance
+предварительная	гарантия
+prebend
+пребенда
+prebendary
+пребендарий
+precanned
+фирменный
+precarious
+ненадежный
+precariously
+ненадежно
+precariousness
+ненадежность
+precaution
+	мера предосторожности
+precautionary
+предупредительный
+precede
+предшествовать
+preceded
+предшествовать	предшествующий
+precedence
+приоритет
+precedence grammar
+грамматика предшествования. контекстно-свободная грамматика, на символах которой заданы отношения, позволяющие определить во входной строке возможные границы синтаксических конструкций, рассматривая лишь	пары соседних символов
+precedent
+прецедент	предшествующий
+precedential
+являющийся прецедентом
+preceding
+предшествовать	предыдущий
+precentor
+регент хора
+precept
+наставление
+preceptor
+наставник
+precession
+приоритет
+precharge
+заряжать	предварительно	предзаряд
+precheck
+предварительный	контроль
+precinct
+участок
+preciosity
+изощренность
+precious
+драгоценный
+preciousness
+ценность
+precipice
+пропасть	обрыв
+precipitancy
+поспешность
+precipitant
+опрометчивы	осадитель
+precipitate
+приводить к
+precipitateness
+поспешность
+precipitation
+осадок
+precipitator
+осадитель
+precipitatous
+крутой
+precipitous
+крутой
+precipitousness
+крутизна
+precise
+точный
+precisely
+точно
+preciseness
+точность
+precisian
+любитель точности
+precision
+точность	прецизионный
+preclude
+предотвращать
+precluded
+предотвращать	преотвращенный
+precluding
+предотвращать	предотвращающий
+preclusion
+предотвращение
+preclusive
+превентивный
+precocious
+развитой
+precociousness
+развитость
+precompensation
+предкомпенсация
+preconceived
+предвзятый
+preconception
+предвзятое	мнение
+precondition
+предусловие
+preconditioning
+подготовка
+precook
+обрабатывать	предварительно
+precursor
+предшественник
+predacious
+хищный
+predaciousness
+хищность
+predacity
+хищность
+predate
+предшествовать
+predation
+датирование задним числом
+predator
+хищник
+predatorily
+хищно
+predatoriness
+хищность
+predatory
+грабительский
+predawn
+предрассветное	время	предрассветный
+predecessor
+предшественник
+predecrement addressing
+предекрементная адресация. автоинкрементная адресация (autoincrement	addressing), при которой вычитание	производится до выборки операнда
+predefined
+встроенный
+predefined type
+предопределенный тип, встроенный	тип
+predesigned
+заданный
+predestinate
+предопределять	предопределенный
+predestinated
+предопределять	предопределенный
+predestination
+предопределение
+predestine
+предопределять
+predetermination
+предопределение
+predetermine
+предрешать
+predetermined
+предрешать	преопределенный
+predicament
+затруднительное	положение
+predicate
+предикат
+predication
+утверждение
+predicative
+предикативный
+predict
+предсказывать
+predictable
+предсказуемый
+predictably
+предсказуемо
+predicted
+предсказывать	предсказанный
+predicting
+предсказывать	предсказующий
+prediction
+прогноз
+predictive
+предсказующий
+predictive model
+прогнозная модель
+predictively
+предсказующе
+predictiveness
+прогнозируемость
+predictor
+прогнозатор
+predilection
+пристрастие
+predispose
+предрасполагать
+predisposed
+предрасполагать	предрасположенный
+predisposition
+склонность
+prednisolone
+преднизолон
+prednisone
+преднизон
+predominance
+преобладание
+predominant
+преобладающий
+predominantly
+преимущественно
+predominate
+преобладать
+predominated
+преобладать	превосходимый
+predominating
+преобладать	преобладающий
+predomination
+преобладание
+preediting
+предредактирование
+preedition
+предредактирование
+preemie
+преждевременный	ребенок
+preeminate
+преобладать
+preeminence
+превосходство
+preempt
+захватывать
+preemptible
+выгружаемый
+preemptible program
+выгружаемая программа. программа,	которая может быть откачена (swap	out)
+preemption
+право приобретения
+preemptive
+упреждающий
+preemptive program
+вытесняющая программа. программа	более высокого приоритета, для запуска или возобновления которой прерывается и выгружается на диск менее приоритетная программа
+preen
+прихорашивать	булавка
+preexisting
+предшествующий
+prefab
+заготовка	изготовленный
+prefabricate
+изготовлять
+prefabricated
+изготовлять	заготовленный
+prefabricated building
+сборное здание
+preface
+предисловие
+prefatorily
+в качестве вступления
+prefatory
+вступительный
+prefect
+префект
+prefecture
+префектура
+prefer
+предпочитать
+preferable
+предпочтительный
+preferably
+предподтительно
+preference
+предпочтение
+preference debentures
+привилегированные облигации
+preference list
+список товаров, на которые распространяются преференции (льготы)
+preference margin
+размер преференции	разница между общей и преференциальной пошлиной	преференциальная ставка
+preference scale
+шкала предпочтений
+preference schemes
+системы преференций (льгот)
+preference shares
+привилегированные акции
+preference stocks
+привилегированные акции
+preference treatment
+преференциальный режим
+preferential
+льготный
+preferential bond
+привилегированные облигации
+preferential claim
+преимущественная претензия
+preferential debentures
+привилегированные облигации
+preferential duties
+преференциальные пошлины
+preferential list
+список товаров, на которые распространяются преференции (льготы)
+preferential margins
+уровень (размеры) преференциальных льгот	преференциальные льготы
+preferential rate
+преференциальная ставка (тариф)
+preferential schemes
+системы преференций (льгот)
+preferential shares
+привилегированные акции
+preferential stocks
+привилегированные акции
+preferential transportation
+льготный тариф на перевозку грузов
+preferential treatment
+преференциальный режим
+preferred
+предпочитать	предпочтительный
+preferrer
+предпочитатель
+prefetch
+упреждающая	выборка
+prefinished products
+продукция (товары), прошедшая предварительную обработку
+prefix
+префикс	префиксный
+prefix code
+префиксный код. код, состоящий из	слов различной длины, причем никакой более короткий код не является	началом (префиксом) более длинного
+prefix notation
+префиксная запись, польская запись.	бесскобочная запись арифметических	выражений, при которой символ операции ставится перед операндами; например, X+(Y-Z)*2 запишется как	+X*-YZ-2
+prefix operator
+префиксная операция. операция, знак	которой записывается перед операндом.		or
+prefixal
+префиксный
+prefixally
+в виде префикса
+prefixed
+приписывать
+prefixing
+приписывать	приписывание старших разрядов	
+prefixion
+префиксация
+preformat
+форматировать	предварительно	преформатирование
+pregant
+беременная	беременный
+pregnable
+уязвимый
+pregnancy
+беременность
+pregnant
+беременный
+prehensile
+цепкий
+prehistoric
+доисторический
+prehistorical
+доисторический
+prehob
+мех)	фрезеровать	предварительно
+prehypnotic
+догипнотический
+preimpregnate
+пропитывать
+preincrement
+преинкрементный
+preincrement addressing
+преинкрементная адресация. автоинкрементная адресация (autoincremental addressing), при которой прибавление производится до выборки операнда
+preinvestment study
+прединвестиционные исследования
+prejudge
+предрешать
+prejudgement
+предрешение
+prejudice
+располагать	предубеждать	предубеждение	ущерб
+prejudiced
+предубеждать	предубежденный
+prejudicial
+пагубный
+prelaboration
+предысполнение
+prelacy
+прелатство
+prelate
+прелат
+preliminaries
+предварительные	сведение
+preliminary
+предварительный
+preliminary data
+предварительные данные
+preliminary design
+эскизный проект
+prelims
+предварительный	мероприятие
+preload
+натягивать предварительно	предварительный	натяг
+prelogical
+дологический
+prelude
+вступление
+premarital
+добрачный
+premature
+преждевременный
+prematurely
+преждевременно
+prematureness
+преждевременность
+premeditated
+обдуманный	заранее
+premeditation
+преднамеренность
+premeditator
+юрид)злоумышленник	премедиатор
+premier
+премьер-министр	первый
+premiere
+премьера
+premiership
+премьерство
+premise
+предпосылка
+premises
+недвижимость	помещение	предпосылка
+premium
+оплата
+premium collection
+инкассо страховой премии
+premium rate
+норма или коэффициент надбавки, премий
+premium system
+премиальная система
+premode
+предвид
+premonition
+предостережение
+premonitory
+предупреждающий
+prenatal
+предродовой
+prenormalize
+нормализовать	предварительно
+prentice
+подмастерье
+prenuptial
+добрачный
+preoccupation
+забота
+preoccupied
+поглощать	поглощенный
+preoccupy
+поглощать
+preordain
+предопределять
+prep
+преп	подг	
+prepackaged goods
+расфасованные товары
+prepaid
+оплаченный заранее
+prepaid expensess
+расходы будущих лет	расходы будущих отчетных периодов	расходы, оплаченные авансом	оплаченные заранее расходы
+preparation
+подготовка	препарат
+preparative
+подготовительный
+preparatorily
+предварительно
+preparatory
+подготовительный
+prepare
+подготавливать	и)готовиться
+prepared
+подготавливать	подготовленный
+preparedness
+готовность
+preparing
+подготавливать	подготовка
+prepay
+оплачивать заранее
+prepayment
+предварительная	оплата
+prepend
+добавлять
+prepense
+предумышленный
+prepenseful
+предумышленный
+preplanned
+запланированный
+preponderance
+преобладание
+preponderant
+преобладающий
+preponderate
+превосходить
+preponderate over
+превосходить [-взойти]
+preponderating
+превосходить	превосходящий
+preposition
+предлог
+prepositional
+предложный
+prepossessing
+располагающий
+prepossession
+предрасположение
+preposterous
+нелепый
+prepped
+подготовленный
+preppie
+приготовишка
+prepping
+подготовка
+preprocessing
+предварительная	обработка
+preprocessor
+препроцессор
+preproduction
+эксперимент	экспериментальный
+preprogrammed
+предварительно	запрограммированный
+prepuce
+крайняя	плоть
+prerelease
+предварительный	выпуск
+prerequisite
+предварительный	условие	предпосылка
+prerevolutionary
+дореволюционный
+prerogative
+прерогатива
+presage
+предвещать
+presbyopia
+старческая	дальнозоркость
+presbyopic
+страдающий старческой дальнозоркостью
+presbyopy
+старческая	дальнозоркость
+presbyter
+пресвитер
+presbyterian
+пресвитерианец	пресвитерианский
+presbyterianism
+пресвитерианизм
+presbytery
+пресвитерия
+prescaler
+предварительный	делитель частоты
+preschool
+дошкольный
+preschooler
+дошкольник
+prescience
+предвидение
+prescient
+проницательный
+prescope
+предобласть
+prescribe
+задавать
+prescribe expenditure
+устанавливать сумму расходов
+prescribed
+задавать	заданный
+prescribing
+задавать	задающий
+prescript
+предписание
+prescription
+предписание	рецепт
+prescriptive
+предписывающий
+preselection
+предварительная	выборка
+presence
+присутствие	наличие
+presence bit
+бит наличия. в системах управления	виртуальной памятью (virtual storage) - управляющий разряд дескриптора страницы или сегмента виртуальной памяти, указывающий на наличие	данной страницы или сегмента в оперативной памяти
+present
+представлять	Т)обеспечивать	и)присутствовать	настоящее	настоящий	современный
+present goods
+имеющиеся в наличии блага
+presentable
+презентабельный
+presentably
+представительно
+presentation
+представление
+presentation layer
+уровень представления данных. уровень взаимодействия в сети передачи	данных, на котором осуществляется	интерпретация передаваемых данных
+presentations
+представление
+presentday
+сегодняшний
+presented
+представлять	представленный
+presentee
+получатель
+presenter
+податель
+presentiment
+предчувствие
+presenting
+представлять	вручение	представляющий
+presently
+вскоре	теперь
+presentment
+представление
+preservation
+сохранение
+preservations
+предварительный	заказ
+preservative
+консервант	предохранительный
+preserve
+сохранять
+preserved
+сохранять	сохраненный
+preset
+инициализировать
+preshaped
+подготовленный
+preshaping
+форматирование
+preside
+председательствовать
+presided
+председательствовать
+presidency
+президентство
+president
+президент
+presidential
+президентский
+presidia
+президиум
+presiding
+председательствовать	председательствующий
+presidio
+форт	гауптвахта
+presidium
+президиум
+presort
+выполнять предварительну сортировку	предсортировка
+press
+нажимать	пресса	инф)нажатие	корреспондентский
+press for
+настаивать [настоять] на
+press on
+[по]спешить	наседать [-есть] на
+press upon
+наседать [-есть] на
+presser
+прессовщик
+pressing
+нажимать	неотложный
+pressing order
+срочный заказ
+pressing payments
+неотложные платежи
+pressman
+журналист
+pressmark
+шифр
+pressroom
+пресс-центр
+pressure
+давление
+pressurization
+герметизация
+pressurize
+герметизировать
+pressurized
+герметизировать	герметический
+pressurizer
+нагнетатель
+pressurizing
+герметизировать	герметизирующий
+presswork
+прессованный	изделие
+prestidigitation
+ловкость рук
+prestidigitatior
+фокусник
+prestidigitator
+фокусник
+prestige
+престиж
+prestigeful
+престижый
+prestigious
+престижный
+presto
+престо
+prestore
+запоминать предварительно	хранимый
+presumably
+возможно
+presume
+предполагать
+presume on
+злоупотреблять [-бить]	кичиться
+presume upon
+злоупотреблять [-бить]	кичиться
+presumed
+предполагать	предполагаемый
+presuming
+предполагать
+presumption
+предположение
+presumptive
+исходный
+presumptive address
+исходный адрес.	адрес операнда в той форме, как	он записан в команде.		базовый адрес
+presumptuous
+самонадеянный
+presuppose
+предполагать
+preteen
+в возрасте от 9 до 12 лет
+pretence
+претензия
+pretend
+претендовать	притворяться
+pretended
+претендовать	притворяться	притворный
+pretender
+претендент
+pretending
+претендовать
+pretense
+претензия
+pretension
+претензия
+pretentious
+претенциозный
+pretentiousness
+претенциозность
+preterit
+претерит
+preterition
+упущение
+pretermit
+пропускать
+preternatural
+противоестественный
+preternaturally
+сверхъестественно
+pretest
+предтест
+pretext
+предлог	отговорка
+pretoria
+претория
+prettification
+украшение
+prettify
+украшать
+prettily
+мило
+prettiness
+миловидность
+pretty
+изрядно	красивый
+pretzel
+крендель
+prev
+предыдущий
+prevail
+преобладать
+prevailed
+преобладать
+prevailer
+преобладатель
+prevailing
+преобладать	преобладающий
+prevailing price
+преобладающая цена
+prevailing rates
+преобладающие ставки
+prevalence
+распространение
+prevalent
+распространенный
+prevaricate
+увиливать
+prevarication
+увиливание
+prevaricator
+уклоняющийся
+prevent
+предохранять	г)предотвращать	б)мешать	предотвращение
+preventative
+предохранительный
+prevention
+предотвращение
+preventive
+профилактический
+preventive maintenance
+профилактический ремонт
+preventive officer
+таможенный досмотрщик
+preventive repair
+предупредительный ремонт
+preventiveness
+профилактика
+preventor
+предохранитель
+preventorium
+профилакторий
+preview
+просматривать	предварительный просмотр
+previous
+предшествующий
+previously
+прежде
+prewar
+довоенный
+prexy
+ректор
+prey
+жертва	добыча
+price
+оценивать	цена
+price abatement
+снижение цен
+price adjustments
+регулирование цен	изменения в ценах
+price behavior
+динамика цен
+price behaviour
+динамика цен
+price cartel
+картельная договоренность о ценах
+price ceiling
+максимальная цена	потолок цен
+price changes
+динамика цен
+price competition
+ценовая конкуренция
+price control
+регулирование цен	контроль над ценами
+price current
+прейскурант
+price cutting
+снижение цен
+price deflator
+дефлятор
+price deflators
+индексы цен	дефляторы цен
+price determination
+ценообразование
+price differentials
+различия в уровнях цен
+price discrimination
+дискриминация в ценах
+price elasticity
+эластичность спроса по цене
+price equilibrium
+равновесие цен
+price fixing
+контроль над ценами	практика твердых цен	продажа по твердым ценам	монополистический сговор о ценах	манипуляция ценами
+price fluctuation
+колебание цен
+price formation
+ценообразование
+price index
+индекс цен
+price leader
+фирма (монополия, страна), диктующая цены на рынке	leading	ведущий	направляющий	передовой	главный	основной головной
+price leadership
+лидерство в ценах
+price leading
+"лидирование" в ценах	установление цены монополией-лидером
+price list
+ценник	прейскурант
+price maintenance
+поддержание цен	государственная поддержка цен
+price maker
+сторона в сделке, определяющая цену
+price movement
+динамика цен
+price plateau
+уровень цен
+price range
+размер колебаний цен (курсов)
+price ring
+сговор о ценах
+price scissors
+ножницы цен
+price setter
+фирма (монополия), диктующая цены на рынке
+price slashing
+резкое падение (понижение) цен
+price spread
+издержки обращения
+price stabilization
+стабилизация цен
+price support
+поддержка (регулирование) цен
+price system
+система цен
+price tag
+ярлык с указанием цены товара
+price underpinning
+поддержка цен
+price variation
+колебание цен
+price war
+война цен
+price-performance
+экономическая эффективность
+priced
+оценивать
+priceless
+бесценный
+pricelessness
+бесценность
+pricey
+дорогой
+pricing
+оценивать	ценообразование	Р)оценка
+pricing policy
+политика в области ценообразования	политика цен
+prick
+колоть	укол
+prickle
+шип
+prickliness
+колючесть
+prickly
+колючий
+pride
+гордость
+prideful
+гордый
+pridefully
+надменно
+prier
+подглядыватель
+priest
+священник
+priestcraft
+интрига духовенства
+priestess
+попадья
+priesthood
+священство
+prig
+формалист
+priggish
+педантичный
+priggishly
+педантично
+priggishness
+педантичность
+prim
+чопорный
+prima
+прима
+primacy
+первенство
+primal
+первоначальный
+primaries
+сырье
+primarily
+первоначально
+primariness
+первичность
+primary
+первичный
+primary accounting
+первичный учет
+primary activity
+основной род занятий
+primary colors
+основные цвета
+primary commodities
+сырьевые товары	сырье	продовольствие и топливо	аграрно-сырьевые товары
+primary deposits
+действительные (фактические) депозиты
+primary goods
+сырье	продовольствие	сырье и топливо	аграрно-сырьевая продукция
+primary incomes
+первичные доходы
+primary inputs
+первичные затраты
+primary key
+первичный ключ. ключ (key), о котором в схеме (scheme) базы данных	указано, что он является первичным	для данного типа записи. как правило, система управления базой данных	обеспечивает эффективный доступ к	записям по первичному ключу
+primary liability
+основная ответственность
+primary market
+основной рынок	главный рынок	главная товарная биржа
+primary metals
+черные и цветные металлы
+primary money
+первичные деньги
+primary movers
+первичные двигатели
+primary need
+насущные нужды
+primary needs
+насущные нужды
+primary power
+мощность первичных двигателей
+primary processing
+первичная обработка (переработка)
+primary producer
+производитель сырья (аграрно-сырьевой продукции)
+primary producers
+производители сырья
+primary production
+производство сырья (продовольствия, сырья, топлива)	основное производство
+primary record
+первичная запись. запись, ссылка на	которую имеется в индексе, и через	которую осуществляется доступ к записям расширения
+primary recording
+первичный учет
+primary resources
+сырьевые ресурсы
+primary school
+начальная школа
+primary station
+первичная станция. станция HDLC,	формирующая команды и интерпретирующая ответы одной или нескольких	вторичных станций
+primary storage
+основная память.	в системе управления виртуальной	памятью - оперативная память, в	которую отображаются блоки виртуальной памяти.		оперативная память, ОЗУ, основная память
+primary type
+простой тип.		встроенный простой тип
+primary word
+встроенная операция (в языке форт)
+primate
+примат
+primatial
+относящийся к приматам
+prime
+начало	первичный
+prime attribute
+первичный атрибут
+prime cost
+себестоимость за вычетом накладных расходов	издержки оборотного капитала
+prime costs
+себестоимость	издержки оборотного капитала
+prime factor
+первичный (исходный) фактор
+prime goods
+отборный товар
+prime movers
+первичные двигатели
+prime number
+простое число
+prime rate
+ставка для первоклассных заемщиков ( т.е. низшая ставка процента)
+prime rates
+ставка процента для первоклассных, наиболее надежных заемщиков	т.е. низшая ставка банковского процента)
+primer
+введение
+primeval
+первобытный
+priming
+грунт
+primitive
+примитив	простой
+primitive accumulation
+первоначальное накопление
+primitive attribute
+элементарный атрибут
+primitive economy
+натуральное хозяйство
+primitive type
+простой тип. тип данных, значения	которого не содержат компонент (например, целое или символ, в отличие	от массива или записи)
+primitiveness
+простота
+primitivism
+примитивизм
+primitivity
+примитивность
+primness
+чопорность
+primogenitor
+прародитель
+primogeniture
+первородство
+primordial
+исконный
+primp
+прихорашиваться
+primrose
+примула
+prince
+принц	князь
+princedom
+княжество
+princeling
+князек
+princely
+княжеский
+princess
+принцесса
+principal
+принципал	директор школы	главный
+principal controller
+мастер-контролер	старший контролер
+principal earner
+лицо (в семье), приносящее (получающее) основной заработок (доход)
+principal office
+главная контора
+principal sum
+основная сумма
+principal works
+главные мастерские
+principality
+княжество
+principle
+принцип
+prink
+наряжать
+prinked
+наряжать	наряженный
+print
+печатать	издавать	отпечаток	инф)распечатка
+print head
+печатающая головка
+print server
+станция печати, процессор печати.	специализированный узел локальной	сети, управляющий одним или несколькими печатающими устройствами и	печатающий файлы, указанные или переданные другими узлами
+print wire
+(print needle) печатающая игла;	(печатающей головки матричного печатающего устройства)
+printable
+выводимый
+printed
+печатать	отпечатанный
+printer
+принтер
+printer-plotter
+графический принтер, устройство графической печати. печатающее устойство, позволяющее печатать как тексты, так и растровые графические	изображения
+printhead
+печатающая	головка
+printing
+печатать	печать
+printing quality
+качество печати. характеристика печатающего устройства, определяемая	качеством начертания литер (зависящим от числа точек растра для матричных принтеров), наличием различных шрифтов и средствами изменения	шага печати.		ce quality, letter quality, camera	ready copy
+printing-ink
+типографская краска
+printing-office
+типография
+printout
+распечатка
+prior
+предшествующий
+prior claim
+преимущественная (основная, главная) претензия
+prior deposit
+предварительный залог (депозит)
+prior to
+до
+prioress
+настоятельница
+priori
+приори
+priorit
+приоритет
+prioritization
+присваивание приоритетов
+prioritize
+располагать в соответствии с приоритетом
+prioritized
+получать приоритет	приоритетный
+prioritizer
+блок приоритетов
+prioritizing
+получать приоритет	получение приоритета
+priority
+приоритет	приоритетный
+priority date
+дата приоритета (патента)
+priority development
+преимущественный рост	опережающее развитие
+priority incentives
+льготы ( для иностранных капиталовложений) в приоритетных отраслях
+priority list
+список по степени важности	список по порядку очередности
+priority rating
+установление степени важности (порядка очередности)
+priority right
+преимущественное право
+priority sectors
+отрасли преимущественного развития, покровительствуемые (государством	отрасли	приоритетные отрасли
+priority share
+привилегированная акция
+priory
+монастырь
+prise
+поднимать	подъем
+prism
+призма
+prismatic
+призматический
+prison
+тюрьма	тюремный
+prisoner
+заключенный
+prissily
+чопорно
+prissiness
+чопорность
+prissy
+чопорный
+pristine
+первобытный
+prithee
+пожалуйста
+prius
+предварительное	условие
+privacy
+секретность
+privacy lock
+замок секретности. в базах данных код, связываемый с набором, областью или другой группой данных для	ограничения доступа к ним
+private
+частный
+private accounting
+бухгалтерский учет
+private acquisition
+частное присвоение	частное приобретение
+private circuit
+частный канал; выделенный канал
+private concern
+частное предприятие	частный концерн
+private consumption
+личное потребление
+private data
+приватные данные, закрытые данные.	частные данные, частная информация; личные данные, личная информация. данные, доступные только	их владельцу (человеку)
+private debt
+частная задолженность	задолженность частного сектора
+private demand
+личный спрос	спрос со стороны населения
+private donations
+частные пожертвования
+private enterprise
+частное предпринимательство
+private house
+одноквартирный дом
+private household
+домашнее хозяйство
+private industry
+частная промышленность
+private interests
+частный сектор	капиталистические круги
+private investment
+инвестиции (капиталовложения) частного сектора (в частном секторе)
+private investments
+инвестиции (капиталовложения) частного сектора (в частном секторе)
+private library
+личная библиотека, библиотека пользователя
+private necessities
+индивидуальные предметы первой необходимости
+private property
+частная собственность
+private remittances
+денежные переводы частных лиц (за границу)
+private saving
+частные сбережения	накопления в частном секторе
+private savings
+личные сбережения	сбережения (накопления) в частном секторе
+private sector
+частный сектор	негосударственный сектор
+private type
+приватный тип. в языке ада - тип	данных, представление которого скрыто от пользователя, и с переменными которого можно работать только	процедурами, экспортируемыми модулем, где этот тип описан.		ted type
+privateer
+капер
+privately
+частным образом
+privateness
+частность
+privation
+лишение
+privatization
+приватизация
+privatize
+приватизировать
+privatized
+приватизировать	приватизированный
+privatizing
+приватизировать	приватизация	приватизирующий
+privet
+бирючина
+priviledge violation
+нарушение полномочий. попытка пользователя или программы выполнить	неразрешенную операцию
+priviledged instruction
+привилегированная команда. машинная	команда, выполнение которой разрешено только в привилегированном режиме; в режиме задачи попытка выполнить такую команду вызывает внутреннее прерывание. в некоторых системах имеется несколько уровней привилегированности; например, в режиме	супервизора (supervisor mode) может	выполняться толька часть привилегированных команд, все команды могут	выполняться только в режиме ядра	(kernel mode) операционной системы
+priviledged user
+привилегированный пользователь
+privilege
+привилегия
+privilege price
+льготная цена
+privileged
+привилегированный
+privileged share
+привилегированная акция
+privity
+осведомленность
+privy
+	отхожее	место	посвященный
+privy to
+посвященный в
+prix
+при
+prize
+ценить	премия	награда	призовой
+prize-fighter
+боксер-профессионал
+prizefight
+матч
+prizefighter
+боксер
+prizefighting
+боксерский	матч на деньги
+prizewinner
+призер
+prizewinning
+заслуживающий награды
+prizing
+ценить	вручение призов	
+pro
+про
+pro rata
+пропорционально	(#лат.) в соответствии
+pro-rate
+пропорциональная часть	пропорциональная доля
+proabortion
+за право на аборт
+proadoption
+за усыновление
+proadvisor
+профессиональный	советник
+proalliance
+за союз
+proamendment
+за поправку
+proapproval
+за утверждение
+probabilistic
+вероятностный
+probabilistic logic
+вероятностная логика. логика, в которой истинностные значения представляются вероятностями
+probability
+вероятность	стохастический
+probability sampling
+(#стат.) вероятностная выборка
+probability theory
+теория вероятности
+probability value
+вероятность
+probable
+вероятно	вероятный
+probably
+вероятно
+probate
+устанавливать законность	утверждение
+probated
+устанавливать законность	установленный
+probating
+устанавливать законность	устанавливающий законность	
+probation
+условное	освобождение	испытательный срок
+probation period
+испытательный срок
+probation rate
+ставка зарплаты во время испытательного срока
+probational
+условный
+probationary
+условный
+probationary appointment
+назначение (на должность) с испытательным сроком
+probationary rate
+ставка зарплаты во время испытательного срока
+probationer
+кандидат в члены	условно осужденный преступник
+probative
+доказательный
+probatively
+доказательно
+probe
+изучать	расследование	зонд
+prober
+испытатель
+probity
+честность
+problem
+проблема	проблемный
+problem programmer
+прикладной программист
+problem reformulation
+преобразование постановки задачи
+problem space
+пространство состояний
+problematic
+проблематичный
+problematical
+проблематичный
+proboscides
+хобот
+proboscis
+хобот
+procapitalist
+прокапиталист
+procathedral
+кафедральная	церковь
+procedural
+процедурный
+procedural abstraction
+процедурная абстракция
+procedural language
+процедурный язык
+procedural representation
+процедурное представление. способ	представления знаний или описания	алгоритма, при котором единицей описания является процедура
+procedurality
+процедурность
+procedure
+процедура
+procedure body
+тело процедуры. исполняемая часть	процедуры; описание реализуемого	процедурой алгоритма.		ion
+procedure call
+вызов процедуры, обращение к подпрограмме. подразумеваются оператор	или действия вызывающей программы
+procedure declaration
+описание процедуры. описание процедуры состоит из заголовка процедуры	(procedure header), задающего ее	имя и список формальных параметров	с их типами, и тела процедуры (procedure body), определяющего выполняемые при вызове процедуры действия
+procedure division
+раздел процедур. в КОБОЛе - часть	программы, содержащая описания исполняемой части программы
+procedure header
+заголовок процедуры. часть описания	процедуры, задающая имя процедуры и	определяющая число, тип, форму задания и способ передачи параметров
+procedure invocation
+вызов процедуры. действия и данные,	связанные с конкретным обращением к	подпрограмме
+proceed
+продолжать	и)приступать
+proceed from
+исходить (от *Р)
+proceeder
+продолжатель
+proceeding
+продолжать	действие
+proceedings
+протокол	юрид)судопроизводство
+proceeds
+приступать	выручка
+process
+обрабатывать	процесс
+process costs
+затраты производства	производственные издержки
+process engineer
+инженер-технолог
+process engineering
+технология
+process image
+образ процесса. содержимое оперативной памяти, относящейся к процессу, записываемое на диск при выгрузке процесса
+process industries
+обрабатывающая промышленность
+process patent
+патент на процесс (на технологический способ)
+process state
+состояние процесса
+process technology
+технология профессия (изготовления)
+process time
+время на единицу продукции
+processed
+обрабатывать	обработанный
+processed goods
+готовые (промышленные) изделия
+processed information
+обработанные данные
+processing
+обрабатывать	обработка	обрабатывающий
+processing element
+элементарный процессор (многопроцессорной ЭВМ)
+processing firms
+фирмы по переработке
+processing method
+технологический режим	технология
+processing sectors
+секторы обрабатывающей промышленности
+processing stage
+производственная стадия	операция
+processing tax
+налог на обработку
+procession
+процессия
+processional
+относящийся к процессии
+processor
+процессор
+processor flags
+флаги процессора. разряды слова состояния процессора, описывающие результат выполнения последней команды и режим работы процессора
+processor interrupt
+прерывание процессора
+processor state
+состояние процессора
+processor time
+время счета
+proclaim
+провозглашать	объявлять
+proclaimed
+провозглашать	объявлять	объявленный
+proclaimer
+объявляющий
+proclamation
+объявление
+proclivity
+склонность
+procommunism
+прокоммунизм
+procommunist
+прокоммунист	прокоммунистический
+proconsul
+проконсул
+proconsular
+проконсульский
+proconsulate
+проконсульство
+proconsulship
+проконсульство
+procrastinate
+медлить
+procrastinating
+медлить	замедляющий
+procrastination
+промедление
+procrastinator
+медлитель
+procreate
+производить потомство
+procreation
+деторождение
+procreative
+способный к деторождению
+procreator
+производитель
+procrustean
+прокрустов
+procrustes
+прокруст
+procter
+надзиратель
+proctologic
+проктологический
+proctological
+проктологический
+proctologist
+проктолог
+proctology
+проктология
+proctor
+надзиратель
+proctorial
+надзирательский
+proctoscope
+ректоскоп
+proctoscopic
+ректоскопический
+proctoscopy
+ректоскопия
+procurable
+доступный
+procuracy
+полномочие
+procurance
+приобретение
+procuration
+ведение дел по доверенности
+procurator
+прокуратор
+procure
+приобретать
+procured
+приобретать	приобретенный
+procurement
+поставка
+procurement agency
+заготовительная (закупочная) организация	организация по снабжению
+procurer
+поставщик	сводник
+procuress
+сводня
+procuring
+приобретать	приобретение
+prod
+тыкать	тычок
+prodemocratic
+продемократический
+prodigal
+расточительный
+prodigal son
+блудный сын
+prodigality
+расточительство
+prodigious
+огромный
+prodigiousness
+необыкновенность
+prodigy
+чудо
+prodisarmament
+Пза разоружение
+produce
+производить	создавать	выдача
+produce exchange
+товарная биржа
+produce market
+продуктовый рынок	базар
+produced
+производить	изготовленный
+producer
+производитель
+producer prices
+оптовые цены
+producers associations
+ассоциации производителей
+producible
+могущий быть произведенным
+producing
+производить	создание	производственный
+product
+продукт
+product account
+счет производства
+product adaptation
+внесение изменений в продукцию с учетом требований рынка
+product coverage
+охват товаров	круг товаров	номенклатура товаров
+product development
+разработка нового продукта (новой продукции)
+product differentiation
+дифференциация продукта
+product diversification
+диверсификация продукции
+product flows
+потоки продукции	материальные потоки
+product lines
+товарная специализация
+product management
+управление по видам продукции
+product markets
+товарные рынки
+product mix
+структура (ассортимент) продукции
+product patent
+патент на изделие	патент на продукт
+product portability
+мобильность разрабатываемых программ;
+product standards
+стандарты на продукцию
+productibility
+технологическая	пригодность
+production
+производство	а)эксплуатация	продукция	промышленный
+production activity
+производственная деятельность
+production balance
+баланс производства
+production bonus
+премия за продукцию сверх задания
+production capabilitys
+производственный потенциал
+production capacity
+производственная мощность
+production cartel
+картельная договоренность об объемах производства
+production costs
+издержки производства
+production credit
+производственный кредит
+production cycle
+производственный цикл
+production department
+производственный цех
+production design
+производственная конструкция
+production engineer
+технолог
+production engineering
+техника(технология)производства	производственный режим
+production expenses
+производственные затраты	затраты на производственные нужды
+production function
+производственная функция
+production index
+индекс объема производства
+production line
+поточная линия
+production load
+производственная нагрузка
+production objective
+производственное задание
+production outlays
+производственные издержки (расходы)
+production process
+ход производства	производственный процесс
+production quotas
+квоты продукции
+production rate
+производственная норма
+production rule
+продукция, правило вывода
+production run
+производственный счет; эксплуатация. работа программного обеспечения	в реальных промышленных условиях, в	отличие от отладки или опытной эксплуатации
+production schedules
+планирование производства	производственные планы
+production services
+производственные услуги
+production space
+производственная площадь
+production specifications
+промышленные нормали
+production stage
+производственная (технологическая) стадия
+production standard
+норма выработки	уровень интенсивности труда
+production stocks
+производственные запасы
+production target
+задание по выпуску продукции	производственное задание	намеченный (по плану) объем продукции
+production test
+заводское испытание
+production unit
+единица измерения продукции	единица изделий	производственная единица
+production workers
+производственные рабочие	рабочие, занятые в производстве
+productions
+производительность
+productions system
+система продукций. форма представления знаний или непроцедурного описания программы в виде множества	правил (продукций) вида "если A, то	B", где A - некоторое условие, а B	- соответствующее действие, причем	B может содержать переменные, используемые в A. на каждом шаге выполнения программы, заданной в виде	системы продукций, выбирается одно	или несколько правил, условия которых истинны, и выполняются соответствующие действия
+productive
+продуктивный
+productive efficiency
+производственная эффективность
+productive equipment
+производственное оборудование
+productive facilitys
+производительные мощности
+productive forces
+производительные силы
+productive services
+производственные услуги
+productive time
+полезное время. время, затраченное	на производственный счет
+productiveness
+продуктивность
+productivity
+призводительность
+productivity measurement
+измерение производительности
+productivity measures
+показатели производительности
+productivity wage
+сдельно-прогрессивная система зарплаты
+prof
+проф	
+profanation
+профанация
+profanatory
+опошляющий
+profane
+осквернять	вульгарный
+profaneness
+вульгарность
+profanities
+сальность
+profanity
+брань
+profascist
+профашист	профашистский
+profbank
+профбанк
+profeminist
+профеминист
+profert
+предъявление
+profess
+признавать
+professedly
+открыто
+profession
+профессия
+professional
+профессионал	профессиональный
+professional accountant
+профессиональный бухгалтер	специалист-бухгалтер
+professional association
+объединение лиц свободных профессий (интеллигентного труда)
+professional associations
+объединение лиц свободных профессий
+professional classes
+лица свободных профессий	работники интеллигентного труда
+professional duties
+обязанности, составляющие принадлежность ремесла (занятия)
+professional employee
+специалист, работник умственного труда	служащий	инженерно-технический персонал
+professional managers
+профессиональные менеджеры	профессионалы-управляющие
+professional selection
+профессиональный отбор
+professional skill
+производственная квалификация	профессиональное мастерство
+professionalism
+профессионализм
+professionally
+профессионально
+professor
+профессор
+professorate
+профессура
+professorial
+профессорский
+professoriate
+профессура
+professorship
+профессура
+proffer
+предлагать	предложение
+proficiency
+опытность
+proficient
+специалист	опытный
+profile
+профиль
+profile file
+файл параметров пользователя
+profiler
+профайлер
+profit
+приносить пользу	польза
+profit accumulation
+накопление	накопленная прибыль
+profit by
+[вос]пользоваться	извлекать пользу из
+profit expectations
+ожидание прибыли	расчет на определенный уровень прибыли
+profit margin
+прибыль	норма прибыли
+profit maximization
+максимизация прибыли
+profit motives
+стремление к получению (увеличению)прибыли
+profit opportunity
+возможность получения прибыли	деловая перспектива
+profit opportunitys
+возможности получения прибыли	деловая перспектива
+profit ratio
+норма прибыли
+profit sharing
+участие в прибылях
+profit taking
+реализация биржевых фондов при росте курсов ценных бумаг	массовые продажи на бирже при повышении курсов
+profit tax
+налог на прибыль
+profit-sharing
+участие в прибыли
+profitability
+доход
+profitable
+прибыльный
+profitable investment
+выгодное помещение капитала
+profitably
+прибыльно
+profiteer
+спекулировать	спекулянт
+profiteering
+спекулировать	спекуляция
+profits
+доход
+profitsharing
+участие в прибыли
+profligacy
+расточительность
+profligate
+распутник	расточительный
+proforma
+формально
+profound
+глубокий
+profoundly
+глубоко
+profs
+профессионал
+profundity
+глубина
+profuse
+щедрый
+profuseness
+щедрость
+profusion
+изобилие
+progenitive
+способный давать потомство
+progenitor
+родоначальник
+progeny
+потомство
+prognathous
+выдающийся
+prognoses
+прогноз
+prognosis
+прогноз
+prognostic
+предзнаменование	предвещающий
+prognosticate
+предсказывать
+prognostication
+прогноз
+prognosticator
+предсказатель
+prognostics
+прогнозирование
+program
+программировать	программа	программный
+program background
+фон программы. время, когда программа находится в состоянии ожидания	и не занимает центральный процессор
+program body
+тело программы. исполняемая часть	программы
+program breakpoint
+контрольная точка
+program budget
+бюджет по программам (ООН)
+program budgeting
+(система) составления бюджета по программам
+program checkout
+испытания программы при сдаче в эксплуатацию
+program competition
+конкуренция программ; межпрограммная конкуренция
+program counter
+счетчик команд. регистр процессора,	содержащий адрес выполняемой команды или адрес команды, следующей за	выполняемой
+program design
+проектирование программы; разработка спецификаций программы
+program development
+разработка программ
+program editor
+редактор текстов программ. текстовый редактор, имеющий специальные	команды для эффективной работы с	текстами программ: автоматическое	форматирование, средства вставки и	шаблонов операторов, элементы синтаксического анализа
+program element
+элемент программы. структурная единица описания программы: описание,	блок, процедура, контекст, цикл,	оператор и др
+program error
+ошибка в программе
+program input
+входные данные программы
+program loading
+загрузка программы. считывание программы в оперативную память, инициализация и настройка адресов
+program maintenance
+сопровождение программы. исправление ошибок, внесение модификаций и	проведение консультаций по программе, находящейся в эксплуатации
+program origin
+начальный адрес программы; (в машинном коде или на языке ассемблера)
+program profile
+профиль программы
+program scheduler
+планировщик. часть операционной системы, занимающаяся диспетчеризацией процессов и распределением ресурсов
+program segment
+сегмент программы. часть программы,	отдельно обрабатываемая загрузчиком
+program segmenting
+сегментация программ. разделение	программы на сегменты для раздельной загрузки или организации перекрытий (overlay)
+program specification
+спецификации программы
+program translation
+конвертирование программы. в базах данных - модификация текста	программы, работающей в одной	системе управления данными, для	выполнения тех же функций применительно к конвертированным данным (data translation) в той же	или в другой системе.	трансляция программы
+program unit
+модуль (программы)
+program verification
+верификация программ, доказательство правильности программ
+program-driven
+программно-управляемый
+programm
+программа	программный
+programmability
+программируемость
+programmable
+инф)программируемый
+programmatic requirement
+программное требование
+programme
+программа	программный
+programmed
+программировать	программируемый
+programmed key
+программирумая клавиша. клавиша,	код которой может задаваться программой
+programmer
+инф)программист
+programmer portability
+"мобильность программиста". независимость интерфейса программиста с	системой разработки программ от конкретно используемой ЭВМ
+programming
+инф)программировать	программирование
+programming environment
+среда программирования. интегрированная система разработки программ,	в которой все программные средства,	обеспечивающие разработку программ,	имеют единый пользовательский интерфейс, общую базу данных и не требуют специального вызова
+programming language
+язык программирования
+programming period
+срок действия программы
+programming system
+система программирования. язык программирования и совокупность программных средств и соглашений о связях (calling sequence), обеспечивающие разработку и выполнение программ на данном языке. программные средства системы программирования включают транслятор (компилятор или	интерпретатор), компоновщик, исполняющую систему, библиотеку стандартных программ. система программирования может также поддерживать разработку программ с использованием	нескольких языков программирования
+programming technique
+методы линейного программирования
+progress
+развиваться	прогресс
+progress payments
+постепенные платежи
+progress report
+отчет о выполнении ( о ходе работ, о состоянии дел)
+progresses
+развиваться
+progression
+прохождение
+progressional
+прогрессирующий
+progressive
+прогрессивный
+progressive average
+(#стат.) среднепрогрессивная
+progressive divestment
+прогрессивное сокращение (иностранного) участия (в пользу	национального капитала)
+progressive tax
+прогрессивный налог
+progressive taxation
+прогрессивное налогооблажение
+progressive wages
+прогрессивная оплата труда
+progressiveness
+прогрессивность
+prohibit
+запрещать
+prohibited
+запрещать	запрещенный
+prohibited duty
+запретительная протекционистская пошлина
+prohibited imports
+товары, запрещенные к ввозу
+prohibiting
+запрещать	запрещающий
+prohibition
+запрещение
+prohibitionist
+прогибиционист
+prohibitive
+запретительный
+prohibitive price
+запретительная цена
+prohibitive tariffs
+запретительные пошлины
+project
+планировать	Р)выступать	проект
+project financing
+финансирование проекта	финансирование (строительного) объекта
+project librarian
+библиотекарь проекта. в бригаде главного программиста - член "бригады", отвечающий за программную документацию и обеспечивающий согласованность и сохранность модулей программного продукта
+project software
+программное обеспечение управляющей	системы. программное обеспечение,	работающее в режиме реального времени в составе сложной информационной системы или системы управления	реальными объектами. например, система заказа авиабилетов, система	управления спутниковой связью, система ПРО
+project specification
+проектное задание
+project specifications
+проектное задание
+projected
+планировать	Р)выступать	спроецированный
+projected export
+прогнозная оценка экспорта
+projected import
+прогнозная оценка импорта
+projected income
+прогнозная оценка дохода
+projectile
+снаряд
+projecting
+планировать	Р)выступать	планирование	проектирующий
+projection
+прогноз	проекция
+projection model
+прогнозная модель
+projectionist
+киномеханик
+projectmanager
+руководитель проекта
+projector
+проектор
+prolabor
+поддерживающий профсоюз
+prolapse
+выпадение
+prolegomena
+предварительный	рассуждение
+prolegomenon
+предварительный	рассуждение
+proletarian
+пролетарий	пролетарский
+proletariat
+пролетариат
+proletariate
+пролетариат
+proliferate
+размножаться
+proliferated
+размножаться
+proliferating
+размножаться	размножающийся
+proliferation
+распространение
+proliferous
+плодовитый
+prolific
+плодовитый
+prolificacy
+плодовитость
+prolifically
+плодовито
+prolix
+многословный
+prolixily
+многословно
+prolixity
+многословность
+prolog
+пролог
+prologue
+пролог
+prolong
+продлевать
+prolongation
+продление
+prolonged
+продлевать	пролонгированный
+promenade
+прогуливаться	прогулка	прогулочный
+promenaded
+прогуливаться
+promenader
+гуляющий
+promenading
+прогуливаться	прогуливающийся
+promethean
+прометеев
+prometheus
+прометей
+promethium
+прометий
+promilitary
+промилитаристский
+prominence
+выступ	известность
+prominent
+выдающийся
+promis
+обязательство
+promiscuity
+легкое	поведение
+promiscuous
+распутный
+promiscuousness
+распутство
+promise
+обещать	обещание
+promised
+обещать	обещанный
+promisee
+принимающий	обещание
+promising
+обещать	перспективный
+promisor
+дающий	обещание
+promissor
+дающий обещание
+promissory
+долговой
+promissory note
+долговое обязательство	простой вексель
+promo
+продвигающий
+promontory
+мыс
+promotable
+продвигаемый
+promote
+продвигать
+promoted
+продвигать	продвинутый
+promoting
+продвигать	продвигающий
+promotion
+продвижение
+promotion expenses
+расходы на учреждение компании
+promotion money
+средства на учреждение компании
+promotional
+рекламный
+promotive
+продвигающий
+prompt
+подсказывать	подсказка	инф)приглашение	быстрый	точно
+promptbook
+суфлерский	экземпляр
+prompted
+подсказывать	подсказанный
+prompter
+суфлер
+prompting
+указывать	указание
+promptitude
+быстрота
+promptly
+быстро
+promptness
+быстрота
+promt
+Й
+promulgate
+опубликовывать
+promulgated
+опубликовывать	опубликованный
+promulgating
+опубликовывать
+promulgation
+опубликование
+pronationalist
+пронационалистский
+prone
+склонный
+prone to
+склонный к
+proneness
+склонность
+prong
+зубец
+pronghorn
+вилорог
+pronominal
+местоименный
+pronoun
+местоимение
+pronounce
+произносить	объявлять
+pronounced
+произносить	объявлять	заметный
+pronouncement
+заявление
+pronouncing
+произносить	объявлять
+pronto
+безотлагательно
+pronunciamento
+пронунциаменто
+pronunciamentos
+пронунциаменто
+pronunciation
+произношение
+proof
+доказательство	устойчивый
+proof procedure
+процедура доказательства
+proof-reader
+корректор
+proofless
+бездоказательный
+proofread
+корректировать
+proofreader
+корректор
+proofreading
+корректировать	корректура
+prop
+подпирать	подпорка
+prop up
+поддерживать (цены, курсы валют)
+propaganda
+пропаганда	пропагандистский
+propagandist
+пропагандист
+propagandistic
+пропагандистский
+propagandize
+пропагандировать
+propagate
+распространяться
+propagated
+распространяться	распространенный
+propagated error
+накапливающаяся ошибка; унаследованная ошибка. ошибка, являющаяся следствием ошибки или неточности в предшествующих вычислениях.	наведенная ошибка. конструкция	программы, воспринимаемая транслятором как ошибочная в результате ошибки в предшествующей части программы
+propagating
+распространять	распространяющий
+propagation
+распространение
+propagator
+распространитель
+propane
+пропан	пропановый
+propel
+двигать
+propellant
+ракетное	топливо
+propelled
+двигать
+propellent
+ракетное	топливо
+propeller
+винт
+propelling
+двигать
+propellor
+винт
+propensity
+склонность
+proper
+соответствующий
+proper subset
+собственное подмножество. подмножество, отличное от самого множества
+properietary
+собственная
+properly
+правильно
+properness
+правильность
+propertied
+имущий
+property
+собственность	свойство
+property development
+строительство	финансирование строительства
+property holdings
+собственность
+property list
+список свойств
+property management
+управление недвижимым имуществом
+property qualification
+преимущественный ценз
+property services
+услуги, доставляемые собственностью
+property tax
+имущественный налог	налог на собственность
+prophase
+биол)профаза
+prophecy
+прорицание
+prophesier
+предсказатель
+prophesy
+предсказывать
+prophesying
+предсказывать	предсказывающий
+prophet
+пророк
+prophetess
+пророчица
+prophetic
+пророческий
+prophetically
+пророчески
+prophylactic
+профилактический
+prophylaxis
+профилактика	профилактический
+propinquity
+близость
+propitiate
+умилостивить
+propitiation
+примирение
+propitiator
+умиротворитель
+propitiatory
+умиротворительный
+propitious
+подходящий
+propjet
+турбовинтовой	двигатель
+propman
+реквизитор
+proponent
+сторонник
+proportion
+пропорция
+proportional
+пропорциональный
+proportionality
+прямая	пропорциональность
+proportionate
+пропорционально	пропорциональный
+proportionately
+пропорционально
+proposal
+предложение
+propose
+предлагать	предложение
+proposed
+предлагать	предлагаемый	предполагают
+proposer
+заявитель
+proposing
+предлагать
+proposition
+предложение
+propositional
+пропозициональный
+propound
+выдвигать
+proprietary
+личный	патентованный
+proprietary class
+класс собственников
+proprietary goods
+запатентованные товары	право продажи или производство которых принадлежит кому-либо
+proprietary hospital
+частная больница
+proprietary interest
+хозяйская заинтересованность	по-хозяйски заинтересованное отношение
+proprietor
+владелец
+proprietorship
+собственность
+proprietress
+владелица
+propriety
+уместность
+propulsion
+буксировка
+propulsive
+движущий
+propylene
+пропилен
+prorata
+пропорционально
+prorate
+распределять пропорционально
+proration
+пропорциональное	распределение
+prorogation
+роспуск
+prorogations
+роспуск
+prorogue
+распускать
+prosaic
+прозаический
+prosaically
+прозаически
+proscenia
+просцениум
+proscenium
+просцениум
+proscribe
+запрещать
+proscribed
+запрещать	запрещенный
+proscribing
+запрещать	запрещающий
+proscription
+запрет
+proscriptive
+запретительный
+prose
+проза
+prosecutable
+обвинительный
+prosecute
+юрид)обвинять
+prosecuted
+юрид)обвинять	обвиняемый
+prosecuting
+юрид)обвинять	обвиняемый
+prosecution
+юрид)обвинение
+prosecutive
+юрид)обвинительный
+prosecutor
+юрид)обвинитель
+prosecutorial
+юрид)обвинительный
+prosecutory
+юрид)обвинительный
+prosecutrix
+юрид)обвинительница
+proselyte
+прозелит
+proselytism
+прозелитизм
+proselytize
+обращать
+proselytizer
+вербовщик
+prosody
+просодия
+prospect
+искать	перспектива
+prospective
+ожидаемый
+prospector
+изыскатель
+prospects
+искать	перспектива
+prospectus
+проспект
+prosper
+процветать
+prosperity
+процветание
+prosperous
+процветающий
+prosser
+актер&-	профессионал
+prossie
+проститутка
+prossy
+проститутка
+prostate
+простата
+prostatic
+простаты
+prostatitis
+простатит
+prostheses
+протезирование	протез
+prosthesis
+протезирование	протез
+prosthetic
+протезный
+prosthetically
+протезом
+prostitute
+проститутка
+prostitution
+проституция
+prostrate
+истощать	распростертый
+prostrated
+истощать	изнеможенный
+prostrating
+истощать	изнемогающий
+prostration
+прострация
+prosy
+прозаический
+protactinium
+протактиний
+protagonist
+протагонист
+protean
+изменчивый
+protect
+защищать	защита
+protectable
+защищаемый
+protected
+защищать	защищенный
+protected advantages
+гарантированные преимущества
+protected field
+защищенное поле. часть экрана дисплея, изображение в которой не может	быть отредактировано
+protected file
+защищенный файл
+protectee
+защищаемый
+protecting
+защищать	защита	защищающий
+protection
+защита
+protection lock
+замок защиты
+protectional
+протекционистский
+protectionism
+протекционизм
+protectionist
+протекционист
+protective
+защитный
+protective duty
+покровительственная пошлина
+protective effect
+степень протекционизма
+protectiveness
+протекционизм
+protector
+защита
+protectorate
+протекторат
+protectress
+защитница
+protege
+протеже
+protegee
+протеже
+protein
+белок	белковый
+proteose
+протеоза
+proterozoic
+протеозойский
+protest
+протестовать против	и)протестовать	протест
+protestant
+протестант	протестантский
+protestantism
+протестантизм
+protestation
+заявление
+protested
+протестовать
+protester
+протестующий
+protesting
+протестовать
+protestor
+протестующий
+proteus
+протей
+prothalamia
+свадебная	песня
+prothalamion
+свадебная	песня
+protococ
+протокок
+protocol
+протокол
+proton
+протон
+protoplanet
+протопланета
+protoplasm
+протоплазма
+protoplasmal
+протоплазменный
+protoplasmatic
+протоплазменный
+prototype
+прототип
+prototyped
+моделировать
+prototypic
+прототипный
+prototypical
+прототипный
+prototyping
+макетрование
+prototyping board
+макетная плата
+prototyping system
+макет системы.	система макетирования
+protoxide
+закись
+protozoa
+простейший
+protozoan
+простейший
+protozoic
+протозойный
+protozoon
+простейший
+protract
+тянуть
+protracted
+тянуть	длительный
+protractile
+выдвижной
+protraction
+затягивание
+protractor
+транспортир
+protron
+протон
+protrude
+выдаваться
+protrusile
+выдвигающийся
+protrusion
+выступ
+protrusive
+выступающий
+protuberance
+выпуклость
+protuberant
+выпуклый
+proturberance
+выпуклость
+proturberant
+выпуклый
+proud
+гордый
+proud of
+гордый
+proudly
+гордо
+proudness
+гордость
+provability
+доказуемость
+provable
+доказуемый
+provably
+доказуемо
+prove
+доказывать
+proved
+доказывать	доказанный	оказывается
+proven
+доказывать	доказанный
+provenance
+происхождение
+provencal
+провансальский
+provence
+прованс
+provender
+корм
+prover
+доказательство
+proverb
+пословица
+proverbial
+вошедший в пословицу
+provide
+обеспечивать	Д)предоставлять
+provided
+предусматривать	Д)предоставлять	предусмотренный	если
+providence
+предусмотрительность
+providency
+предусмотрительность
+provident
+предусмотрительный
+provident fund
+фонд обеспечения персонала
+provident society
+касса взаимопомощи
+providential
+провиденциальный
+provider
+поставщик	источник
+providing
+обеспечивать	Д)предоставлять	обеспечение	если
+province
+провинция	область
+provincial
+провинциал	провинциальный
+provincialism
+провинциализм
+proving
+доказывать	проверка
+provision
+обеспечение	предоставление	положение
+provisional
+временный
+provisional data
+предварительные данные
+provisional job
+временная работа
+provisional posts
+временные должности
+provisionally
+временно
+provisioner
+поставщик
+provisions
+условие
+provisions drawback
+положение о возврате пошлины (в патентном праве)
+proviso
+условие	оговорка
+provocateur
+провокатор
+provocation
+провокация
+provocative
+возбудитель	вызывающий
+provocatively
+соблазнительно
+provocativeness
+соблазнительность
+provoke
+вызывать
+provoked
+вызывать	вызванный
+provoking
+вызывать	вызывающий
+provolone
+проволоне
+provost
+ректор
+prow
+нос
+prowar
+сторонник	войны
+prowess
+мастерство
+prowl
+рыскать
+prowler
+взломщик
+proxies
+полномочие
+proximal
+проксимальный
+proximate
+ближайший
+proximity
+близость
+proximo
+в следующем месяце
+proxy
+полномочие
+proxy index
+предварительный индекс
+prude
+человек строгих взглядов
+prudence
+благоразумие
+prudent
+предусмотрительный
+prudential
+благоразумный
+prudently
+благоразумно
+prudery
+напускная	скромность
+prudish
+пуританский
+prudishness
+ханжество
+prune
+подрезать	чернослив
+pruned
+подрезать	подрезанный
+pruner
+садовник
+pruning
+подрезать	отсечение
+prurience
+зуд
+prurient
+похотливый
+prussa
+пруссия
+prussia
+пруссия
+prussian
+пруссак	прусский
+prussic
+синильный
+pry
+подглядывать	рычаг
+pry into
+совать нос в
+pry open
+вскры(ва)ть, взламывать [взломать]
+pry up
+поднимать [-нять]
+prying
+пытливый
+pryingly
+назойливо
+psalm
+псалом
+psalmist
+псалмист
+psalmody
+псалмодия
+psalter
+псалтырь
+pseudo
+псевдо
+pseudo instruction
+псевдокоманда. управляющее предложение программы на ассемблере, не	порождающее машинных команд, но влияющее на работу транслятора
+pseudomonas
+псевдомона
+pseudonym
+псевдоним
+pseudorandom
+псевдослучайный
+pseudoscience
+псевдонаука
+pseudoscientific
+псевдонаучный
+pshaw
+фи
+psi
+#пси
+psst
+шш
+psych
+#псих	
+psyche
+душа	психея
+psyched
+подвергнутый психоанализу
+psychedelic
+психотомиметический
+psychedelically
+психотомиметически
+psychedelics
+психотомиметический	вещество
+psychiatric
+психиатрический
+psychiatrically
+психиатрически
+psychiatrist
+психиатр
+psychiatry
+психиатрия
+psychic
+психический
+psychical
+психический
+psychically
+психически
+psycho
+психо
+psychoactive
+психотропный
+psychoanalyses
+психоанализ
+psychoanalysis
+психоанализ
+psychoanalyst
+психоаналитик
+psychoanalytic
+психоаналитический
+psychoanalyze
+подвергать психоанализу
+psychodrama
+психодрама
+psychogenic
+психогенный
+psychographics
+психографика
+psychological
+психологический
+psychologist
+психолог
+psychology
+психология
+psychometric
+психометрический
+psychometry
+психометрия
+psychomotor
+психомоторный
+psychoneuroses
+психоневроз
+psychoneurosis
+психоневроз
+psychopath
+психопат
+psychopathic
+психопатический
+psychopathy
+психопатия
+psychoses
+психоз
+psychosexual
+психосексуальный
+psychosexually
+психосексуально
+psychosis
+психоз
+psychosocial
+психосоциальный
+psychosomatic
+психосоматический
+psychotherapist
+психотерапевт
+psychotherapy
+психотерапия
+psychotic
+психотический
+psychotically
+психотически
+psychotropic
+психотропный
+psychrophyl
+психрофил
+pt
+#пт
+ptarmigan
+белая	куропатка
+pterodactyl
+птеродактиль
+ptolemaic
+птоломеев
+ptolemy
+птоломей
+ptomaine
+трупный	яд
+pub
+кабак
+puberty
+половая	зрелость
+publ
+публ	
+public
+публика	общественный
+public accommodations
+места общественного пользования (в т.ч. транспорт)
+public accountability
+публичная финансовая подотчетность
+public administration
+государственное управление	государственно-административная деятельность	управление государственными предприятиями
+public administrators
+государственный административный персонал	государственные чиновники
+public assistants
+государственное вспомоществование (слепым, инвалидам, престарелым,	беднякам и т.д.)
+public bonds
+государственные и муниципальные облигации
+public company
+(публичное) акционерное общество
+public consumption
+государственное потребление
+public corporations
+государственные корпорации (США)
+public data
+общие данные. данные программного модуля, доступные другим модулям.	общедоступная информация
+public debt
+государственный долг
+public demand
+спрос государственного сектора
+public domain
+государственные земли	общественная собственность	статус произведений (изобретений), не защищенных авторским правом или	патентом
+public employment
+занятость в государственном секторе (экономики)	государственные служащие
+public enterprise
+государственное предприятие
+public expenditure
+государственные расходы
+public facilities
+места общественного пользования
+public finance
+государственное финансирование	государственные финансы
+public funds
+государственные ценные бумаги	облигации
+public health
+здравоохранение
+public house
+трактир
+public houses
+муниципальные жилые дома
+public housing
+муниципальный (государственный) жилой фонд	государственное жилищное строительство
+public investment
+государственные инвестиции
+public law
+гражданский кодекс
+public liability
+гражданская ответственность за нанесенный ущерб
+public library
+общая библиотека
+public loan
+государственный заем
+public money
+государственные финансы
+public notary
+государственный нотариус
+public ownership
+государственная собственность
+public prosecutor
+прокурор
+public purse
+казна
+public relations
+связи с общественностью	представительские функции (фирмы)
+public revenue
+доходы государственного бюджета
+public revenues
+государственные доходы
+public sale
+аукцион	публичные торги	продажа с молотка
+public sector
+государственный сектор
+public servant
+государственный служащий	должностное лицо
+public services
+коммунальные услуги	органы государственного управления	услуги государства
+public spirit
+дух солидарности, патриотизма
+public stock
+государственные ценные бумаги
+public store
+таможенный склад	снабжать	запасать	накапливать	откладывать	хранить (на складе)
+public subsidy
+государственная субсидия
+public utilities
+предприятия коммунального обслуживания (газ, электричество, водоснабжение, канализация и т.д.)
+public utility
+коммунальное предприятие	предприятия общественного пользования	коммунальные услуги *
+public warehouse
+коммерческий склад	склад общего (общественного) пользования
+public work
+общественные работы
+public works
+общественные работы
+publication
+докм)публикация
+publicist
+публицист
+publicity
+гласность
+publicize
+рекламировать
+publicly
+публично
+publish
+докм)прес)публиковать
+published
+прес)публиковать	опубликованный
+publisher
+прес)издатель
+publishing
+публиковать	издание
+publishing house
+издательство
+puck
+шайба
+pucka
+первоклассный
+pucker
+морщить	складка
+pudding
+пуддинг
+puddle
+лужа
+puddly
+покрытый лужами
+pudenda
+наружный	половой	орган
+pudendum
+наружный	половой	орган
+pudginess
+пухлость
+pudgy
+пухлый
+puerile
+ребяческий
+puerility
+ребячество
+puerperal
+родильный
+puerto
+пуэрто
+puff
+пуховка
+puff-paste
+слоеное тесто
+puffball
+дождевик
+puffed out
+наду(ва)ться
+puffers
+иглобрюхий
+puffin
+тупик
+puffiness
+одутловатость
+puffy
+одутловатый
+pug
+мопс
+pug-dog
+мопс
+pug-nosed
+курносый
+puggish
+лисий
+puggy
+лисица
+pugilism
+бокс
+pugilist
+боксер
+pugnacious
+драчливый
+pugnacity
+драчливость
+puissance
+мощь
+puissant
+могущественный
+puissantly
+могуче
+puke
+тошнить	блевотина
+pukka
+первоклассный
+pulchritude
+красота
+pulchritudinous
+красивый
+pule
+скулить
+puler
+нытик
+pull
+тянуть
+pull down
+сносить [снести] (здание и т.п.)
+pull out
+отходить [отойти] (от станции)
+pull through
+* выхаживать [выходить]	поправляться [-авиться] (от болезни)
+pull up
+подтягивать [-януть]	осаживать [осадить] (лошадей)	останавливать(ся) [-новить(ся)]
+pullback
+оттягивание
+puller
+съемник	экстрактор
+pullet
+курочка
+pulley
+шкив
+pulling
+выталкивать	выталкивание
+pullman
+пульман
+pullout
+оттягивание
+pullover
+пуловер
+pulmonary
+легочный
+pulmonic
+легочный
+pulp
+пульпа
+pulpit
+кафедра
+pulpwood
+баласовая	древесина
+pulpy
+мясистый
+pulsar
+пульсар
+pulsate
+пульсировать
+pulsated
+пульсировать
+pulsating
+пульсировать
+pulsation
+пульсация
+pulse
+пульсировать	импульс
+pulsed
+пульсировать	импульсный
+pulser
+генератор импульсов
+pulsing
+пульсировать	генерация
+pulverization
+распыление
+pulverize
+измельчать
+pulverized
+измельчать	измельченный
+pulverizer
+пульверизатор
+pulverizing
+измельчать	измельчение
+puma
+пума
+pumice
+пемза
+pummel
+колотить
+pump
+качать	выкачивать	насос
+pump up
+накачивать [-чать]
+pump-priming
+использование государственных расходов в качестве первого толчка	для стимулирования экономики
+pumped
+качать	наполненный
+pumpernickel
+черный	хлеб
+pumping
+качать	подкачка
+pumpkin
+тыква	тыквенный
+pun
+каламбурить	каламбур
+punative
+случайный
+punch
+перфорировать	перфоратор
+punch tape
+перфолента
+punch-card
+перфокарта
+punchboard
+доска
+punchcard
+перфокарта
+punched
+перфорировать	перфорированный
+punched card
+перфокарта
+punched-card
+перфокарта с нанесенной информацией
+puncheon
+стойка
+puncher
+перфоратор
+punching
+перфорировать	перфорирование
+punchy
+энергичный
+punctilio
+формальность
+punctilious
+щепетильный
+punctiliousness
+щепетильность
+punctual
+пунктуальный	точный
+punctuality
+пунктуальность
+punctually
+аккуратно
+punctuate
+ставить знаки препинания
+punctuation
+пунктуация
+puncture
+прокалывать	прокол
+punctured
+прокалывать	проколотый
+pundit
+ученый
+pungency
+острота
+pungent
+острый
+punily
+тщедушно
+puniness
+тщедушность
+punish
+наказывать
+punishable
+наказуемый
+punished
+наказывать	наказанный
+punishing
+наказывать
+punishment
+наказание
+punitive
+карательный
+punitiveness
+карательность
+punitory
+карательный
+punk
+панк
+punster
+каламбурист
+punt
+плоскодонный	ялик
+puny
+щуплый
+pup
+щенок
+pupa
+куколка
+pupae
+куколка
+pupal
+пупальный
+pupil
+ученик	зрачок
+puppet
+марионетка	кукольный
+puppeteer
+кукловод
+puppetry
+кукольный	театр
+puppy
+щенок
+purblind
+подслеповатый
+purblindness
+подслеповатость
+purchasable
+продажный
+purchase
+приобретать	приобретение
+purchase contracts
+закупочные контракты
+purchase money
+первый взнос при покупке в кредит (в рассрочку)
+purchase option
+опцион на закупку	преимущественное право решать, где производить закупки (сырья)
+purchase order
+приказ (поручение) на покупку
+purchase tax
+налог на покупку
+purchased
+приобретать	приобретенный
+purchased inputs
+покупные средства производства
+purchased power
+электроэнергия со стороны (в отличие от произведенной на собственной	электростанции предприятия)
+purchaser
+покупатель
+purchasing
+приобретать	покупка	покупательный
+purchasing agent
+агент по снабжению
+purchasing budget
+заготовительная смета
+purchasing licensee
+покупающий получатель лицензии
+purchasing option
+опцион покупателя
+purchasing power
+покупательная способность
+purchasing prices
+заготовительные цены
+purdah
+занавес
+purdue
+солдат
+pure
+чистый
+pure competition
+чистая конкуренция
+pure data
+константы, неизменяемые данные
+pure economics
+фундаментальные теоретические экономические исследования
+pure function
+функция без побочного эффекта
+pure-bred
+чистокровный
+purebred
+чистокровка	чистокровный
+puree
+пюре
+purely
+чисто
+pureness
+чистота
+purgation
+очищение кишечника
+purgative
+слабительное	слабительный
+purgatorial
+очистительный
+purgatory
+чистилище
+purge
+чистить
+purge date
+дата истечения срока хранения. дата, хранящаяся в дескрипторе файла	или другой структуры данных и указывающая, начиная с какого момента	занимаемое им пространство может	быть освобождено
+purgers
+очиститель
+purging
+очищать	очистка
+purification
+очистка
+purificatory
+очистительный
+purifiers
+очищающий	вещество
+purify
+очищать
+purim
+пурим
+purism
+пуризм
+purist
+пурист
+puritan
+пуританин	пуританский
+puritanical
+пуританский
+puritanism
+пуританство
+purity
+фото)чистота
+purl
+журчать
+purlieu
+окрестность
+purlin
+обрешетина
+purloin
+красть
+purloiner
+воришка
+purple
+пурпурный
+purplish
+Пс пурпурным оттенком
+purport
+означать	б)	иметь целью	содержание
+purported
+предполагаемый
+purportedly
+предположительно
+purpose
+исключительно для
+purposeful
+целенаправленный
+purposefulness
+целенаправленность
+purposelessly
+бесцельно
+purposelessness
+бесцельность
+purposely
+умышленно
+purposive
+преднамеренный
+purpura
+пурпура
+purr
+мурлыкать	мурлыканье
+purse
+кошелек
+purser
+казначей
+pursing
+оплачивать	оплата
+purslane
+портулак
+pursuable
+преследуемый
+pursuance
+выполнение
+pursuant
+согласно
+pursuant to
+согласно
+pursue
+преследовать	проводить	заниматься
+pursuer
+преследователь
+pursuit
+поиск
+purulence
+нагноение
+purulent
+гнойный
+purulently
+с гноем
+purvey
+поставлять
+purveyance
+снабжение
+purveyor
+поставщик
+purview
+сфера
+pus
+гной
+push
+выталкивать	толчок
+push-button
+кнопка (звонка и т.п.)
+pushbutton
+кнопка
+pushcart
+тележка
+pushed
+выталкивать
+pushers
+толкатель
+pushful
+предприимчивый
+pushing
+выталкивать	проталкивание
+pushkin
+пушкин
+pushover
+легкопреодолимое	препятствие
+pushup
+выжимание
+pushy
+напористый
+pusillanimity
+малодушие
+pusillanimous
+малодушный
+puss
+кошечка
+pussillanimity
+малодушие
+pussy
+кошечка
+pussycat
+киска
+pussyfoot
+осторожный	человек
+pustule
+гнойничок
+put
+помещать	устанавливать
+put across
+успешно проводить (меру)	перевозить [-везти]
+put back
+ставить на место (обратно)	ставить назад
+put by
+откладывать [отложить] (деньги)
+put down
+подавлять [-вить] (восстание)	записывать [-сать]	заставлять замолчать	приписывать [-сать] (to *Д)
+put forth
+проявлять [-вить]	пускать [пустить] (побеги)	пускать в обращение
+put in
+вставлять [-авить]	всовывать [всунуть]	заходить в порт
+put off
+снимать [снять] (одежду)	отдел(ыв)аться от (*р with *Т)	отталкивать [оттолкнуть]	откладывать [отложить]	уходить в море
+put on
+наде(ва)ть (платье и т.п.)	принимать [-нять] (вид)	прибавлять [-авить]
+put out
+выкладывать [выложить]	протягивать [-тянуть]	выгонять [выгнать]	[по]тушить (огонь)
+put right
+приводить в порядок
+put straight
+приводить в порядок
+put through
+соединять [-нить] (to с *Т)
+put to
+прибавлять [-бавить]
+put up
+[по]строить, возводить [-вести] (здание)	[по]ставить (пьесу)	давать приют
+putative
+предполагаемый
+putdown
+отказ
+putrefaction
+разложение
+putrefactive
+гнилостный
+putrefied
+гнить
+putrefy
+гнить
+putrefying
+гнить
+putrescence
+гниение
+putrescent
+гниющий
+putrescible
+подверженный гниению
+putrid
+гнилой
+putridity
+гнилость
+putridness
+гнилость
+puts
+устанавливать
+putsch
+путч
+putt
+легкий	удар
+puttee
+крага
+putter
+возиться
+putterer
+откатчик
+putting
+устанавливать
+putty
+замазывать	замазка
+puzzle
+озадачивать	задача
+puzzle out
+распут(ыв)ать
+puzzle-headed
+бестолковый	сумбурный
+puzzled
+озадачивать	озадаченный
+puzzlement
+недоумение
+puzzler
+трудный	вопрос
+puzzling
+озадачивать	недоуменный
+pygmalion
+пигмалион
+pygmy
+пигмей	миниатюрный
+pyjamas
+пижама
+pylon
+пилон
+pylori
+пилорус
+pyloric
+пилорусный
+pylorus
+пилорус
+pyorrhea
+пиорея
+pyorrhoea
+пиорея
+pyramid
+пирамида
+pyramidal
+пирамидальный
+pyramidic
+пирамидальный
+pyre
+погребальный	костер
+pyrenean
+пиренейский
+pyrenees
+пиренеи
+pyrexia
+лихорадка	гипертермия
+pyrexiae
+лихорадка	гипертермия
+pyrexial
+лихорадочный
+pyrite
+пирит
+pyrites
+колчедан
+pyritic
+пиритовый
+pyrography
+выжигание
+pyrolysis
+пиролиз
+pyrolyzing
+пиролизный
+pyromania
+пиромания
+pyromaniac
+импульсивный	поджигатель
+pyrometer
+пирометр
+pyrotechnic
+пиротехнический
+pyrotechnic display
+фейерверк
+pyrotechnical
+пиротехнический
+pyrotechnics
+пиротехника
+pyrrhic
+пиррихий
+pythagoras
+пифагор
+pythagorean
+пифагореец	пифагоров
+python
+питон
+pyx
+дароносица

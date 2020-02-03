@@ -1,0 +1,4003 @@
+
+i
+я	у меня	мне
+iambic
+ямбический
+iberia
+иверия
+ibm
+Йинф)
+ibuprofen
+ибупрофен
+icand
+множимое
+icc
+#икк
+ice
+замораживать	лед	ледяной
+ice-age
+ледниковый период
+ice-box
+холодильник, ледник
+ice-chest
+холодильник, ледник
+iceberg
+айсберг
+iceboat
+ледокол
+icebound
+скованный льдами
+icebox
+холодильник
+icebreaker
+ледокол
+icecap
+ледниковый	покров
+icecream
+мороженое
+iced
+замораживать	охлажденный
+iceland
+исландия
+icelander
+исландец
+icelandic
+исландский
+ichneumon
+мангуст
+ichor
+ихора
+ichthyology
+ихтиология
+icicle
+сосулька
+icing
+замораживать	обледенение	глазурь
+icon
+икона	образ	инф)иконка	иконный
+iconic
+иконический
+iconize
+иконизировать
+iconizing
+иконизировать	иконизация
+iconoclasm
+иконоборство
+iconographic
+иконографический
+icpo
+#безотз	заказ
+icumes
+икумс
+icy
+ледяной
+id
+#
+idea
+идея
+idea processor
+система обработки структурированных	текстов; текстовая база данных
+ideal
+идеал	идеальный
+ideal value
+истинное значение
+idealism
+идеализм
+idealist
+идефлист
+idealize
+идеализировать
+idealized
+идеализировать	идеализированный
+idealizing
+идеализировать
+ideally
+умозрительно
+idealogue
+идеолог
+identical
+идентичный
+identifiable system
+точно определяемая система
+identification
+идентификация
+identification mark
+маркировка	фирменный знак	отличительный знак
+identifications division
+раздел идентификации. в языке КОБОЛ	(COBOL) - часть программы, содержащая информацию об авторе, времени и	цели разработки
+identified
+идентифицировать	определять	определенный
+identifier
+идентификатор
+identifing
+идентифицировать	определять	определяющий
+identify
+идентифицировать	опознавать	определять	определение
+identifying
+опознавать	определять	установление	определяющий
+identity
+тождество	А)личность
+identity card
+удостоверение личности
+identity papers
+документ, удостоверяющий личность
+ideogram
+идеограмма
+ideological
+идеологический
+ideologues
+идеолог
+ideology
+идеология
+ides
+иды
+idiocy
+идиотизм
+idioglossary
+тематический	словарь
+idiom
+идиома	диалект
+idiomatic
+идиоматический
+idiosyncrasy
+идиосинкразия
+idiot
+идиот
+idiotproof
+дуракоупорный
+idle
+ожидание	холостой	праздный	ленивый
+idle balances
+остатки	неиспользуемые денежные суммы
+idle capacity
+резервная мощность	неиспользуемая мощность
+idle capacitying
+бездействующие мощности
+idle capital
+мертвый капитал
+idle character
+холостой символ. символ, передаваемый по линии связи в отстутствие	сообщений
+idle factories
+бездействующие (закрытые) фабрики
+idle hours
+простой	приостановка работы	перерыв в работе	приостановка действия	вынужденная остановка
+idle land
+необработанная земля
+idle machinery
+бездействующая машина
+idle money
+свобдные резервы денежного капитала	мертвый капитал
+idle overhead
+бесполезные накладные расходы
+idle people
+безработные	незанятые рабочие руки
+idle time
+простой в работе	время простоя
+idler
+бездельник
+idling
+холостой	ход
+idly
+праздно
+idol
+идол
+idolator
+идолопоклонник
+idolize
+боготворить
+idyllic
+идиллический
+ie
+т	е	
+ier
+множитель
+if
+при
+iff
+тогда и только тогда
+ifip
+#мфои
+igloo
+иглу
+igneous
+огненный	изверженный
+ignite
+зажигать
+ignition
+зажигание
+ignoble
+неблагородный
+ignominious
+позорный
+ignoramus
+невежда
+ignorance
+незнание
+ignorant
+невежественный
+ignore
+игнорировать
+ignored
+игнорировать	игнорируемый
+iguana
+игуана
+ila
+#
+ilk
+род
+ill
+зло	недуг	плохой	больной	дурно
+ill luck
+неудача
+ill-bred
+невоспитанный
+ill-conditioned
+плохо обусловленный; некорректный.	о (математической) задаче или операторе, малым изменениям параметров	которых соответствуют большие или	качественные изменения решения
+ill-favored
+некрасивый	неприятный
+ill-favoured
+некрасивый	неприятный
+ill-humored
+в дурном настроении, не в духе
+ill-humoured
+в дурном настроении, не в духе
+ill-mannered
+невоспитанный, грубый
+ill-natured
+* дурного нрава, злобный
+ill-timed
+несвоевременный, неподходящий
+ill-treat
+плохо обращаться с
+ill-will
+недоброжелательность *
+illegal
+незаконный
+illegal character
+недопустимый символ
+illegal instruction
+запрещенная команда.	машинная команда, код которой не	входит в систему команд.	машинная команда, которая не может быть выполнена в данном режиме
+illegal operation
+запрещенная команда
+illegal strike
+"незаконная" забастовка (вопреки позиции руководства профсоюза или в нарушение трудового законодательства)
+illegal symbol
+недопустимый символ
+illegible
+неразборчивый
+illegitimate
+незаконный
+illfound
+испытывающий недостаток
+illicit
+незаконный
+illicit trade
+незаконная (контрабандная) торговля
+illiquid
+неликвидный
+illiteracy
+неграмотность
+illiterate
+неграмотный
+illness
+болезнь
+illogical
+нелогичный
+illuminate
+освещать
+illumination
+освещение	иллюминация
+illusion
+иллюзия
+illusive
+обманчивый
+illusory
+иллюзорный
+illustrate
+иллюстрировать	иллюстрация
+illustrating
+иллюстрировать	иллюстрирующий
+illustration
+иллюстрация
+illustrious
+знаменитый
+im balance
+нарушение равновесия	дисбаланс
+image
+образ	изображение
+image file
+загрузочный модуль, файл образа задачи
+image generation
+формирование изображения
+image graphics
+растровая графика.	средства обработки изображений в	виде растровой матрицы
+image memory
+память изображения. память (обычно	область ОЗУ), в которой хранится	представление изображения
+image processing
+обработка изображений. обычно подразумевается обработка и распознавание изображений, введенных в виде	растра
+image regeneration
+регенерация изображения. последовательность событий, необходимая для	повторного формирования изображения	на экране дисплея из его представления в памяти
+image understanding
+разпознавание изображений
+imager
+блок формирования изображения
+imagery
+изображение
+imaginable
+мыслимый	вообразимый
+imaginary
+воображаемый
+imagination
+воображение
+imaginative
+мысленный	воображаемый
+imagine
+	представлять себе
+imagined
+представлять себе	представляемый
+imaging
+представлять себе	формирование изображения
+imbalance
+разбаланс
+imbecile
+слабоумный
+imbed
+вделывать
+imbedded
+вделывать	вделанный
+imbibe
+впитывать	поглощать
+imbroglio
+запутанная	ситуация
+imbroglios
+запутанная	ситуация
+imbrued
+пропитать	пропитанный
+imbue
+наполнять	насыщать	пропитывать
+imf
+международный валютный фонд
+imitate
+имитировать
+imitated
+имитировать	имитированный
+imitating
+имитировать	имитирующий
+imitation
+имитация
+immaculate
+непорочный
+immanent
+присущий
+immaterial
+несущественный
+immature
+незрелый
+immeasurable
+неоценимый
+immediacy
+безотлагательность
+immediate
+безотлагательный	непосредственный
+immediate address
+непосредственный адрес, адрес-операнд
+immediate addressing
+непосредственная адресация. способ	адресации, при котором значение адреса команды используется в качестве операнда без дополнительных обращений к памяти
+immediate consumables
+потребительские товары повседневного спроса
+immediate data
+непосредственный операнд
+immediate family
+ближайшие родственники
+immediate information
+сведения из первоисточника
+immediate measures
+безотлагательные меры
+immediate mode
+непосредственный режим. способ организации интерактивной системы, при	котором пользователь управляет системой, воздействуя на изображения	информационных объектов и процессов	на экране дисплея
+immediate operand
+непосредственный операнд
+immediate payment
+немедленная уплата
+immediate possession
+немедленное вступление во владение
+immediate-action
+быстродействующий	мгновенный	немедленный	немедленного действия
+immediately
+немедленно
+immemorial
+незапамятный
+immense
+огромный
+immerse
+погружать
+immersed
+погружать	погруженный
+immersing
+погружать	погружение
+immersion
+погружение
+immigrant
+иммигрант
+immigrant remittance
+заработки иностранных рабочих, отсылаемые на родину
+immigrate
+иммигрировать
+immigration
+иммиграция	иммиграционный
+imminent
+неминуемый
+immobile
+неподвижный
+immobilization
+иммобилизация
+immobilize
+иммобилизовать
+immobilized
+иммобилизовать	иммобилизованный
+immobilizing
+иммобилизовать	иммобилизирующий
+immoderate
+чрезмерный
+immodest
+нескромный
+immolate
+принести в жертву
+immoral
+безнравственный
+immortal
+бессмертный
+immortalize
+увековечивать
+immortalized
+увековечивать	увековеченный
+immortalizing
+увековечивать
+immovable
+неподвижный
+immovable property
+недвижимость	недвижимая собственность
+immune
+устойчивый
+immunity
+устойчивость
+immunization
+иммунизация
+immunize
+иммунизировать
+immunized
+иммунизировать	иммунизированный
+immunizing
+иммунизировать
+immunodeficiency
+мед)иммунодефицит	иммунодефицитный
+immunology
+мед)иммунология
+immutable
+неизменный
+impact
+уплотнять	влияние	столкновение
+impact printer
+устройство контактной печати
+impair
+портить	нарушить
+impairing
+портить	нарушить	вредный
+impairment
+ухудшение
+impale
+пронзать
+impart
+наделять
+impartial
+беспристрастный
+impartiality
+беспристрастность
+impassable
+непроходимый
+impasse
+тупик
+impassioned
+страстный
+impassive
+бесчувственный
+impatience
+нетерпение
+impatient
+нетерпеливый
+impeachment
+импичмент
+impeccability
+безупречность
+impeccable
+безупречный
+impecunious
+безденежный
+impedance
+полное	сопротивление
+impede
+препятствовать
+impediment
+помеха
+impel
+побуждать
+impelled
+побуждать	побуждаемый
+impelling
+побуждать	побуждающий
+impending
+предстоящий
+impenetrability
+непроницаемость
+impenetrable
+непроницаемый	непроходимый
+impenitent
+нераскаянный
+imperative
+необходимо	необходимый	императивный
+imperative language
+императивный язык
+imperative statement
+исполняемый оператор, императивный	оператор. оператор программы, которому соответствует некоторое действие
+imperatives
+императив
+imperceptible
+незаметный
+impereachment
+сомнение
+imperfect
+неполный	несовершенный
+imperfect competition
+несовершенная конкуренция
+imperfect entry
+предварительная таможенная декларация
+imperfect market
+несовершенный рынок
+imperfection
+несовершенство
+imperfective
+несовершенный
+imperforate
+беззубцовый
+imperial
+имперский
+imperialism
+империализм
+imperialist
+империалистический
+imperil
+подвергать опасности
+imperious
+повелительный
+imperishable
+нерушимый
+impermanent
+непостоянный
+impermeable
+непроницаемый
+impermissable
+недопустимый
+impersonal
+безличный
+impersonate
+подражать
+impersonation
+маскировка
+impertinent
+дерзкий
+impervious
+непроницаемый
+impetuosity
+опрометчивость
+impetuous
+опрометчивый
+impetus
+импульс	побуждение
+impiety
+непочтительность
+impinge
+посягать
+impish
+шаловливый
+implacable
+неумолимый
+implant
+имплантировать	имплантация
+implantation
+имплантация
+implausible
+неправдоподобный
+implement
+осуществлять	принадлежность
+implementation
+реализация
+implementation module
+модуль реализации. в языке модула-2	- описание реализации (implementation specification) модуля
+implementation specification
+описание реализации. в языках модульного программирования - часть описания модуля программы, содержащая	описание процедур, выполняющих описанные в интерфейсе операции, описание представления данных и описание внутренних переменных и процедур.		age specification
+implementator
+разработчик
+implemented
+осуществлять	осуществленный
+implementing
+осуществлять	выполнение	осуществляющий
+implicate
+вовлекать
+implicated
+вовлекать	вовлеченнй
+implicating
+вовлекать	вовлекающий
+implication
+импликация
+implicit
+подразумевающийся
+implicit confidence
+полное доверие
+implicit costs
+неявные издержки
+implicit rent
+условно начисленная (расчетная) арендная плата ( в отличие от фактически	получаемой или выплачиваемой)
+implicit wage
+расчетная (условно исчисленная) заработная плата
+implied
+подразумевать	неявный
+implied address
+неявный адрес
+implied addressing
+неявная адресация. способ адресации, при котором один или несколько	операндов или адресов операндов находятся в фиксированных для данной	команды регистрах и не требуют явного указания в команде
+implied coercion
+контекстное приведение типов
+implode
+сжимать	сжатие
+imploding
+сжимать	сжатие
+implore
+умолять
+implored
+умолять
+imploring
+умолять	умоляющий
+imply
+подразумевать
+implying
+подразумевать	подразумевающий
+impolite
+невежливо	невежливый
+impolitic
+бестактный
+imponderable
+неопределенный
+import
+импортировать	импорт	импортный
+import capacity
+импортный потенциал
+import control
+контроль над импортом
+import curbs
+импортные ограничения
+import demand
+спрос на импортные товары
+import deposit
+импортный депозит (залог)
+import duty
+импортная пошлина
+import elasticity
+эластичность импорта
+import expenditures
+расходы по импорту
+import industries
+отрасли, работающие на импортном сырье
+import license
+разрешение на импорт	импортная лицензия
+import list
+список импорта. в описании модуля список определенных в других модулях имен, используемых в данном модуле
+import permits
+импортные лицензии
+import protection
+защита от конкурирующего импорта	импортный протекционизм
+import quota
+импортная квота
+import requirements
+потребность в импорте
+import restrictions
+импортные ограничения	ограничения на ввоз
+import substitution
+замещение импорта отечественной продукцией
+import surplus
+пассивное сальдо во внешней торговле (в торговом балансе)	пассивный торговый баланс
+importable
+импортируемый
+importance
+значение
+important
+важно	важный
+importation
+импорт
+imported
+импортировать	импортируемый
+imported inflation
+импортированная инфляция
+importer
+импортер
+importing
+импортировать	импорт
+importless
+незначительный
+imports
+импортировать	импорт	импортный
+imports quantum
+физический объем импорта
+importunate
+назойливый
+importune
+назойливый
+importunity
+назойливость
+impose
+навязывать	налагать
+imposed
+навязывать	налагать	налагаемый
+imposing
+навязывать	налагать	навязчивый
+imposition
+обложение
+impossibility
+невозможность
+impossible
+невозможно	невозможный
+impost
+налог
+impostor
+мошенник
+impotence
+бессилие
+impotent
+бессильный
+impound
+конфисковать	загонять
+impoverish
+истощать	доводить до нищеты
+impracticability
+непригодность
+impracticable
+невыполнимый
+impractical
+непрактичный
+imprecate
+призывать на голову
+imprecise
+неточный
+impregnable
+неприступный
+impregnate
+оплодотворять
+impregnated
+оплодотворять	оплодотворенный
+impresario
+импресарио
+impress
+производить впечатление
+impressed
+производить впечатление	пораженный
+impressing
+производить впечатление	впечатляющий
+impression
+впечатление
+impressionism
+импрессионизм
+impressive
+впечатляющий
+impressment
+насильственная	вербовка
+imprest
+подотчетная	сумма
+imprest account
+авансовые счета
+imprest accounts
+авансовые счета
+imprint
+отпечатывать	отпечаток
+imprinted
+отпечатывать	отпечатанный
+imprison
+заключать в тюрьму
+improbable
+неправдоподобно	неправдоподобный
+impromptu
+экспромтом	импровизированный
+improper
+неправильный
+improperly
+неправильно
+impropriety
+неприличие
+improvable
+поддающийся усовершенствованию
+improve
+улучшать
+improve upon
+улучшать [улучшить]
+improved
+улучшать	улучшенный
+improved land
+земля, подвергнутая мелиорации	благоустроенный земельный участок
+improved technique
+усовершенствованная технология
+improvement
+улучшение
+improvement factor
+ежегодная прибавка заработной платы по трудовому соглашению
+improvement program
+программа капитальных работ
+improvidence
+непредусмотрительность
+improvident
+непредусмотрительный
+improving
+улучшать	улучшение	улучшающий
+improvise
+импровизировать	импровизация
+imprudence
+опрометчивость
+impudent
+наглый
+impugn
+оспаривать
+impulse
+импульс
+impulse buying
+импульсивная (незапланированная) покупка
+impulse goods
+товары, покупаемые импульсивно
+impulsion
+импульс
+impulsive
+импульсивный
+impunity
+безнаказанность
+impure
+смешанный
+impure data
+изменяемые данные
+impure function
+функция с побочным эффектом
+impurity
+нечистота	примесь
+imputable
+приписываемый
+imputation
+условное	начисление
+impute
+приписывать
+imputed
+приписывать	вмененный
+imputed interest
+условный (условно начисляемый) процент (на используемый	собственный капитал)
+imputed rent
+(условно) начисленная рента	рентные платежи
+imputed salaries
+условное (расчетное, условно начисляемое) жалование (за управленческие услуги собственника предприятия)
+in
+в течение	
+in abeyance
+без владельца	временно отмененный (закон)
+in addition
+кроме того	к тому же
+in anticipation
+заранее
+in bond
+сложенный на таможенном складе (до уплаты пошлины)
+in bulk
+наливом	россыпью
+in camera
+* в кабинете судьи
+in collaboration
+в сотрудничестве (с *Т)
+in common
+совместно, сообща
+in detail
+в подробностях, подробно
+in doors
+внутри, в доме
+in earnest
+в виде задатка
+in effect
+в действительности
+in evidence
+в доказательство
+in existence
+существующий
+in fashion
+модный
+in fine
+в общем, словом	наконец
+in full
+полностью
+in gear
+включенный, действующий
+in itself
+само по себе
+in midair
+высоко в воздухе
+in number
+в количестве , числом в
+in parameter
+входной параметр
+in part
+частично
+in particular
+в особенности
+in pawn
+в закладе
+in private
+конфиденциально
+in process
+на ходу
+in question
+(лицо, вопрос,) о котором идет речь
+in return
+в обмен (for на *В)	в ответ
+in secret
+секретно, тайком
+in short
+вкратце
+in state
+с помпой
+in stock
+в наличии на складе
+in store
+наготове	про запас
+in succession
+один за другим	подряд
+in tens
+по десяти
+in time
+вовремя
+in tune
+настроенный (рояль)	в тон
+in two
+надвое, пополам
+in twos
+попарно
+in vain
+напрасно, тщетно
+in writing
+письменно
+in-line
+встроенный, включаемый
+inability
+невозможность
+inaccessibility
+недоступность
+inaccessible
+недоступный
+inaccuracy
+погрешность
+inaccurate
+неточный
+inaction
+бездействие
+inactive
+неактивный	бездействующий
+inactive market
+вялый рынок (сбыта)
+inactive securities
+(stocks)	неходкие ценные бумаги (акции)
+inadequacy
+неадекватность
+inadequate
+неадекватный
+inadmissibility
+недопустимость
+inadmissible
+недопустимый
+inadvertence
+небрежность	оплошность
+inadvertent
+невнимательный	нечаянный
+inadvertently
+неумышленно	нехотя
+inadvisable
+нецелесообразный
+inalienable
+неотъемлемый
+inane
+глупый	нудный
+inanimate
+неодушевленный
+inanity
+глупость
+inapplicable
+неприменимый
+inappreciable
+несущественный
+inappropriate
+неподходящий
+inarticulate
+нечленораздельный
+inasmuch
+поскольку
+inasmuch as
+так как	ввиду того, что
+inattention
+невнимание
+inaudible
+неслышно	неслышный
+inaugural
+вступительный
+inaugurate
+вводить	вводить в должность
+inauguration
+инаугурация	торжественное открытие
+inauspicious
+неблагоприятный
+inborn
+прирожденный
+inborn abilitys
+врожденные способности
+inc
+Й
+incalculable
+неисчислимый
+incandescence
+накал
+incandescent
+накаленный
+incantation
+заклинание
+incapable
+неспособный
+incapacitate
+делать нетрудоспособным
+incapacitated persons
+инвалиды
+incapacity allowance
+пособие по нетрудоспособности
+incarcerate
+заключать в тюрьму
+incarnate
+воплощать	воплощенный
+incautious
+неосторожный
+incendiary
+зажигательный
+incense
+разгневать	ладан
+incentive
+стимул
+incentive earnings
+поощрительные доплаты
+incentive payments
+поощрительные платежи	выплата премиальных
+incentive scheme
+поощрительная система
+incentive system
+прогрессивная система заработной платы
+incentive taxation
+налогообложение, стимулирующее инвестиции
+incentives scheme
+система льгот	поощрительная система
+incept
+начинать
+inception
+начало
+inceptive
+начальный
+incertitude
+неопределенность
+incessant
+непрерывный
+incest
+кровосмешение
+inch
+дюйм	дюймовый
+inchoate
+начинать	рудиментарный
+incidence
+инцидентность
+incidence contract
+договор страхования
+incidence matrix
+матрица инцидентности. матрица M,	задающая граф: M(i,j)=1, если ребро	j выходит из вершины i, M(i,j)=-1,	если ребро j входит в вершину i, и	M(i,j)=0 в остальных случаях
+incident
+инцидент	смежный
+incidental
+случайный
+incidental contract
+страховой договор	договор страхования
+incidental costss
+второстепенные издержки
+incidental expensess
+непредвиденные (случайные) расходы
+incidentally
+случайно
+incinerate
+сжигать
+incinerated
+сжигать	сожженный
+incineration
+сжигание
+incipience
+начало
+incipient
+начальный
+incisal
+челюстный
+incise
+разрезать
+incision
+разрез
+incisive
+острый
+incisor
+резец
+incite
+побуждать
+incitement
+побуждение
+incivility
+неучтивость
+inclement
+суровый
+inclinable
+склонный
+inclination
+отклонение
+inclinations
+склонность
+incline
+отклоняться
+incline to
+быть склонным к
+inclined
+отклоняться	склонный
+inclose
+заключать
+inclosed
+заключать	заключенный
+inclosing
+заключать
+include
+включать
+included
+включать	включенный
+including
+включать
+inclusion
+включение
+inclusive
+включающий
+inclusiveness
+включительность
+incognito
+инкогнито
+incognizable
+непознаваемый
+incoherence
+несвязность
+incoherent
+несвязный
+incombustibility
+несгораемость
+incombustible
+негорючий
+income
+доход
+income disparity
+разрыв в доходах
+income flow
+поток дохода
+income retention
+удержания из дохода
+income velocity
+скорость обращения дохода
+incomer
+преемник
+incometax rebate
+частичный возврат подоходного налога
+incoming
+поступающий
+incomings
+доход
+incommensurability
+несоизмеримость
+incommensurable
+несоизмеримый
+incommensurate
+несоразмерный
+incommode
+мешать
+incommodious
+неудобный
+incommodity
+неудобство
+incommunicable
+несообщаемый
+incommunicado
+лишенный права сообщения
+incommunicative
+некоммуникабельный
+incompact
+некомпактный
+incomparability
+несравнимость
+incomparable
+несравнимый
+incompatibility
+несовместимость
+incompatible
+несовместимый
+incompetence
+некомпетентность
+incompetent
+некомпетентный
+incomplete
+неполный
+incompleteness
+незавершенность
+incomprehensibility
+непонятность
+incomprehensible
+непонятный
+incomprehension
+непонимание
+incomputable
+бесчисленный
+inconceivability
+непостижимость
+inconceivable
+непостижимый
+inconclusive
+неубедительный
+incondensable
+несжимаемый
+incondite
+плохо	составленный
+incongruity
+несоответствие
+incongruous
+несовместимый
+inconsecutive
+непоследовательный
+inconsequence
+непоследовательность
+inconsequent
+непоследовательный
+inconsequential
+непоследовательный
+inconsiderable
+незначительный
+inconsiderate
+необдуманный
+inconsistency
+несовместимость
+inconsistent
+противоречивый
+inconsistent compilation
+несогласованная трансляция. ошибка,	возникающая, когда два или более	программных модулей оттранслированы	с разными версиями общих описаний
+inconsolable
+безутешный
+inconsonant
+негармонирующий
+inconspicuous
+неприметный
+inconstancy
+непостоянство
+inconstant
+неустойчивый
+incontestable
+неоспоримый
+incontinence
+несдержанность
+incontinent
+несдержанный
+incontinently
+немедленно
+incontrovertible
+неопровержимый
+inconvenience
+неудобство
+inconvenient
+неудобный
+inconvertible
+необратимый
+inconvincible
+не	поддающийся убеждению
+incoordination
+несогласованность
+incorporate
+включать	регистрировать
+incorporated
+Е
+incorporation
+корпорация
+incorporeal
+невещественный
+incorrect
+неправильный
+incorrigibility
+неисправимость
+incorrigible
+неисправимый
+incorrodible
+не	поддающийся коррозии
+incorruptibility
+неподкупность
+incorruptible
+неподкупный
+increase
+увеличивать	и)возрастать	увеличение
+increased
+повышать	и)возрастать	возрастающий
+increasing
+увеличивать	и)возрастать	повышение	возрастающий
+increasingly
+чрезвычайно
+incredibility
+неправдоподобие
+incredible
+невероятный
+incredulity
+недоверчивость
+incredulous
+недоверчивый
+increment
+увеличивать	приращение
+increment operation
+операция инкремента, операция увеличения
+increment size
+размер инкремента, шаг. в машинной	графике - расстояние между соседними адресуемыми точками поверхности	отображения
+incremental
+пошаговый
+incremental compiler
+пошаговый транслятор. транслятор,	объединенный с редактором и транслирующий операторы программы по мере	их ввода пользователем
+incremental coordinates
+инкрементальные координаты. относительные координаты, задающие положение точки относительно предыдущей	точки
+incremental display
+представление в приращениях
+incremental refinement
+пошаговое уточнение. способ нисходящего проектирования (top-down development)
+incremental representation
+представление в приращениях. представление последовательности значений в виде последовательности разностей текущего значения с предыдущим
+incrementation
+приращение
+incrementor
+инкрементор
+incriminate
+инкриминировать
+incriminated
+инкриминировать	инкриминированный
+incriminating
+инкриминировать	инкриминирующий
+incriminatory
+обвинительный
+incubate
+вынашивать
+incubated
+вынашивать	выношенный
+incubating
+вынашивать	высиживание
+incubation
+инкубация
+incubator
+инкубатор
+inculcate
+внедрять
+inculcated
+внедрять	внедренный
+inculcating
+внедрять	внедряющий
+inculcation
+внедрение
+inculpate
+обвинять
+inculpated
+обвинять	обвиняемый
+inculpating
+обвинять	обвиняющий
+inculpation
+обвинение
+inculpatory
+обвинительный
+incumbency
+долг
+incumbent
+обязанный
+incur
+нести
+incur debts
+влезать в долги	наделать долгов
+incur expensess
+понести расходы
+incur losses
+понести убытки
+incurability
+неискоренимость
+incurable
+неустранимый
+incurious
+безинтересный
+incurred
+нести|понести	нанесенный
+incursion
+вторжение
+indebted
+задолжавший
+indebtedness
+задолженность
+indecent
+неприличный
+indecision
+нерешительность
+indecisive
+нерешающий
+indecisive pattern
+неопределенное поведение (показателей)
+indeclinable
+несклоняемый
+indeed
+на самом деле
+indefatigable
+неутомимый
+indefeasible
+неотъемлемый
+indefectible
+безупречный
+indefensibility
+незащищенность
+indefensible
+беззащитный
+indefinability
+неопределимость
+indefinable
+неопределимый
+indefinite
+неопределенный
+indefinite appointment
+назначение на неопределенный срок
+indefinitely
+неопределенно
+indelible
+несмываемый
+indemnification
+возмещение	компенсация
+indemnification fund
+компенсационный фонд
+indemnify
+возмещать	страховать
+indemnity
+возмещение
+indent
+отступ
+indentation
+отступ
+indenting
+отступ
+indention
+отступ
+independence
+независимость
+independent
+независимый
+independent union
+профсоюз, не входящий в объединение
+independent variable
+независимая переменная
+independently
+независимо
+indescribable
+неописуемый
+indestructibility
+неразрушимость
+indestructible
+неразрушимый
+indeterminable
+неопределимый
+indeterminacy
+неопределенность
+indeterminate
+неопределенный
+indetermination
+неопределенность
+index
+индексировать	индекс	индексный
+index construction
+построение (исчисления, индекса)
+index entry
+элемент индекса
+index file
+индексный файл, индекс. файл, содержащий индекс
+index mode
+режим индексации. выполнение машинной команды с использованием индексной адресации (indexed addressing)
+index number
+индекс
+index problem
+проблема (построения) индексов
+index register
+индексный регистр. регистр центрального цессора, значение которого	используется командами с индексной	адресацией (indexed addressing)
+index weights
+вес индекса
+indexable
+индексируемый
+indexed
+индексировать	индексный
+indexed addressing
+индексная адресация. способ адресации, при котором исполнительный адрес (effective address) равен сумме	содержимого индексного регистра и	базы, заданной в команде
+indexed file
+индексированный файл. файл, для доступа к записям которого имеется	индекс
+indexer
+индексатор
+indexing
+индексировать	индексирование
+india
+индия
+indian
+индийский
+indians
+индеец
+indicant
+индикант
+indicate
+указывать	указание
+indication
+указание	обозначение
+indicative
+указывающий	характеристический
+indicative data
+характеристические данные. данные,	идентифицирующие объект или описывающие его более или менее постояные	характеристики. (например, фамилия	человека)
+indicative forecast
+индикативные прогнозы
+indicative planning
+индикативное планирование
+indicative price
+индикативная цена
+indicator
+указатель
+indices
+индекс
+indifference
+безразличие
+indifference curve
+кривая безразличия
+indifferent
+безразличный
+indigestion
+несварение
+indignation
+негодование	возмущение
+indigo
+индиго
+indirect
+косвенный
+indirect address
+косвенный адрес. адрес слова, содержащего фактический адрес
+indirect addressing
+косвенная адресация. способ адресации, при котором исполнительный адрес (effective address) равен содержимому слова по адресу, указанному	в команде
+indirect costss
+косвенные издержки
+indirect demand
+косвенный спрос
+indirect expensess
+косвенные издержки
+indirect file
+командный файл
+indirect labour
+вспомогательные рабочие	косвенные затраты труда
+indirection
+косвенность
+indirection level
+уровень косвенности; число уровней	косвенности. число промежуточных	адресов, которые необходимо обработать, чтобы получить значение указателя
+indirection operator
+операция разыменования. унарная операция, операндом которой является	указатель, а значением - указываемый объект. в языке паскаль (Pascal)	обозначется символом "^", (например, next^), в языке си - символом	"*" (например, *next);
+indiscernible
+неприметный
+indiscreet
+неблагоразумный
+indiscrete
+непрерывный
+indiscretion
+неосторожность
+indiscriminate
+беспорядочный
+indiscrimination
+неразборчивость
+indispensable
+необходимый
+indispose
+не	хотеть
+indisposition
+нежелание
+indisputability
+неоспоримость
+indisputable
+бесспорный
+indistinct
+нечеткий
+indistinctive
+нехарактерный
+indistinguishable
+неразличимый
+indivertible
+неотвратимый
+individual
+личность	индивидуальный
+individual awards
+индивидуальные пособия
+individual demands
+спрос отдельных лиц
+individual elasticity
+показатели эластичности спроса на отдельные товары
+individual estimates
+отдельная смета
+individual saving
+личные сбережения
+individually
+индивидуально
+individuals
+индивидуум
+indivisibility
+неделимость
+indivisible
+неделимый
+indonesia
+индонезия
+indoor
+внутренний
+indoor relief
+содержание бедняков в домах призрения
+indoors
+в помещении	дома
+indorse
+индоссировать	подписывать	подтверждать единодушно
+induce
+порождать
+induced investment
+индуцированные капиталовложения, т. е. зависящие от других факторов
+inducement report
+введение, вводный доклад
+induct
+вводить
+inductance
+индуктивность
+induction
+индукция
+inductor
+индуктор
+indulge
+предаваться удовольствиям
+indulged
+предаваться удовольствиям
+indulging
+предаваться удовольствиям
+industrial
+промышленный
+industrial activity
+промышленная деятельность
+industrial attachment
+принадлежность к той или иной отрасли
+industrial breakdown
+отраслевая разбивка
+industrial capacityies
+производственные мощности промышленности
+industrial classification
+классификация отраслей
+industrial composition
+отраслевая структура
+industrial coverage
+отраслевой охват
+industrial crops
+технические культуры
+industrial design
+промышленное проектирование
+industrial designs
+промышленные образцы
+industrial dispute
+трудовой конфликт	забастовка
+industrial diversification
+диверсификация промышленного производства
+industrial equity
+акции промышленных компаний
+industrial estates
+промышленные комплексы (парки)
+industrial injurys
+производственный травматизм
+industrial licensing
+промышленное лицензирование
+industrial location
+отраслевое размещение	размещение отрасли
+industrial migration
+перемещение отраслей промышленности (предприятий) в другие районы
+industrial organization
+организация производства
+industrial property
+промышленная собственность (патенты, лицензии, товарные знаки и т.п.)
+industrial relations
+отношения между трудом и капиталом	трудовые отношения в промышленности
+industrial site
+участок для сооружения промышленного объекта	заводская территория	строительная площадка	территория предприятия
+industrial statistics
+статистика промышленности	промышленная статистика
+industrial stock
+акции промышленных компаний
+industrial users
+промышленные потребители
+industrialization
+индустриализация
+industrialize
+индустриализировать
+industrialized
+индустриализировать	индустриализированный
+industrializing
+индустриализировать
+industries
+производство
+industrious
+трудолюбивый	прилежный
+industry
+промышленность	промышленный
+industry equilibrium
+равновесие в отрасли
+ineffective
+безрезультатный
+ineffective time
+потерянное время; время простоя
+inefficacy
+неэффективность
+inefficient
+неэффективный
+inefficient labour
+непроизводительный труд	труд низкой квалификации
+inelastic demand
+неэластичный спрос
+ineptitude
+несоответствие
+inequality
+неравенство
+inequivalence
+неравнозначность
+inert
+инертный
+inertia
+инерция
+inescapable
+неизбежный
+inestimable
+не	поддающийся оценке
+inevitable
+неизбежно	неизбежный
+inevitably
+неизбежно
+inexact
+неточный
+inexactness
+неточность
+inexecution
+невыполнение
+inexhaustible
+неисчерпаемый
+inexpedient
+нецелесообразный
+inexpensive
+недорогой
+inexperience
+неопытность
+inexperienced
+неопытный
+infallible
+надежный
+infamous
+бесчестный
+infamy
+позор
+infancy
+ранний	детство
+infant
+младенец	ранний
+infant industry
+вновь создаваемая промышленность, нуждающаяся в государственном	покровительстве
+infant mortality
+детская смертность	смертность новорожденных
+infantry
+воен)пехота
+infect
+заражать
+infected
+заражать	зараженный
+infection
+инфекция
+infectious
+инфекционный
+infer
+делать вывод
+inference
+логический	вывод
+inference chain
+цепочка вывода. последовательность	правил и фактов, использованных системой логического вывода для достижения некоторого заключения
+inference engine
+механизм вывода. в экспертных системах - алгоритм применения правил к	фактам и реализующие его программные средства; проблемно-независимая	часть экспертной системы
+inference method
+стратегия вывода. общий способ применения правил и фактов при выводе.		chaining, nonmonotonic reasoning
+inference net
+сеть вывода. множество всех возможных цепочек вывода (inference chain)
+inference rule
+правило вывода
+inferential
+дедуктвный
+inferior
+низший	худший
+inferior foods
+низкокачественные продовольственные продукты
+inferior goods
+низкокачественные, непристижные товары, от которых потребители отказываются по мере роста их дохода
+inferiority
+неполноценность
+infernal
+адский
+inferno
+ад
+infertile
+бесплодный
+infest
+наводнять
+infested
+наводнять	наводненный
+infidel
+неверный
+infidelity
+неверность
+infighting
+ближний	бой
+infiltrate
+просачиваться
+infiltrated
+просачиваться	просочившийся
+infiltrating
+просачиваться
+infiltration
+проникновение	просачивание
+infinite
+бесконечный
+infinitesimal
+бесконечно	малый
+infinitesimal businesss
+мельчайшие предприятия
+infinitive
+инфинитив	инфинитивный
+infinity
+бесконечность
+infirm
+немощный
+infirmary
+лазарет
+infirmity
+немощь
+infix
+инфиксный
+infix notation
+инфиксная запись. способ записи	(арифметических) выражений, при котором знак бинарной операции записывается между операндами.		ion
+infix operator
+инфиксная операция. бинарная операция, знак которой записывается между операндами (напр. "+" в "A+B");		tor
+inflame
+разжигать
+inflammable
+огнеопасный
+inflammation
+воспаление
+inflammatory
+воспалительный	зажигательный
+inflatable
+надувной
+inflate
+надувать
+inflated
+надувать	вздутый
+inflation
+экон)экон)инфляция	инфляционный
+inflation expectations
+боязнь инфляции
+inflation gap
+инфляционный разрыв (превышение совокупного спроса над совокупным предложением)
+inflation rate
+темпы инфляции
+inflation-adjusted
+с учетом инфляции
+inflationary gap
+инфляционный разрыв (между совокупным спросом на ресурсы и	совокупным их предложением)
+inflationary movements
+инфляционные тенденции
+inflationary pressure
+инфляционное давление
+inflationary pressures
+инфляционные факторы
+inflationary spiral
+инфляционная спираль
+inflect
+модулировать
+inflection
+модуляция
+inflexible
+негибкий
+inflexion
+модуляция
+inflict
+наносить
+inflicted
+наносить	нанесенный
+inflow
+приток
+influence
+влиять	влияние
+influential
+влиятельный
+influenza
+грипп
+influx
+наплыв
+info
+#инфо
+infological
+инфологический
+inform
+сообщать	1)информировать
+informal
+неформальный
+informant
+осведомитель
+informatics
+информатика
+information
+инф)информация	информационный
+information base
+(of a model)	статистическая база модели
+information bit
+информационный разряд
+information block
+блок информации
+information character
+информационный символ, текстовый	символ. символ сообщения, являющийся частью его содержания, в отличие	от управляющего символа или разделителя
+information desk
+стол справок
+information explosion
+информационный взрыв
+information gain
+приток информации
+information handling
+обработка данных (информации)
+information hiding
+сокрытие информации
+information lags
+запаздывание информации
+information message
+информационное сообщение; (в отличие от служебного или управляющего	сообщения)
+information office
+информационное бюро
+information recording
+запись данных (информации) (ЭВМ)
+information system
+информационная система
+information technology
+информационная технология(IT). технические средства обработки, хранения и передачи информации, их применение и создание
+information theory
+теория информации. математическая	дисциплина, изучающая количественные свойства информации
+information volume
+объем информации
+informational
+информационный
+informative
+информационный
+informatization
+информатизация
+informed
+сообщать	осведомленный
+informer
+осведомитель
+infra
+инфра
+infraction
+нарушение
+infrared
+инфракрасный
+infrared keyboard
+инфракрасная клавиатура. клавиатура, конструктивно оформленная в виде отдельного устройства и связанная с ЭВМ с помощью инфракрасного	излучателя
+infrastructure
+инфраструктура
+infrequent
+редкий
+infringe
+нарушать
+infringement
+посягательство
+infringer
+нарушитель
+infuriate
+приводить в ярость
+infuse
+вливать	внушать
+infusion
+вливание
+ingenious
+удачный
+ingenuous
+бесхитростный
+ingest
+глотать
+inglorious
+бесславный
+ingot
+слиток
+ingrain
+укоренять
+ingrained
+укоренившийся
+ingratiate
+заискивать перед
+ingratiating
+заискивать	подкупающий
+ingratitude
+неблагодарность
+ingredient
+компонент
+ingress
+вхождение
+ingrown
+вросший
+inhabit
+населять
+inhabitant
+житель
+inhalation
+вдыхание
+inhalator
+ингалятор
+inhale
+вдыхать
+inhaler
+ингалятор
+inhere
+находиться
+inherent
+присущий
+inherently
+в сущности
+inherit
+наследовать
+inheritance
+наследство	наследование
+inheritance hierarchy
+иерархия наследования. в представлении знаний - иерархическая организация единиц представления, при которой при отсутствии информации о	некотором свойстве видового понятия	или экземпляра используется описание этого свойства для родового понятия
+inheritance tax
+налог на наследство
+inherited
+наследовать	унаследованный
+inherited error
+унаследованная ошибка. ошибка, вызванная неточностью исходных данных	или ранее выполненных операций
+inhibit
+томозить
+inhibition
+запрещение
+inhibitor
+ингибитор
+inhomogeneity
+неоднородность
+inhospitable
+негостеприимный
+inhuman
+бесчеловечный
+inhumane
+негуманный
+inimical
+неблагоприятный
+inimitable
+неподражаемый
+iniquitous
+попрочный
+iniquity
+гнусность	грех
+initial
+инициал	начальный
+initial cost
+начальная стоимость	начальные затраты
+initial data
+исходные данные	исходные величины
+initial expenses
+предварительные расходы
+initial fee
+(for patents)	первоначальная (патентная) пошлина
+initial instalment
+первоначальный взнос
+initial investment
+начальные капитальные владения
+initial outlay
+начальные издержки	затраты на приобретение
+initial price
+цена при открытии биржы	отправная цена на аукционе
+initial value
+начальное значение
+initialization
+инициализация
+initialize
+инициализировать
+initialized
+инициализировать	инициализированный
+initializer
+инциализатор
+initializing
+инициализировать	инициализирующий
+initially
+первоначально
+initials
+инициал
+initiate
+вводить	знакомить	инициировать
+initiated
+вводить	знакомить	инициировать
+initiation
+инициация
+initiation fee
+вступительный взнос
+initiative
+инициатива	инициативный
+initiator
+инициатор
+inject
+впрыскивать
+injected
+впрыскивать	введенный
+injecting
+впрыскивать
+injection
+инжекция
+injector
+форсунка
+injudicious
+неуместный
+injunction
+предписание
+injure
+повреждать
+injured
+подвреждать	поврежденный
+injurious
+вредный
+injury
+повреждение
+injury prevention
+предупреждение несчастных случаев
+injustice
+несправедливость
+ink
+чернила	артс)краска	чернильный
+inkblot
+клякса
+inker
+красящий	механизм
+inking
+намек	рисование
+inkstand
+чернильный	прибор
+inkwell
+чернильница
+inky
+покрытый чернилами
+inlaid
+инкрустированный
+inland
+внутренний
+inlay
+инкрустация
+inlet
+бухта	заводь	впуск
+inline
+в линию	встроенный
+inmate
+заключенный	больной
+inn
+гостиница
+innards
+внутренность
+innate
+врожденный
+inner
+внутренний
+inner loop
+внутрений цикл
+innermost
+внутренний
+innerproduct
+скалярное	произведение
+innings
+подача	период нахождения
+innkeeper
+трактирщик
+innocence
+невиновность
+innocent
+невиновный
+innocuous
+безвредный
+innovate
+вводить новшества
+innovating financing
+новые формы финансирования
+innovation
+новшество
+innovation groups
+группы по разработке нововведений
+innovative
+прогрессивный
+innovator
+новатор
+innuendo
+инсинуация
+innumerable
+бесчисленный
+inobservance
+несоблюдение
+inoculate
+прививать
+inoculated
+прививать	привитый
+inoculating
+прививать	прививание
+inoculation
+прививка
+inoffensive
+безобидный
+inoperable
+неоперабельный
+inoperative
+неэффективный
+inopportune
+несвоевременный
+inordinate
+чрезмерный
+inorganic
+неорганический
+inphase
+синфазный
+input
+вводить	вклад	ввод	входной
+input area
+буфер ввода
+input coefficients
+технологические коэффициенты	коэффициенты прямых затрат
+input data
+входные данные	исходные данные
+input device
+вводное устройство, устройство ввода
+input distribution
+распределение затрат (на производство)
+input factor
+используемый в производстве фактор (ресурс)
+input factors
+элементы затрат
+input file
+входной файл, файл исходных данных
+input good
+затрачиваемый в производстве продукт (фактор, ресурс)
+input information
+входные данные
+input item
+статья затрат
+input language
+входной язык
+input mix
+комбинация затрат
+input prices
+цены факторов (средств) производства
+input primitive
+входной примитив. элементарная порция данных, получаемая с вводного	устройства
+input queue
+очередь заданий
+input requirements
+затраты (на производство)
+input services
+производственные услуги
+input stream
+входной поток. последовательность	операторов управления заданиями и	входных данных для заданий
+input structure
+структура затрат
+input unit
+вводное устройство, устройство ввода
+input-output
+ввод-вывод, обмен. операции пересылки данных между оперативной памятью и внешними устройствами. термин	"ввод-вывод" предпочтителен, когда	подразумевается преобразование представления данных или применительно	к исходным данным и результатам;	термин "обмен" относится скорее к	перемещению данных внутри вычислительной системы и без преобразования. (buffered input-output, unformatted input-output)
+inputting
+вводить	ввод
+inquire
+запрашивать
+inquire into
+исследовать *(IM)PF*
+inquired
+запрашивать	запрошенный
+inquiring
+запрашивать	запрашивающий
+inquiry
+вопрос	запрос
+inquisition
+инквизиция
+inquisitive
+любопытный	любознательный
+inquisitor
+инквизитор
+inroad
+набег	посягятельство
+insane
+сумасшедший	ненормальный
+insaneity
+сумасшествие
+insanity
+сумасшествие
+insatiable
+ненасытный
+inscribe
+записывать
+inscriber
+устройство записи
+inscribing
+записывать	подготовка исходного документа	
+inscription
+надпись
+inscrutable
+непостижимый
+insect
+насекомое
+insecticides
+инсектицид
+insecure
+небезопасный
+insecurity
+неуверенность
+insemination
+оплодотворение
+insensible
+неощутимый
+insensitive
+нечувствительный
+inseparable
+неразлучный	неотделимый
+inserption
+надпись
+insert
+включать
+insert mode
+режим вставки, раздвигающий режим.	в экранных редакторах - режим, при	котором вводимая с клавиатуры литера вставляется перед литерой, указываемой курсором
+insertion
+введение	вставка
+inset
+вклад
+inshore
+близко к берегу	прибрежный
+inside
+в	внутрь	внутренность	внутренний
+inside director
+директор, обладающий крупным пакетом акций данной корпорации
+insidious
+коварный
+insight
+проникновение
+insights
+понимание
+insignia
+знак различия
+insignificance
+незначительность
+insignificant
+незначащий
+insincere
+неискренний
+insinuate
+втираться
+insinuation
+инсинуация
+insipid
+бесцветный	невкусный
+insipient
+начальный
+insist
+настаивать
+insist on
+настаивать [-стоять] на , утверждать
+insist upon
+настаивать [-стоять] на , утверждать
+insistence
+настояние
+insistent
+настойчивый
+insisting
+настаивать
+insitu
+на месте происхождения
+insofar
+насколько
+insole
+стелька
+insolent
+дерзкий
+insolubility
+неразрешимость
+insoluble
+неразрешимый
+insolvency
+неплатежеспособность
+insolvent
+неплатежеспособный
+insomnia
+бессонница
+inspect
+проверять
+inspected
+проверять	проверенный
+inspecting
+проверять	проверка	проверяющий
+inspection
+проверка
+inspector
+инспектор
+inspiration
+вдохновение
+inspire
+вдохновлять
+inspired
+вдохновлять	вдохновленный
+instability
+нестабильность
+instable
+нестабильный
+install
+устанавливать	установка
+installation
+установка
+installation contract
+контракт на монтажные работы
+installation grant
+пособие на обзаведение	подъемные
+installation work
+установочные работы
+installations
+сооружение
+installed
+устанавливать	включенный
+installed capacity
+установленная мощность
+installed task
+инсталлированная задача, включенная	задача. задача, информация о параметрах и расположении загрузочного	модуля которой занесена в таблицы	операционной системы. вызов инсталлированной задачи не требует поиска	в каталогах
+installment
+очередной	взнос
+installment payments
+взносы(по частям)	платежи в рассрочку
+instalment
+взнос
+instalment credit
+потребительский кредит	кредит на покупку в рассрочку
+instalment interest
+процент по кредиту в рассрочку (по потребительскому кредиту)
+instalment plan
+кредит на покупку в рассрочку
+instalment sales
+продажа в рассрочку (в кредит)
+instance
+пример
+instant
+момент	мгновенный
+instantaneous
+немедленный
+instantiate
+приписывать значение
+instantiation
+экземпляр
+instantly
+немедленно
+instead
+взамен
+instead of
+вместо
+instep
+подъем
+instigate
+провоцировать
+instill
+внушать
+instillation
+постепенное	внушение
+instinct
+инстинкт
+instinctive
+инстинктивный
+institute
+учреждать	устанавливать	институт
+institution
+учреждение	дом
+institutional
+установленный
+institutional approach
+институциональный подход
+institutional constraints
+институциональные ограничения	ограничения, накладываемые общественными институтами
+institutional factors
+институциональные факторы	социальные и общественные институты
+institutional household
+хозяйства (учреждения) закрытого типа (благотворительные дома, тюрьмы, дома для умолишенных и т. п.)
+institutional investors
+инвесторы-финансовые учреждения (банки, инвестиционные тресты, страховые компании и т. д.)
+institutional lender
+кредитор-учреждение
+institutional population
+численность лиц, находящихся в учреждениях закрытого типа (исправительных, психиатрических, благотворительных и т. п. заведениях, монастырях, интернатах и пр.)
+institutional rigidities
+косность общественных институтов
+institutional shareholders
+учреждения-акционеры
+instruct
+указывать
+instructed
+указывать	инструктированный
+instructing
+указывать
+instruction
+инструкция	команда
+instruction address
+адрес команды
+instruction code
+система команд
+instruction counter
+счетчик команд
+instruction decoder
+дешифратор команд. элемент центрального процессора, определяющий действия или микропрограмму, соответствующие коду операции
+instruction field
+поле команды, поле кода операции.	часть команды (машинной или на языке ассемблера), содержащая код или	мнемоническое обозначение операции
+instruction format
+формат команды.	количество разрядов, представляющих машинную команду, и их разделение на код операции, адреса	операндов.	число адресов машинной команды
+instruction length
+длина команды. число байтов или слов, занимаемых командой
+instruction mix
+смесь команд. программа, используемая для определения быстродействия	процессора или вычислительной системы, и содержащая команды различных	типов в пропорции, соответствующей	их применению в реальных программах
+instruction register
+регистр команды. регистр процессора, содержащий исполняемую в данный	момент команду
+instruction set
+система команд. совокупность выполняемых вычислительной машиной операций и правила их кодирования в программе
+instruction stream
+поток команд. последовательность	команд, получаемых процессором из	памяти
+instruction time
+время выполнения (машинной) команды
+instructive
+полезный
+instructor
+инструктор
+instrument
+инструмент	орудие	прибор	докм)документ
+instrumental
+инструментальный
+instrumentally
+инструментально
+instrumentation
+контрольно-измерительная	аппаратура
+instrumentware
+приборное	оснащение
+insts
+инстр	
+insubordinate
+самовольный
+insufferable
+невыносимый
+insufficiency
+недостаточность
+insufficient
+недостаточный
+insular
+островной
+insulate
+изолировать
+insulated
+изолировать	изолированный
+insulating
+изолировать	изоляционный
+insulation
+изоляция
+insulator
+изолятор
+insulin
+инсулин
+insult
+оскорблять	оскорбление
+insulted
+оскорблять	оскорбленный
+insulting
+оскорблять	оскорбительный
+insuperable
+непреодолимый
+insurance
+стрх)страхование	страховой
+insurance benefit
+страховое пособие
+insurance broker
+агент страхового общества	агент по страхованию
+insurance claims
+требования (претензии) по гарантии
+insurance clerk
+агент по страхованию
+insurance company
+страховое общество (компания)
+insurance liability
+обязательства по страхованию
+insurance policy
+страховой полис
+insurance premium
+страховая премия
+insurance rates
+страховые ставки
+insure
+стрх)страховать	встр)обеспечивать
+insured
+стрх)страховать	застрахованный
+insurer
+страховщик
+insurgency
+восстание
+insurgent
+повстанец
+insuring
+страховать	страхование	страховой
+insurrection
+мятеж
+insusceptible
+нечувствительный
+inswap
+загружать
+insymbol
+вводить символ
+intact
+целый	неповрежденный
+intake
+впуск
+intangible
+неосязаемый
+intangible assets
+нематериальные активы	"неосязаемые" активы (патенты, привилегии, доброе имя фирмы и т. д.)
+integer
+целое
+integer programming
+целочисленное программирование
+integer variable
+целая переменная. переменная, принимающая только целочисленные значения
+integer-valued
+целочисленный. принимающий только	целые значения
+integrability
+интегрируемость
+integrable
+интегрируемый
+integral
+интеграл	целый
+integral boundary
+целочисленная граница
+integral type
+целочисленный тип. тип данных для	представления целых чисел; в одном	языке программирования может быть	несколько целочисленных типов, различаюшихся диапазоном представимых	чисел
+integrand
+интегрируемое
+integraph
+интеграф
+integrate
+внедрять	В)включаться	интегрировать
+integrated
+интегрировать	встроенный
+integrated automation
+комплексная автоматизация
+integrated circuit
+интегральная схема
+integrated data
+сгруппировать данные
+integrated development
+комплексное развитие
+integrated environment
+интегрированная среда. система программных средств, включающая все	необходимые пользователю средства и	обеспечивающая единообразное взаимодействие с ними
+integrated farms
+интегрированные фермы
+integrated modem
+встроенный модем
+integrated package
+интегрированный пакет
+integrated plant
+завод с законченным (полным) циклом производства
+integrated software
+интегрированный пакет; интегрированная система
+integrated system
+интегрированная система, интегрированный пакет. прикладная система,	обеспечивающая различные информационные и вычислительные потребности	пользователя и поддерживающая единый способ взаимодействия пользователя с ее компонентами и единый способ представления данных; "пакет"	иногда предполагает менее тесную	связь между компонентами, чем "система". стандартные возможности интегрированных систем на персональных	ЭВМ включают подготовку текстов	(word processor), работу с электронными таблицами (spreadsheet), отображение и печать данных в графическом представлении, простую базу	данных и средства связи через модем
+integrating
+внедрять	внедрение	интегрированный
+integration
+интеграция	компоновка
+integrator
+интегратор
+integrity
+целостность
+integument
+покров
+intel
+Йинф)
+intellect
+интеллект	интеллектуальный
+intellectronics
+интеллектроника
+intellectual
+интеллигент	интеллектуальный
+intelligence
+интеллект	воен)разведка
+intelligent
+интеллектуальный
+intelligent controller
+интеллектуальный контроллер. контроллер, выполняющий, кроме непосредственного управления обменом, дополнительные функции: редактирование	данных, контроль их правильности,	обработку сложных команд
+intelligent copier
+копировальное устройство на базе	лазерного печатающего устройства,	обеспечивающее (а) цифровую обработку копируемого изображения - масштабирование, увеличение контрастности, выделение контуров, объединение изображений; (б) прием и передачу изображений по линиям связи
+intelligent terminal
+интеллектуальный терминал, тяжелый	терминал.	терминал с собственной памятью и	микропроцессором, предоставляющий средства редактирования и преобразования данных независимо	от работы ЭВМ, к которой он подключен.	микроЭВМ или персональная ЭВМ,	используемые в качестве терминала большой ЭВМ
+intelligently
+с пониманием
+intelligentsia
+интеллигенция
+intelligentzia
+интеллигенция
+intelligibility
+понятность
+intelligible
+понятный
+intemperance
+невоздержанность
+intemperate
+невоздержанный
+intend
+предполагать	б)собираться	и)предназначаться
+intend for
+предназначать [-значить] для
+intendant
+интендант
+intended
+предполагать	предполагаемый
+intense
+интенсивный
+intensify
+усиливать
+intension
+интенсивность
+intensity
+интенсивность
+intensity cuing
+воздушная перспектива. в машинной	графике - изображение близких частей изображения более яркими, а дальних - менее яркими цветами
+intensity level
+уровень яркости
+intensive
+интенсивный
+intensive cooperation
+интенсивная кооперация
+intensive crop
+интенсивная культура
+intensive development
+интенсивное развитие (экономики)
+intensive factors
+интенсивные факторы
+intent
+намерение	пристальный
+intention
+намерение	б)стремление
+intentional
+преднамеренный
+intently
+пристально
+inter
+интер
+interact
+взаимодействовать
+interaction
+взаимодействие
+interactive
+диалоговый
+interactive debugger
+диалоговый отладчик. отладчик, позволяющий отлаживать программу в диалоге с ЭВМ. большинство используемых отладчиков являются диалоговыми
+interactive environment
+диалоговый режим.	диалоговая система
+interactive graphics
+интерактивная графика.	организация работы графической	системы, при которой пользователь просматривает и модифицирует	изображение на экране дисплея,	задавая команды с помощью клавиатуры и устройства-указки (pointing device).	область программированния, связанная с разработкой систем интерактивной графики
+interactive mode
+интерактивный режим.	диалоговый режим
+interactive processing
+диалоговая обработка
+interactive system
+интерактивная система; диалоговая	система
+interactive utility
+интерактивная сервисная программа;	диалоговая сервисная программа
+interactively
+в диалоге
+interarrival
+время между входами
+interbank credits
+межбанковские кредиты
+interblock
+блокировка	межблочный
+interblock gap
+межблочный промежуток
+intercalate
+вставлять
+intercede
+хлопотать	посредничать
+intercept
+прерывать
+intercepted
+перехватывать	перехваченный
+interception
+перехват	прерывание
+intercession
+заступничество
+intercessor
+посредник
+interchange
+взаимообмен
+interchangeable
+сменный
+interchangeable parts
+взаимозаменяемые унифицированные детали (запасные части)
+interchangeably
+равнозначно
+interchanging
+перестановка
+intercom
+селектор	селекторный
+intercompany valuation
+по внутрифирменной оценке	по переводным ценам	по оценке, применяемой в отношениях между филиалами фирмы
+intercomputer
+межмашинный
+intercomputer communication
+межмашинная связь
+interconnect
+взаимосвязь
+interconnected
+взаимосвязанный
+interconnected activitys
+взаимосвязанные (сопряженные) виды хозяйственной деятельности
+interconnection
+взаимосвязь
+interconnections
+разводка
+interconsistency
+взаимосогласованность
+intercontinental
+межконтинентальный
+interconversion
+взаимное	преобразование
+intercoupler
+устройство сопряжения
+intercoupling
+взаимосвязь
+interdeducible
+взаимно-выводимый
+interdependence
+взаимозависимость
+interdependent
+взаимозависимый
+interdict
+запрещать
+interdiction
+запрет
+interdisciplinary problem
+проблема на стыке нескольких наук
+interest
+интересовать	интерес	доля	участие	процент
+interest basket
+набор валют для определения процента (по кредитам СДР)
+interest bearing
+приносящий проценты
+interest bonus
+скидка (льгота) в отношении процента (по займам)
+interest charge
+процентные платежи (начисления)	подлежащий выплате процент
+interest costs
+издержки на уплату процентов
+interest date
+срок уплаты процентов
+interest earnings
+процентный доход
+interest rate
+процентная ставка	норма процента
+interested
+интересовать	заинтересованный
+interesting
+интересно	интересный	интересоваться
+interests
+интересовать	интерес	доля	участие	процент
+interface
+связывать	интерфейс
+interface board
+интерфейсная плата
+interface computer
+интерфейсная ЭВМ. ЭВМ (обычно мини	или микроЭВМ), используемая в качестве устройства сопряжения (interface device)
+interface device
+устройство сопряжения. устройство	обеспечивающее сопряжение ЭВМ с внешним устройством, сетью или другой	ЭВМ
+interface module
+интерфейсный модуль, описание интерфейса
+interface specification
+описание интерфейса, интерфейсный	модуль. декларативная часть модуля	(module) программы, содержащая информацию, необходимую другим модулям	для взаимодействия с ним. в языке	ада (Ada) описание интерфейса называется спецификацией пакета, в языке модула-2 (Modula- - модулем	определений
+interface testing
+проверка интерфейсов. проверка правильности взаимодействия компонентов программной системы
+interfacing
+связывать	сопряжение
+interfere
+создавать помехи 
+interference
+интерференция	элек)помеха
+interferometer
+интерферометр
+interfix
+описывать отношения между ключевыми словами
+intergovernmental
+межправительственный
+interim
+временный
+interim dividend
+промежуточный дивиденд (уплачиваемый ежеквартально до	окончательного распределения прибыли)
+interindustry
+межотраслевой
+interindustry relationship
+межотраслевые связи
+interior
+интерьер	внутренность	внутренний
+interject
+вставлять
+interjection
+междометие
+interlace
+чередовать
+interlaced
+чередовать	чередующийся
+interlacing
+чередовать	чередование
+interlard
+пересыпать
+interlay
+прокладывать
+interleave
+чередовать	чередование
+interleaved
+чередовать	чередуемый
+interleaving
+чередовать	чередование
+interlingua
+язык&-	посредник
+interlock
+блокировать	взаимоблокировка	блокирующий
+interlocking directorate
+переплетающийся деректорат (личная уния)
+interlocking directors
+переплетающийся директорат	директора - члены правления нескольких компаний (банков и т.д.)
+interloper
+незваный	гость
+interlude
+вставка
+intermaintenance period
+межремонтный период
+intermarriage
+смешанный	брак
+intermediary
+посредник	посреднический
+intermediate
+промежуточный
+intermediate consumption
+промежуточное потребление
+intermediate credit
+среднесрочный кредит
+intermediate demand
+промежуточный спрос,	спрос на промежуточную продукцию
+intermediate goods
+промежуточная продукция
+intermediate language
+промежуточный язык. язык, на который переводится программа первым проходом транслятора и с которого производится трансляция следующим проходом. в многоязыковой системе программирования несколько входных	языков могут транслироваться на общий промежуточный язык
+intermediate party
+посредник
+intermediate payments
+промежуточные платежи
+intermediate product
+промежуточный продукт	промежуточная продукция
+intermediate products
+промежуточная продукция
+intermediate stock
+буферный запас
+intermediate technology
+промежуточная технология	технология, приспособленная к условиям развивающихся стран
+intermediate trade
+посредническая торговля
+intermediate transactions
+оборот промежуточной продукции	потоки промежуточной продукции	промежуточный оборот (сделка)
+intermediate uses
+промежуточное использование (потребление)
+intermezzo
+интермеццо
+intermingle
+перемешивать
+intermingled
+перемешивать	перемешанный
+intermission
+перерыв
+intermit
+прерывать
+intermittent
+нерегулярный
+intermittent error
+нерегулярная ошибка, неповторяющияся ошибка
+intermix
+разнотипный
+intermodular
+межмодульный
+intermodular reference
+межмодульная ссылка; внешняя ссылка. использование в одном модуле	имени, определенного в другом
+intermodulation
+взаимная	модуляция
+intermodule optimization
+межмодульная оптимизация. оптимизация программы с учетом межмодульных	связей, в частности, удаление невызываемых процедур, подстановка тела	процедуры вместо ее вызова, упрощение вызовов процедур
+intern
+интернировать	интерн
+internal
+внутренний
+internal accounting
+внутренняя (внутрифирменная) бухгалтерия (отчетность)
+internal balance
+внутреннее равновесие экономики
+internal economies
+повышение эффективности за счет внутренних факторов
+internal economys
+экономия (повышение эффективности) за счет внутренних факторов
+internal file
+внутренний файл. в языке паскаль переменная типа файл, не связанная	с файлом операционной системы
+internal financing
+финансирование за счет внутренних источников	самофинансирование
+internal fragmentation
+внутренняя фрагментация. фрагментация (fragmentation), возникающая в	системах распределения памяти, выделяющих блоки с длиной, кратной некоторой константе; при этом в большинстве случаев выделяется блок большей длины, чем запрошено, и часть	выделенного блока не используется
+internal fund
+собственные средства	средства из внутренних источников
+internal improvement
+собственное гражданское строительство (дороги, мосты, каналы)
+internal interrupt
+внутреннее прерывание. прерывание,	вызванное командой прерывания или	ошибкой при выполнении команды
+internal liquidity
+масса (количество) денег в обращении
+internal loan
+внутренний заем
+internal maintenance
+содержание за счет внутренних средств
+internal memory
+собственная память.	оперативная память внешнего устройства.	оперативная память
+internal name
+внутреннее имя.	имя, доступное только внутри модуля, в котором оно определено.	имя, используемое внутри модуля	для именования некоторого внешнего объекта
+internal performance
+быстродействие процессора. измеряется числом команд в секунду или тактовой частотой
+internal reference
+внутренняя ссылка. использование	объекта, определенного в том же модуле
+internal representation
+внутреннее представление. представление данных в памяти ЭВМ в форме,	удобной для хранения и обработки
+internal revenue
+государственные доходы	бюджетные поступления
+internal schema
+внутреняя схема. описание физической структуры базы данных, в том числе формата хранения записей, методов доступа и распределения по внешним устройствам
+internal sort
+внутренняя сортировка. сортировка	(sort), выполняемая в оперативной	памяти
+internal specification
+описание реализации. описание внутренней структуры программы и способа ее работы
+internal timer
+встроенный таймер
+internal trade
+внутренняя торговля
+internally
+непосредственно
+internals
+внутренний	организация
+international
+международный
+international accounts
+международные счета	международные расчеты
+international assets
+заграничные активы
+international bid
+международные торги
+international commerce
+внешняя торговля	мировая торговля
+international corporation
+многонациональная (транснациональная) корпорация
+international denominator
+единая международная денежная единица
+international economics
+мировая экономика	мировое хозяйство
+international engagement
+международное обязательство
+international entity
+субъект международного права
+international institutions
+международные организации
+international investments
+зарубежные капиталовложения (инвестиции)
+international law
+международное право
+international liquidity
+международные ликвидности (золото, резервные валюты и специальные права заимствования)
+international market
+мировой рынок
+international payments
+международные расчеты	международные платежи
+international reserves
+золотовалютные резервы
+international settlements
+международные расчеты
+international sharing
+международное совместное участие
+international stocks
+международные запасы
+international trade
+внешняя торговля	мировая торговля
+internationale
+интернационал
+internationalism
+интернационализм
+internationalization
+интернационализация
+internecine
+истребительный
+internee
+интернированный
+internet
+Й
+internet protocol
+межсетевой протокол; протокол межсетевого взаимодействия
+internetting
+межсетевое	взаимодействие
+internetwork
+объединенная	сеть	межсетевой
+internetworking
+межсетевое	взаимодействие
+internist
+терапевт
+internment
+интернирование
+interoffice vouchers
+авизо внутренних расчетов
+interoperability
+способность к взаимодействию
+interoperable
+взаимодействующий
+interpellate
+запрашивать
+interpellation
+запрос
+interplanetary
+межпланетный
+interplay
+взаимодействие
+interpolate
+интерполировать
+interpolation
+интерполяция
+interpolator
+интерполятор
+interpose
+вставлять
+interpret
+интерпретировать
+interpret data
+толковать данные
+interpretation
+интерпретация
+interpreted
+интерпретировать	переведенный
+interpreter
+переводчик	интерпретатор
+interpreting
+интерпретировать	интерпретация
+interpretive
+Пв режиме интерпретации
+interpretive execution
+выполнение в режиме интерпретации;	интерпретация
+interpretive language
+интерпретируемый язык. язык программирования, приспособленный для выполнения программ в режиме интерпретации
+interpretive mode
+режим интерпретации
+interprocess
+межпроцессовый
+interprocess communication
+взаимодействие процессов.	средства языка программировния или	операционной системы, обеспечивающие порождение и синхронизацию процессов и передачу данных между ними
+interprocessor
+промежуточный	процессор
+interproximal
+промежуточный
+interproximally
+рядом
+interquartile
+вероятный
+interquartile range
+вероятное отклонение. характеристика разброса случайной величины, равная длине отрезка оси X, на концах	которого характеристическая функция	принимает значения 0.25 и 0.75
+interreaction
+взаимодействие
+interregional balance
+межрегиональный (межрайонный) баланс
+interregnum
+междуцарствие
+interrelated
+взаимосвязанный
+interrelation
+взаимозависимость
+interrelationship
+взаимозависимость
+interrogate
+опрашивать
+interrogated
+опрашивать	опрошенный
+interrogating
+опрашивать
+interrogation
+опрос
+interrogative
+вопросительный
+interrupt
+прерывать	прерывание
+interrupt driven
+управляемый прерываниями, по прерываниям. о системе обработки асинхронных событий, компоненты которой	запускаются и останавливаются с помощью прерываний
+interrupt event
+событие, вызывающее прерывание
+interrupt handler
+программа обработки прерывания; обработчик прерывания
+interrupt mask
+маска прерываний. регистр, каждый	разряд которого соответствует определенному типу прерывания; прерывание обслуживается или игнорируется	в зависимости от значения соответствующего разряда маски прерываний
+interrupt priority
+приоритет прерывания. число, связанное с прерыванием данного типа;	при одновременном поступлении нескольких прерываний обслуживается прерывание с большим приоритетом
+interrupt routine
+программа обработки прерывания
+interrupt software
+программа обработки прерываний;	обработчик прерывания.	программа, работающая по прерываниям
+interrupt trap
+прерывание.	обработка прерывания
+interrupt vector
+вектор прерывания. одна или несколько ячеек памяти, содержащие адрес	программы обработки прерывания и,	возможно, слово состояния процессора (processor status word), устанавливаемое при обращении к этой программе; адрес вектора прерывания	определяется по номеру прерывания;	для обработки прерывания состояние	процессора сохраняется на стеке и в	регистры процессора загружается информация из вектора прерывания
+interruptable
+прерываемый
+interrupting
+прерывать	прерывающий
+interruption
+прерывание
+intersect
+пересекать
+intersection
+пересечение
+intersectoral balance
+межотраслевой баланс
+intersegment
+межсегментный
+intersegment link
+межсегментная связь
+intersegment reference
+межсегментная ссылка
+interspace
+интервал
+intersperse
+распределитель
+interstage
+межкаскадный
+interstate
+межгосударственный
+interstellar
+межзвездный
+intertask communication
+межзадачное взаимодействие.	средства языка программирования или	операционной системы, обеспечивающие запуск и синхронизацию задач и	передачу данных между задачами
+intertwine
+переплетаться
+intertwined
+переплетаться	переплетенный
+intertwining
+переплетаться
+interum
+внутренний
+interval
+интервал
+intervene
+вмешиваться
+intervening years
+промежуточные годы
+intervention
+вмешательство
+intervention currency
+интервенционная валюта
+intervention measure
+мера государственного вмешательства
+intervention point
+интервенционная точка (такой курс иностранной валюты, при котором центральный банк начинает скупать или продавать иностранную валюты для поддержки национальной валюты)
+intervention price
+"цена вмешательства"
+interview
+опрашивать	интервью
+interviewed
+опрашивать	опрашиваемый
+interviewer
+опрашивающий
+interviewing
+опрашивать	опрос
+interweave
+прошивать
+interworking
+обеспечение межсетевого обмена
+intestate
+Пбез завещания
+intestine
+кишка	кишечный
+intimacy
+интимность
+intimate
+намекать	близкий	друг	близкий
+intimidate
+запугивать
+intimidated
+запугивать	запуганный
+intimidating
+запугивать
+intl
+международный
+into
+на
+into smithereens
+вдребезги
+intolerable
+недопустимый
+intolerance
+отказоустойчивость
+intolerant
+отказоустойчивый
+intonation
+интонация
+intone
+	говорить речитативом
+intourist
+интурист
+intoxicate
+отравлять
+intoxicating
+отравлять	отравление	отравляющий
+intra
+интра
+intra-departmental
+межведомственный
+intraaccount transaction
+внутренний оборот
+intracompany loans
+внутрифирменные ссуды
+intractable
+несговорчивый
+intractable problem
+трудноразрешимая проблема	проблема, с трудом поддающаяся решению
+intraday
+суточный
+intraindustry transactions
+внутреотраслевые потоки (оборот)
+intransigent
+непреклонный
+intransitive
+нетранзитивный
+intraperitoneal
+внутрибрюшинный
+intraprocess
+внутрипроцессный
+intravenous
+внутривенный
+intrepid
+бесстрашный
+intricacy
+сложность
+intricate
+сложный
+intrigue
+интриговать	интрига
+intrigued
+интриговать	заинтригованный
+intriguing
+интриговать	интригующий
+intrinsic
+существенный
+intrinsic call
+обращение к встроенной процедуре
+intrinsic command
+резидентная команда. команда диалогового монитора (console command	processor), выполняемая им самостоятельно
+intrinsic function
+встроенная функция, предопределенная функция
+intrinsical
+внутренний
+intrinsically
+внутренне
+intro
+вступление	представление
+introduce
+вводить	Д)представлять
+introduced
+вводить	Д)представлять	введенный	представленный
+introduction
+введение	предисловие
+introductory
+вводный
+introspection
+интроспекция
+introspective
+интроспективный
+intrude
+вторгаться
+intruded
+вторгаться
+intruder
+злоумышленник
+intruding
+вторгаться
+intrusion
+вторжение
+intrusive
+назойливый
+intuition
+интуиция
+intuitive
+интуитивный
+inundate
+наводнять
+inundated
+наводнять
+inundation
+наводнение
+inure
+приучать
+inutile
+бесполезный
+inutility
+бесполезность
+invade
+захватывать
+invaded
+захватывать
+invader
+захватчик
+invading
+захватывать	вторгаться
+invalid
+инвалид	неправильный
+invalidate
+аннулировать
+invalidation
+недостоверность
+invalidity
+ложность
+invaluable
+неоценимый	бесценный
+invariable
+постоянный
+invariably
+неизменно
+invariance
+инвариантность
+invariant
+инвариант	инвариантный
+invasion
+вторжение
+invective
+ругань
+inveigh
+ратовать
+inveigh against
+поносить, [об]ругать
+inveigle
+уламывать	упрашивать
+invent
+изобретать
+invented
+изобретать	изобретенный
+inventing
+изобретать
+invention
+изобретение
+inventive
+изобретательный
+inventiveness
+изобретательность
+inventor
+изобретатель
+inventor balance
+уровень запасов
+inventories
+материально-производственный	запас
+inventors certificate
+авторское свидетельство (на изобретение)
+inventory
+оборудование	инвентаризация
+inventory accumulation
+накопление товарно-материальных запасов
+inventory accumulations
+накопление товарно-материальных запасов
+inventory adjustment
+изменение уровня запасов	доведение запасов до нормального уровня
+inventory beginning
+товарно-материальные запасы на начало года	исходная инвентаризация
+inventory book
+инвентарная книга
+inventory boom
+резкое увеличение запасов
+inventory control
+регулирование запасов
+inventory cycles
+циклы запасов
+inventory investment
+капиталовложения в товарные запасы
+inventory management
+управление запасами
+inventory pressure
+давление нереализованных запасов
+inventory rebuilding
+восстановление уровня запасов
+inventory recession
+экономический спад, вызванный сокращением товарных запасов
+inventory stockpiling
+накопление запасов
+inventory turnover
+складской оборот	оборот запасов
+inventory valuation
+переоценка запасов
+inventorys valuation
+оценка (материально-производственных) товарных запасов
+inverse
+инверсия	обратный
+inverse correlation
+обратная корреляция	отрицательная корреляция
+inverse function
+обратная функция
+inverse image
+прообраз
+inverse matrix
+обратная матрица. квадратная матрица B, которая при умножении на данную квадратную матрицу A дает единичную матрицу
+inverse ratio
+обратное соотношение
+inversely
+обратно
+inversion
+инверсия
+invert
+инвертировать
+invertebrate
+беспозвоночное	беспозвоночный
+inverted
+инвертировать
+inverted file
+инвертированный файл. файл, снабженный индексами (index) по вторичным	ключам (secondary key)
+inverted list
+инвертированный список, индекс
+inverter
+инвертор
+invertibility
+обратимость
+inverting
+инвертировать
+invertor
+инвертор
+invest
+инвестировать	инвестирование
+invested
+инвестировать	инвестированный
+invested capital
+инвестированный капитал	вложенный капитал
+investigate
+исследовать	исследование
+investigation
+исследование
+investigative
+расследовательский
+investigator
+расследователь
+investiture
+инвеститура
+investment
+инвестиция	инвестиционный
+investment activities
+инвестиционная деятельность	инвестирование
+investment allowance
+налоговые скидки (списания) при инвестировании капитала	инвестиционные налоговые льготы
+investment allowances
+налоговые скидки (списания) при инвестировании (капитала)
+investment appraisal
+экономическая оценка капиталовложений
+investment bank
+инвестиционный банк
+investment boom
+инвестиционный бум
+investment budget
+смета капитального строительства	инвестиционный бюджет
+investment building
+капитальное строительство
+investment business
+инвестиционное дело
+investment company
+инвестиционная компания
+investment concessions
+льготы в отношении инвестирования (капиталовложений)
+investment credit
+инвестиционный кредит	кредит на капиталовложения
+investment demand
+инвестиционный спрос
+investment disputes
+инвестиционные споры
+investment fund
+фонд капиталовложений
+investment goods
+инвестиционные товары	капитальное оборудование	товары производственного назначения
+investment incentives
+инвестиционные льготы	меры поощрения капиталовложений
+investment income
+прибыли (доход) от капиталовложений
+investment inducement
+поощрение (привлечение) капиталовложений
+investment instrument
+форма помещения капитала
+investment instruments
+форма помещения капитала
+investment lag
+инвестиционный лаг
+investment opportunities
+инвестиционные возможности	возможности для капиталовложений
+investment pattern
+направление капиталовложений	структура капиталовложений
+investment permit
+разрешение на инвестирование (на осуществление капиталовложений)
+investment policy
+политика в области капиталовложений	инвестиционная политика
+investment portfolio
+портфель ценных бумаг
+investment process
+инвестиционный процесс
+investment program
+план капиталовложений
+investment programme
+инвестиционная программа
+investment programming
+планирование капиталовложений
+investment project
+инвестиционный проект	объект капитального строительства
+investment recession
+экономический спад, вызванный сокращением капиталовложений
+investment regulations
+правила, регулирующие иностранные капиталовложения
+investment service
+услуги по управлению инвестициями
+investment services
+услуги по управлению инвестициями
+investment spending
+капиталовложения	сумма капиталовложений	расходы на капиталовложения
+investment starts
+начатое капитальное строительство	незавершенное капитальное строительство
+investment statistics
+статистика капиталовложений
+investment trust
+инвестиционный трест
+investment vehicle
+форма помещения капитала
+investor
+инвестор
+investor borrowers
+заемщики-инвесторы
+inveterate
+глубоко	укоренившийся
+invidious
+оскорбительный
+invigilator
+надсмотрщик
+invigorate
+бодрить
+invincible
+непреодолимый
+inviolable
+нерушимый
+inviolate
+не	нарушенный
+invisible
+невидимый
+invisible balance
+сальдо по невидимым статьям платежного баланса
+invisible export
+невидимый экспорт	невидимые статьи экспорта
+invisible import
+невидимый импорт	невидимые статьи импорта	импорт по невидимым статьям платежного баланса (услуги,	туризм)
+invisible income
+поступления по невидимым статьям экспорта
+invisibly
+незаметно
+invitation
+приглашение
+invite
+приглашать
+invite bid
+обьявлять торги (конкурс)
+invite tenders
+назначать торги	открывать подписку на заем
+invited
+приглашать	приглашенный
+inviting
+приглашать	заманчивый
+invocation
+вызов
+invoice
+инвойсировать	счет&-	фактура
+invoice cost
+фактурная стоимость	стоимость по накладной (по счету)
+invoice price
+цена, проставленная в счет (фактуре)
+invoice production
+выписка счета
+invoiced
+инвойсировать	фактурный
+invoices
+счет-фактура
+invoke
+вводить	вызывать
+invoking
+вводить	введение
+involuntary
+непреднамеренный
+involuntary unemployment
+вынужденная безработица
+involute
+эвольвента	эвольвентный
+involution
+возведение в степень
+involve
+включать	Т)связывать
+involved
+включать	Т)связывать	вовлеченный
+involvement
+участие
+invulnerability
+неуязвимость
+invulnerable
+неуязвимый
+inward
+внутрь	внутренний
+inward cargo
+импортный груз
+inward investment
+иностранные капиталовложения	ввоз капитала
+inwardly
+внутри
+inwardness
+сущность
+io
+#вх	-вых	
+iodine
+йод	йодный
+ion
+ион	ионный
+ionize
+ионизировать	ионизация
+ionosphere
+ионосфера
+iota
+йота
+iran
+иран
+iranian
+иранец	иранский
+iraq
+ирак
+iraqi
+иракский
+irascible
+вспыльчивый
+irate
+гневный
+ire
+гнев
+ireful
+гневный
+ireland
+ирландия
+iridescent
+радужный
+iridium
+иридий	иридиевый
+iris
+ирис	радужная оболочка
+irish
+ирландский
+irishman
+ирландец
+irishwoman
+ирландка
+irk
+раздражать
+iron
+гладить	железо	железный
+iron-hearted
+жестокосердный
+ironial
+иронический
+ironic
+иронический
+ironing
+гладить	глажение
+ironworks
+чугунолитейный	завод
+irony
+ирония
+irradiate
+освещать	облучать
+irrational
+иррациональный
+irrealizable
+неосуществимый
+irreconcilable
+непримиримый
+irredeemable bonds
+невыкупаемые (не подлежащие погашению) облигации
+irredeemable debt
+неоплатный долг
+irredeemable paper
+неразменные бумажные деньги
+irreducibility
+неприводимость
+irredundant
+неизбыточный
+irrefutability
+неопровержимость
+irrefutable
+неопровержимый
+irregular
+нерегулярный
+irregularity
+нерегулярность
+irrelevance
+неуместность
+irrelevant
+несоответствующий
+irreligious
+неверующий
+irremovable
+неустранимый
+irreparable
+непоправимый
+irreplaceable
+незаменимый
+irresistable
+непреодолимый
+irresoluble
+неразрешимый
+irrespective
+безотносительный
+irresponsibility
+безответственность
+irresponsible
+безответственный
+irreversible
+нереверсивный
+irrevocable
+бесповоротный
+irrigation
+орошение
+irritable
+раздражительный
+irritate
+раздражать	злить
+irs
+#налог	инсп	
+is
+у
+isinglass
+слюда	рыбий клей
+islam
+ислам
+island
+остров
+isle
+островок
+iso
+#исо
+isobar
+изобара
+isobit
+изобит
+isolate
+изолировать
+isolated
+изолировать	изолированный
+isolated word
+выбранное слово. слово, найденное	при обращении к ассоциативной памяти
+isolation
+изоляция
+isolator
+изолятор
+isomorphism
+изоморфизм
+isotope
+изотоп
+israel
+израиль	израильский
+israeli
+израильский
+israell
+израильтянин	израильский
+issuance
+издание
+issue
+выпускать	передавать	передача	прес)выпуск
+issue banks
+эмиссионные банки
+issue houses
+эмиссионные банки
+issue order
+отпускной ордер
+issued capital
+выпущенный акционерный капитал
+issued value
+эмиссионная стоимость	стоимость при эмиссии
+issuer
+выпускающий	чекодатель
+issues
+выпускать	вопрос
+istanbul
+стамбул
+isthmus
+перешеек
+it
+это	именно	
+it depends
+смотря по обстоятельствам
+it hails
+град идет	сыпаться градом	приветствовать
+it sleets
+идет дождь со снегом
+it snows
+снег идет
+it storms
+буря бушует	штурмовать
+it thunders
+гром гремит	метать громы и молнии
+italian
+итальянец	1)итальянский	итальянский	итальянско
+italic
+курсив
+italics
+италик
+italien
+итальянский	итальянский	итальянско
+italy
+италия
+itar
+Йитар
+itch
+зудеть	зуд
+item
+пункт
+item size
+размер элемента данных (в битах,	байтах или цифрах)
+item value
+значение элемента данных
+itemize
+составлять перечень
+itemized expenses
+расходы с разбивкой по статьям
+itemized list
+титульный список	постатейный список
+iterate
+повторять
+iteration
+итерация
+iteration body
+тело цикла
+iteration statement
+оператор цикла
+iterative
+итеративный
+iterative process
+итерационный процесс
+iterator
+итератор
+itinerant worker
+рабочий-мигрант
+itinerary
+маршрут	путевой
+itinerary list
+маршрутный лист
+itself
+мсам	себя	непосредственно	он
+ittrium
+иттрий
+ivory
+слоновая	кость
+ivy
+плющ

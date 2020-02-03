@@ -1,0 +1,4651 @@
+
+macabre
+жуткий
+macadam
+мостить	щебень	щебеночный
+macaque
+макака
+macaroni
+макароны
+macaroon
+миндальный	печенье
+macaw
+ара
+mace
+булава	мускатный цвет
+macedonian
+македонский
+mach
+#маш	мак
+machiavellian
+макиавеллевский
+machinable
+Пв машинном представлении
+machination
+махинация
+machine
+машина	машинный
+machine accounting
+механизированный учет
+machine address
+машинный адрес.	адрес в числовом виде.	физический адрес
+machine code
+машинный код.	язык машины. система команд конкретной ЭВМ.	программа, записанная на языке	машины
+machine fitter
+слесарь-монтажник
+machine hour
+машино-час
+machine instruction
+машинная команда, команда машины
+machine intelligence
+искусственный интеллект
+machine language
+машинный язык, язык машины. система	команд ЭВМ
+machine layout
+размещение оборудования
+machine learning
+машинное обучение
+machine load
+загрузка машины (оборудования)
+machine power
+мощность машины
+machine readable
+в пригодной для ввода в ЭВМ форме
+machine sensible
+в пригодной для ввода в ЭВМ форме
+machine shop
+механический цех	механическая мастерская
+machine time
+станок
+machine translation
+машинный перевод. перевод с одного	естественного языка на другой с использованием ЭВМ. машинный перевод	может быть полностью автоматическим, но обычно требует участия человека
+machine word
+машинное слово
+machine work
+машинная работа	машинное изделие
+machine-dependent
+машинно-зависимый. о программе, языке программирования или методе,	которые учитывают особенности архитектуры ЭВМ, и могут быть использованы только на ЭВМ определенного	типа
+machine-independent
+машинно-независимый. о программе,	языке прогрммирования или методе,	не зависящих от особенностей конкретной ЭВМ, и пригодных для применения на ЭВМ различных типов
+machine-made
+сделанный механическим способом
+machine-tool
+оператор-станочник
+machined
+обрабатывать
+machinery
+оборудование	машинный
+machinery parts
+детали машин	запасные части
+machining
+обрабатывать	обработка	станочный
+machinist
+машинист
+mack
+дождевик
+mackerel
+макрель
+mackintosh
+макинтош
+macro
+макро	макро
+macro analysis
+макроанализ
+macro assembler
+макроассемблер. транслятор с языка	ассемблера, включающий средства определения и использования макрокоманд
+macro call
+обращение к макрокоманде, макрокоманда
+macro declaration
+макроопределение, определение макрокоманды. описание образца и подставляемого вместо него текста. в языках программирования образец макрокоманды обычно состоит из имени	макрокоманды и позиционных или ключевых параметров
+macro definition
+макроопределение, определение макрокоманды
+macro economic
+макроэкономический	народнохозяйственный
+macro economics
+макроэкономика
+macro expansion
+макрорасширение.	текст, подставляемый вместо макрокоманды.	макроподстановка
+macro generation
+макроподстановка. замена обращений	к макрокомандам текстами, соответствующими их определениям
+macro generator
+макрогенератор, макропроцессор. программа, обрабатывающая текст и выполняющая макроподстановки
+macro instruction
+макрокоманда.	выражение программы, вместо которого подставляется текст, задаваемый макроопределением.	команда языка ассемблера, транслируемая в несколько машинных	команд.	+built-in macro instruction
+macro language
+макроязык. язык, включающий средства определения и использования макрокоманд (macro instruction)
+macro library
+библиотека макроопределений, макробиблиотека
+macro parameter
+параметр макрокоманды
+macro processor
+макропроцессор
+macro prototype
+образец макрокоманды; обращение к	макрокоманде
+macro statistics
+макростатистика	статистика больших выборок
+macro substitution
+макроподстановка
+macrocosm
+макрокосм
+macroeconomic analysis
+макроэкономический анализ
+macroeconomic measures
+макроэкономические показатели
+mad
+сумасшедший	безумный
+madagascar
+мадагаскар
+madam
+мадам
+madcap
+сумасброд
+madden
+бесить
+madder
+марена
+made
+делать	б)заставлять
+made-to-order
+сделанный на заказ	выполненный по заказу
+made-up
+прихорошенный	готовый (об одежде)
+madeira
+мадера
+mademoiselle
+мадмуазель
+madera
+мадера
+madhouse
+сумасшедший	дом
+madly
+безумно
+madman
+безумец
+madness
+безумец
+madonna
+мадонна
+madras
+мадрас
+madrid
+мадрид
+madrigal
+мадригал
+maelstrom
+водоворот
+maestro
+маэстро
+mafia
+мафия
+magate
+магатэ
+magazine
+журнал	магазин	погреб
+magenta
+фуксин	пурпурный
+maggot
+личинка
+magi
+волхв
+magic
+магия	волшебный
+magician
+волшебник	фокусник
+magisterial
+судебный
+magistrate
+магистрат
+magnanimity
+великодушие
+magnate
+магнат
+magnesia
+магнезия
+magnesium
+магний	магниевый
+magnet
+магнит
+magnetic
+магнитный
+magnetic card
+магнитная карта
+magnetic disk
+магнитный диск.	носитель данных в виде диска с	магнитным покрытием.	3апоминающее устройство на магнитных дисках
+magnetic drum
+магнитный барабан
+magnetic tape
+магнитная лента.	магнитные ленты применяются, в	первую очередь, для обмена данными между вычислительными системами, хранения резервных копий и	для передачи программного обеспечения.	запоминающее устройство на магнитной ленте
+magnetism
+магнетизм
+magnetite
+магнетит
+magnetization
+намагничивание
+magnetize
+намагничивать	намагниченный
+magneto
+магнето
+magnetoresistor
+магниторезистор	магниторезисторный
+magnetostriction
+магнитострикция
+magnetostrictive
+магнитострикционный
+magnetron
+магнетрон
+magnification
+увеличение
+magnificence
+великолепие
+magnificent
+великолепный
+magnified
+увеличивать	увеличенный
+magnify
+увеличивать
+magnifying
+увеличивать	увеличительный
+magnitophone
+магнитофон
+magnitude
+величина
+magnolia
+магнолия
+magnum
+магнум
+magpie
+сорока
+magstripe
+магнитная	карта
+magtape
+магнитная	лента
+magyar
+мадьяр	мадьярский
+maharajah
+магараджа
+mahogany
+красное	дерево
+maid
+девушка	горничная	служанка
+maiden
+девица
+maiden name
+девичья фамилия
+maidenhead
+девственная	плева
+maidenhood
+девичество
+maidenly
+девичий
+mail
+пересылать	почта
+mail box
+"почтовый ящик".	средство межзадачной связи, предоставляющее параллельно выполняющимся	процессам поименованные буфера, через которые они обмениваются сообщениями
+mail order
+почтовый заказ	заказ по почте	(#амер.) почтовый денежный перевод
+mail-bag
+почтовая сумка
+mailbag
+почтовый	мешок
+mailbox
+почтовый	ящик
+mailed
+комм)пересылать	отправленный
+mailer
+мэйлер
+mailing
+комм)пересылать	почтовое	отправление	
+mailing list
+список постоянных адресатов	список адресатов для рассылки публикаций
+mailman
+комм)почтальон
+maim
+калечить
+main
+основа	основной
+main aggregate
+основной синтетический показатель
+main index
+главный индекс, первичный индекс
+main loop
+основной цикл. самый внешний цикл	программы
+main memory
+оперативная память, основная память, ОЗУ. запоминающее устройство,	непосредственно связанное с центральным процессором и предназначенное	для хранения данных, непосредственно участвующих в его операциях
+main program
+основная программа. часть программы, получающая управление при запуске и вызывающая другие подпрограммы
+main storage
+оперативная память, основная память, ОЗУ
+mainboard
+объединительный	плата
+maine
+мэн
+mainframer
+изготовитель больших эвм
+mainland
+материк
+mainline
+стержневая	ветвь
+mainly
+главным образом
+mainmast
+грот-мачта
+mains
+элек)магистраль
+mainsail
+грот
+mainspring
+главный	пружина
+mainstay
+оплот
+mainstream
+основной	поток
+maint
+техобслуживание
+maintain
+поддерживать
+maintain capital
+воспроизводить капитал
+maintain demand
+поддерживать спрос
+maintain prices
+поддерживать цены
+maintainability
+ремонтопригодность
+maintained
+поддерживать	обслуживаемый
+maintaining
+поддерживать	поддерживающий
+maintenance
+эксплуатация	эксплуатационный
+maintenance cost
+расходы по содержанию и текущему ремонту (зданий и оборудования)
+maintenance crew
+ремонтная бригада
+maintenance fee
+периодическая пошлина
+maintenance instruction
+инструкция по техническому контролю и эксплуатации
+maintenance services
+ремонтные службы	услуги по содержанию и ремонту
+maintenance standby
+дежурство
+maintenance work
+текущий ремонт	работы по эксплуатации
+maintenance-free
+не требующий ремонта	обеспечивающий бесперебойную эксплуатацию	бесперебойный (период)
+maize
+маис
+majestic
+величественный
+majesty
+величество
+majeure
+мажор
+major
+специализироваться	майор	мажор	основной	крупный	мажорный
+major alteration
+коренная еконструкция
+major contributors
+страны, вносящие наиболее крупные взносы
+major depression
+глубокий экономический кризис
+major failure
+существенная неисправность
+major key
+главный ключ.	при сортировке по нескольким ключам - ключ, по которому записи	упорядочиваются в первую очередь.	первичный ключ
+major overhaul
+капитальный ремонт	коренная реорганизация	коренная переделка (рукописи,проекта)
+major-general
+генерал-майор
+majordomo
+мажордом
+majority
+большинство
+majority interest
+контрольный пакет акций
+majority ownership
+контрольный пакет акций
+majority shareholding
+контрольный пакет акций
+make
+заставлять
+make abatement
+делать скидку	снижать
+make advance
+вносить аванс	делать предложение
+make good
+компенсировать
+make haste
+[по]спешить
+make headway
+делать успехи
+make into
+превращать [-ратить], передел(ыв)ать в
+make known
+объявлять [-вить]
+make merry
+веселиться
+make off
+уезжать [уехать]	уходить [уйти]
+make out
+разбирать [разобрать]	выписывать [выписать]
+make over
+перед(ав)ать
+make ready
+[при]готовить(ся)
+make reparations
+PL* платить репарации
+make sense
+иметь смысл	быть понятным
+make shift
+ухитряться [-риться]	[у]довольствоваться (with *Т)
+make up
+составлять [-авить]	улаживать [уладить] (о ссоре)	[за]гримировать	наверстывать [наверстать] (время)
+make war
+вести войну ([up]on с *Т)
+make way
+уступать дорогу (for *Д)
+make-believe
+притворство	предлог
+make-shift
+замена	подручное средство
+make-up
+состав	грим, косметика
+makeover
+переделывать
+maker
+изготовитель
+makeshift
+временный
+makeup
+характер	структура	состав
+makeweight
+довесок
+making
+делать	получение
+malachite
+малахит	малахитовый
+maladjusted
+неприспособленный
+maladjustment
+неотрегулированность
+maladroit
+неуклюжий
+malady
+болезнь
+malaga
+малага
+malaise
+недомогание
+malapropos
+некстати	неуместный
+malaria
+малярия
+malay
+малаец	1)малайский	малайский	малайски
+malaysia
+малайзия
+malaysian
+малазийский
+malcontent
+недовольный
+male
+самец	мужской
+malediction
+проклятие
+malefactor
+преступник
+maleficent
+зловредный
+malevolent
+недоброжелательный
+malfeasance
+должностной	преступление
+malfunction
+сбой
+malice
+злоба
+malicious
+злонамеренный
+maliciously
+злонамеренно
+malign
+клеветать
+malignancy
+злокачественная	опухоль
+malignant
+злобный	злокачественный
+malignerer
+симулянт
+malinformation
+дезинформация
+malinger
+симулировать болезнь
+mall
+бульвар
+mallard
+кряква
+malleable
+ковкий
+mallet
+колотушка
+mallow
+мальва
+malnutrition
+недоедание
+malodorous
+зловонный
+maloperation
+неправильная	работа
+malpractice
+небрежное	лечение
+malt
+солод
+malta
+мальта
+maltose
+мальтоза
+maltreat
+обращаться	плохо
+maltreatment
+плохое	обращение
+malversation
+злоупотребление
+mammal
+млекопитающее
+mammary
+грудной
+mammoth
+мамонт	огромный
+mammy
+мама
+man
+человек
+man efficiency
+производительность (работающего)
+man-assignment
+разнарядка рабочей силы
+man-density
+число рабочих на единицу рабочей площади
+man-hour
+человеко-час
+man-made
+искусственный	синтетический
+man-of-war
+военный корабль *
+manacle
+сковывать	наручник
+manage
+управлять
+manage to
+(+ ) [с]уметь
+manageability
+легкость управления
+manageable level
+допустимый	приемлемый уровень
+managed
+управлять
+managed currency
+регулируемое денежное обращение	регулируемый валютный курс
+managed money
+регулируемое денежное обращение
+management
+управление
+management audit
+ревизия методов управления
+management counsellor
+консультант по управлению (производством)
+management decisions
+решения по вопросам управления
+management engineer
+специалист по вопросам управления производством
+management engineering
+рационализация методов управления производством
+management expenses
+административные расходы	расходы по управлению	управленческие расходы
+management fee
+управленческий гонорар
+management mechanism
+механизм управления
+management services
+управленческие услуги	услуги по управлению
+management structure
+структура управленческого аппарата	структура управления
+management system
+система организации хозяйства	система управления
+manager
+менеджер
+managerial
+административный
+managerial capacity
+деловые качества (компетентность) руководителя
+managerial control
+управление	управленческий контроль
+managerial efficiency
+эффективность управления	способность к управлению
+managerial functions
+управленческие функции
+managerial revolution
+"революция управляющих"
+managerial services
+управленческие услуги
+managerial skills
+управленческая квалификация	управленческие способности (компетентность)	способность к руководящей работе
+managerial staff
+руководящие сотрудники (персонал)
+managerial workers
+административный персонал
+managing
+управлять
+managing ability
+способность к управлению
+managing director
+директор	директор-распорядитель	руководитель
+managing engineer
+инженер по эксплуатации
+manatee
+ламантин
+manchester
+манчестер
+manchu
+маньчжур	маньчжурский
+mandarin
+мандарин
+mandate
+мандат
+mandatory
+обязательный
+mandatory retention
+обязательное членство
+mandatory sanctions
+политика (осуществления) обязательных санкций
+mandible
+нижний	челюсть
+mandolin
+мандолина
+mandrake
+мандрагора
+mandrel
+оправка
+mandrill
+мандрил
+mane
+грива
+maneuver
+маневрировать	маневр
+maneuverability
+маневренность
+maneuverable
+маневренный
+maneuvering
+маневрировать	маневрирование
+manganese
+марганец
+manganite
+манганит
+mange
+чесотка
+mangel
+калечить	катать	каток
+manger
+ясли
+mangle
+калечить	катать	каток
+mango
+манго
+mangy
+облезлый
+manhandle
+обращаться грубо
+manhattan
+манхэттен
+manhole
+люк
+manhood
+зрелость
+manhour
+человеко-час
+manhunt
+облава
+mania
+мания
+maniac
+маньяк
+manicure
+маникюр
+manifest
+обнаруживать
+manifest constant
+буквальная константа
+manifestation
+проявление	манифестация
+manifestly
+явно
+manifesto
+манифест
+manifold
+множество
+manifold classification
+классификация по нескольким признакам
+manifolding
+многоэкземплярная	печать
+manikin
+манекен
+manioc
+маниока
+manipulate
+манипулировать	манипуляция
+manipulated
+манипулировать
+manipulating
+манипулировать
+manipulation
+обработка
+manipulator
+манипулятор
+mankind
+человечество
+manlike
+человекоподобный
+manly
+мужественный
+manna
+манна
+manned
+Пс ручным управлением
+mannequin
+манекен
+manner
+способ
+mannered
+манерный
+mannerism
+манерность
+mannerly
+воспитанный
+manning table
+штатное расписание	список рабочих и служащих
+mannish
+мужеподобный
+manoeuvering
+маневрировать	маневрирование	маневровый
+manoeuvre
+маневрировать	маневр
+manometer
+манометр
+manor
+поместье
+manorial
+помещичий
+manpower
+рабочая	сила
+manpower balance
+баланс трудовых ресурсов (рабочей) силы
+manpower control
+управление трудовыми ресурсами	регулирование занятости
+manpower program
+план по труду	план использования рабочей силы
+manpower requirements
+потребности в рабочей силе
+manpower resources
+людские (трудовые) ресурсы
+manpower skills
+квалификация рабочей силы
+mansard
+мансарда
+manservant
+слуга
+mansion
+особняк
+manslaughter
+непредумышленный	убийство
+mantel
+каминная	полка
+mantilla
+мантилья
+mantis
+богомол
+mantissa
+мантисса
+mantle
+мантия
+manual
+руководство	ручной	вручную
+manual acting
+приводимый в действие вручную
+manual employees
+работники физического труда	рабочие
+manual labour
+физический труд	лица физического труда
+manual work
+работа, выполняемая вручную	физический (ручной) труд
+manual workers
+работники физического труда	производственные рабочие
+manually
+вручную
+manually operated
+приводимый в движение вручную	ручно
+manuals
+описание
+manufacturability
+возможность производства
+manufacture
+производить	производство
+manufacture manager
+руководитель производства
+manufactured
+производить	произведенный
+manufactured items
+промышленные изделия
+manufacturer
+изготовитель
+manufacturing
+производить	производство	производящий
+manufacturing corporations
+корпорации обрабатывающей промышленности
+manufacturing cycle
+производственный цикл
+manufacturing employment
+занятость (число занятых) в обрабатывающей промышленности
+manufacturing expenses
+производственные издержки
+manufacturing industry
+обрабатывающая промышленность
+manufacturing licensee
+производящий лицензиат
+manufacturing order
+производственный заказ	заказ на изготовление
+manufacturing plant
+предприятие обрабатывающей промышленности	завод изготовитель
+manufacturing process
+производственный процесс
+manure
+навоз
+manuscript
+рукопись
+many
+много	многий
+many a
+иной
+map
+отображать	карта
+map out
+[с]планировать
+maple
+клен	кленовый
+mapped
+отображать
+mapped system
+система с управлением памятью.	ЭВМ, имеющая аппаратные средства	управления памятью.	операционная система, использующая средства управления памятью
+mapping
+отображать	распределение
+mapping domain
+область значений (отображения)
+mapping mode
+режим с управлением памятью
+mar
+портить	март
+marabou
+марабу
+maraschino
+мараскин
+marasmus
+маразм
+marathon
+марафон	марафонский
+maraud
+мародерствовать
+marauder
+мародер
+marauding
+мародерство
+marble
+мрамор	мраморный
+march
+маршировать	марш	Т)март	мартовский
+marcher
+демонстрант
+marching
+маршировать	движение
+marchioness
+маркиза
+marchpane
+марципан
+mare
+кобыла
+margarine
+маргарин
+margin
+поле
+marginal
+краевой
+marginal analysis
+маржинальный метод	метод предельных показателей
+marginal balance
+маржинальное сальдо	превышение выручки над переменными издержками
+marginal business
+малодоходное предприятие
+marginal coefficients
+предельные коэффициенты
+marginal concept
+маржиналистская концепция
+marginal curves
+предельные кривые
+marginal data
+данные о предельных величинах	предельные показатели	предельные величины
+marginal desirability
+предельное предпочтение
+marginal disutility
+предельная неполезность	предельная "антиполезность"
+marginal efficiency
+предельная производительность
+marginal error
+краевая ошибка. ошибка вследствие	выхода за пределы рабочего диапазона
+marginal expenditures
+предельные затраты (расходы)
+marginal input
+добавочные вложения (затраты)
+marginal labour
+рабочая сила с предельно низкой производительностью	наименее квалифицированная рабочая сила
+marginal land
+предельные участки земли	наихудшие участки земли	худшие земли	наименее плодородные (труднодоступные) земельные участки
+marginal measures
+предельные величины
+marginal multiplier
+предельный мультипликатор
+marginal note
+заметка на полях страницы
+marginal population
+беднейшие слои населения
+marginal preference
+предельное предпочтение
+marginal pricing
+предельное ценообразование (т.е. в соответствии с предельными издержками)
+marginal product
+предельный продукт
+marginal productivity
+предельная производительность
+marginal rate
+предельная норма
+marginal return
+предельный доход
+marginal revenue
+предлельный доход
+marginal reward
+предельное вознаграждение
+marginal sacrifice
+предельное воздержание
+marginal utility
+предельная полезность
+marginalia
+маргиналии
+marigold
+ноготок
+marijuana
+марихуана
+marina
+марина	пристань
+marinate
+мариновать
+marinated
+мариновать	маринованный
+marine
+морская	пехота	морской
+marine engineering
+производство судовых двигателей
+mariner
+матрос
+marionette
+марионетка
+marital
+супружеский
+marital status
+семейное положение	отношение к браку
+maritime
+морской
+maritime line
+морское залоговое право
+marjoram
+майоран
+mark
+выделять	Т)маркировать	и)обозначать	отметка	маркер	И)марк	экон)марка
+mark down
+скидка с цены
+mark off
+отделять [-лить]
+mark out
+расставлять указательные знаки на
+mark scan
+поиск метки (при оптическом вводе	текстов)
+mark time
+отбивать шаг на месте
+mark-down
+понизить цену
+mark-up
+повысить цену
+marker
+маркер
+market
+экон)реализовать	рынок	рыночный
+market aberration
+отклонение рынка от нормы
+market accessibility
+доступ к рынкам сбыта
+market analysis
+изучение рынка
+market areas
+районы (ареалы) сбыта
+market availability
+возможности сбыта
+market average
+средний рыночный курс
+market basket
+условный (расчетный набор) представительных потребительских товаров	"рыночная корзина"
+market behavior
+поведение на рынке	динамика (коньюнктура) рынка
+market behaviour
+реакция рынка
+market capacity
+емкость рынка
+market cattle
+скот на продажу
+market condition
+состояние рынка	положение на рынке	коньюнктура
+market demand
+рыночный спрос
+market development
+мероприятие по освоению рынка (внедрению на рынок)
+market disruption
+нарушение равновесия на рынке
+market economies
+страны с рыночной экономикой
+market economy
+страна с рыночной экономикой	рыночная экономика
+market expectations
+возможности сбыта	состояние рынка (конъюнктуры)
+market grain
+товарное зерно
+market imperfection
+несовершенство рынка
+market magnitudes
+емкость рынка
+market module
+модель рыночной экономики
+market opportunities
+возможности сбыта	емкость рынка сбыта
+market oriented
+товарный	рассчитанный на сбыт
+market outlets
+рынки сбыта
+market penetration
+проникновение на рынок
+market planning
+планирование сбыта
+market potential
+емкость рынка
+market price
+рыночная цена
+market quotation
+биржевая котировка	рыночная цена
+market rate
+рыночная норма процента
+market report
+обзор конъюнктуры (состояния) рынка
+market requirements
+требование рынка
+market research
+изучение (исследование) рынка (конъюнктуры)
+market sensitive
+чувствительный к колебаниям рынка, биржи
+market share
+доля (компании или какого-либо продукта) на (соответствующем) рынке
+market supply
+рыночное предложение
+market survey
+обзор состояния рынка
+market theory
+теория рынка
+market turnover
+рыночный оборот
+market value
+рыночная стоимость
+marketability
+экон)товарность
+marketable
+экон)коммерческий
+marketable goods
+ходкий товар
+marketable grains
+товарное зерно
+marketable securities
+ценные бумаги, обращающиеся на рынке
+marketable securitys
+ценные бумаги, обращающиеся на бирже
+marketed
+реализовать	реализованный
+marketing
+экон)реализовать	маркетинг	маркетинговый
+marketing agency
+бытовая организация
+marketing agreements
+соглашение о сбыте
+marketing associations
+сбытовые кооперативы (объединения)
+marketing charges
+расходы по сбыту	коммерческие расходы
+marketing conditions
+условия сбыта
+marketing cooperative
+сбытовой кооператив
+marketing costss
+затраты по сбыту
+marketing difficulties
+трудности сбыта
+marketing expensess
+издержки по сбыту	издержки обращения
+marketing experts
+эксперты по рынкам сбыта	эксперты по сбыту
+marketing functions
+функции сбыта (купля, продажа, реклама, транспортировка, сортировка,	хранение и т.п.)
+marketing opportunities
+возможности сбыта
+marketing outlets
+рынки сбыта
+marketing period
+сбытовой период
+marketing policy
+политика сбыта	сбытовая стратегия
+marketing practices
+методы сбыта
+marketing research
+анализ сбытовой деятельности фирмы	анализ перспектив рынка (сбыта)
+marketing scientific
+научно обоснованные методы сбыта
+marketplace
+рынок
+marking
+выделять	маркировка
+marksman
+меткий	стрелок
+markup
+розничная	наценка
+markworthy
+заслуживающий внимания
+marl
+мергель
+marlborough
+мальборо
+marmalade
+повидло
+marmoset
+мартышка
+marmot
+сурок
+maroc
+марокко
+maroon
+бордовый
+marquee
+театральный	навес
+marquis
+маркиз
+marriage
+брак	женитьба
+marriage settlement
+брачный контракт
+marriage-lines
+свидетельство о браке
+married
+вступать в брак с	женатый	замужняя
+married couple
+супруги PL
+marrow
+костный	мозг
+marry
+вступать в брак с
+mars
+астр)марс
+marsala
+марсала
+marseillaise
+марсельеза
+marsh
+болото	болотный
+marshal
+маршал
+marshland
+болотистый	местность
+marshmallow
+зефир
+marshy
+болотистый
+marsupial
+сумчатый
+mart
+Й
+marten
+куница
+martial
+военный
+martial law
+военное положение
+martian
+марсианин	марсианский
+martyr
+мученик
+marvel
+дивиться	чудо
+marvelous
+чудный
+marxism
+марксизм
+marxist
+марксист	марксистский
+marzipan
+марципан
+mascara
+тушь
+mascot
+талисман
+masculine
+мужской
+mash
+разминать	месиво	сусло
+mashed
+разминать	размятый
+mashroom
+расти	быстро
+mask
+маскировать	маска
+maskable
+маскируемый
+maskable interrupt
+маскируемое прерывание. прерывание,	которому соответствует разряд в маске прерываний (interrupt mask) и	которое можно заблокировать
+masked
+маскировать	замаскированный
+masked ball
+маскарад
+masked interrupt
+заблокированное прерывание
+masking
+маскировать	маскирование
+masochism
+мазохизм
+mason
+каменщик	масон
+masonic
+масонский
+masonry
+масонство	каменная кладка
+masquerade
+маскироваться	маскарад
+masquerader
+имитатор
+masquerading
+нелегальное	проникновение
+mass
+массировать	масса	месса	массовый
+mass meeting
+массовое собрание
+mass storage
+массовая память. внешнее запоминающее устройство очень большой емкости
+mass-produce
+производить в большом количестве	вести массовое производство
+mass-produced
+массового производства
+mass-production
+массовое производство
+massachusetts
+штт)массачусетс
+massacre
+вырезать	бойня
+massage
+массировать	массаж
+masseur
+массажист
+massive
+огромный
+mast
+мачта
+master
+овладевать	мастер	эталон	основной
+master budget
+основной бюджет	основная смета	сводный бюджет
+master card
+индивидуальная учетная карточка потребительского кредита
+master clock
+генератор синхроимпульсов, задающий	генератор
+master data
+основные данные
+master file
+основной файл. файл, содержащий относительно постоянную информацию о	предметной области, и изменяемый в	соответсвии с ее изменением
+master index
+главный индекс, первичный индекс. В	системе двухуровневой индексации	элементы главного индекса указывают, в каком вторичном индексе (fine	index) содержатся ключи соответствующего диапазона
+master mechanic
+главный механик	заведующий механическими мастерскими
+master mode
+привилегированный режим
+master plan
+сводный план
+master sample
+главная выборка (стат.)
+master scheduler
+главный планировщик
+master table
+сводная таблица
+master tape
+основная лента.	магнитная лента, на которой записан основной файл или его часть.	эталонная лента. магнитная лента, на которой записан эталонный	вариант программы или данных и с	которой делаются копии для распространения или модификации
+master-builder
+строитель *
+master-plan
+сводный план	генеральный план
+masterful
+властный	мастерской
+masterly
+мастерской
+mastermind
+задумывать
+masterpiece
+шедевр
+mastership
+мастерство	должность учителя
+mastery
+мастерство	господство
+masthead
+шапка
+mastic
+мастика	мастиковый
+masticate
+жевать
+mastiff
+дог
+masturbate
+мастурбировать
+mat
+спутывать	ковер	матрица	матовый
+match
+соответствовать	и)сочетаться	сопоставлять	спичка	инф)сопоставление	матч	партия
+matchbox
+спичечный	коробок
+matcher
+обнаружитель совпадений
+matching
+сочетаться	сопоставлять	сопоставление
+matching components
+соответствующие компоненты
+matching contribution
+параллельный взнос
+matching parentheses
+парные скобки
+matching principle
+принцип параллельного взноса (ООН)
+matching word
+слово с совпавшим признаком; (при	обращении к ассоциативной памяти)
+matchless
+несравненный
+matchmaker
+сваха
+mate
+соединять	пара	супруг	мат
+material
+материал	вещество	данные	факты	материальный
+material advancement
+рост материального благосостояния общества
+material balance
+материальный баланс
+material classification
+классификация материальных запасов
+material cost
+материальные затраты	затраты материалов
+material flow
+движение (поток) материалов
+material goods
+материальные блага
+material handling
+перемещение материалов	погрузо-разгрузочные операции (работы)
+material incentive
+материальный стимул	материальная заинтересованность
+material inequality
+имущественное неравенство
+material intake
+потребление сырья (материалов)
+material interests
+материальная заинтересованность
+material man
+кладовщик
+material procurement
+материальное снабжение
+material recession
+значительное понижение	крупный спад
+material requisition
+накладная
+material saving
+экономия материала
+material sphere
+материальное производство	сфера материального производства
+material status
+материальное положение
+material wealth
+материальные блага	богатство в вещественной форме
+material welfare
+материальное благосостояние
+materialism
+материализм
+materialization
+претворение в жизнь
+materialize
+осуществляться
+materialized
+осуществляться	осуществленный
+materially
+значительно
+materials distributor
+поставщик материалов
+materiel
+материальная	часть
+maternal
+материнский
+maternity
+материнство
+maternity benefit
+пособие в связи с рождением ребенка
+maternity leave
+отпуск по беременности и родам
+math
+математический
+math processor
+математический процессор
+mathematical
+математический
+mathematical economist
+экономист-математик	эконометрик
+mathematical programming
+математическое программирование
+mathematical simulation
+математическое моделирование
+mathematically
+математически
+mathematician
+математик
+mathematics
+математика
+matin
+заутреня
+matinee
+дневной	спектакль
+mating
+спаривание
+matins
+заутреня
+matriarch
+мать
+matrice
+матрица
+matricide
+матереубийство
+matriculate
+зачисляться
+matrimony
+супружество
+matrix
+матрица	матричный
+matrix algebra
+матричная алгебра
+matrix coefficient
+матрица технологических коэффициентов	матрица прямых затрат
+matrix inversion
+обращение матрицы. нахождение обратной матрицы
+matrix management
+матричная системаа (форма, организация) управления
+matrix notation
+матричная форма записи
+matrix printer
+матричное печатающее устройство.	печатающее устройство без шрифтоносителя, формирующее изображения печатаемых символов в виде точечной	матрицы
+matron
+матрона
+matted
+спутывать	спутанный
+matter
+материал
+matter-of-fact
+фактический	деловой
+matting
+спутывать	рогожа
+mattock
+мотыга
+mattress
+матрас
+maturation
+созревание
+mature
+зреть	готовый	зрелый	тщательно обдуманный
+mature economy
+зрелая экономика	развитое народное хозяйство с низкими темпами роста
+mature economys
+развитые страны
+matured debt
+долг, по которому наступил срок платежа
+maturing bonds
+облигации, выходящие в тираж
+maturing debentures
+1985 ~: облигации,выходящие в тираж в 1985 г
+maturity
+завершенность
+matutinal
+утренний
+maudlin
+слезливый
+maui
+мауи
+maul
+кувалда
+mauser
+маузер
+mausoleum
+мавзолей
+mauve
+лиловый
+mawkish
+слащавый
+maxim
+принцип
+maximal
+максимальный
+maximin
+максимин
+maximization
+максимизация
+maximize
+расширять	расширение
+maximize earnings
+максимизировать доход	стремиться к максимизации дохода
+maximized
+расширять	расширение
+maximizing
+расширять	расширение
+maxims
+принцип
+maximum
+максимум	максимальный
+maximum amount
+максимальный объем
+maxterm
+макситерм
+may
+мочь	возможно	май	можно	нельзя
+maybe
+может быть
+mayfly
+поденка
+mayhem
+хаос
+mayonnaise
+майонез
+mayor
+мэр
+maze
+лабиринт
+mazurka
+мазурка
+mbo
+#управл по задачам
+mbp
+#управл по проц	
+mbyte
+мбайт
+mcdonalds
+Ймакдональдс
+mci
+#эм-си-ай
+mcimail
+Йэм-си-ай-мейл
+mcorp
+Й
+me
+я	я
+mead
+мед	луг
+meadow
+луг
+meadowsweet
+таволга
+meager
+скудный
+meal
+еда
+mealtime
+время еды
+mealy
+мучнистый
+mean
+означать	б)хотеть	Р)предназначаться	средство	средний
+mean deviation
+среднее отклонение
+mean ill
+иметь плохие намерения
+mean price
+средняя цена
+mean rate
+средний курс
+mean time
+среднее время
+mean value
+среднее значение
+mean well
+иметь добрые намерения
+meander
+извиваться
+meaning
+означать	значение
+meaningful
+значимый
+meaningless
+бессмысленный
+meanness
+низость
+means conveyance
+средство перевозки	вид транспорта
+means test
+проверка нуждаемости
+meantime
+среднее	время
+meanwhile
+тем временем
+measles
+корь
+measly
+ничтожный
+measurable
+измеримый	ощутимый
+measure
+измерять	мера
+measured
+измерять	измеренный	мерный
+measured product
+учитываемый продукт
+measurement
+измерение
+measurement data
+нормативы	данные нормирования
+measurement ton
+обмерная тонна (1,12 м )
+measurements
+размер	измерение
+measuring technique
+измерительная техника	техника (методы) измерений
+measuring tools
+измерительный инструмент	средства измерения	измерительная аппаратура
+meat
+мясо	мясной
+meat packing
+мясохладобойная промышленность	бойни
+meat scrap
+отходы боен
+meat-packing
+(industry)	мясохладобойная промышленность
+meatballs
+тефтели
+meathead
+олух
+meatloaf
+мясной	рулет
+meaty
+мясистый
+mecca
+мекка
+mechanic
+механик
+mechanical
+механический	автоматический
+mechanical action
+механическое (автоматическое) действие (управление)
+mechanical arrangement
+механическое приспособление (устройство)	автоматическое устройство
+mechanical control
+механизированное управление
+mechanical effect
+полезная мощность	эффективная мощность
+mechanical efficiency
+производительность (отдача) механизмов
+mechanical engineer
+инженер-механик	машиностроитель
+mechanical engineering
+общее машиностроение
+mechanical shop
+ремонтные (механические) мастерские
+mechanical treatment
+механическая обработка
+mechanical work
+механизированный труд	работа с механизмом
+mechanics
+механика
+mechanism
+механизм
+mechanize
+автоматизировать
+mechanized
+автоматизировать	автоматизтрованный
+mechanotherapy
+механотерапия
+mechant bank
+коммерческий банк
+med
+#мед	
+medal
+медаль
+medallion
+медальон
+medallist
+медалист
+meddle
+вмешиваться
+media
+носитель
+media analysis
+анализ рекламной деятельности
+media director
+заведующий отделом рекламы
+media research
+изучение методов рекламы (средств массовой информации)
+mediaeval
+средневековый
+median
+медиана
+median value
+срединное (медианное значение)
+mediate
+связывать	промежуточный
+mediation
+посредничество
+mediator
+посредник
+medical
+медицинский
+medical certificate
+больничный листок	медицинское свидетельство
+medical man
+врач, медик
+medicare benefit
+пособие по болезни
+medication
+медикамент
+medicine
+лекарство
+medieval
+средневековый
+mediocre
+посредственный
+mediocrity
+посредственность
+meditate
+размышлять
+meditated
+размышлять
+meditating
+размышлять
+meditation
+медитация
+mediterranean
+средиземноморский
+meditteranean
+средиземноморье	средиземноморский
+medium
+	середина	средство	среда	средний
+medium income
+среднеоплачиваемые (категории)	(лица или страны) со средним уровнем дохода
+medium lived
+средней долговечности
+medium price
+средняя цена
+medium quality
+средний сорт	среднее качество
+medium sized
+среднего размера
+medium-term
+среднесрочный
+medlar
+мушмула
+medley
+мешанина
+medschool
+медицинский	школа
+medulla
+костный	мозг
+medusa
+медуза
+meek
+смиренный
+meerschaum
+пенка	пенковый
+meet
+встречать	3)соответствовать	2)удовлетворять	1)выполнять
+meet competition
+выдержать конкуренцию	натолкнуться на конкуренцию
+meet costss
+возместить издержки
+meet expenses
+покрывать расходы
+meet liabilities
+покрывать обязательства
+meet with
+испытывать [-пытать] , подвергаться [-вергнуться]
+meeting
+встр)встречать	3)соответствовать	2)удовлетворять	1)выполнять	собрание
+meetings
+встр)собрание
+meg
+#мег	
+mega
+мега
+megabit
+мегабит
+megabyte
+мегабайт	мегабайтный
+megacell
+мегаячейка
+megacycle
+мегацикл
+megalomania
+мания величия
+megaphone
+мегафон
+megaton
+мегатонна
+megs
+#Мбайт
+melancholia
+меланхолия
+melancholy
+меланхолия	унылый
+melange
+смешение
+melanin
+меланин
+melbourne
+мельбурн
+meliorate
+улучшать
+melioration
+улучшение
+melissa
+мелисса
+mellifluous
+медоточивый
+mellow
+смягчать	добреть	добродушный
+melodic
+мелодичный
+melodious
+мелодичный
+melodrama
+мелодрама
+melody
+мелодия
+melon
+дыня
+melt
+плавить	и)таять	плавка
+melted
+плавить	и)таять	расплавленный
+melting
+плавить	и)таять	плавление
+member
+член	инф)авто)элемент	воен)участник
+member type
+тип члена. в сетевых базах данных часть описания набора, задающая тип	его членов
+members
+участник
+membership
+членство
+membrane
+мембрана
+memento
+сувенир
+memo
+#мемо
+memorable
+памятный
+memoranda
+докм)меморандум
+memorandum
+докм)меморандум
+memorial
+мемориальный
+memorialize
+увековечивать
+memorize
+запоминать
+memorized
+запоминать
+memorizing
+запоминать
+memory
+память	воспоминания
+memory allocation
+распределение памяти. действия транслятора или исполняющей системы	для выделения областей памяти объектам (переменным) программы
+memory array
+массив памяти, область памяти. массив, размещаемый в оперативной памяти
+memory bank
+банк памяти
+memory board
+плата памяти. плата, выполняющая	функции запоминающего устройства
+memory capacity
+объем памяти
+memory cell
+ячейка памяти
+memory compaction
+уплотнение памяти. при динамическом	распределении памяти - перемещение	занятых блоков для объединения мелких свободных блоков в крупные.		on
+memory cycle
+цикл памяти, цикл обращения к памяти
+memory dump
+дапм памяти
+memory fill
+роспись памяти
+memory guard
+защита памяти
+memory hierarchy
+иерархия памяти
+memory interleaving
+расслоение памяти. размещение элементов памяти с последовательными	адресами в физически разных блоках	памяти
+memory key
+ключ (защиты) памяти
+memory location
+ячейка (памяти)
+memory lock
+замок памяти. код в дескрипторе сегмента или страницы виртуальной памяти, используемый системой защиты	памяти для ограничения доступа: к	сегменту могут обращаться только	процессы, имеющие в своем дескрипторе соответствующий ключ (key)
+memory management
+распределение памяти.		on.	управление памятью
+memory map
+карта (распределения) памяти
+memory mapping
+управление памятью. в архитектуре	ЭВМ с оперативной памятью, большей	адресного пространства, - средства	аппаратного отображения адресного	пространства на различные области	физической оперативной памяти; средства отображения могут программно	включаться и выключаться. используется в ЭВМ серии PDP-1
+memory page
+страница памяти, лист памяти
+memory paragraph
+параграф памяти. единица адресации	и управления памятью, меньшая, чем	страница; обычно параграф равен 16	байт
+memory protection
+защита памяти. при обращении к памяти - проверка принадлежности слова	к адресному пространству (address	space) задачи
+memory unit
+блок памяти (ЭВМ)
+memory upgrade
+дополнительная память.	ячейка памяти
+memoryless
+Пбез памяти
+men
+мужчина	мужской
+menace
+угрожать	угроза
+menacing
+угрожать	угрожающий
+menagerie
+зверинец
+mend
+ремонтировать	ремонт
+mendacious
+лживый
+mendacity
+лживость
+mendelevium
+менделевий
+mendicant
+нищий	ниществующий
+menial
+черный
+meningitis
+менингит
+menopause
+климактерий
+mens
+мужской
+menshevik
+меньшевик
+menstruation
+менструация
+mental
+умственный
+mental arithmetic
+устный счет	счет в уме
+mental arithmetics
+устный счет	счет в уме
+mental work
+умственный труд
+mentality
+интеллект
+mentally
+умственно
+mentation
+процесс мышления
+menthol
+ментол	ментоловый
+mention
+упоминать	ссылка
+mentioned
+упоминать	упомянутый
+mentioning
+упоминать	упоминающий
+mentor
+наставник
+menu
+инф)меню
+menu bar
+линейка меню. в системах непосредственного взаимодействия - строка	окна или экрана дисплея, в которой	перечислены пункты меню
+menu selection
+выбор пункта меню
+menu-driven
+управляемый с помощью меню
+mercantile
+коммерческий
+mercantile bank
+коммерческий банк
+mercantile law
+торговое право
+mercantile marine
+торговый флот
+mercantile paper
+подтоварный вексель
+mercedes
+мерседес
+mercenary
+наемник	наемный
+merchandise
+торговать	товар
+merchandise deficit
+дефицит во внешней торговле товарами
+merchandise exchange
+товарная биржа
+merchandise inventory
+товарные запасы	запасы торговой сети
+merchandise manager
+старший продавец
+merchandise mark
+товарный знак
+merchandise marks
+товарные знаки
+merchandise trade
+(внешняя) торговля товарами
+merchandise turnover
+складской оборот	оборот товаров
+merchandised
+торговать
+merchandiser
+товаровед
+merchandising
+торговать
+merchandize
+товар
+merchant
+торговец	коммерческий
+merchant bank
+коммерческий банк
+merchant fleet
+торговый флот
+merchant man
+торговое судно
+merchant marine
+торговый флот
+merchant ship
+торговое судно
+merchantability
+коммерческая	ценность
+merchantable
+коммерчески	выгодный
+merchantman
+торговец
+merciful
+милосердный
+merciless
+беспощадный
+mercilessly
+беспощадно
+mercurial
+ртутный
+mercury
+ртуть	ртутный
+mercy
+милосердие
+mere
+просто	простой
+merely
+просто
+meretricious
+показной
+merganser
+утка
+merge
+объединять	слияние
+merge sort
+сортировка слиянием. внешняя сортировка (external sort), при которой	на первом этапе группы записей сортируются в оперативной памяти и записываются на несколько лент; на	втором этапе упорядоченные группы	сливаются с нескольких лент на одну
+merger
+поглощать	слияние
+meridian
+меридиан
+meringue
+безе
+merino
+меринос
+merit
+качество	оценочный
+merit function
+оценочная функция
+merit increase
+повышение по службе	увеличение зарплаты
+merit rating
+оценка квалификации	(пере)аттестация
+meritorious
+достойный
+merits
+достоинство
+merlin
+дербник	мерлин
+mermaid
+русалка
+merrily
+весело
+merriment
+веселье
+merry
+веселый
+merry-go-round
+карусель *
+merry-making
+веселье	празднество
+merrymaker
+весельчак
+mesa
+мезаструктура
+mesh
+объединять	сетка	сетчатый
+meshing
+объединять	слияние
+mesmerism
+месмеризм
+meson
+мезон
+mesozoic
+мезозойский
+mesquit
+бухарник
+mesquite
+бухарник
+mess
+возиться	беспорядок	путаница
+mess about
+работать кое-как
+message
+комм)сообщение	послание
+message header
+заголовок сообщения. начальная часть сообщения, содержащая его описание: коды адресата и источника, длину, время отправления
+message passing
+передача сообщений
+message trailer
+завершитель сообщения. часть сообщения, указывающая на его окончание	и содержащая контрольную информацию	(например, контрольную сумму)
+messaging
+обмен сообщениями
+messenger
+посыльный
+messiah
+мессия
+messy
+неряха
+mestizo
+метис
+meta
+мета
+meta language
+метаязык. язык для описания языков
+metabolic
+метаболический
+metabolism
+метаболизм
+metabolities
+метаболит
+metabolization
+метаболизация
+metabolized
+метаболизировать	метаболизированный
+metabolizing
+метаболизировать	метаболизирующий
+metacarpus
+пясть
+metacharacter
+метасимвол
+metacrilate
+метакриловый
+metadata
+метаданные
+metafile
+метафайл
+metainference
+метавывод
+metal
+мех)металл
+metal industry
+металлообрабатывающая промышленность	металлообработка
+metal trades
+отрасли металлообработки	металлообрабатывающая промышленность
+metal worker
+металлист	рабочий по металлу	слесарь
+metal working
+обработка металлов
+metalanguage
+метаязык
+metalinguistic
+металингвистический
+metalinguistic variable
+металингвистическая переменная. переменная, используемая при описании	грамматики
+metallic
+металлический
+metalliferous
+металлоносный
+metallize
+мех)	покрывать металлом
+metallography
+металлография
+metalloid
+неметалл
+metallurgic
+мех)металлургический
+metallurgical
+мех)металлургический
+metallurgist
+металлург
+metallurgy
+мех)металлургия
+metalwork
+мех)металлообработка
+metalworker
+металлург
+metalworking
+мех)металлообработка
+metamorphosis
+метаморфозы
+metanotion
+метапонятие
+metaphor
+метафора	метафорический
+metaphore
+метафора	метафорический
+metaphoric
+метафорический
+metaphorical
+метафорический
+metaphysical
+метафизический
+metaphysics
+метафизика
+metaproduction
+метапродукция
+metaprogram
+метапрограмма
+metarule
+метаправило
+metastability
+метастабильность
+metastable
+метастабильный
+metastasis
+метастазы
+metasymbol
+метасимвол
+metasystem
+метасистема
+metatheory
+метатеория
+mete
+распределять
+meteor
+метеор
+meteoric
+метеорный
+meteorite
+метеорит
+meteorology
+метеорология
+meter
+метр	измеритель
+metering
+измерение	измерительный
+methane
+метан
+method
+метод
+methodical
+методический
+methodics
+методика
+methodism
+методизм
+methodist
+методист
+methodize
+систематизировать
+methodless
+бессистемный
+methodology
+методология
+methyl
+метил
+methylene
+метилен
+meticulous
+аккуратный
+meticulously
+тщательно
+metre
+метр
+metric
+показатель	метрический
+metric system
+метрическая система
+metrics
+метрика
+metro
+метро
+metrological
+метрологический
+metrology
+метрология
+metronome
+метроном
+metropolis
+метрополис
+metropolitan
+митрополит	столичный	городской
+mettle
+выдержка
+mexican
+мексиканец	мексиканский
+mexico
+мексико
+mezzanine
+мезанин
+mfg
+#пр-о
+mg
+#мг	
+mgm
+#рук-во
+mgmt
+#рук-во
+mgt
+#упр	
+mhz
+#мгц
+miaow
+мяукать
+miasma
+миазм
+mica
+слюда
+mice
+мышь
+michael
+майкл
+miconnection
+неправильное	соединение
+micro
+микро
+microbe
+микроб
+microbial
+микробный
+microbiocenosis
+микробиоценоз
+microbiology
+микробиология
+microchip
+микрокристалл
+microcircuit
+микросхема
+microcode
+микропрограмма
+microcoding
+микропрограммированние
+microcopy
+микрофильм
+microcosm
+микрокосм
+microdiagnostics
+микродиагностика
+microdiode
+микродиод
+microeconomic analysis
+микроэкономический анализ
+microelectronics
+микроэлектроника
+microenvironment
+микросреда
+microfiche
+микрофиша
+microfilm
+микрофильмировать	микрофильм
+microfilmer
+устройство микрофильмирования
+microfloppy disk
+микро-флоппи, трехдюймовая дискета.	гибкий магнитный диск с носителем	диаметром 3,5 дюйма (89 миллиметров), заключенным в жесткую пластмассовую кассету
+microfolio
+микроформа
+microform
+микроформа
+micrographics
+микрографика
+microimage
+микроизображение
+microm
+микром
+micrometer
+микрометр
+microminiaturization
+микроминиатюризация
+micromodule
+микромодуль
+micron
+микрон
+microorganism
+микроорганизм
+microperipherals
+микропериферия
+microphone
+микрофон
+micropositioning
+микропозиционирование
+microprocessor
+микропроцессор	микропроцессорный
+microprogram store
+управляющая память, память микропрограмм
+microscope
+микроскоп
+microsecond
+микросекунда
+microsoft
+Микрософт (софтверная компания)
+microstrip
+полосковая	линия передачи
+microwave
+микроволновой
+mid
+средний
+midair
+воздух	в воздухе
+midas
+мидас
+midatlantic
+среднеатлантический
+midday
+полдень
+middle
+середина	средний
+middle class
+средние слои	средний класс
+middle management
+средний управленческий персонал
+middle sized
+среднего размера	средней величины
+middle-aged
+средних лет
+middle-class
+средняя буржуазия
+middle-of-the-roaders
+сторонники среднего курса	центристы
+middle-sized
+средней величины
+middle-weight
+средний вес (о боксе)	(боксер) среднего веса
+middleman
+посредник
+middleman distributor
+торговец-посредник
+middling
+средний	посредственный
+midge
+комар
+midget
+миниатюрный
+midi
+музыкальный	интерфейс
+midnight
+полночь
+midship
+авиа)морс)мидель
+midshipman
+курсант
+midst
+среди
+midstate
+посреди штата
+midway
+на полпути
+midwest
+средний	запад
+midwestern
+среднезападный
+midwife
+акушерка
+mien
+мина
+miff
+обижать	обида
+mig
+миг
+might
+мочь	вероятно
+mightily
+могущественно
+mighty
+могущественный
+mignonette
+резеда
+migraine
+мигрень
+migrant workers
+рабочие (трудящиеся)-мигранты	кочующие сезонные рабочие
+migrate
+мигрировать	инф)комм)передавать
+migrating
+мигрировать	инф)комм)передавать	мигрирующий
+migration
+миграция	инф)комм)пересылка
+migration flows
+миграционные потоки
+migration movements
+миграционные потоки
+migration statistics
+статистика миграции
+migratory
+мигрирующий
+migs
+миг
+mike
+майк	микрофон
+milch
+молочный
+mild
+мягкий
+mildew
+плесень
+mildly
+слегка
+mildness
+мягкость
+mile
+миля
+mileage
+расстояние
+milestone
+этап	промежуточный отчет
+militancy
+воинственность
+militant
+активист	воинствующий
+militarily
+с военной точки зрения
+militarism
+милитаризм
+militarize
+милитаризировать
+militarized
+милитаризировать	милитаризованный
+military
+воен)военный
+militate
+способствовать	мешать
+militerization
+милитаризация
+militia
+союз)милиция
+milk
+доить	молоко	молочный
+milking
+доить	дойка
+milkmaid
+доярка
+milkman
+дояр
+milkshake
+молочный	коктейль
+milksop
+тряпка
+milky
+млечный
+mill
+молоть	фрезеровать	фабрика	мельница
+mill construction
+промышленное строительство	заводская постройка
+mill hand
+фабричный (заводской) рабочий
+mill superintendent
+управляющий предприятием (фабрикой)
+mill-pond
+мельничный пруд
+mill-stone
+жернов
+millennia
+тысячелетие
+millennium
+тысячелетие
+millepede
+многоножка
+miller
+мельник
+millet
+пшено
+milliard
+миллиард
+milligram
+миллиграмм
+milligramme
+миллиграмм
+milliliter
+миллилитр
+millimeter
+миллиметр
+millimicrosecond
+наносекунда
+milliner
+модистка
+millinery
+дамский	шляпа
+milling
+молоть	фрезеровать	размол	фрезерование
+million
+миллион	миллионный
+millionaire
+миллионер
+millionth
+миллионный
+millipede
+многоножка
+millisecond
+миллисекунда
+millrace
+мельничный	лоток
+millstone
+жернов
+milquetoast
+тихоня
+milt
+молока
+mime
+пантомима
+mimeograph
+мимеограф
+mimic
+имитировать	имитатор
+mimicry
+мимика	мимикрия
+mimosa
+мимоза
+minaret
+минарет
+mince
+крошить
+mince-pie
+пирог (<-> mincemeat)
+minced
+крошить	рубленый
+mincemeat
+фарш
+mind
+одуш)возражать	слушаться	обращать внимание	ум	мнение
+mindful
+внимательный
+mindless
+бессмысленный
+minds
+ум
+mindset
+настрой
+mine
+геол)шахта	воор)мина	мой
+mine administration
+рудоуправление	шахтоуправление
+mine superintendent
+управляющий горными работами (рудником)
+minefield
+минный	поле
+minelayer
+воор)заградитель
+miner
+геол)шахтер
+mineral
+геол)минерал	минеральный
+mineral deposit
+месторождение минералов (полезных ископаемых)
+mineral oil
+сырая нефть
+mineral output
+добыча минерального сырья
+mineral prices
+цены на минеральное сырье
+mineral rights
+право на разработку минеральных ресурсов (полезных ископаемых)
+mineralogy
+геол)минералогия
+minesweeper
+воор)тральщик
+mingle
+смешиваться
+mingled
+смешиваться	смешанный
+mini
+мини
+miniature
+миниатюрный
+miniaturization
+миниатюризация
+minidisk
+мини-диск
+minidisket
+мини-диск
+minification
+миниатюризация
+minifloppy disk
+мини-флоппи, пятидюймовая дискета.	гибкий магнитный диск (floppy disk)	с диаметром носителя 5.25 дюйма	(133 мм)
+minima
+минимум
+minimal
+минимальный
+minimas
+минимум
+minimax
+минимакс
+minimin
+минимин
+minimise
+минимизировать	снижение
+minimization
+минимизация
+minimize
+минимизировать	снижение
+minimized
+минимизировать	минимизированный
+minimizer
+минимизатор
+minimum
+минимум	минимальный
+minimum pay
+минимальная заработная плата
+minimum royaltys
+минимальные платежи в счет роялти
+minimum stock
+критический запас
+mining employment
+занятость (число занятых) в добывающей промышленности
+mining output
+горная выработка
+mining shares
+акции горнодобывающих компаний
+mining works
+горные работы	минимизируемая величина	минимизировать	минимизировать убытки (издержки)	минимум	минимальное значение	минимальное количество	критическая величина	минимальная ставка оплаты ( за услуги)	прожиточный минимум	минимальная заработная плата	критический запас	минимальная заработная плата	минимальный трудовой возраст
+minion
+баловень
+minis
+мини
+minister
+министр	священник
+ministerial
+министерский
+ministration
+оказание помощи
+ministry
+министерство
+mink
+норка	норковый
+minmax
+минимакс
+minnow
+гольян
+minor
+незначительный
+minor cycles
+короткие и слабые циклы
+minor damage
+незначительное повреждение
+minor failure
+несущественная неисправность
+minor repairs
+мелкий ремонт
+minorities
+малая	акция
+minority
+	меньшинство	малая	акция
+minority interest
+пакет акций, не дающий контроля
+minority ownership
+пакет акций, не дающий права контроля
+minors
+несовершеннолетний
+mins
+#мин
+minstrel
+менестрель
+mint
+мята	монетный двор	мятный	негашеный
+mint parity
+монетный паритет
+mintage
+чеканка
+minterm
+минитерм
+minuend
+уменьшаемое
+minuet
+менуэт
+minus
+минус
+minuscule
+крохотный
+minute
+минута	подробный	Т)минутный
+minutes
+минута	протокол
+minutiae
+мелочь
+miracle
+чудо
+miraculous
+чудесный
+miraculously
+чудом
+mirage
+мираж
+mire
+втягивать	вязнуть	грязь
+mired
+втягивать	вязнуть	увязший
+mirk
+мрак
+mirror
+зеркало	зеркальный
+mirroring
+зеркальное	отражение
+mirth
+веселье
+mis
+#ад	инф	сист	
+mis-
+(приставка, придающая обратное или отрицательное значение)									(of facts)
+mis--judge
+неверно оценивать	составить неправильное мнение
+mis-spell
+[IRR* (spell)] орфографически неправильно писать
+misadventure
+злоключение
+misalignment
+рассогласование
+misanthrope
+мизантроп
+misapplication
+неправильное	использование
+misapply
+применять	неправильно
+misapprehension
+заблуждение
+misappropriate
+расхищать
+misappropriation
+растрата
+misbegotten
+внебрачный
+misbehavior
+неправильное	функционирование
+misbehaviour
+неправильное	функционирование
+misc
+прочее	смешанный
+miscalculate
+просчитываться	неправильно	сосчитанный
+miscalculation
+ошибка в вычислении
+miscarriage
+выкидыш
+miscarry
+выкидывать	давать осечку
+miscast
+давать неподходящую роль
+miscegenation
+расовое	смешение
+miscellaneous
+прочее	смешанный
+miscellaneous goods
+готовые изделия	продукция (готовая)	фабрикаты
+miscellaneous income
+разные доходы
+miscellaneous manufacturing
+прочие отрасли обрабатывающей промышленности
+miscellany
+смесь	сборник
+mischance
+неудача
+mischief
+вред
+misconception
+заблуждение
+misconduct
+дурное	поведение
+misconfigure
+компоновать неправильно
+misconnection
+неправильное	соединение
+misconstrue
+истолковывать превратно
+miscount
+ошибка в счете
+miscreant
+злодей
+misdeal
+ошибаться	неправильная	сдача
+misdeed
+проступок
+misdemeanor
+проступок
+misdirect
+сбивать с дороги
+misentry
+ошибка ввода
+miser
+скупец
+miserable
+несчастный	жалкий
+misery
+несчастье	нищета
+misfire
+давать осечку	осечка
+misfortune
+неудача
+misgiving
+опасение
+misguided
+ошибочный
+mishandle
+обращаться	плохо
+mishandling
+неправильное	обращение
+mishap
+происшествие
+mishmash
+мешанина
+misinform
+дезинформировать
+misinformation
+дезинформация
+misinterpret
+понимать	неправильно
+misinterpretation
+неправильное	понимание
+misinterpreted
+понимать	неправильно	неправильно	понятый	
+misjudge
+оценивать	неправильно
+mislay
+затерять
+mislead
+	вводить в заблуждение	рассогласование
+mismanage
+вести	плохо	плохо	управляемый
+mismanagement
+бесхозяйственность
+mismatch
+несовпадение
+mismatched
+несовпадающий
+mismatching
+рассогласование
+misogynist
+женоненавистник
+misoperation
+неправильная	работа
+misperception
+ошибочное	восприятие
+misphasing
+расфазирование
+misplace
+терять
+misplaced
+терять	затерянный
+misprint
+опечатка
+mispronounce
+произносить	неправильно
+mispronounced
+произносить	неправильно	произнесенный	неправильно	
+misquote
+цитировать	неправильно
+misread
+истолковывать неправильно
+misreporting
+неточный	сведение
+misrepresent
+искажать
+misrepresentation
+искажение
+misrule
+плохое	правление
+miss
+мисс
+missequencing
+разупорядочение
+misshapen
+уродливый
+missile
+ракета	реактивный
+missing
+пропускать	г)избегать	потеря	отсутствующий
+mission
+миссия	задача
+missionary
+миссионер	миссионерский
+mississippi
+миссиссиппи
+missive
+послание
+missouri
+штт)миссури
+misspell
+писать с орфографическими ошибками	орфографическая	ошибка
+misspelled
+писать с орфографическими ошибками	написанный с ошибкой
+misspelling
+писать с орфографическими ошибками	ошибка
+misspelt
+неправильно написанный
+misspend
+растрачивать
+misstate
+искажать
+misstatement
+ложное	заявление
+misstep
+ошибка
+mist
+туман
+mistakable
+могущий быть неправильно понятым
+mistake
+ошибаться	ошибка
+mistaken
+ошибаться	ошибочный
+mistakenly
+ошибочно
+mister
+господин
+mistiming
+расхождение во времени
+mistiness
+туманность
+mistletoe
+омела
+mistranslate
+	переводить неправильно	неправильный	перевод
+mistranslation
+неправильный	перевод
+mistreat
+обращаться плохо
+mistress
+госпожа
+mistrial
+неправильное	судебное	разбирательство
+mistrust
+недоверие
+mistrustful
+недоверчивый
+mistuning
+нарушение настройки
+misty
+туманный
+misunderstand
+	понимать неправильно	неправильное	понимание
+misunderstood
+понимать неправильно	неправильно	понятый	
+misuse
+неправильное	употребление
+misuses
+злоупотреблять	злоупотребление
+mite
+клещ	крошка
+miter
+скашивать	митра	скос
+mitigate
+смягчать
+mitigating
+смягчать	смягчающий
+mitosis
+митоз
+mitre
+скашивать	митра	скос
+mitsubishi
+мицубиси
+mitten
+варежка
+mix
+смешивать	смешивание	структура
+mix up
+перепут(ыв)ать
+mixed
+смешивать
+mixed economy
+"смешанная экономика"	государственный капитализм	многоукладная экономика
+mixed enterprise
+смешанное предприятие
+mixed farming
+неспецилиазированное (сельское) хозяйство
+mixed farms
+фермы смешанной специализации
+mixed manned
+укомплектованный персоналом из разных стран
+mixed sampling
+(#стат.) смешанная (комбинированная) выборка
+mixed-maned
+укомплектованный персоналом из разных стран
+mixer
+миксер
+mixture
+смесь
+mnemonic
+мнемосхема	мнемонический
+mnemonics
+мнемоника
+moan
+стонать	стон
+moat
+крепостной	ров
+mob
+набиваться в	банда
+mobile
+мобильный
+mobile repairs
+передвижные ремонтные мастерские
+mobility
+мобильность
+mobility means
+транспортное средство
+mobilization
+мобилизация
+mobilize
+мобилизовать
+mobilized
+мобилизовать	мобилизированный
+mobilizing
+мобилизовать
+mobster
+гангстер
+moccasin
+мокасин	змея
+mocha
+мокко
+mock
+высмеивать	фиктивный
+mock at
+насмехаться [-еяться] над
+mockery
+издевательство
+mocking
+высмеивать	издевательский
+mockingbird
+пересмешник
+mockup
+макет
+mod
+модуль
+modal
+модальный
+modal area
+показательный район
+modality
+модальность
+mode
+способ	инф)астр)режим	мода
+model
+моделировать	модель
+model agreement
+типовое соглашение
+model area
+показательный район
+model builder
+специалист по моделированию
+model building
+моделирование	построение модели
+model law
+типовой закон
+model pattern
+типовой план
+model project
+показательный проект
+model-building
+построение моделей
+modeler
+разработчик модели
+modeless
+независимый
+modeless command
+команда, независящая от режима. команда интерактивной системы (interactive system), имеющая один и тот	же смысл во всех состояниях (при	всех режимах работы) системы
+modeless system
+система с однородным интерфейсом.	интерактивная система (interactive	system), в которой смысл команды с	точки зрения пользователя не зависит от состояния системы
+modeling
+моделирование
+modeller
+модельщик
+modem
+модем
+moderate
+смягчать	умеренный
+moderately
+умеренно
+moderation
+умеренность
+moderator
+председатель
+modern
+современный
+modernism
+модернизм
+modernist
+модернист
+modernization
+модернизация
+modernize
+модернизировать
+modernized
+модернизировать	модернизированный
+modernizing
+модернизировать	модернизация
+modes
+способ	инф)режим	мода
+modest
+скромный
+modesty
+скромность
+modi
+способ
+modicum
+чуточка
+modifiability
+модифицируемость
+modifiable
+модифицируемый
+modification
+модификация
+modifier
+модификатор
+modify
+модифицировать
+modula
+модула
+modular
+модульный
+modular arithmetic
+арифметика в остаточных классах
+modular programming
+модульное программирование. организация программы в виде совокупности	модулей (module) со строгим соблюдением правил их взаимодействия; описание модуля состоит из описания	взаимодействия (interface specification) и описания реализации (implementation specification). в простейшем случае модулем является процедура; в современных языках имеются	более развитые средства модульности	(modularity) - пакеты и задачи в	языке ада, модули в языке модула-2,	абстрактные типы данных
+modularity
+модульность
+modularization
+модуляризация
+modulate
+модулировать
+modulated
+модулировать	модулированный
+modulating
+модулировать	модулирующий
+modulation
+модуляция
+modulator
+модулятор
+module
+модуль	модульный
+module invariant
+инвариант модуля
+module strength
+прочность модуля
+modulo
+по модулю
+modulus
+модуль
+modus
+способ
+mogul
+могол
+mohair
+мохер	мохеровый
+mohammedan
+магометанин
+mohawk
+могаук
+moire
+муар	муаровый
+moist
+влажный
+moisten
+увлажнять
+moistened
+увлажнять	увлажненный
+moistening
+увлажнять	увлажнение
+moisture
+влажность
+molar
+коренной	зуб
+molasses
+патока
+mold
+формовать	плесень	слепок	шаблон
+molded
+формовать	заплесневелый	слепленный
+molder
+рассыпаться
+molding
+формовать	лепное	украшение
+moldy
+заплесневелый
+mole
+родинка	крот
+molecular
+молекулярный
+molecule
+молекула
+molehill
+кротовая	нора
+moleskin
+молескин	кротовый
+molest
+приставать к
+moline
+молин
+mollified
+смягчать	смягченный
+mollify
+смягчать
+mollifying
+смягчать	смягчающий
+mollusk
+моллюск
+mollycoddle
+изнеживать	неженка
+molt
+линять
+molten
+расплавленный
+molybdenum
+молибден	молибденовый
+molybdic
+молибденовый
+mom
+мама
+moment
+момент
+momenta
+момент
+momentarily
+на мгновение
+momentary
+моментальный
+momentary price
+мгновенная цена
+momently
+ежеминутно
+momentous
+важный
+momentum
+движущая	сила
+mommy
+мама
+monad
+монада
+monadic
+унарный
+monadic operation
+унарная операция, одноместная операция
+monarch
+монарх
+monarchist
+монархист
+monarchy
+монархия
+monastery
+монастырь
+monastic
+монашеский
+monday
+понедельник	в понедельник
+monetary
+денежный
+monetary aggregates
+денежная масса
+monetary area
+валютная зона
+monetary authorities
+государственные финансовые органы	органы регулирования денежного обращения
+monetary authority
+государственные финансовые органы	органы регулирования денежного обращения (центральный банк)
+monetary circulation
+денежное обращение
+monetary estimates
+стоимостные оценки
+monetary expansion
+рост количества денег в обращении	кредитная экспансия
+monetary factors
+монетарные факторы	факторы кредитно-денежного обращения
+monetary floor
+нижний предел падения курса валюты, после которого центральный	банк производит валютную интервенцию
+monetary gold
+монетарное золото
+monetary incentives
+материальное стимулирование
+monetary indicators
+стоимостные показатели
+monetary institutions
+кредитные учреждения	финансовые учреждения
+monetary instruments
+средства	инструменты денежной политики
+monetary measures
+стоимостные показатели
+monetary multiplier
+стоимостной мультипликатор
+monetary policy
+кредитно-денежная политика	политика в области денежного обращения и кредита	финансовая политика
+monetary reserves
+валютные резервы
+monetary situation
+положение в денежно-кредитной сфере
+monetary stock
+количество денег в обращении
+monetary supply
+количество денег в обращении
+monetary system
+система кредитно-денежного обращения	система финансов	валютная система
+monetary unit
+денежная единица
+money
+деньги	финансовый
+money capital
+денежный капитал	капитал в денежной форме	ссудный капитал
+money down
+наличные
+money economy
+товарно-денежное хозяйство
+money flows
+(on a gross basis)	(валовые) денежные потоки
+money institutes
+финансовые учреждения
+money institutions
+финансовые учреждения
+money interest
+процент по ссудам
+money lender
+кредитор	ростовщик
+money market
+рынок краткосрочного ссудного капитала
+money means
+денежные средства
+money measures
+стоимостные показатели
+money order
+денежный перевод	платежный приказ
+money outlay
+денежные расходы
+money payments
+денежные платежи
+money provision
+денежные ассигнования
+money rate
+норма (ставка) процента по ссудам (ссудного процента)
+money receipts
+денежные поступления
+money receiptss
+денежные поступления
+money reward
+денежное вознаграждение
+money saving
+денежное накопление	денежные сбережения
+money savings
+денежное накопление	денежные сбережения
+money spot
+уплата наличными на месте
+money squeeze
+нехватка денег	денежные затруднения	резкое ограничение (стеснение) кредита	нехватка ссудного капитала	дорогие деньги
+money supply
+количество (масса) денег в обращении	денежно-бумажная масса
+money transfer
+денежный перевод
+money turnover
+денежный оборот	денежное обращение
+money velocity
+скорость оборота денежной массы	скорость денежного обращения
+money wage
+номинальная заработная плата
+money-box
+копилка
+money-changer
+меняла *
+money-order
+почтовый денежный перевод
+moneybag
+денежный	мешок
+moneychanger
+меняла
+moneyed
+богатый
+moneyed interests
+финансовые круги
+moneylender
+ростовщик
+moneymaking
+доходный
+mongol
+монгол	монгольский
+mongolia
+монголия
+mongolian
+монгольский
+mongoose
+мангуста
+mongrel
+помесь
+monies
+деньги
+moniker
+прозвище	кличка
+monism
+монизм
+monitor
+фото)проверять	монитор
+monitor program
+управляющая программа
+monitoring
+проверять
+monitoring body
+контрольный орган
+monk
+монах
+monkey
+обезьяна
+monkey with
+возиться с
+monkey-wrench
+раздвижной гаечный ключ
+monkhood
+монашество
+monkshood
+аконит
+mono
+моно
+monoboard
+моноплатный
+monobus
+единая	шина
+monocarbonic
+моноуглеродистый
+monochannel
+моноканал	моноканальный
+monochroic
+монохроический
+monochrom display
+монохромный дисплей
+monochromatic
+монохроматический
+monochrome
+монохромный
+monocle
+монокль
+monocode
+монокод
+monogamy
+моногамия
+monogram
+монограмма
+monograph
+монография
+monoid
+моноид
+monolaurate
+монолаурат
+monolith
+монолит
+monolithics
+монолитная	схема
+monologue
+монолог
+monomer
+мономер
+monomial
+одночлен
+mononucleosis
+мононуклеоз
+monooxidases
+монооксидаза
+monoplane
+моноплан
+monopolist
+монополист
+monopolistic
+монополистический
+monopolistic combination
+монополистическое объединение
+monopolize
+монополизировать
+monopolized
+монополизировать	монополизированный
+monopolizing
+монополизировать	монополизация	монополизирующий
+monopoly
+монополия	монопольный
+monopoly clause
+монопольная оговорка
+monopoly interests
+монополистические круги
+monopoly practice
+монополистическая практика
+monopoly price
+монопольная цена
+monopoly supplier
+монопольный поставщик
+monorail
+монорельсовая	железная	дорога
+monoscope
+моноскоп
+monospace
+интервал
+monostable
+моностабильный
+monosyllabic
+односложный
+monotheism
+монотеизм
+monotone
+монотонный
+monotonic
+монотонный
+monotonic reasoning
+монотонный вывод. способ вывода,	при котором истинность выведенных	высказываний не уменьшается в процессе вывода
+monotonicity
+монотонность
+monotonous
+монотонный	однообразный
+monotype
+монотип
+monsieur
+мосье
+monsignor
+монсеньор
+monsoon
+муссон
+monster
+чудовище
+monstrosity
+чудовищность
+monstrous
+чудовищный
+montage
+монтаж
+monte
+Ймонте
+montevideo
+монтевидео
+month
+месяц	месячный
+monthly
+ежемесячно	ежемесячник	ежемесячный
+monthly publication
+ежемесячник
+monthly rate
+месячная ставка
+montreal
+монреаль
+monument
+памятник
+monumental
+монументальный
+moo
+мычать	мычание
+mooch
+попрошайничать	попрошайка
+moocher
+попрошайка
+mood
+настроение
+moody
+капризный
+moon
+луна	лунный
+moonbeam
+лунный	луч
+moonlight
+лунный	свет
+moonstone
+лунный	камень
+moor
+причаливать	мавр	пустошь
+moorage
+причал
+moorish
+мавританский
+moose
+лось	лосиный
+moot
+спорный
+mop
+очищать	швабра
+mope
+хандрить
+moped
+хандрить	мопед
+moraine
+морена
+moral
+мораль	моральный
+morale
+моральное	состояние
+moralist
+моралист
+morality
+мораль
+moralize
+морализовать
+moralized
+морализовать	морализованный
+moralizing
+морализовать	мораль
+morally
+морально
+morass
+болото
+moratorium
+мораторий
+moray
+мурена
+morbid
+болезненный	жуткий
+morbidity rate
+количество пропущенных по болезни рабочих дней в году
+mordant
+потрава	язвительный
+more
+более	больший	дополнительный	больше
+morel
+сморчок
+moreover
+кроме того
+mores
+нрав
+morganatic
+морганатический
+morgue
+морг
+moribund
+умирающий
+mormon
+мормон
+morning
+утро	утром
+morning coat
+визитка
+morocco
+сафьян	сафьяновый
+moron
+идиот
+morose
+угрюмый
+morpheme
+морфема
+morphine
+морфий
+morpho
+морфо
+morphologic
+морфологический
+morphological
+морфологический
+morphology
+морфология
+morrow
+завтра	завтра
+morsel
+кусочек
+mortal
+смертельный
+mortality
+выход из строя
+mortality rate
+коэффициент смертности	смертность
+mortality table
+статистические таблицы смертности
+mortality tables
+статистические таблицы смертности
+mortally
+смертельно
+mortar
+миномет	строительный раствор	минометный
+mortgage
+экон)закладывать	закладная	ипотека
+mortgage account
+счет ипотечного долга
+mortgage bank
+ипотечный банк
+mortgage bond
+закладной лист (закладная) на недвижимость
+mortgage costs
+процент по ипотечным займам (кредитам)
+mortgage credit
+ипотечная ссуда (кредит)
+mortgage foreclosure
+лишение права выкупа закладной	продажа с молотка заложенной недвижимости
+mortgage loan
+ипотечная ссуда	ссуда под залог недвижимости
+mortgage retirement
+выкуп закладной	погашение ипотечного долга
+mortgage transactions
+операции с недвижимостью
+mortgaged
+закладывать	заложенный
+mortgaged farm
+заложенная ферма
+mortgaged property
+заложенное (недвижимое) имущество
+mortgagee
+залогодержатель
+mortgager
+должник по закладной
+mortgagor
+должник по закладной
+mortician
+директор похоронного бюро
+mortification
+унижение	умерщвление
+mortify
+унижать
+mortise
+гнездо
+mortuary
+покойницкая	похоронный
+mosaic
+мозаика	мозаичный
+moscow
+москва	московский
+moslem
+мусульманин	мусульманский
+mosque
+мечеть
+mosquito
+комар
+moss
+мох
+mossy
+мшистый
+most
+наиболее	больше всего	самый	большинство
+most beautiful
+самый красивый
+mostly
+по большей части
+mot
+острота	шлюха
+mote
+пылинка
+motel
+мотель
+moth
+мотылек	моль
+moth-eaten
+изьеденный молью
+mothball
+нафталин
+mother
+мать	материнский
+mother board
+основная плата
+mother firm
+родительская (материнская) фирма
+mother node
+родительская вершина
+mother-hood
+материнство
+mother-in-law
+теща	свекровь *
+mother-of-pearl
+перламутровый
+mother-tongue
+родной язык
+motherhood
+материнство
+motherland
+родина
+motherless
+лишенный матери
+motherly
+материнский
+motif
+мотив
+motion
+движение	перемещение	юрид)ходатайство
+motion-picture
+кино
+motionless
+неподвижный
+motivate
+мотивировать	активный
+motivation
+мотивация
+motive
+мотив
+motley
+пестрый
+motor
+двигатель
+motor mechanic
+авторемонтный механик
+motor-bicycle
+мотоцикл
+motor-bus
+автобус
+motor-car
+автомобиль *,  машина
+motor-cycle
+мотоцикл
+motorbike
+мопед
+motorboat
+катер
+motorbus
+автобус
+motorcade
+кортеж
+motorcar
+автомобиль
+motorcycle
+мотоцикл
+motorist
+автомобилист
+motorized
+моторизованный
+motorman
+машинист
+mottle
+испещрять
+mottled
+испещрять	крапчатый
+motto
+девиз	лозунг
+mould
+формовать	плесень	слепок	шаблон
+mouldboard
+отвал
+moulding
+формовать	лепное	украшение
+moulds
+плесень
+moult
+линять
+mound
+бугор	могильный холм
+mount
+устанавливать	взбираться	гора	крепление
+mountain
+гора	горный
+mountain ash
+рябина
+mountaineer
+альпинист
+mountainous
+гористый
+mountaintop
+вершина
+mountebank
+знахарь
+mounted
+устанавливать	взбираться	установленный	конный
+mounting
+устанавливать	взбираться	монтаж
+mounting needs
+растущие запросы	потребности
+mourn
+оплакивать
+mourner
+скорбящий
+mournful
+траурный
+mourning
+оплакивать	траур	траурный
+mouse
+мышь
+mousetrap
+мышеловка
+mousse
+мусс
+moustache
+ус
+mousy
+мышиный
+mouth
+рот	отверстие	устье
+mouth-organ
+губная гармоника
+mouthful
+глоток
+mouthpiece
+мундштук
+mouthwash
+полоскание
+movable
+подвижный
+movable goods
+движимое имущество	движимость
+movables
+движимость
+move
+перемещать	перемещение
+move in
+въезжать [въехать]
+move mode
+режим пересылки. организация обмена, при которой данные пересылаются	системой ввода-вывода в буфер прикладной программы
+move on
+двигаться вперед
+moveable
+перемещаемый
+moved
+перемещать	перемещенный
+moveing average
+скользящая средняя
+movement
+перемещение
+movement certificate
+свидетельство о перемещении
+mover
+перевозчик
+movie
+кино	кино
+movies
+кино
+moving
+перемещать	перемещение	движущийся
+moving average
+скользящая средняя
+moving equilibrium
+подвижное равновесие
+moving staircase
+эскалатор
+mow
+косить
+mower
+косарь	косилка
+moxie
+дерзость
+mozambique
+мозамбик
+mpg
+#миль на галлон
+mph
+#миль в час
+mr
+м-р
+mrs
+м-с
+ms
+мс
+msc
+пр	
+msdos
+Йинф)
+msds
+господа
+mtn
+г	
+much
+значительно	очень	много	многое
+much obligeed
+очень благодарен (-рна)
+mucilage
+клей	слизь
+muck
+грязь
+mucous
+слизистый
+mucus
+слизь
+mud
+грязь
+mud-guard
+крыло
+muddle
+путать	беспорядок
+muddy
+грязный
+mudguard
+брызговик
+mudslide
+оползень
+mudslinger
+клеветник
+muezzin
+муэдзин
+muff
+упустить	реплика
+muffin
+булка
+muffle
+закутывать	глушить
+muffler
+глушитель	кашне
+mufti
+штатское
+mug
+грабить	кружка	морда
+mugger
+налетчик
+muggy
+сырой
+mulatto
+мулат
+mulberry
+шелковица
+mulch
+мульча
+mule
+мул
+mull
+обдумывать
+mull over
+обдум(ыв)ать	размышлять [-мыслить]
+mulled wine
+глинтвейн
+mullet
+кефаль
+multi
+много
+multi use
+универсальный	многократно используемый
+multi variate
+многомерный
+multiaccess system
+система коллективного доступа. система разделения времени с ограниченными возможностями. в такой системе пользователь, как правило, не	может взаимодействовать с запускаемой задачей, а может только работать с ее выходными файлами после завершения счета
+multiaddress
+многоадресный
+multiaddress instruction
+многоадресная команда. команда, в	которой указано несколько операндов
+multiaperture
+многодырочный
+multiattribute
+многопризначный
+multibus
+мультибас	многошинный
+multibutton
+многоклавишный
+multibyte
+многобайтовый
+multicabinet
+многостоечный
+multicast
+групповой
+multicast address
+групповой адрес. в локальных сетях	- адрес, определяющий группу станций данной локальной сети
+multichannel
+многоканальный
+multichip
+многокристальная	схема	многокристальный
+multicircuit
+многоконтурный
+multicolored
+многоцветный
+multidigit
+многоразрядный
+multidigraph
+ориентированный	мультидиграф
+multidimensional
+многомерный
+multidimensional array
+многомерный массив
+multidisciplinary
+многопротокольный
+multidomain
+многодоменный
+multidrop
+многоточечный
+multidrop line
+многоточечная линия; моноканал. одна линия связи или среда передачи	данных, связывающая несколько узлов	сети. при использовании моноканала	необходим протокол, обеспечивающий	разрешение конфликтов при одновременном обращении к моноканалу нескольких узлов
+multifaceted
+разносторонний
+multifarious
+разнообразный
+multifeedback
+Пс большим числом обратных связей
+multiform
+многообразный
+multifunction
+многофункциональность	комбинированный
+multifunction board
+комбинированная плата; многофункциональная плата. плата расширения	(expansion bus) персональной ЭВМ,	объединяющая несколько функциональных узлов: дополнительную память,	адаптеры последовательного и параллельного интерфейсов, часы
+multifunctional
+многофункциональный
+multigate
+многовентильный
+multigraph
+мультиграф
+multiimage
+полиэкранное	изображение	полиэкранный
+multiindustry firm
+фирма, оперирующая в нескольких отраслях	многоотраслевая фирма
+multiinput
+многовходовый
+multilateral
+многосторонний
+multilateral agreement
+многостороннее соглашение
+multilateral aid
+многосторонняя помощь
+multilateral assistance
+многосторонняя помощь
+multilateral comparison
+многостороннее сопоставление
+multilateral trade
+многосторонняя торговля
+multilayer
+многоуровневый
+multilength
+Пмногократной длины
+multilevel
+многоуровневый
+multilevel addressing
+многоуровневая (косвенная) адресация. способ адресации, при котором	для доступа к фактическому адресу	или адресуемому значению необходимо	пройти по цепочке указателей
+multilinear
+многолинейный
+multilingual
+многоязычный
+multilist
+мультисписок
+multilogic
+многофункциональный
+multiloop
+многоконтурный
+multimedia
+мультимедиа
+multimethodological
+многофункциональный
+multimillionaire
+мультимиллионер
+multimodal transportation
+смешанные перевозки
+multimode
+многорежимный
+multinational
+многонациональный
+multinational corporations
+многонациональные корпорации
+multinomial
+полином	многочленный
+multipass
+многопроходной
+multiplant corporations
+карпорации, владеющие многими предприятиями
+multiplant firms
+фирмы, владеющие несколькими предприятиями
+multiple
+кратное	многочисленный	составной
+multiple access
+коллективный [множественный] доступ	параллельный доступ
+multiple assignment
+множественное присваивание. конструкция языка программирования, позволяющая присвоить одно и то же значение нескольким переменным одновременно
+multiple correlation
+(#мат.) множественная корреляция
+multiple cropping
+сбор нескольких урожаев в год
+multiple declaration
+повторное определение
+multiple definition
+повторное определение. ошибка в описании программы или структуры данных, заключающаяся в повторном (многократном) задании определения одного имени
+multiple edges
+кратные ребра. несколько ребер между одной парой вершин
+multiple processesing
+мультипрограммирование; многозадачный режим
+multiple rate
+множественный курс (валют)
+multiple regression
+(#мат.) множественная регрессия
+multiple sampling
+(#стат.) многоступенчатая выборка
+multiple uses
+многоцелевое использование
+multiplecolumn
+многоколоночный
+multiples
+множество
+multiplex
+мультиплексный
+multiplex channel
+мультиплексный канал. канал, допускающий одновременную передачу данных для нескольких устройств
+multiplexed
+мультиплексный
+multiplexed bus
+мультиплексная шина. шина, в которой одни и те же линии используются	для передачи как адресов, так и данных
+multiplexer
+мультиплексор
+multiplexing
+мультиплексирование
+multiplexor
+мультиплексор
+multiplicand
+сомножитель
+multiplication
+умножение
+multiplication table
+таблица умножения
+multiplication time
+время умножения. время, за которое	процессор выполняет команду умножения
+multiplicity
+множественность
+multiplied
+умножать	умноженный
+multiplier
+множитель
+multiplier effect
+эффект мультипликатора
+multiply
+умножать
+multiply correlation
+множественная корреляция
+multiply management
+участие представителей рабочих в управлении предприятием
+multiply regression
+множественная регрессия
+multiply sample
+(#стат.) многоступенчатая выборка
+multiply shops
+однотипные магазины одной и той же фирмы
+multiply uses
+многоцелевое использование
+multiplying
+умножать	умножение	множительный
+multipoint
+многоточечный
+multipoint line
+многоточечная линия
+multiport
+многопортовый
+multipriority
+многоприоритетность
+multiprocessing
+обработка	многопроцессорный
+multiprocessing system
+многопроцессорная система
+multiprocessor
+мультипроцессор	многопроцессорный
+multiproduct firm
+фирма с диверсифицированной продукцией
+multiprotocol
+многопротокольный
+multipurpose
+универсальный
+multireel file
+многоленточный файл
+multisequencing
+распараллеливание
+multishift work
+мносменный режим работы	работа в несколько смен
+multistable
+мультиустойчивый
+multistage
+многоступенчатый	инф)многокаскадный
+multistage sample
+(#стат.) многоступенчатая выборка
+multistaged
+многоуровневый
+multistep
+многоступенчатый
+multistoried
+многоэтажный
+multistream
+многоканальный
+multitapped
+многоотводный
+multitasking support
+средства многозадачности
+multitasking system
+многозадачная система
+multiterm
+мультитерм
+multiterminal
+многотерминальный
+multithreaded list
+мультисписок
+multitude
+множество
+multiuser
+многопользовательский
+multivalence
+многопараметрическая	представимость
+multivalued
+многозначный
+multivalued logic
+многозадачная логика
+multivariable
+многопараметрический
+multivariate
+многомерный
+multivector
+много-векторный
+multivenous
+мультивенный
+multiversion
+многовариантный
+multivibrator
+мультивибратор
+multivolume
+многотомный
+multivolume file
+многотомный файл. файл, физически	расположенный на нескольких отдельных носителях (томах) (например, на	нескольких дисках или магнитных лентах)
+multiway
+многоканальный
+mumble
+бормотать	бормотание
+mummy
+мумия
+mumps
+свинка
+munch
+чавкать
+mundane
+светский
+mung
+портить
+munge
+портить
+munich
+мюнхен
+municipal
+муниципальный
+municipal borough
+город, имеющий самоуправление
+municipal enterprise
+муниципальное (принадлежащее местным властям) предприятие
+municipal government
+муниципальные власти	местные власти	городские власти
+municipal services
+коммунальные услуги
+municipal transportation
+городской транспорт
+municipality
+муниципалитет
+municipalize
+муниципализировать
+munificence
+щедрость
+munificent
+щедрый
+muniment
+документ на владение
+munition
+снаряжение
+munitioner
+рабочий военного завода
+mural
+роспись	стенной
+murder
+убивать	убийство
+murdered
+убивать	убитый
+murderer
+убийца
+murderous
+убийственный
+murky
+мрачный
+murmur
+роптать	ропот
+murrain
+падеж
+murre
+кайра
+muscat
+мускат
+muscatel
+мускат
+muscle
+мускул	мышца
+muscovite
+мусковит	москвич
+muscular
+мускульный
+musculature
+мускулатура
+muse
+размышлять	муза
+museum
+музей
+mush
+каша
+mushroom
+разрастаться	гриб
+mushroom up
+расти как грибы
+mushy
+мягкий	слащавый
+music
+музыка	ноты	музыкальный
+music-hall
+мюзик-холл, эстрадный театр
+music-stool
+табурет для рояля
+musical
+комедия	музыкальный
+musical box
+шарманка
+musicale
+музыкальный	вечер
+musician
+музыкант
+musicology
+музыковедение
+musk
+мускус	мускусный
+muskeg
+болото
+musket
+мушкет
+musketry
+стрелковое	дело
+muskrat
+ондатра
+muslim
+мусульманин	мусульманский
+muslin
+муслин	муслиновый
+muss
+растрепать
+mussel
+мидия
+must
+должен	по-видимому	должны
+mustache
+ус
+mustang
+мустанг
+mustard
+горчица
+muster
+собирать	смотр
+mustily
+с гнилью
+musty
+затхлый
+mutate
+видоизменять
+mutation
+мутация
+mute
+приглушать	немой	немой
+muted
+приглушать	приглушенный
+muteness
+немота
+mutilate
+калечить
+mutilated
+калечить	покалеченный
+mutineer
+бунтовщик
+mutinous
+бунтарский
+mutiny
+мятеж
+mutter
+бормотать
+muttered
+бормотать
+mutton
+баранина	бараний
+mutton chop
+баранья котлета
+mutual
+взаимный
+mutual benefit
+взаимная выгода
+mutual funds
+взаимные фонды (разновидность инвестиционных фондов открытого типа)
+mutual insurance
+взаимное страхование
+mutual lending
+взаимное кредитование
+mutual society
+общество взаимного кредита
+mutually
+взаимно
+mutually beneficial
+взаимовыгодный
+muzhik
+мужик
+muzzle
+морда	намордник	жерло
+my
+мой	я
+my lord
+милорд (обращение)
+my own
+моя собственность *
+myopia
+миопия
+myriad
+мириад	бесчисленный
+myriapod
+многоножка
+myrrh
+мирра
+myrtle
+мирт	миртовый
+myself
+мсам	себя	себя самого	я
+mysterious
+загадочный
+mystery
+тайна
+mystic
+мистик	мистический
+mysticism
+мистика
+mystified
+озадачивать	озадаченный
+mystify
+озадачивать
+mystique
+таинственность
+myth
+миф
+mythology
+мифология

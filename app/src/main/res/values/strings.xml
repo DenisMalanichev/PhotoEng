@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoEng</string>
+    <string name="camera_text">Наведите камеру на текст, который нужно перевести</string>
+    <string name="back_text">Назад</string>
+    <string name="text_reader_first_text">Введите текст для перевода</string>
+    <string name="research_text">Перевести</string>
+    <string name="say">Озвучить</string>
+    <string name="scane_text">Сканировать</string>
+</resources>
+

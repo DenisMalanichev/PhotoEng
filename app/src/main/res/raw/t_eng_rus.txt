@@ -1,0 +1,5993 @@
+
+tab
+таб	
+tabbed
+табулированный
+tabbies
+муар
+tabby
+маур
+tabernacle
+скиния
+table
+стол	инф)таблица	табличный
+table column
+столбец	таблицы
+table entry
+вход таблицы
+table line
+строка таблицы
+table row
+строка таблицы
+table-cloth
+скатерть *
+table-spoon
+столовая ложка
+tableau
+живописная	картина
+tableaux
+живописная	картина
+tablecloth
+скатерть
+tableland
+плоскогорье
+tablespoon
+столовая	ложка
+tablespoonful
+полная	столовая	ложка
+tablet
+планшет	таблетка	блокнот
+tableu
+картина
+tableware
+посуда
+tablewear
+столовый	прибор
+tabloid
+малоформатная	газета
+taboo
+табу	запрещенный
+tabor
+маленький	барабан
+tabular
+табличный
+tabular bookkeeping
+американская бухгалтерия
+tabular calculation
+табличный учет
+tabular data
+табличные данные
+tabulate
+табулировать
+tabulated
+табулировать	табулированный
+tabulateing card
+перфокарта
+tabulateing machine
+машина для обработки перфокарт
+tabulating
+табулировать	табуляторный
+tabulating machine
+счетно-аналитическая машина
+tabulation
+табуляция
+tabulator
+табулятор
+tabulator key
+клавиша табуляции. клавиша, выдающая символ табуляции и вызывающая	перемещение курсора к следующей позиции табуляции
+tabulator setting
+установка позиций табуляции
+tach
+тахометр
+tachometer
+тахометр
+tachycardia
+тахикардия
+tacit
+неявный
+tacitly
+молчаливо
+tacitness
+молчаливость
+taciturn
+молчаливый
+taciturnity
+молчаливость
+taciturnly
+молчаливо
+tack
+кнопка
+tackle
+браться	оборудование
+tacky
+клейкий
+taconite
+таконит
+tact
+такт
+tactful
+тактичный
+tactfully
+тактично
+tactic
+тактика
+tactical
+тактический
+tactically
+тактически
+tactician
+тактик
+tactics
+тактика
+tactile
+тактильный
+tactile keyboard
+тактильная клавиатура
+tactitian
+тактик
+tactless
+бестактный
+tactlessly
+бестактно
+tad
+ребенок
+tadpole
+головастик
+tafferel
+панель	мор)гакаборт
+taffeta
+тафта	тафтяной
+taffrail
+мор)гакаборт
+taffy
+тянучка
+tag
+этикетка
+tag field
+поле вариантной записи; определяет	совокупность имен и типов остальных	ее компонент
+tagged
+теговый
+tagged architecture
+теговая архитектура. организация	ЭВМ, при которой с каждым словом	памяти связан аппратно-анализируемый тег (tag), указывающий тип хранимой информации (команды, данные,	указатель, неинициированные данные)	и определяющий множество применимых	операций и способ их выполнения
+tagger
+водящий
+taggers
+очень	тонкий	лист железа
+tagging
+маркировка
+tahiti
+таити
+tai
+тай
+taiga
+тайга
+tail
+выслеживать	и)плестись	хвост
+tail off
+отст(ав)ать
+tail-coat
+фрак
+tail-light
+,  задний фонарь *	хвостовой огонь *
+tailcoat
+фрак
+tailgate
+задняя	дверца
+taillamp
+задний	фонарь
+tailless
+бесхвостый
+taillight
+задний	огонь
+tailor
+приспосабливать	портной
+tailor-made
+сшитый на заказ
+tailored
+приспосабливать	приспособленный
+tailoring
+приспосабливать	подгонка
+tailpipe
+выхлопная	труба
+tailspin
+штопор
+taint
+отравлять
+taiwan
+тайвань
+taiwanese
+тайванец
+take
+брать	и)требоваться	Т)требовать	Д)передавать	 5)принимать	 6)выбирать
+take aboard
+взять на борт	погрузить на судно
+take amiss
+обижаться [обидеться]
+take down
+снимать [снять]	записывать [-сать]
+take effect
+вступать в силу
+take exercise
+делать моцион
+take fire
+загораться [-реться]
+take for
+принимать [-нять] за
+take from
+брать [взять] у	отнимать [отнять] у |от
+take hearts
+собраться с духом
+take horse
+сесть на лошадь
+take in
+обманывать [-нуть]	принимать [-нять] (гостя)	получать (газету и т.п.)
+take off
+снимать [снять]
+take orders
+принимать духовный сан
+take out
+вынимать [вынуть]
+take over
+поглощение (фирмы, компании)	установление контроля	переход в другие руки
+take pains
+[по]стараться
+take place
+случаться [-читься], происходить [произойти]
+take rest
+отдыхать [отдохнуть]
+take to
+пристраститься к	привязаться к
+take trouble
+утруждаться
+take turns
+деталь поочередно
+take up
+выплатить	погасить обязательство
+take wing
+полететь
+take-in
+обман	надувательство
+take-off
+скидка
+takedown
+демонтаж
+takeoff
+дефект
+takeout
+на вынос
+takeouts
+на вынос
+takeover
+принимать	слияние
+taker
+предприниматель
+taking
+брать	требоваться	принимать	взятие	сбор
+talbot
+ищейка
+talc
+тальк
+talcum
+тальк	тальковый
+tale
+рассказ	повесть
+talebearer
+сплетник
+talent
+талант
+talented
+талантливый
+talesman
+запасной	присяжный	заседатель
+talisman
+талисман
+talk
+говорить|поговорить	1)уговаривать	разговор
+talk big
+[по]хвастаться
+talk shop
+говорить в обществе * своей профессии
+talk wild
+говорить не думая
+talkative
+разговорчивый
+talkatively
+разговорчиво
+talkativeness
+разговорчивость
+talkativness
+разговорчивость
+talked
+говорить
+talker
+передатчик
+talkie
+рация
+talking
+говорить	болтовня	говорящий
+talks
+разговаривать	переговор
+talky
+разговорчивый
+tall
+высокий	ростом	выше
+tall order
+чрезмерное требование
+tall story
+F* неправдоподобный рассказ, небылица
+tallness
+высота
+tallow
+жир
+tallowy
+сальный
+tally
+итог
+tallyho
+ату
+tallying
+подсчитывать	подсчет
+tallyman
+тальман	тальманский
+talmud
+талмуд
+talmudic
+талмудический
+talmudist
+талмудист
+talon
+коготь
+talus
+таранная	кость
+tam
+шотландский	берет
+tamable
+укротимый
+tamarack
+лиственница
+tamarind
+тамаринд
+tamarisk
+тамариск
+tambour
+пяльцы
+tambourine
+тамбурин
+tame
+усмирять
+tameable
+укротимый
+tamed
+усмирять	укрощенный
+tamely
+укрощенно
+tameness
+укротимость
+tamer
+укротитель
+tamil
+тамил
+taming
+усмирять	укрощение
+tamp
+набивать
+tamper
+фальсифицировать	трамбовка
+tamper with
+вмешиваться [-шаться] в	неумело возиться с	поддел(ыв)ать	стараться подкупить
+tampering
+подделывать	подделка
+tamperproof
+защищенный от постороннего вмешательства
+tampon
+тампон
+tan
+загорать	загар
+tanager
+танагра
+tanbark
+дубильная	кора
+tandem
+тандем	двойной
+tang
+резкий	привкус
+tangent
+касательная	тангенс
+tangential
+тангенциальный
+tangentiality
+тангенциальность
+tangentially
+тангенциально
+tangerine
+мандарин
+tangibility
+осязаемость
+tangible
+осязаемый
+tangible assets
+материальные активы	материально-вещественные активы	реальные средства
+tangible goods
+реальные блага
+tangible property
+материальное имущество
+tangible services
+вещественные, материальные услуги
+tangible wealth
+материальное богатство
+tangibleness
+осязаемость
+tangibly
+ощутимо
+tangle
+запутывать
+tangled
+запутывать	запутанный
+tango
+танго
+tangoed
+танцевать танго
+tangy
+острый
+tank
+бак	цистерна
+tank vessel
+наливное судно
+tankard
+кружка
+tanked
+пьяный
+tanker
+танкер	танкист
+tankerman
+владелец танкерной компании
+tankette
+танкетка
+tankful
+полный	контейнер
+tankproof
+противотанковый	танконедоступный
+tankship
+танкер
+tanktop
+майка
+tankwagon
+цистерна
+tanky
+танкист
+tanned
+загорать	загорелый
+tanner
+дубильщик
+tannery
+кожевенный	завод
+tannic
+танинный
+tannin
+танин
+tansies
+пижма
+tansy
+пижма
+tantalize
+подвергать танталовым мукам	и)страдать	соблазнительный
+tantalizer
+мучитель
+tantalizingly
+обманчиво
+tantalum
+тантал
+tantamount
+равносильный
+tantrum
+приступ
+tanzania
+танзания
+taoism
+таоизм
+taoist
+таоист
+tap
+подключать	отвод
+tap-dance
+чечетка
+tap-room
+пивная
+tape
+приклеивать	лента
+tape deck
+лентопротяжное устройство; накопитель на магнитной ленте
+tape drive
+лентопротяжное устройство.	запоминающее устройство на магнитной ленте, накопитель на магнитной ленте (НМЛ)
+tape file
+ленточный файл. файл, расположенный	на магнитной ленте
+tape label
+метка (магнитной) ленты. первая запись на магнитной ленте, содержащая	описывающую ленту управляющую информацию
+tape leader
+свободный начальный участок (магнитной) ленты
+tape limited
+ограниченный по памяти
+tape mark
+ленточный маркер. управляющая запись на магнитной ленте, обрабатываемая контроллером как специальный	признак - признак начала или конца	блока или файла
+tape trailer
+хвост ленты. участок магнитной ленты после маркера конца ленты
+tape transport
+лентопротяжное устройство
+tape-bound
+ограниченная быстродействием магнитной ленты; о задаче или вычислительной системе
+tape-bounded
+ограниченная по памяти. о машине	тьюринга, которая при обработке слова длины l использует не более	F(l) ячеек ленты, где F - независящая от обрабатываемого слова функция
+tape-measure
+рулетка
+tape-recorder
+магнитофон
+tape-worm
+* солитер
+taped
+приклеивать	приклеенный
+taper
+заострять	конусность	свеча	конусный
+tapered
+заострять	конический
+tapering
+заострять	конус	суживающийся
+taperingly
+суживаясь
+tapestry
+гобелен
+tapeworm
+солитер
+taping
+приклеивать
+tapioca
+тапиока
+tapir
+тапир
+tapped
+нарезать	резьбовой
+tapper
+клавиша
+tappet
+кулачок
+tapping
+подключать	простукивание
+taproom
+пивная
+taproot
+стержневой	корень
+taps
+подключать	вечерняя	заря
+tar
+смолить	деготь
+tarantula
+тарантул
+tardily
+запоздало
+tardiness
+опоздание
+tardy
+запоздалый
+tare
+тара
+target
+нацеливать	цель	Р)объект	целевой
+target alphabet
+выходной алфавит. алфавит, из символов которого строится выходная последовательность
+target computer
+целевая ЭВМ, объектная ЭВМ. при кросс-разработке (cross development)	- ЭВМ, программа для которой разрабатывается с использованием системы	разработки программ на другой ЭВМ
+target conversion
+адаптация программы к целевой машине
+target dates
+установленные (намеченные) сроки
+target figure
+намеченная (ориентировочная) цифра (показатель)	целевая установка	плановое задание	целевое задание
+target language
+объектный язык, выходной язык
+target practice
+стрельба по мишеням
+target processor
+целевой процессор, объектный процессор. при кросс-разработке (cross	development) - процессор, на котором будет работать разрабатываемая	система
+target rate
+запланированные темпы роста
+target record
+целевая запись. запись, удовлетворяющая условиям поискового запроса
+target system
+целевая система. система, для которой предназначена разрабатываемая	программа
+target year
+последний год планируемого периода
+targeted
+нацеливать	нацеленный
+tariff
+тариф	тарифный
+tariff adjustments
+изменение тарифов
+tariff advantages
+тарифные привилегии
+tariff agreement
+соглашение о тарифах
+tariff category
+тарифный разряд
+tariff escalation
+повышение (эскалация) тарифов
+tariff heading
+тарифная группа (рубрика)
+tariff preferences
+тарифные льготы
+tariff protection
+защита от конкуренции с помощью импортных тарифов	тарифный протекционизм
+tariff rank
+тарифный разряд
+tariff rebates
+возврат импортных тарифов	уменьшать	сбавлять	возвращать (часть цены)
+tariff scale
+тарифная сетка
+tariff schedules
+тариф (таможенная) система	тарифные ставки
+tariff system
+тарифная система
+tariff union
+тарифный союз
+tariff war
+таможенная война
+tariff zone
+тарифный пояс
+tarmac
+гудронированное	шоссе
+tarn
+каровое	озеро
+tarnish
+тускнеть	тусклость
+taro
+таро
+tarp
+брезент
+tarpaulin
+брезент
+tarpon
+тарпон
+tarragon
+эстрагон
+tarred
+смоленый
+tarry
+медлить
+tarry for
+ждать (*В|*Р), дожидаться
+tarsal
+предплюсна	относящийся к предплюсне
+tarsi
+предплюсна
+tarsus
+предплюсна
+tart
+пирог	кислый
+tartan
+шотландка
+tartar
+винный	камень
+tartaric
+виннокаменный
+tartrate
+тартрат
+tarzan
+тарзан
+task
+задача	задание
+task body
+тело задачи. в языке ада - описание	реализации задачи (task), содержащее определение локальных переменных	и процедур и описание действий
+task identification
+идентификатор задачи. символьный	код, приписанный выполняющейся или	готовой к выполнению задаче
+task image
+загрузочный модуль, образ задачи. файл, представляющий содержимое сегмента оперативной памяти	в момент начала выполнения задачи; для запуска задачи достаточно прочитать файл в оперативную	память и передать управление в	точку входа.	образ задачи. состояние оперативной памяти задачи, записываемое	на диск при выгрузке задачи
+task management
+управление задачами. действия операционной системы по планированию и	распределению ресурсов, в первую	очередь процессора и памяти, между	задачами
+task mode
+непривилегированный режим, режим	задачи
+task queue
+очередь задач. поддерживаемый операционной системой список управляющей информации о выполняемых задачах, из которого выбираются задачи	для занятия процессора
+task rate
+сдельная плата	(по)штучная плата
+task scheduler
+планировщик. часть операционной системы, ответственная за управление	задачами
+task setting
+тарификация	нормирование труда
+task specification
+описание задачи. в языке ада - описание интерфейса (interface specification) задачи, перечисляющее ее	входы и параметры входов
+task state
+состояние задачи. в многозадачной	системе - одно из четырех состояний, в которых может находиться задача или процесс: текущая, готовая	продолжать, ждущая события, остановленная. (active task, ready task,	waiting task, suspended task)
+task switching
+переключение задач. прерывание выполнения и запоминание состояния одной задачи и продолжение выполнения	другой
+task work
+сдельная работа	сдельщина	работа по наряду	урочная работа
+task worker
+рабочий на сдельщине (сдельной оплате)
+tasking
+управление задачами
+taskmaster
+надсмотрщик
+tasmania
+тасмания
+tassel
+кисточка
+tasseled
+Пс кисточкой
+taste
+пробовать	вкус
+taste sweet
+быть сладким на вкус
+tasteful
+сделанный со вкусом
+tastefully
+со вкусом
+tastefulness
+вкус
+tasteless
+безвкусный
+tastelessly
+безвкусно
+tastelessness
+безвкусие
+taster
+дегустатор	зоол)щупальце
+tastiness
+вкус
+tasty
+вкусный
+tat
+плести кружева	тат
+tatami
+татами
+tatar
+татарин	татарский
+tatter
+растрепывать	лохмотья
+tatterdemalion
+оборванец
+tattered
+разорванный
+tattersall
+ткань в цветную клетку
+tatting
+плести кружева	плетение кружев
+tattle
+ябедничать
+tattler
+фискал
+tattletale
+доносчик
+tattoo
+татуировать	барабанить	татуировка	сигнал
+tattooed
+татуировать	татуированный
+tattooer
+татуировщик
+tattooing
+татуировать	татуировка
+tattooist
+татуировщик
+tau
+тау
+taught
+учить
+taunt
+насмехаться над	насмешка
+tauntingly
+насмешливо
+taurus
+телец
+taut
+напряженный	тугой
+tauten
+натягивать
+tautly
+туго
+tautness
+натянутость
+tauto
+тавто
+tautological
+тавтологический
+tautologically
+тавтологически
+tautologous
+тавтологический
+tautology
+тавтология
+tavern
+кабак
+taw
+мраморный	шар
+tawdriness
+безвкусность
+tawdry
+мишурный
+tawny
+светло-коричневый
+tax
+облагать налогом	налог	налоговый
+tax abatement
+налоговая скидка
+tax accruals
+налоговые начисления	начисленные налоги
+tax assessment
+налогообложение	оценка имущества для определения размера налогов	налоговая (фискальная) оценка
+tax avoidance
+использование "законных" лазеек для минимизации налогов	минимизация налогов в рамках закона
+tax base
+обьект налогообложения (т.е. доход, собственность, наследство)
+tax benefits
+налоговые льготы
+tax burden
+бремя налогов
+tax collection
+сумма налоговых поступлений
+tax concessions
+налоговые льготы
+tax credit
+налоговая скидка
+tax declaration
+налоговая декларация
+tax deductable
+налогом не облагается
+tax deductions
+налоговые списания
+tax drawbacks
+возврат налогов
+tax evasion
+незаконное сокрытие доходов, подлежащих налогообложению	незаконное уклонение от уплаты налогов
+tax excuse
+освобождение от налогов
+tax exempt
+налогом не облагается	освобождается от налогов
+tax immunity
+освобождение от налога	налоговый иммунитет
+tax incentives
+налоговые льготы (для поощрения капиталовложений)
+tax liable
+облагаемый налогом
+tax qualification
+налоговый ценз
+tax rate
+норма (ставка) налога (налогообложения)
+tax refund
+возврат налогов
+tax remissions
+налоговые послабления (льготы)	освобождение от налогов
+tax return
+налоговая декларация
+tax revenue
+налоговые поступления
+tax subsidy
+субсидия в форме налоговых льгот
+tax-collector
+сборщик налогов
+tax-holidays
+освобождение от налогов на определенный период
+taxability
+облагаемость
+taxable
+облагаемый
+taxable year
+налоговый год
+taxation
+налогообложение	налоговый
+taxed
+облагать налогом	облагаемый
+taxed article
+товар, облагаемый пошлиной
+taxi
+такси
+taxicab
+такси
+taxidermist
+набивщик чучел
+taxidermy
+набивка чучел
+taximeter
+таксометр
+taxing authority
+налоговое ведомство
+taxis
+такси
+taxiway
+рулежная	дорожка
+taxless
+не	облагаемый налогом
+taxonomic
+классификационный
+taxonomically
+классификационно
+taxonomist
+классификатор
+taxonomy
+таксономия
+taxpayer
+налогоплательщик
+taxwise
+по части налогов
+tba
+реком	
+tbs
+#ст	ложка
+tbsp
+#ст	ложка
+tea
+чай	чайный
+teach
+учить
+teachable
+убучаемый
+teacher
+учитель
+teaching
+учить	преподавание
+teachings
+учение
+teacup
+чайная	чашка
+teacupful
+полная	чайная	чашка
+teahouse
+чайный	домик
+teak
+тик	тиковый
+teakettle
+чайник
+teal
+чирок
+team
+группа
+teamed
+группироваться в команду
+teaming
+группироваться в команду
+teammate
+член команды
+teamster
+погонщик
+teamwork
+групповая	работа
+teapot
+чайник
+tear
+рвать	слеза
+teardrop
+слеза
+tearful
+слезливый
+tearfully
+слезливо
+tearing
+рвать	разделение
+tearjerker
+слезливая	история
+tearoom
+чайная
+teary
+слезоточивый
+tease
+дразнить
+teased
+дразнить
+teasel
+ворсянка
+teaser
+задира
+teasing
+дразнить	дразнящий
+teasingly
+дразняще
+teaspoon
+чайная	ложка
+teaspoonful
+полная	чайная	ложка
+teat
+сосок
+tech
+#тех
+techie
+технарь
+technetium
+технеций
+technic
+техник
+technical
+технический
+technical advance
+технический (научно-технический) прогресс
+technical adviser
+технический консультант
+technical assistance
+техническая помощь
+technical assistants
+технические специалисты
+technical determinants
+решающие технические факторы
+technical economys
+экономия за счет технических факторов
+technical knowledge
+технические знания	уровень технических знаний	накопленный технический потенциал
+technical outfit
+техническое оборудование
+technical services
+техническое обслуживание
+technical skills
+технический персонал высокой квалификации
+technical specifications
+технические условия	спецификация
+technical staff
+технический персонал
+technicalities
+специальная	терминология
+technicality
+техническая	сторона дела
+technically
+технически
+technician
+техник
+technics
+техника
+technique
+техника
+technocracy
+технократия
+technocrat
+технократ
+technocratic
+технократический
+technograph
+технограф
+technography
+технография
+technologic
+технологический
+technological
+технологический
+technological advance
+научно-технический прогресс	развитие техники	техническое развитие
+technological capabilitys
+научно-технический потенциал
+technological improvements
+совершенствование технологии
+technological infrastructure
+технологическая инфраструктура
+technological unemployment
+технологическая безработица
+technologically
+технологически
+technologies
+технология
+technologist
+технолог
+technology
+технология
+technology assessment
+оценка техники (технологии) с точки зрения последствий ее	применения (в патентном праве)
+technology evaluation
+оценка применимости техники (технологии) с точки зрения производства
+technology forecasting
+научно-техническое прогнозирование	прогнозирование научно-технического прогресса
+technology management
+управление научно-техническим развитием
+technology package
+комплексная технология
+technology planning
+планирование научно-технического развития (прогресса)
+technopark
+технопарк
+tectonics
+тектоника
+tedious
+скучный
+tediously
+утомительно
+tediousness
+утомительность
+tedium
+скука
+tee
+колышек
+teem
+изобиловать
+teeming
+изобиловать	переполненный
+teen
+несчастье	подростковый
+teenage
+подростковый
+teenager
+подросток
+teens
+десятый	год
+teeny
+крохотный
+teenybopper
+подросток
+tees
+колышек
+teeter
+колебаться
+teeth
+зуб	зубной
+teethe
+прорезываться
+teething
+прорезываться	прорезывание зубов	
+teetotaler
+трезвенник
+teetotaller
+трезвенник
+teflon
+тефлон	тефлоновый
+tegument
+оболочка
+teheran
+тегеран
+tektite
+тектит
+tel
+тел
+telco
+телефонная	компания
+tele
+теле
+telecast
+транслировать	телепередача
+telecom
+телеком
+telecommand
+телеуправление
+telecommunication
+телекоммуникация	телекоммуникационный
+telecommunications
+сеть связи
+telecommunications network
+сеть связи; сеть передачи данных
+telecommute
+осуществлять дистанционный доступ
+teleconference
+телеконференция
+teleconferencing
+организация телеконференций
+telecontrol
+телеуправление
+telecontrolled
+телеуправляемый
+telecopier
+телекопир
+telefax
+телефакс
+telegenic
+телегеничный
+telegram
+телеграмма
+telegraph
+телеграфировать	телеграф	телеграфный
+telegrapher
+телеграфист
+telegraphic
+телеграфный
+telegraphically
+телеграфически
+telegraphist
+телеграфист
+telegraphy
+телеграфия
+teleinformatics
+телеинформатика
+telekinesis
+телекинез
+telemeter
+передавать данныем	телеметрический	датчик
+telemetric
+телеметрический
+telemetry
+телеметрия
+teleological
+целенаправленный
+teleology
+телеология
+telepathic
+телепатический
+telepathically
+телепатически
+telepathy
+телепатия
+telephathy
+телепатия
+telephone
+комм)звонить	телефон	телефонный
+telephonic
+комм)телефонный
+telephonist
+комм)телефонист
+telephony
+комм)телефонная	связь
+telephoto
+телефото
+telephotograph
+телефотограф
+telephotography
+телефотография
+teleplay
+телепьеса
+teleportation
+телепортация
+teleprinter
+телетайп	телепринтер
+teleprocessing
+телеобработка
+teleprompter
+телеподсказчик
+teleran
+телерадар
+telescope
+астр)телескоп
+telescopic
+телескопический
+telescopically
+телескопически
+teleshopping
+дистанционный	заказ товаров
+teletext
+телетекст
+telethon
+телемарафон
+teletraffic
+телетрафик
+teletype
+телетайп
+teletypewriter
+телетайп
+teletypist
+телетайпист
+televise
+показывать по телевидению
+television
+телевидение	телевизионный
+televisional
+телевизионный
+televisionally
+телевизионным способом
+televisionary
+телевизионный
+telex
+телекс	телексный
+telex server
+станция телексной связи. узел локальной сети, обеспечивающий связь	других узлов сети с телексной сетью
+telexed
+посылать телексом
+tell
+сообщать
+teller
+кассир
+telling
+сообщать
+telltale
+сплетник	показательный
+tellurium
+теллур
+temblor
+землетрясение
+temerarious
+безрассудный
+temerity
+смелость
+temp
+темп
+temper
+характер	настроение
+tempera
+темпера
+temperament
+темперамент
+temperamental
+капризный
+temperamentally
+темпераментный
+temperance
+умеренность
+temperas
+темпера
+temperate
+умеренный
+temperate zone
+умеренный пояс
+temperately
+умеренно
+temperateness
+умеренность
+temperature
+температура	температурный
+tempest
+буря
+tempestuous
+бурный
+tempestuously
+бурно
+tempestuousness
+буйность
+tempi
+темп
+template
+шаблон
+temple
+висок	храм
+templet
+шаблон
+tempo
+темп
+temporal
+временный
+temporality
+временный	характер
+temporally
+временно
+temporarily
+временно
+temporariness
+временность
+temporary
+временный
+temporary admission
+временный беспошлинный ввоз
+temporary disk
+рабочий диск
+temporary error
+неповторяющаяся ошибка, нерегулярная ошибка
+temporary file
+рабочий файл, временный файл. файл,	который удаляется или может быть	удален после завершения создавшей	его задачи или последовательности	задач
+temporary realm
+временная область. в базах данных область (множество записей), которая существует только в течение выполнения создавшего ее процесса
+temporary storage
+рабочая память; буфер.	временное хранение (данных)
+temporization
+оттягивание времени
+temporize
+оттягивать время
+temporizer
+приспособленец	конъюктурщик
+tempt
+искушать
+temptation
+искушение
+tempted
+искушать	искушенный
+tempter
+искуситель
+tempting
+искушать	заманчивый
+temptingly
+заманчиво
+temptress
+искусительница
+tempura
+темпура
+tempus
+время
+ten
+десять	десяти
+tenability
+прочность
+tenable
+логичный
+tenableness
+логичность
+tenably
+логично
+tenacious
+цепкий
+tenaciously
+цепко
+tenacity
+упорство
+tenancy
+членство
+tenant
+арендатор
+tenant farmer
+фермер-арендатор
+tend
+	иметь тенденцию	б)стремиться
+tendency
+тенденция
+tendentious
+тенденциозный
+tendentiously
+тенденциозно
+tendentiousness
+тенденциозность
+tender
+предлагать	предложение	нежный	тендерный
+tender invitation
+объявление (назначение) торгов (конкурса проектов)	предложение сделать оферту
+tender price
+цена. предложенная на торгах
+tenderfeet
+новичок
+tenderfoot
+новичок
+tenderhearted
+мягкосердечный
+tenderheartedness
+мягкосердечность
+tenderize
+делать мягким
+tenderized
+размягченный
+tenderizer
+размягчающее	вещество
+tenderloin
+вырезка
+tenderly
+нежно
+tenderness
+нежность
+tenders
+торг
+tendon
+сухожилие
+tendril
+усик
+tenebrous
+темный
+tenement
+жилой	дом
+tenement house
+многоквартирный дом
+tenet
+принцип
+tenfold
+в десять раз	десятикратный
+tennessean
+теннесиец
+tennesseans
+теннесийский
+tennessee
+штт)теннеси
+tennis
+теннис
+tennysonian
+поклонник Теннисона
+tenon
+шип
+tenor
+тенор
+tenotomy
+тенотомия
+tenpin
+кегля
+tens
+десяток
+tense
+напрягать	время	напряженный
+tensely
+напряженно
+tenseness
+напряженность
+tensile
+растяжимый
+tension
+напряженность
+tensional
+напряженный
+tensioner
+натяжной	приспособление
+tensions
+напряженность
+tensity
+напряженность
+tensor
+тензор
+tent
+палатка
+tentacle
+щупальце
+tentacular
+имеющий форму щупальца
+tentative
+опыт	экспериментальный
+tentative comparison
+попытка сопоставления (сравнения)
+tentatively
+в порядке эксперимента
+tentativeness
+экспериментальность
+tenterhook
+как на иголках
+tenterhooks
+натяжной	крючок
+tentful
+десятикратнай
+tenth
+десятый
+tenuity
+разреженность
+tenuous
+разреженный
+tenuously
+незначительно
+tenuousness
+незначительность
+tenure
+пребывание
+tepee
+вигвам
+tepid
+тепловатый
+tepidity
+тепловатость
+tepidly
+прохладно
+tepidness
+тепловатость
+tequila
+текила
+ter
+тер
+teracycle
+терацикл
+terahertz
+терагерц
+terbium
+тербий
+tercentenary
+трехсотлетие	трехсотлетний
+tercentennial
+трехсотлетие
+teresa
+тереза
+term
+характеризовать	срок	условие	1)термин
+termagant
+фурия
+termal
+термический
+termed
+характеризовать
+termer
+служащий срок
+terminable
+могущий быть расторгнутым
+terminal
+терминал	терминальный
+terminal emulator
+эмулятор терминала. программные средства, позволяющие использовать	ЭВМ (обычно персональную ЭВМ или	АРМ) в качестве терминала другой	ЭВМ
+terminal expensess
+дополнительные транспортные расходы
+terminal handler
+терминальный комплекс; терминальный интрфейсный процессор.	средства подключения посимвольного устройства к сети передачи	данных.	драйвер терминала
+terminal node
+лист (дерева)
+terminal processor
+терминальный процессор. аппаратные	и программые средства, управлющие	терминалами в сети с коммутацией	пакетов
+terminal profile
+параметры терминала. используемое	виртуальным терминалом описание конкретного терминала, включающее число строк, скорость передачи, кодирование символов и управляющих последовательностей
+terminal receipt
+расписка в получении
+terminal session
+сеанс диалога, сеанс работы (за терминалом)
+terminal string
+терминальная строка. в порождающих	грамматиках - строка, не содержащая	нетерминальных символов
+terminal symbol
+терминальный символ. терминальные символы - это символы, из которых состоят предложения языка.	признак конца
+terminal tailoring
+настройка терминала
+terminal user
+диалоговый пользователь, терминальный пользователь. пользователь, работающей с вычислительной системой	в режиме диалога с использованием	терминала
+terminal wage
+выходное пособие	расчет
+terminally
+смертельно
+terminate
+завершать
+terminated
+завершать	расторгнутый
+terminating
+завершать	завершение
+terminating symbol
+признак конца. символ, указывающий	конец сообщения или фрагмента текста (строки, абзаца, файла)
+termination
+завершение
+termination code
+код завершения
+terminator
+терминатор	ограничитель
+termini
+конечная	станция
+terminological
+терминологический
+terminologist
+терминолог
+terminology
+терминология	терминологический
+terminus
+конечная	станция
+termite
+термит
+termless
+безграничный
+terms
+условие	срок	термин
+termwise
+поэлементный	поэлементно
+tern
+крачка
+ternary
+троичный
+ternary logic
+трехзначная логика. логика, оперирующая тремя истинностными значениями (например, "истина", "ложь",	"неопределенность")
+ternion
+тройка
+terpsichore
+терпсихора
+terpsichorean
+связанный с танцем
+terr
+терр
+terra
+терра
+terrace
+терраса
+terraced
+террасный
+terrain
+местность
+terraneous
+земной	наземный
+terrapin
+черепаха
+terraqueous
+земной	сухопутно-морской	зоол)земноводный
+terraria
+террарий
+terrarium
+террарий
+terrazzo
+терраса
+terrestrial
+земной
+terrestrially
+по-земному
+terrestrials
+земной	существо
+terrible
+страшный
+terribleness
+ужас
+terribly
+ужасно
+terrier
+терьер
+terrific
+потрясающий
+terrifically
+потрясающе
+terrified
+ужасать	испуганный
+terrify
+ужасать
+terrifying
+ужасать	ужасающий
+terrifyingly
+ужасающе
+territorial
+территориальный
+territory
+территория
+terror
+террор	ужас
+terrorism
+терроризм
+terrorist
+террорист	террористический
+terroristic
+террористический
+terrorization
+терроризм
+terrorize
+терроризировать
+terrorized
+терроризировать
+terrorizing
+терроризировать
+terse
+краткий
+tersely
+сжато
+terseness
+краткость
+tertiary
+третичный
+tessellate
+складывать мозаику
+test
+тестировать	тест
+test bed
+система отладки
+test condition
+условие, логическое выражение (в	языке КОБОЛ)
+test envelope
+отладочная система. программы, предназначенные для отладки разрабатываемой программы и генерирующие для	нее входные данные и отвечающие на	ее запросы
+test problem
+тестовая задача, тестовая программа
+test program
+тестовая программа. программа для	обнаружения неисправности или ошибки в системе
+test routine
+тестовая программа
+test run
+тестовый запуск
+test-tube
+пробирка
+testability
+диагностика
+testable
+тестируемый
+testacy
+наличие завещания
+testament
+завещание
+testamentary
+завещательный
+testamento
+завещание
+testate
+оставивший завещание
+testator
+завещатель
+testatrix
+завещательница
+tester
+тестер
+testes
+яичко
+testicle
+яичко
+testicular
+тестикулярный
+testified
+свидетельствовать
+testifier
+дающий показания
+testify
+свидетельствовать
+testifying
+свидетельствовать	свидетельствующий
+testily
+раздражительно
+testimonial
+рекомендация
+testimony
+показание свидетеля
+testiness
+раздражительность
+testing
+тестировать	испытание
+testis
+яичко
+testosterone
+тестостерон
+testy
+раздражительный
+tetanal
+столбнячный
+tetanus
+столбняк
+tetchy
+обидчивый
+tether
+привязывать	привязь
+tetra
+тетра
+tetrachloride
+тетрахлорид
+tetrachloroethylene
+тетрахлорэтилен
+tetracycline
+тетрациклин
+tetrad
+тетрада
+tetraethyl
+тетраэтил
+tetragon
+четырехугольник
+tetragonal
+четырехугольный
+tetrahedra
+четырехгранник
+tetrahedral
+четырехгранный
+tetrahedrite
+тетраэдрит
+tetrahedron
+четырехгранник
+tetrameter
+четырехстопный	стих
+teuton
+тевтон
+teutonic
+тевтонский
+teutons
+тевтон
+tex
+#тех	
+texaco
+#тексако
+texan
+техасец	техаский
+texas
+штт)техас
+text
+текст	текстовый
+text file
+текстовый файл. файл, содержащий	информацию в виде последовательности текстовых символов, разделенных	символами новой строки, и не содержащий никаких управляющих символов.	такой файл можно распечатать командой TYPE
+text formatting
+форматирование текста. в системах	подготовки текстов - преобразование	текста в вид, в котором он должен	печататься: формирование абзацев,	центрирование заголовков, выравнивание полей, разбиение на страницы
+text origination
+ввод текста с клавиатуры (в системе	подготовки текстов)
+text processing
+обработка текста.	подготовка текстов
+text revision
+редактирование текста
+text string
+текстовая строка, литерная строка
+textbook
+руководство
+textile
+ткань	текстильный
+textiles
+текстиль
+textual
+текстовый
+textually
+буквально
+textural
+текстурный
+texture
+текстура
+thai
+тайский
+thailand
+тайланд
+thalami
+таламус
+thalamic
+таламусный
+thalamus
+таламус
+thallium
+таллий
+thallous
+таллом
+thalweg
+талвег
+thames
+темза
+than
+чем
+thank
+благодарить
+thank you
+благодарю вас
+thankful
+благодарный
+thankfully
+с благодарностью
+thankfulness
+благодарность
+thankless
+неблагодарный
+thanklessly
+без благодарности
+thanks
+благодарить	благодарность
+thanks to
+благодаря
+thanksgiving
+благодарение	благодарственный
+that
+, что	й), чтобы	это	и)то	этот	, что	, который	это
+thatch
+крыть соломой	солома
+thaw
+таять	оттепель
+the
+определенный артикль
+the aged
+престарелые
+the ancients
+HIST* древние народы *
+the cloth
+духовенство
+the dead
+покойники *
+the first
+первое число
+the otch
+шотландцы *
+the outs
+PL* оппозиция
+the pictures
+кино
+the rights
+(of a story) настоящие факты *
+the same
+тот же самый	та же самая	то же самое
+the screen
+кино *
+the services
+MIL* армия, флот и военная авиация
+the swiss
+швейцарцы *
+the things
+(нечто) самое важное, нужное
+the young
+молодежь *	детеныши *
+theater
+театр	театральный
+theatergoer
+театрал
+theatre
+театр
+theatrical
+театральный
+theatricality
+неестественность
+theatrically
+театрально
+theatrics
+театральное	искусство
+theft
+кража
+their
+их
+theirs
+их
+theism
+теизм
+theist
+теист
+theistic
+теистический
+theistically
+теистически
+them
+он	они
+thematic
+тематический
+thematically
+тематически
+theme
+тема
+themes
+тема
+themistocles
+фемистокл
+themself
+мсами	себя	себя	он
+themselves
+мон
+then
+ззатем	затем	затем	тогда
+thence
+отсюда
+thenceforth
+с того времени
+thenceforward
+с того времени
+theocracy
+теократия
+theocratic
+теократический
+theocratically
+теократический
+theologian
+теолог
+theological
+теологический
+theologically
+теологически
+theology
+теология	теологический
+theomorphic
+теоморфический
+theorem
+теорема
+theoretic
+теоретический
+theoretical
+теоретический
+theoretical economics
+политэкономия	экономическая теория
+theoretical economist
+политэконом-теоретик
+theoretically
+теоретически
+theoretician
+теоретик
+theoretics
+теория
+theorist
+теоретик
+theorize
+теоретизировать
+theory
+теория
+theosophic
+теософский
+theosophical
+теософский
+theosophically
+теософски
+theosophist
+теософ
+theosophy
+теософия
+therapeutic
+терапевтический
+therapeutical
+терапевтический
+therapeutically
+терапевтически
+therapeutics
+терапия
+therapeutist
+терапевт
+therapist
+терапевт
+therapy
+терапия
+there
+есть
+thereabout
+поблизости
+thereabouts
+поблизости
+thereafter
+согласно этому	с тех пор
+thereat
+там
+thereby
+этим самым	посредством этого
+therefor
+для того
+therefore
+следовательно
+therefrom
+в дальнейшем
+therein
+в этом
+thereinafter
+далее в этом
+thereof
+вследствие того
+thereon
+вслед за тем
+thereover
+выше
+theresa
+тереза
+thereto
+кроме того
+theretofore
+до того времени
+thereunder
+ниже
+thereunto
+к тому же
+thereupon
+вслед за этим
+therewith
+с этим
+thermal
+термический
+thermal printer
+устройство термопечати; устройство	термографической печати. матричное	печатающее устройство с низким разрешением, воспроизводящее символы	на термочувствительной бумаге нагретыми иголками печатающей головки
+thermally
+термически
+thermistor
+терморезистор
+thermit
+термит
+thermite
+термит
+thermo
+термо
+thermocouple
+термопара
+thermodynamic
+термодинамический
+thermodynamics
+термодинамика
+thermoelement
+термоелемент
+thermography
+термография
+thermojunction
+спай термопары
+thermometer
+термометр
+thermometry
+термометрия
+thermonuclear
+термоядерный
+thermoplastic
+термопласт	термопластичный
+thermopylae
+фермопилы
+thermos
+термос
+thermos bottle
+термос
+thermos flask
+термос
+thermosetting
+термическое	твердение
+thermosphere
+термосфера
+thermostat
+термостат
+thermostatic
+термостатический
+thermoswitch
+термовыключатель
+therms
+терм
+thesauri
+тезаурус
+thesaurus
+тезаурус
+these
+они	этот
+theses
+тезис	диссертация
+thesis
+тезис	диссертация
+thespian
+трагик	драматический
+theta
+тета
+thewless
+безмускульный
+thews
+мускул
+they
+они	у них	им
+thick
+толстый	плотный	густой
+thick with
+густо покрытый
+thick-headed
+тупоголовый, тупоумный
+thick-set
+густо насаженный	коренастый
+thick-skinned
+(FIG*) толстокожий
+thicken
+сгущаться
+thickener
+загуститель
+thicket
+чаща
+thickheaded
+тупоголовый
+thickly
+густо
+thickness
+толщина	плотность
+thickset
+коренастый
+thief
+вор
+thieve
+воровать
+thievery
+кража
+thievish
+вороватый
+thigh
+бедро
+thighbone
+бедренная	кость
+thimble
+наперсток
+thimbleful
+щепотка
+thin
+тонкий
+thine
+твой
+thing
+вещь
+think
+думать
+thinkable
+мыслимый
+thinkably
+мыслимо
+thinker
+блок решения
+thinking
+думать	мышление	разумный
+thinly
+тонко
+thinned
+истонченный
+thinner
+разбавитель
+thinness
+тонкость
+thinning
+уменьшать	уменьшение
+third
+третий
+third window
+(in IMF)	третья программа кредитования (в МВФ)
+thirdly
+в-третьих
+thirst
+жажда
+thirstily
+жадно
+thirsty
+жаждущий
+thirteen
+тринадцать	тринадцати
+thirteenth
+тринадцатый
+thirtieth
+тридцатый
+thirty
+тридцать	тридцати
+this
+это	этот
+this morning
+сегодня утром
+this once
+на этот раз
+this way
+сюда
+thistle
+чертополох
+thistledown
+пушок
+thistly
+колючий
+thither
+туда
+thole
+уключина
+thomas
+томас
+thong
+ремень
+thor
+тор
+thoraces
+грудная	клетка
+thoracic
+грудной
+thorax
+грудная	клетка
+thorium
+торий
+thorn
+шип
+thorny
+тернистый
+thorough
+тщательный
+thoroughbred
+чистокровка	чистокровный
+thoroughfare
+оживленная	улица
+thoroughgoing
+тщательный
+thoroughly
+тщательно
+thoroughness
+глубина
+those
+тот	тот
+thou
+хотя
+though
+звсе-же	хотя	хотя
+thought
+думать	мысль
+thoughtful
+внимательный
+thoughtfullness
+забота
+thoughtfully
+внимательно
+thoughtfulness
+забота
+thoughtless
+неосмотрительный
+thoughtlessly
+неосмотрительно
+thoughtlessness
+неосмотрительность
+thousand
+тысяча	тысячный
+thousandth
+тысячный
+thracian
+фракийский
+thraldom
+рабство
+thrall
+пленить	рабство
+thralldom
+рабство
+thrash
+портить
+thrash out
+тщательно обсуждать (вопрос и т.п.)
+thrashing
+избивать	нарушение
+thread
+заправлять	резьба	нить
+threadbare
+потертый
+threaded
+заправлять	прошитый
+threaded code
+шитый код. представление программы	для интерпретатора, состоящее из	адресов подпрограмм, выполняющих	отдельные операции. такое представление обеспечивает очень высокую	эффективность интерпретации: проигрыш во времени по сравнению с работой программы в машинных кодах может составлять всего лишь 50%
+threaded file
+цепочечный файл
+threaded language
+язык, транслируемый в шитый код
+threaded list
+список на указателях
+threader
+винторезный	станок
+thready
+нитевидный
+threat
+угроза
+threaten
+угрожать
+threatened
+угорожать
+threatening
+угрожать	угрожающий
+threateningly
+угрожающе
+three
+три	трех
+three-score
+шестьдесят
+threefold
+втрое	тройной
+threeford
+тройной	втройне
+threescore
+шестьдесят
+threesome
+тройка
+threnody
+погребальная	песнь
+thresh
+молотить
+thresh out
+= thrash out
+thresher
+молотилка
+thresherman
+молотильщик
+threshing
+молотьба
+threshold
+порог
+threshold function
+пороговая функция. функция, отображающая значения, меньшие заданного	значения, в "истину", а большие - в	"ложь"
+threshold prices
+пороговые цены (т.е. минимально допустимые)
+threw
+бросать
+thrice
+трижды
+thrift
+бережливость
+thrift institutions
+сберегательные кассы (банки, ассоциации и т. д.)
+thrift propensity
+склонность к сбережению
+thriftily
+бережливо
+thriftiness
+бережливость
+thriftless
+расточительный
+thrifty
+бережливый	экономный
+thrifty use
+экономное использование
+thrill
+трепетать	трепет
+thriller
+триллер
+thrilling
+трепетать	захватывающий
+thrillingly
+захватывающе
+thrive
+развиваться
+thriven
+развиваться
+throat
+горло
+throatily
+гортанно
+throatiness
+гортанность
+throaty
+горловой
+throb
+пульсировать	биение
+throe
+мука
+thrombi
+тромб
+thrombo
+тромбо
+thrombolytic
+тромболитический
+thrombosis
+тромбоз
+thrombotic
+тромбический	тромбозный
+thrombus
+тромб
+throne
+трон	тронный
+throneroom
+тронный	зал
+throng
+толпиться	толпа
+throttle
+душить	дроссель
+throttler
+удушитель
+through
+через
+throughfare
+проезд
+throughout
+в
+throughput
+производительность
+throughway
+шоссе
+throve
+развиваться
+throw
+бросать
+throw over
+перебрасывать [-бросить]	покидать [-инуть] (друзей)
+throw up
+извергать [-ергнуть]	вскидывать [вскинуть]
+throwaway
+одноразовый
+throwaways
+одноразоывая	вещь
+throwback
+атавизм
+thrower
+метатель
+throwing
+бросать	метание
+thrown
+бросать
+thru
+до
+thrum
+барабанить
+thrush
+дрозд
+thrust
+толкать	тяга	толчок
+thruster
+маневровый	двигатель
+thrustor
+маневровый	двигатель
+thruway
+автострада
+thud
+падать	глухой	звук
+thug
+громила
+thuggery
+удушение
+thulium
+тулий
+thumb
+большой	палец	поворотный
+thumb wheel
+колесо (устройство ввода скалярных	величин)
+thumbnail
+ноготь большого пальца
+thumbscan
+дактилоскопическое	считывающее	устройство
+thumbscanner
+дактилоскопическое	считывающее	устройство
+thumbscrew
+барашек
+thumbtack
+кнопка
+thumbtip
+кончик пальца
+thumbwheel
+координатный	манипулятор
+thump
+колотить	удар
+thumper
+громадина
+thunder
+греметь	гром
+thunderbird
+зенитный	ракета "Тандерберд"
+thunderbolt
+удар молнии
+thunderburst
+удар грозы
+thunderclap
+удар грома
+thundercloud
+грозовая	туча
+thunderhead
+грозовая	туча
+thunderous
+громовой
+thunderously
+громоподобно
+thundershower
+ливень
+thunderstorm
+гроза
+thunderstruck
+как громом пораженный
+thunk
+стучать	глухо
+thur
+четв	
+thuringia
+тюрингия
+thurs
+#четв	
+thursday
+четверг	в четверг
+thus
+таким образом
+thwack
+колотить	удар
+thwart
+расстраивать
+thy
+твой
+thyme
+тимьян
+thymus
+зобный	железа	тимус
+thyphoid
+брюшной	тиф
+thyphus
+сыпной	тиф
+thyristor
+тиристор
+thyroid
+щитовидный	железа	тироид
+thyrotropic
+тиреотропный
+thyself
+мсам	себя	себя	он
+tiara
+тиара
+tiber
+тибр
+tibet
+тибет
+tibetan
+тибетец	тибетский
+tibia
+большая	берцовая	кость
+tibiae
+большеберцовая	кость
+tibial
+большеберцовый
+tibias
+большеберцовая	кость
+tic
+тик
+tick
+тикать	метка
+tick off
+отмечать "птичкой"	проб(и)рать, отдел(ыв)ать
+ticker
+тиккер
+ticket
+билет	удостоверение
+ticket reservation
+бронирование места (на транспорте, в зрелищном предприятии)
+ticket-office
+билетная касса	<-> ticket-window
+ticket-window
+билетная касса	<-> ticket-office
+ticketing
+обеспечение билетами
+ticking
+тикать	тикание
+tickle
+щекотать
+tickler
+щекотун
+ticklish
+щекотливый
+ticklishly
+щекотно
+ticklishness
+щекотливость
+tickmark
+отметка времени
+tidal
+приливный
+tidal wave
+приливная волна
+tidbit
+лакомый	кусочек
+tide
+прилив&и	отлив
+tide over
+преодоле(ва)ть
+tideland
+покрываемая приливом	территория
+tidewater
+приливная	вода
+tideway
+направление приливно-отливного течения
+tidily
+аккуратно
+tidiness
+аккуратность
+tidings
+весть
+tidlywinks
+блошка
+tidy
+убирать	аккуратный
+tie
+соединять	соединение	соединительный
+tie-up
+связь *	союз	прекращение работы или уличного движения
+tieback
+завязка
+tied
+связывать
+tied aid
+обусловленная помощь
+tied assistance
+обусловленная (сопровождаемая условиями) помощь
+tied credits
+"связанные" (обусловленные) кредиты
+tied inputs
+обусловленные закупки средств производства
+tied loan
+"связанный" (обусловленный) заем (кредит)	заем на условии, что страна-должник использует заем на покупку товаров	у страны кредитора
+tiepin
+заколка
+tier
+располагать ярусами	уровень
+ties
+связывать	соединять	связь	соединение
+tiff
+размолвка
+tiffany
+тиффани
+tiffin
+тиффин
+tiger
+тигр	тигровый
+tight
+плотный
+tight budget
+напряженный бюджет
+tight money
+недостаток кредита	политика ограничения кредита	дорогой кредит	плохие условия кредита	стесненный кредит
+tight place
+FIG* затруднительное положение
+tight rate
+жесткая норма	дорогой кредит
+tight-fisted
+скупой
+tighten
+затягивать	ужесточать	ужесточение
+tighter
+наименьший
+tightly
+плотно
+tightness
+теснота
+tightrope
+канат
+tights
+трико
+tightwad
+скопидом
+tiglon
+тиглон	помесь тигра со львом
+tigress
+тигрица
+tigris
+тигрис
+til
+до
+tilde
+тильда
+tile
+крыть плиткой	секция
+tiled
+изразцовый
+tiling
+управление окнами
+till
+до
+tillable
+пахотный
+tillable land
+обрабатываемая земля	обрабатываемые площади
+tillage
+обработка
+tilled
+пахать	вспаханный
+tiller
+земледелец
+tilt
+наклонять
+tilt against
+бороться с
+tilted
+наклонять	наклонный
+tilting
+наклонять
+tiltyard
+ристалище
+timbal
+литавра
+timbale
+рыба или мясо в тесте
+timber
+лес	лесной
+timber carrier
+лесовоз
+timber lands
+земельные участки под лесом	лес на корню
+timberhead
+верхняя	оконечность шпангоута
+timberheaded
+тупой
+timbering
+лесоматериал
+timberland
+лесной	участок
+timberline
+граница леса
+timberman
+лесопромышленник	крепильщик
+timbre
+тембр
+time
+врем)время
+time bill
+срочный вексель
+time budgets
+бюджеты времени
+time deposit
+срочный вклад	вклад на срок
+time discount
+дисконтирование во времени
+time discounting
+дисконтирование во времени
+time flows
+потоки, обладающие временной характеристикой
+time lag
+временной лаг
+time rate
+повременная плата
+time series
+динамические ряды
+time sharing
+режим разделения времени. мультипрограммирование, при котором ресурсы	вычислительной системы предоставляются каждому процессу на интервалы	времени, длительность и очередность	которых определяются диспетчером	для обеспечения одновременной работы процессов в интерактивном режиме
+time slice
+квант времени
+time slicing
+квантование (времени). предоставление некоторого ресурса каждому из	группы пользователей на короткий	промежуток (квант) времени в циклическом порядке
+time stamp
+временная метка.	код, присоединяемый к адресу выделяемого блока (обычно внешней)	памяти, обеспечивающий уникальность ссылки: после освобождения	и повторного выделения данного	блока ссылка будет содержать другую временную метку. в качестве	временной метки может использоваться порядковый номер выделяемого блока.	поле сообщения или другого информационного объекта, указывающее	время создания
+time wage
+повременная (поденная) оплата
+time-bounded
+ограниченная по времени. о машине	тьюринга, которая при обработке слова длины l останавливается не более, чем за F(l) шагов, где F - не	зависящая от обрабатываемого слова	функция
+time-table
+расписание
+timed
+синхронизированный
+timeframe
+интервал времени
+timekeeper
+хронометрист
+timekeeping
+хронометрирование
+timeless
+вневременный
+timelessly
+несвоевременно
+timelessness
+вечность
+timeline
+график
+timeliness
+своевременность
+timely
+своевременно	своевременный
+timeout
+тайм-аут
+timepiece
+час
+timeplex
+Пс временным уплотнением
+timer
+таймер	таймерный
+timer interrupt
+прерывание по таймеру. прерывание	от сигнала таймера, выдаваемого через регулярные промежутки времени
+times
+время	раз(а)
+timesaver
+устройство для экономии времени
+timesaving
+экономичный
+timescale
+шкала времени
+timesense
+чувство времени
+timeserver
+приспособленец
+timeserving
+приспособленчество
+timeshare
+работать в режиме разделения времени
+timesharing
+разделение времени
+timestamp
+отметка времени
+timetable
+расписание
+timeworn
+устаревший
+timid
+робкий
+timidity
+робость
+timidly
+робко
+timidness
+застенчивость
+timing
+синхронизировать	синхронизация
+timing error
+ошибка синхронизации
+timorous
+боязливый
+timorously
+боязливо
+timorousness
+боязливость
+timpani
+тимпан
+timpanist
+тимпанист
+timpano
+тимпан
+tin
+лудить	банка	олово	жесть	жестяной
+tin-plate
+(белая) жесть *
+tincture
+тинктура
+tinder
+трут
+tinderbox
+пороховая	бочка
+tine
+зубец
+tinfoil
+фольга
+tinge
+подкрашивать	примесь
+tingle
+пощипывать
+tinker
+возиться	медник
+tinkering
+попытка
+tinkle
+звякать	звякание
+tinnitus
+шум в ушах
+tinny
+оловянный
+tinsel
+мишура
+tinsmith
+жестянщик
+tint
+подкрашивать	оттенок
+tinted
+подкрашивать	подкрашенный
+tintype
+ферротипия
+tinware
+жестяное	изделие
+tiny
+небольшой
+tip
+откидывать	конец
+tipoff
+намек
+tipped
+давать на чай
+tipple
+выпивать
+tippler
+пьяница
+tipsily
+нетрезво
+tipsiness
+подпитие
+tipstaff
+жезл
+tipster
+информатор
+tipsy
+подвыпивший
+tiptoe
+ходить на цыпочках	цыпочка
+tiptop
+отличный
+tirade
+тирада
+tire
+уставать	шина
+tired
+уставать	утомленный
+tiredly
+устало
+tiredness
+усталость
+tireless
+неутомимый
+tirelessly
+без устали
+tirelessness
+неутомимость
+tiresome
+утомительный
+tiresomely
+утомительно
+tiresomeness
+утомительность
+tiring
+утомительный
+tissen
+тиссен
+tissue
+ткань
+tissue-paper
+шелковая бумага	папиросная бумага
+tit
+синица
+titan
+титан
+titanic
+титанический
+titanium
+титан	титановый
+tithe
+десятина
+titian
+тициан	золотисто-каштановый
+titillate
+щекотать
+titillating
+щекотать	щекочущий
+titillatingly
+щекочуще
+titillation
+щекотка
+titivate
+прихорашивать
+title
+называть	название	титул	право
+title bar
+заголовок окна. часть окна или его	границы, содержащая его описание и	командные позиции
+titled
+называть	титулованный
+titleholder
+обладатель титула
+titmice
+синица
+titmouse
+синица
+titter
+хихикать	хихикание
+titteringly
+насмешливо
+tittle
+капелька
+tittle-tattle
+сплетни *, болтовня
+titular
+номинальный
+titus
+тит
+tizzies
+волнение
+tizzy
+волнение
+to boot
+в придачу, вдобавок
+to come
+будущий
+to match
+подходящий (по цвету, тону и т.п.)
+to smithereens
+вдребезги
+to wit
+то есть, а именно
+to work
+работать
+toad
+жаба
+toadstool
+поганка
+toady
+подхалимничать	подхалим
+toadying
+подхалимство
+toadyism
+подхалимство
+toast
+тост
+toasted
+жареный
+toaster
+тостер
+toasting
+поднимать тост
+toastmaster
+тамада
+toastmistress
+тамада
+toastmistresses
+тамада
+tobacco
+табак	табачный
+tobacconist
+торговец табаком
+tobago
+тобаго
+toboggan
+кататься на салазках	тобогган
+tobogganist
+тобогганщик
+tockled
+щекотать
+tocsin
+набат
+today
+сегодня
+toddies
+тодди
+toddle
+ковылять
+toddler
+ребенок
+toddlers
+дети
+toddy
+тодди
+toe
+палец ноги
+toeboard
+сегмент в толкании
+toehold
+зацепка
+toenail
+ноготь
+toffee
+тянучка
+toffees
+тянучка
+tofu
+тофу
+tog
+одежда
+toga
+тога
+togae
+тога
+together
+вместе
+togetherness
+близость
+togged
+одевать	одетый
+toggery
+одежда
+toggle
+переключать	переключатель
+togo
+того
+togs
+одежда
+toil
+трудиться	труд
+toiler
+труженик
+toilet
+туалет	туалетный
+toilet-table
+туалетный столик
+toiletpaper
+туалетная	бумага
+toiletries
+туалетная	принадлежность
+toiletry
+принадлежность туалета
+toilette
+туалет
+toilsome
+трудный
+tokay
+токайский
+toke
+затяжка
+toked
+затягиваться
+token
+признак	символический
+token contribution
+символический взнос
+token money
+биллонные деньги *
+token passing
+эстафетная передача, передача маркера. в сети передачи данных с кольцевой архитектурой - способ управления доступом к среде передачи, при	котором от станции к станции передается специальный сигнал (маркер).	станция может начать передачу сразу	после поступления к ней маркера и	должна передать маркер дальше в течение короткого интервала времени
+token payment
+символический взнос (платеж)	номинальная сумма в счет погашения долга
+token provisions
+номинальные ассигнования
+token ring
+эстафетное кольцо
+tokenism
+символическое	участие
+tokyo
+токио
+tokyoite
+житель токио
+told
+сообщать
+toledo
+толедо
+tolerable
+сносный
+tolerably
+сносно
+tolerance
+тех)допуск	мед)толерантность
+tolerance limit
+предел допуска
+tolerant
+терпимый	мед)толерантный
+tolerantly
+допустимо
+tolerate
+терпеть
+toleration
+терпимость
+tolerative
+переносимый
+tolite
+воор)тол
+toll
+плата	платный
+toll-bar
+застава (где взимается пошлина)
+toll-gate
+застава (где взимается пошлина)
+tollbooth
+будка
+tollfree
+бесплатно
+tollgate
+застава
+tollgates
+застава
+tollhouse
+будка
+tolls
+звонить
+toluene
+толуол
+tom
+том
+tom cat
+кот
+tomahawk
+томагавк
+tomato
+томат	томатный
+tomb
+могила
+tomboy
+сорванец
+tombstone
+надгробный	камень
+tomcat
+кот
+tome
+том
+tomfoolery
+дурачество
+tommorow
+завтра
+tommyrot
+вздор
+tomorrow
+завтра
+tomorrow morning
+завтра утром
+tomorrows
+завтра
+tomtit
+синица
+ton
+тонна
+tonal
+тональный
+tonality
+тональность
+tonally
+тонально
+tone
+оттенок
+tonearm
+тонарм
+toneless
+Пбез оттенков
+toner
+тонер
+tong
+тонг
+tonga
+тонга
+tongs
+щипцы
+tongue
+язык
+tongue-tied
+косноязычный	молчаливый
+tongued
+Пс языком
+tongueless
+безъязыкий
+tonic
+тоник	тонический
+tonically
+тонически
+tonight
+сегодня вечером
+tonnage
+тоннаж
+tonne
+тонна	тонный
+tonneau
+метрический	тонна
+tonnes
+тонна
+tons
+тонна
+tonsorial
+парикмахерский
+tonsure
+тонзура
+too
+слишком	тоже
+tool
+оснащать	средство
+toolbox
+инструментарий
+tooled
+оснащать
+tooling
+обрабатывать	инструмент	технологический
+tooling service
+инструментальное хозяйство
+toolkit
+пакет разработчика
+toolmaker
+инструментальщик
+toolroom
+мастерская
+tools
+инструментальное средство
+tools portability
+переносимость средств разработки;	мобильность средств разработки
+toot
+гудеть	гудок
+tooted
+гудеть
+tooth
+зуб	зубной
+tooth-brush
+зубная щетка
+toothache
+зубная	боль
+toothbrush
+зубная	щетка
+toothe
+зуб
+toothed
+зубчатый
+toothily
+зубасто
+toothless
+беззубый
+toothpaste
+зубной	паста
+toothpick
+зубочистка
+toothsome
+приятный на вкус
+toothsomeness
+приятность на вкус
+toothy
+зубастый
+tootsie
+милашка
+top
+завершать	верх	верхний
+top executives
+верхушка управляющих	высший административно-управленческий персонал
+top management
+высшее руководство	верхушка управляющих (менеджеров)
+top overhaul
+капитальный ремонт
+top-hat
+цилиндр (шляпа)
+topaz
+топаз	топазовый
+topcoat
+пальто
+topcoats
+пальто
+tope
+пьянствовать	акула
+toper
+пьяница
+topflight
+первоклассный
+topgallant
+брамсель
+topheavy
+неустойчивый
+topic
+тема
+topical
+тематический
+topicality
+актуальность
+topically
+актуально
+toping
+пьянствовать
+topknot
+хохол
+topless
+Пбез верха
+topmast
+стеньга
+topmost
+самый	верхний
+topnotch
+первоклассный
+topographer
+топограф
+topographic
+топографический
+topographical
+топографический
+topographically
+топографически
+topography
+топография
+topological
+топологический
+topologists
+тополог
+topology
+топология
+topping
+верх
+topple
+валить
+topsail
+топсель
+topside
+на палубе
+topsider
+обладатель высшей власти
+topsides
+надводная	часть
+topsoil
+почвенный	покров
+toque
+ток
+tora
+тора
+torah
+тора
+torch
+факел	фонарь
+torch-light
+свет факела
+torchbearer
+факельщик
+torchlight
+факел
+tore
+рвать	раздирать
+toreador
+тореадор
+tori
+тор
+torment
+мучить	мучение
+tormentedly
+измученно
+tormenter
+мучитель
+tormentingly
+мучительно
+tormentor
+мучитель
+torn
+рвать
+tornadic
+ураганный	смерчевой
+tornado
+смерч
+toroid
+тороид	тороидальный
+toronto
+торонто
+torpedo
+торпедировать	торпеда
+torpedolike
+как торпеда
+torpid
+вялый
+torpidity
+онемелость
+torpidly
+онемело
+torpor
+оцепенение
+torque
+вращающий	момент
+torrance
+поток
+torrent
+поток
+torrential
+обильный
+torrid
+палящий
+torridity
+знойность
+torridly
+знойно
+torridness
+знойность
+torsi
+торс
+torsion
+кручение
+torsional
+скручивающий
+torsionally
+скручивая
+torso
+торс
+tort
+правонарушение
+tortfeasor
+юрид)делинквент
+tortilla
+лепешка
+tortious
+незаконный
+tortiously
+незаконно
+tortoise
+черепаха
+tortuous
+извилистый
+tortuously
+уклончиво
+tortuousness
+извлистость
+torture
+пытать	пытка
+torturedly
+измученно
+torturer
+мучитель
+torturous
+мучительный
+torus
+тор	торус
+tory
+тори
+toshiba
+тошиба
+toss
+подбрасывать	толчок
+tossup
+жеребьевка
+tot
+суммировать	малыш
+total
+составлять	итог	общий
+total amount
+итог	итого	общая сумма	всего
+total awards
+общий объем заключенных контрактов
+total borrowing
+общая сумма заимствованных средств
+total budget
+общая сумма бюджета
+total capacityies
+совокупные производственные мощности
+total capital
+совокупный капитал
+total consumption
+общий объем потребления
+total demand
+совокупный спрос
+total drawings
+общая сумма кредитов
+total energy
+все виды энергоносителей
+total flows
+сумма потоков
+total output
+полная мощность	максимальная производительность	вся продукция	весь выпуск
+total product
+совокупный продукт
+total sum
+общая сумма, итого	складывать	подводить итог	равняться	оставлять сумму
+totalitarian
+тоталитарный
+totalitarianism
+тоталиторизм
+totalitarians
+тоталитарист
+totality
+совокупность
+totalization
+подведение итога
+totalizator
+тотализатор
+totalize
+суммировать
+totalizer
+суммирующее	устройство
+totalled
+составлять
+totalling
+составлять
+totally
+полностью
+tote
+тащить	перевозка	груз	тотализатор
+toted
+тащить
+totem
+тотем
+totemism
+тотемизм
+toting
+тащить
+toto
+тото
+totter
+шататься
+toucan
+тукан
+touch
+касаться	прикосновение	налет	сенсорный
+touch at
+заходить [зайти] в (порт)
+touch panel
+сенсорный экран
+touch screen
+сенсорный экран
+touch up
+отдел(ыв)ать, поправлять [-авить] (несколькими штрихами)
+touch-type
+печатать слепым методом
+touchable
+осязаемый
+touchdown
+посадка
+touche
+туше
+touched
+касаться	тронутый
+touchily
+обидчиво
+touchiness
+обидчивость
+touching
+касаться	трогательный
+touchingly
+трогательно
+touchpad
+сенсорная	панель
+touchstone
+пробный	камень
+touchy
+обидчивый
+tough
+жесткий
+toughen
+закалять
+toughly
+прочно
+toughness
+прочность
+toupee
+парик
+tour
+путешествовать	путешествие
+touring
+гастрольный
+tourism
+туризм
+tourist
+турист	туристический
+tourist agency
+бюро путешествий
+tourmaline
+турмалин
+tournament
+турнир
+tourney
+турнир
+tourniquet
+турникет
+tousle
+взлохмачивать
+tout
+предлагать
+tow
+буксировать	буксир
+towable
+имеющий возможность буксировки
+towage
+буксировка
+toward
+по отношению к
+towards
+к
+towaway
+буксировка
+towbar
+буксир
+towboat
+буксир
+towel
+полотенце
+tower
+возвышаться	башня
+towering
+возвышаться	высокий
+toweringly
+возвышаясь
+towhead
+светловолосый	человек
+towheaded
+белобрысый
+towing
+буксировать	буксировка
+towline
+буксир
+town
+город
+town council
+городской совет
+town hall
+ратуша
+townhouse
+городской	дом
+townsfolk
+горожане
+township
+район
+townsman
+горожанин
+townspeople
+горожанин
+towpath
+бечевник
+towrope
+буксир
+toxemia
+токсемия
+toxemic
+токсемический
+toxic
+токсичный
+toxically
+токсически
+toxicity
+токсичность
+toxicologic
+токсикологический
+toxicological
+токсикологический
+toxicologically
+токсикологически
+toxicologist
+токсиколог
+toxicology
+токсикология
+toxicosis
+токсикоз
+toxin
+токсин
+toy
+играть	игрушка
+toy problem
+модельная задача. задача, используемая для отладки или демонстрации	системы
+toyota
+тойота
+trace
+прослеживать	след	трассировка	чуть-чуть
+trace facility
+средства трассировки. встраиваемые	в отлаживаемую программу или оформленные в виде независимой программы-отладчика средства для вывода	выполняемых программой команд и их	результатов
+trace routine
+программа трассировки
+traceability
+трассируемость
+traceable
+прослеживаемый
+traceback
+прослеживать
+traced
+прослеживать
+tracelessly
+бесследно
+tracepoint
+точка отслеживания
+tracer
+следящее	устройство
+tracery
+узор
+trachea
+трахея
+tracheae
+трахея
+tracheal
+трахеальный
+tracheotomy
+трахеотомия
+trachoma
+трахома
+tracing
+прослеживать	трассировка
+tracings
+траектория
+track
+прослеживать	дорожка
+track address
+адрес дорожки. числовой код, идентифицирующий дорожку магнитного диска в вычислительной системе. полный	адрес дорожки состоит из номера	(адреса) диска, номера цилиндра и	номера поверхности
+track ball
+шар трассировки. устройство ввода	координат в виде частично выступающего над плоскостью вращающегося	шара
+track density
+поперечная плотность (записи). число дорожек на единицу ширины носителя
+track down
+выслеживать [выследить]
+track hold
+блокировка дорожки.	средства, предотвращающие одновременное обращение к одной дорожке от	двух программ
+track index
+индекс дорожки. индекс, описывающий	записи, расположенные на данной дорожке диска
+track number
+номер дорожки, номер цилиндра
+track out
+выслеживать [выследить]
+trackable
+прослеживаемый
+trackage
+железнодорожная	сеть
+trackball
+трэкболл
+tracker
+охотник
+tracking
+прослеживать	трассировка
+tracking symbol
+графический курсор, символ трассировки. перемещающаяся по экрану отметка, указывающая позицию, соответствующую данным, введенным устройством ввода координат
+trackless
+бездорожный
+trackman
+укладчик путей
+trackmark
+отметка
+tracktor
+протяжка
+tracktor feed
+подача бумаги с помощью звездчатки
+trackwalker
+путевой	обходчик
+tract
+тракт
+tractability
+удобство манипулирования
+tractable
+сговорчивый
+tractably
+сговорчиво
+tractile
+тягучий
+traction
+сцепление
+traction engine
+тягач
+tractional
+сцепляющий
+tractive
+тяговый
+tractor
+трактор
+tradable
+продаваемый	ходкий	товарный	рыночный
+tradable goods
+товары (продукты), которые могут быть проданы на внешних	рынках (экспортированы)
+trade
+торговать	торговля	торговый
+trade agreement
+соглашение в области внешней торговли	внешне-торговое соглашение	договор внешней торговле
+trade area
+рынок сбыта	район, где осуществляется сбыт
+trade association
+отраслевой союз предпринимателей
+trade balance
+баланс внешней торговли	внешнеторговый баланс
+trade discount
+скидка с розничной цены (предоставляемая поставщиками агентами по	сбыту или розничным магазинам)
+trade dispute
+конфликт между профсоюзом и предпринимателями	спор, сопряженный с внешнеторговыми операциями
+trade estimates
+внешнеторговые прогнозы	оценки внешней торговли
+trade figures
+внешнеторговая статистика
+trade flows
+внешнеторговые потоки
+trade mark
+товарный знак	фабричная марка
+trade on
+использовать *(IM)PF*
+trade price
+фабричная цена	оптовая цена
+trade profit
+торговая (производственная) прибыль
+trade restrictions
+внешнеторговые ограничения
+trade stock
+товарные запасы
+trade surplus
+активное сальдо торгового баланса
+trade union
+профсоюз
+trade year
+операционный (хозяйственный) год
+trade-mark
+фабричная марка
+trade-price
+оптовая цена
+trade-union
+профсоюз
+trade-weighted
+взвешенный по удельному весу во внешней торговле
+tradeable
+продаваемый	ходкий	товарный	рыночный
+traded
+торговать
+trademark
+торговая	марка
+trademarked
+Пс торговой маркой
+tradename
+торговое	название
+tradeoff
+обмен
+trader
+маклер	торговец
+trades-union
+профсоюз
+tradesman
+торговец
+trading
+торговать	торговля	торговый
+trading companys
+торговые дома (компании)
+trading house
+торговый дом (фирма)
+tradition
+традиция
+traditional
+традиционный
+traditionalism
+приверженность к традициям
+traditionalist
+сторонник традиций
+traditionally
+по традиции
+traditionless
+Пбез традиций
+traduce
+клеветать
+traducement
+клевета
+traducer
+клеветник
+traffic
+движение	трафик
+traffic capacity
+пропускная способность
+traffic jam
+затор в уличном движении
+trafficked
+торговать
+trafficker
+торговец
+trafficking
+торговать	торговля
+tragedian
+трагик
+tragedienne
+трагическая	актриса
+tragedy
+трагедия
+tragic
+трагический
+tragical
+трагический
+tragically
+трагически
+tragicomedy
+трагикомедия
+tragicomic
+трагикомический
+trail
+след
+trailblazer
+новатор
+trailblazing
+новаторство
+trailer
+трейлер
+trailer label
+маркер конца
+trailing
+прослеживание	конечный
+trailing blanks
+конечные пробелы. пробелы в конце	текстовой строки
+trailing spaces
+конечные пробелы
+trailing zeros
+конечные нули. в записи числа - нули правее последней ненулевой значащей цифры
+trailless
+бесследный
+trailor
+прицеп
+train
+готовить	поезд
+train printer
+цепное печатающее устройство
+trainable
+обучаемый
+trained
+направлять	подготовленный
+trained labour
+обученная рабочая сила	квалифицированные рабочие
+trained manpower
+(профессионально) подготовленная рабочая сила
+trained staff
+обученный персонал
+trainee
+стажер
+traineeship
+стажировка
+trainer
+тренер
+training
+готовить	подготовка
+training grant
+пособие (дотация) на профессиональную подготовку
+trainman
+проводник
+trainmaster
+начальник поезда
+traipse
+болтаться
+trait
+признак
+traitor
+изменник
+traitorous
+предательский
+traitorousness
+предательство
+traitress
+предательница
+trajectory
+траектория
+tram
+трамвай
+tram-car
+вагон трамвая	* ~way
+trammel
+сковывать	пута
+trammell
+сковывать	пута
+tramp
+топать	босяк
+tramper
+бродяга
+trample
+топтать
+trample down
+затаптывать [-топтать]
+trampoline
+батут
+trampoliner
+акробат на батуте
+trampolinist
+акробат на батуте
+tramway
+трамвай
+trance
+транс
+tranquil
+спокойный
+tranquility
+спокойствие
+tranquilize
+успокаивать
+tranquilized
+успокаивать	успокоенный
+tranquilizer
+транквилизатор
+tranquilizing
+успокаивать	успокоительный
+tranquillity
+спокойствие
+tranquillizer
+транквилизатор
+tranquilly
+спокойно
+transact
+выполнять
+transaction
+сделка	Р)ведение
+transaction data
+параметры транзакции
+transaction file
+файл изменений
+transaction prices
+договорные цены
+transaction processing
+диалоговая обработка запросов. режим работы многопользовательской системы, при котором каждый запрос	пользователя обрабатывается как независимая задача, взаимодействующая	с пользователем
+transaction record
+управляющая запись, запись транзакции
+transactional
+выполняемый
+transactions file
+журнал транзакций. файл, в который копируется информация транзакций.	файл изменений
+transactions log
+журнал транзакций
+transactor
+устройство сбора данных
+transalpine
+трансальпийский
+transatlantic
+трансатлантический
+transborder
+через границу
+transceiver
+приемо-передатчик
+transceiving
+	прием&и	передача
+transcend
+превосходить
+transcendent
+исключительный
+transcendental
+трансцендентный
+transcontinental
+трансконтинентальный
+transcribe
+переписывать
+transcript
+копия
+transcription
+транскрипция
+transdesert
+через пустыню
+transduce
+преобразовывать
+transducer
+преобразователь
+transductor
+магнитный	усилитель
+transect
+делать поперечный надрез
+transept
+трансепт
+transequatorial
+трансэкваториальный
+transfer
+передавать	и)переводиться	передача
+transfer accounting
+внутрифирменная система расчетов (между родительской компанией и филиалами и дочерними компаниями)
+transfer control
+переходить, передавать управление
+transfer function
+функция преобразования типа. в языках программирования со строгим контролем типов - функция, преобразующая значение одного типа в соответствующее значение другого типа,	изменяя или не изменяя внутреннее	представление этого значения
+transfer instruction
+команда перехода
+transfer payments
+выплаты по социальному обеспечению	трансфертные платежи
+transfer prices
+переводные (трансфертные, внутрифирменные, внутрикорпорационные) цены
+transfer pricing
+внутрифирменное (внутрикорпорационное, трансфертное) ценообразование	установление цен на промежуточную продукцию между подразделениями	фирмы
+transfer rate
+скорость передачи (данных)
+transfer sale
+внутрикорпоративный (внутрифирменный) оборот
+transfer table
+таблица переходов, переключатель.	обычно подразумевается реализация	переключателя в виде массива команд	перехода
+transfer time
+время пересылки
+transfer unit
+блок; слово; порция обмена. порция	данных, пересылаемая как единое целое. размер порции зависит от обменивающихся устройств: при пересылке	внутри процессора или между регистрами и памятью - слово, при обмене	с внешней памятью - блок, сегмент	или страница
+transfer valuation
+по внутрифирменной оценке	по переводным ценам	по оценке, применяемой в отношениях между филиалами фирмы
+transferability
+переносимость
+transferable
+переносимый	экон)переводимый
+transferable account
+текущий счет
+transferable deposits
+вклады (депозиты) на текущих счетах
+transferal
+передача
+transferee
+получатель
+transference
+перенесение
+transferor
+цедент
+transferral
+передача
+transferrer
+цедент
+transferror
+цедент
+transfiguration
+преображение
+transfigure
+преображать
+transfission
+поперечное	деление клетки
+transfix
+пронзать
+transfixion
+прокалывание	пронзание	оцепенение
+transfluxor
+трансфлюксор
+transform
+превращать
+transformation
+преобразование
+transformation coefficient
+коэффициент перевода
+transformational
+трансформационный
+transformational grammar
+трансформационная грамматика
+transformed
+превращать	преобразованный
+transformer
+трансформатор	трансформаторный
+transfrontier
+через границу
+transfusable
+переливаемый
+transfuse
+переливать
+transfuser
+аппарат для переливания
+transfusion
+переливание
+transgress
+переступать
+transgression
+правонарушение
+transgressor
+правонарушитель
+transhipment
+переотправка	перегрузка
+transhorizon
+сверхдальний
+transience
+скоротечность
+transiency
+мимолетность
+transient
+нерезидентный
+transient area
+нерезидентная область. область оперативной памяти, в которую загружаются нерезидентные программы
+transient command
+нерезидентная команда. команда диалогового монитора, выполняемая нерезидентной программой или нерезидентной частью операционной системы
+transient customers
+случайные, временные клиенты
+transient error
+неповторяющаяся ошибка, нерегулярная ошибка
+transient routine
+нерезидентная программа. программа,	загружаемая в оперативную память	при каждом вызове
+transient state
+промежуточное сотояние, неустойчивое состояние
+transiently
+мимолетно
+transinformation
+трансформация
+transisthmian
+пересекающий переешеек
+transistor
+транзистор	транзисторный
+transit
+транзит	транзитный
+transit storage
+транзитное складирование
+transited
+переходящий
+transiting
+переход
+transition
+переход
+transitional
+переходный
+transitional adjustment
+временный (переходный) корректив
+transitionally
+промежуточно
+transitive
+транзитивный
+transitively
+транзитивно
+transitiveness
+транзитивность
+transitivity
+транзитивность
+transitoriness
+мимолетность
+transitory
+переходящий
+transitron
+транзисторный	генератор
+translatable
+переводимый
+translate
+переводить
+translated
+переводить	переведенный
+translater
+транслятор
+translating
+переводить	перевод
+translation
+перевод	трансляция
+translation table
+адресная таблица, таблица страниц.	программная или аппаратная структура данных, используемая для преобразования виртуальных адресов в физические
+translation vector
+вектор сдвига
+translationally
+с точки зрения трансляции
+translative
+переводный
+translator
+переводчик	транслятор
+translatress
+переводчица
+translatrix
+переводчица
+transliterate
+транслитерировать
+transliteration
+транслитерация
+translucence
+прозрачность
+translucency
+прозрачность
+translucent
+подсвечиваемый снизу
+translucently
+полупрозрачно
+translucid
+просвечиваемый	полупрозрачный
+transmarine
+заморский
+transmigrate
+переселять
+transmigration
+переселение
+transmigrator
+переселенец
+transmigratory
+переселяющийся
+transmissible
+передаваемый
+transmission
+передача
+transmit
+передавать	передача
+transmittable
+передаваемый
+transmittal
+передача
+transmittance
+передача
+transmitter
+передатчик
+transmitting
+передавать	передача	передающий
+transmittion
+передача
+transmogrify
+превращать
+transmogrifying
+превращать	превращающийся
+transmutable
+превращаемый
+transmutation
+превращение
+transmute
+превращать
+transnational
+превращающий
+transnational corporation
+транснациональная корпорация
+transnational merger
+слияние (присоединение) компаний разных (других) стран
+transoceanic
+трансокеанский
+transom
+фрамуга
+transonic
+околозвуковой
+transorbital
+трансорбитальный
+transpacific
+пересекающий тихий океан
+transparency
+прозрачность	слайд
+transparent
+прозрачный
+transparent data
+"прозрачные данные", абстрактные	данные. данные, физическая организация которых скрыта от пользователя	или программы; программа работает	только с существенными для нее элементами данных и не обрабатывает	служебных подструктур
+transparent interface
+прозрачный интерфейс. организация	интерфейса, при которой интерфейсные средства не преобразуют передаваемые данные и логически незаметны	для пользователя
+transparent language
+язык с очевидной семантикой
+transparent transmission
+кодонезависимая передача (данных)
+transparently
+точно
+transpiration
+испарина
+transpire
+обнаруживаться
+transplant
+пересаживать	пересадка
+transplantability
+переносимость
+transplantation
+пересадка
+transplanted
+пересаживать	пересаженный
+transplanter
+пересадчик
+transplanting
+пересаживать
+transpolar
+трансполярный
+transponder
+запросчик-ответчик
+transport
+перемещать	транспорт
+transport order
+транспортное поручение
+transport outlays
+транспортные издержки
+transport protocol
+транспортный протокол; протокол транспортного уровня (transport layer	protocol). основной уровень протокола сети передачи данных, регламентирующий пересылку сообщений (пакетов) между процессами, выполняемыми	на ЭВМ сети
+transport rates
+транспортные тарифы
+transportability
+мобильность
+transportable
+транспортабельный
+transportation
+транспортировка	транспортный
+transported
+перемещать	перевезенный
+transporter
+транспортер
+transporting
+перемещать
+transpose
+перемещать
+transposition
+перестановка
+transput
+обмен
+transputer
+транспьютер
+transsexual
+транссексуал	транссексуальный
+transsexualism
+транссексуализм
+transship
+перегружать
+transshipment
+перегрузка
+transversal
+трансверсальный
+transverse
+поперечина	поперечный
+transversely
+поперечно
+transverter
+трансвертер
+transvestism
+трансвестизм
+transvestite
+трансвестит
+trap
+перехватывать	ловушка	инф)прерывание
+trap instruction
+команда прерывания. команда, вызывающая внутреннее прерывание с указанным номером
+trap-door
+люк	опускная дверь *
+trapdoor
+люк
+trapeze
+трапеция
+trapezia
+трапеция
+trapezium
+трапеция
+trapezius
+трапеция
+trapezoid
+трапеция
+trapezoidal
+трапециевидный
+trapfall
+западня
+trapper
+зверолов
+trapping
+организация ловушек
+trappings
+символ
+trapshooting
+стендовая	стрельба
+trash
+мусор
+trashed
+портить	нарушенный
+trashy
+дрянной
+trauma
+травма
+traumata
+травма
+traumatic
+травматический
+traumatically
+травматично
+traumatize
+травмировать
+traumatology
+травматология
+travail
+тяжелый	труд
+trave
+путешествовать	путешествие
+travel
+путешествовать	перемещать	путешествие	перемещение
+travel funds
+фонды на покрытие путевых расходов
+travel grant
+пособие на оплату путевых расходов
+traveler
+путешественник	дорожный
+travelers
+дорожный
+travelier
+путешественник	дорожный
+traveling
+путешествовать	перемещать	дорожный
+travelled
+путешествовать	перемещать
+traveller
+путешественник	дорожный
+travellers
+дорожный
+travellier
+путешественник	дорожный
+travelling
+путешествовать	перемещать	путешествие	дорожный
+travelogue
+лекция с диапозитивами
+traversal
+прохождение	просмотр
+traverse
+просматривать	поперечина	поперечный
+travesty
+пародировать	пародия
+trawl
+тралить	трал
+trawler
+траулер
+tray
+поддон
+treacherous
+предательский
+treacherously
+предательски
+treacherousness
+предательство
+treachery
+предательство
+tread
+идти	шаг
+tread down
+затаптывать [затоптать]
+treadle
+педаль
+treadmill
+топчак
+treason
+измена
+treasonable
+предательский
+treasonous
+предательский
+treasurable
+ценный
+treasure
+сокровище	ценный
+treasure notes
+казначейские билеты
+treasured
+хранить
+treasurer
+казначей	казначейский
+treasuries
+казначейский	вексель
+treasury
+казначейство
+treasury currency
+казначейские билеты
+treasury stocks
+собственные акции в инвестиционном портфеле
+treat
+обращаться	мед)лечить	инф)обрабатывать	относиться	удовольствие
+treat of
+иметь предметом, обсуждать [-удить]
+treat with
+вести переговоры с
+treatable
+вылечиваемый
+treated
+	обращаться	инф)обрабатывать	мед)лечить	обработанный
+treater
+автор
+treating
+обращаться	мед)лечить	инф)обрабатывать	оплата
+treatise
+монография
+treatment
+обработка	мед)лечение
+treaty
+договор
+treble
+утраивать	дискант	тройной
+trebly
+втрое	втройне	требли
+tree
+дерево
+tree grammar
+грамматика деревьев. обобщение грамматики для описания древесных структур
+tree index
+древовидный индекс
+tree name
+составное имя
+tree search
+поиск по дереву. поиск вершины дерева, удовлетворяющей некоторому условию или оптимизирующей некоторую	функцию; поиск начинается с корня и	распространяется на поддеревья.		first search
+tree structure
+древовидная структура, организация	в виде дерева
+tree topology
+древовидная топология, топология	типа "дерево"
+tree traversal
+обход дерева. перебор вершин дерева.		th-first search
+tree walking
+обход дерева
+treed
+загонять на дерево
+treeless
+безлесый
+treetop
+верхушка деревьев
+trefoil
+трилистник
+trek
+переселять	путешествие
+trekker
+переселенец
+trellis
+трельяж
+trematode
+трематода
+tremble
+дрожать	дрожь
+trembler
+молоточек
+tremblingly
+дрожа
+tremendous
+огромный
+tremendously
+значительно
+tremendousness
+огромность
+tremolo
+тремоло
+tremor
+дрожь
+tremors
+дрожь
+tremulous
+дрожащий
+tremulously
+дрожь
+tremulousness
+дрожь
+trench
+ров
+trench on
+посягать [-гнуть] на
+trench upon
+посягать [-гнуть] на
+trenchancy
+острота
+trenchant
+острый
+trenchantly
+остро
+trenched
+рыть траншею
+trencher
+доска
+trencherman
+копальщик траншей
+trend
+отклоняться	направление
+trend analysis
+анализ трендов, тенденций
+trendy
+модный
+trephination
+трепанация
+trephine
+трепанировать	трепан
+trephines
+трепанировать
+trepidation
+трепет
+trepidations
+трепет
+trespass
+нарушать границу	нарушение
+trespasser
+нарушитель
+trespassing
+нарушение прав владения
+tress
+локон
+trestle
+эстакада
+trey
+тройка
+triable
+рассматриваемый судом
+triad
+триада
+triadic
+триадический
+triage
+сортировка
+trial
+испытание	суд	опытный
+trial balance
+пробный (предварительный) баланс
+trial calculation
+пробные расчеты
+triangle
+треугольник
+triangular
+треугольный
+triangulate
+триангулировать
+triangulation
+триангуляция
+triassic
+триасовый
+tribadism
+лесбийская	любовь
+tribal
+племенной
+tribally
+племенем
+tribe
+племя
+tribesman
+член племени
+tribeswoman
+женщина из племени
+tribit
+трибит
+tribulation
+страдание
+tribunal
+суд
+tribune
+трибуна
+tributary
+приток	подчиненный
+tribute
+награда
+trice
+мгновение
+tricentennial
+трехсотлетие	трехсотлетний
+triceps
+трехглавый	мышца
+triceratops
+трицератопс (трехрогий динозавр)
+trichina
+трихина
+trichinosis
+трихинеллез
+trichloride
+трихлорид
+trichloroethane
+трихлорэтан
+trichloroethylene
+трихлорэтилен
+trichloroflouromethane
+трихлорофторометан
+trichotomy
+разделение на три части
+trick
+хитрость
+tricker
+обманщик
+trickeries
+обман
+trickery
+обман
+trickily
+хитро
+trickiness
+хитрость
+trickle
+сочиться	струйка
+trickster
+обманщик
+tricky
+мудреный
+tricolor
+трехцветный
+tricorn
+треугольный	трехрогий
+tricot
+трико
+tricots
+трико
+tricycle
+трехколесный	велосипед	трехколесный
+tricyclic
+трехцикличный
+trident
+трезубец
+tried
+пытаться	г)пробовать	проверенный
+triennial
+трехгодичный
+triennially
+раз в три года
+triennium
+трехгодичный	период
+tries
+пытаться	г)пробовать
+triethyl
+триэтил
+trifle
+шутить	пустяк
+trifle away
+зря тратить
+trifled
+играть
+trifler
+бездельник
+trifling
+пустяковый
+triflingly
+незначительно
+trifocals
+трифокальные	очки
+trifoliate
+трехлистный
+trifurcated
+трехветвистый
+trig
+тригонометрический
+trig package
+тригонометрический пакет. пакет подпрограмм для вычисления тригонометрических функций
+trigger
+инициировать	запускать	триггер
+trigger price
+начальная цена
+triggering
+запускать	запуск	пусковой
+trigonometric
+тригонометрический
+trigonometrical
+тригонометрический
+trigonometry
+тригонометрия
+trigram
+триграмма
+trihedral
+трехгранный
+trihedron
+трехгранник
+trike
+сочиться	струйка
+trilateral
+трехсторонний
+triliteral
+трехбуквенный
+trill
+выводить трель	трель	дрожащий
+trillion
+триллион
+trillionth
+триллионный
+trillium
+триллиум
+trilogy
+трилогия
+trim
+приспосабливать	порядок
+trimaran
+тримаран
+trimester
+триместр
+trimly
+аккуратно
+trimmer
+приводящий в порядок
+trimming
+приспосабливать	подгонка
+trimness
+готовность
+trimonthly
+трехмесячный
+trinal
+тройной
+trinidad
+тринидад
+trinitarian
+триипостастник
+trinitarianism
+тринитаризм
+trinitrotoluene
+тротил
+trinity
+троица
+trinket
+безделушка
+trinomial
+трехчлен	трехчленный
+trio
+трио
+triode
+триод
+triology
+троица
+trios
+трио
+trioxide
+трехокись
+trip
+поездка
+tripartite
+трехсторонний
+tripartition
+деление на три части
+tripe
+рубец
+triphammer
+падающий	молот
+triple
+утраивать	тройной
+tripled
+утраивать	утроенный
+tripler
+утроитель
+triplet
+триплет
+triplex
+тройной
+triplicate
+утраивать
+triplication
+утроение
+tripling
+утроение
+triply
+трижды
+tripod
+тренога
+tripodal
+треногий
+tripoli
+триполи
+tripped
+спотыкаться
+tripper
+тележка
+tripping
+отключать	отключение	отключающий
+triptych
+триптих
+tripwire
+шнур
+trireme
+трирема
+trisect
+делить на три части
+trisection
+разделение на три части
+trisexual
+трисексуал
+tristable
+Пс тремя устойчивыми состояниями
+tristate
+Пс тремя состояниями
+trisyllabic
+трехсложный
+trite
+банальный
+tritely
+банально
+triteness
+избитость
+tritium
+тритий
+triton
+тритон
+tritum
+тритий
+triturable
+растираемый в порошок
+triturate
+растирать в порошок
+triturated
+растирать в порошок	растертый в порошок	
+triturator
+аппарпт для растирания
+triumph
+торжествовать	триумф
+triumphal
+триумфальный
+triumphant
+победоносный
+triumphantly
+победоносно
+triumvir
+триумвир
+triumvirate
+триумвират
+triumviri
+триумвир
+triumvirs
+триумвир
+triune
+триединый
+trivalent
+трехвалентный
+trivet
+таган
+trivia
+мелочь
+trivial
+тривиальный
+triviality
+мелочь
+trivially
+тривиально
+trivium
+тривиум
+trochaic
+хореический
+troche
+таблетка
+trochee
+хорей
+trod
+ступать
+trodden
+ступать
+troglodyte
+троглодит
+troika
+тройка
+trojan
+троянец	троянский
+troll
+распевать	тролль
+trolled
+распевать
+trolley
+троллейбус
+trollop
+неряха
+trombone
+тромбон
+trombonist
+тромбонист
+troop
+отряд	войсковой
+troop away
+удаляться [-литься]
+troop off
+удаляться [-литься]
+trooped
+собираться толпой
+trooper
+кавалерист
+trooping
+собраться толпой
+troops
+воен)войско
+troopship
+войсковой	транспорт
+trop
+троп
+trope
+троп
+trophy
+приз
+tropic
+тропик
+tropical
+тропический
+tropically
+тропически
+tropism
+тропизм
+troposphere
+тропосфера
+tropospheric
+тропосферный
+trot
+рысить	рысь
+troth
+верность
+trotskyite
+троцкист
+trotted
+рысить
+trotter
+рысак
+trotting
+рысить
+troubadour
+трубадур
+trouble
+беспокоить	проблема
+troubled
+беспокоить	беспокойный
+troublemaker
+смутьян
+troubleshoot
+искать неисправность
+troubleshooter
+щуп
+troubleshooting
+диагностика	диагностический
+troubleshooting problem
+тестовая задача
+troubleshooting routine
+тестовая программа; (для обнаружения и локализации ошибки)
+troublesome
+ненадежный
+troublesomely
+ненадежно
+trough
+кормушка	впадина
+trounce
+разбивать
+troupe
+труппа
+trouper
+член труппы
+trouser
+брючный
+trousers
+брюки
+trousseau
+приданое
+trousseaus
+приданое
+trousseaux
+приданое
+trout
+форель
+trouts
+форель
+trove
+коллекция находок
+trover
+иск о возмещении убытков
+trowel
+раэглаживать	мастерок
+troy
+троя
+truancy
+прогул
+truant
+прогульщик
+truce
+перемирие
+truck
+грузовик
+truck shipments
+перевозки автотранспортом
+truck-farmer
+огородник
+truckage
+перевозка на грузовиках
+truckdriver
+водитель грузовика
+trucked
+перевозить на грузовиках
+trucker
+водитель грузовика
+trucking
+перевозка на грузовиках
+trucking order
+заказ на предоставление грузчиков
+truckle
+раболепствовать
+truckler
+подхалим
+truckline
+семейство грузовых автомобилей
+truckload
+грузоподъемность
+truckman
+водитель
+truculence
+свирепость
+truculency
+свирепость
+truculent
+свирепый
+truculently
+свирепо
+trudge
+тащиться
+true
+верно	истиный	истинность
+true complement
+точное дополнение
+true value
+истинное значение
+trued
+выверять	выверенный
+trueing
+выверять	выправка
+trueness
+истинность
+truffle
+трюфель
+truism
+избитая	истина
+truly
+истинно	поистине
+trump
+козырь	козырный
+trump up
+выдумывать [выдумать]
+trumpery
+чепуха
+trumpet
+труба
+trumpeter
+трубач
+trumpeting
+игра на трубе
+truncate
+исключать
+truncated
+исключать	усеченный
+truncation
+округление
+truncation error
+ошибка округления
+truncator
+транкатор
+truncheon
+жезл
+trundle
+катить	колесико
+trunk
+шина
+trunk-call
+вызов по междугородному телефону
+trunk-line
+магистраль *	междугородная линия
+trunkline
+прямая	линия
+truss
+ферма
+trust
+верить	доверие	экон)траст
+trust fund
+целевой фонд
+trusted
+верить	надежный
+trustee
+попечитель
+trusteeship
+опека
+truster
+экон)доверитель	кредитор
+trustful
+доверчивый
+trustfully
+доверчиво
+trustfulness
+доверчивость
+trusthouse
+трастовая	компания
+trustor
+экон)доверитель	кредитор
+trustsheep
+выполнение доверительных функций
+trustworthiness
+надежность
+trustworthy
+надежный
+trusty
+верный
+truth
+истина
+truth table
+истинностная таблица. способ задания логической функции в виде таблицы, каждый элемент которой соответствует комбинации аргументов
+truth value
+истинностное значение
+truthful
+правдивый
+truthfully
+правдиво
+truthfulness
+правдивость
+try
+пытаться	г)пробовать	попытка
+try on
+примерять [-ерить] (на себя)
+trying
+пытаться	г)пробовать	попытка	трудный
+tryingly
+тяжело
+tryout
+проба
+tryst
+любовное	свидание
+tsar
+царь
+tsarevitch
+царевич
+tsarevna
+царевна
+tsarina
+царица
+tsarism
+царизм
+tsarist
+царский
+tsetse
+цеце
+tsunami
+цунами
+tsunamic
+цунамический
+tsunamis
+цунами
+tub
+ванна
+tuba
+туба
+tubal
+трубный
+tubbiness
+пухлость
+tubby
+пухлый
+tube
+трубка	тюбик	лампа
+tubeless
+бескамерный
+tuber
+клубень
+tubercle
+бугорок
+tubercular
+туберкулезный
+tuberculosis
+туберкулез
+tuberculous
+туберкулезный
+tuberose
+тубероза
+tuberosity
+бугорок	узелок	бугристость
+tuberous
+клубневой
+tubing
+тюбинг
+tubular
+трубчатый
+tubularly
+трубчато
+tubule
+трубочка
+tuck
+подоткнуть	вытачка
+tuck up
+подвертывать [-вернуть] (подол)	засучивать [-чить] (рукава)
+tucked
+подоткнуть
+tucker
+подвертывающая	машина
+tue
+#вт	
+tues
+#вт	
+tuesday
+вторник	во вторник
+tufa
+известковый	туф
+tufaceous
+туфовый
+tuft
+пучок
+tufted
+стеганый
+tug
+буксировать	буксир
+tugboat
+буксир
+tugged
+буксировать
+tugger
+буксир
+tugging
+буксировать	буксировка
+tuition
+плата за обучение
+tularemia
+туляремия
+tulip
+тюльпан
+tulle
+тюль	тюлевый
+tumble
+обрушивать	падение
+tumble-down
+полуразрушенный
+tumbled
+обрушивать	упавший
+tumbledown
+обветшалый
+tumbler
+тумблер
+tumbleweed
+перекати-поле
+tumbleweeds
+перекати-поле
+tumbling
+поворот
+tumbrel
+самосвальная	тележка
+tumefaction
+опухание
+tumefy
+распухать
+tumid
+распухший
+tumidity
+напыщенность
+tummy
+животик
+tumor
+опухоль
+tumorous
+опухолевый
+tumult
+суматоха
+tumults
+суматоха
+tumultuous
+шумный
+tumultuously
+возбужденно
+tumultuousness
+возбужденность
+tuna
+тунец
+tunability
+возможность настройки
+tunable
+регулируемый	мелодичный
+tunably
+мелодично
+tundra
+тундра
+tune
+настраивать	мелодия
+tune in
+настраивать приемник (to на *В)
+tuneable
+регулируемый
+tuned
+настраивать	настроенный
+tuneful
+мелодичный
+tunefully
+гармонично
+tunefulness
+гармоничность
+tuneless
+немелодичный
+tunelessly
+немелодично
+tuner
+тьюнер	приемник
+tuneup
+регулировка
+tuneups
+регулировка
+tungsten
+вольфрам	вольфрамовый
+tungstenic
+вольфрамовый
+tunic
+туника
+tuning
+настраивать	настройка
+tunis
+тунис
+tunisia
+тунис
+tunisian
+тунисец
+tunnel
+прокладывать	туннель	туннельный
+tunneled
+прокладывать тоннель	
+tunneler
+прокладыватель тоннелей
+tunneling
+прокладывать	туннелирование	тоннельный
+tunnelled
+прокладывать тоннель
+tunneller
+прокладыватель тоннелей
+tunnelling
+прокладка тоннелей
+tunneltron
+туннельтрон
+tunny
+тунец
+tup
+баран	баба
+tupenny
+башка
+tuple
+кортеж
+tuque
+вязаная	шапочка
+turban
+тюрбан
+turbid
+мутный
+turbidity
+мутность
+turbidly
+мутно
+turbidness
+мутность
+turbine
+турбина
+turbo
+турбо	турбо
+turbofan
+турбовентиляторный	двигатель
+turbojet
+турбореактивный	самолет
+turbopower
+турбореактивный
+turboprop
+турбовинтовой	самолет
+turbot
+тюрбо
+turbulence
+волнение
+turbulent
+бурный
+turbulently
+бурно
+tureen
+миска
+turf
+торф
+turfy
+торфянистый
+turgid
+опухший
+turgidity
+надутость
+turgidly
+напыщенно
+turin
+турин
+turk
+турок
+turkey
+индейка
+turkic
+тюркский
+turkish
+турецкий
+turmeric
+куркума
+turmoil
+беспорядок
+turn
+поворачивать	поворот	оборот
+turn about
+обертываться [обернуться]	поворачиваться кругом
+turn down
+отвергать [-ергнуть] (предложение)	загибать [загнуть]
+turn in
+заходить мимоходом	ложиться спать
+turn off
+закры(ва)ть (кран)	выключать [выключить]
+turn on
+откры(ва)ть (кран)	включать [-чить]
+turn out
+выгонять [выгнать]	увольнять [уволить]	выпускать [выпустить] (изделия)	оказываться [-заться]
+turn over
+перевертывать [-вернуть]	перед(ав)ать (доверенность и т.п.)
+turn purple
+[по]багроветь
+turn somersetsaults
+кувыркаться
+turn to
+приниматься [-няться] за	обращаться [обратиться] к
+turn up
+поднимать вверх	появляться [-виться]	случаться [-читься]
+turn upon
+обращаться [обратиться] против
+turnabout
+изменение позиции
+turnaround
+реверсирование
+turnaround time
+длительность цикла обработки. в системе пакетной обработки - время от	момента сдачи задания до получения	результатов
+turnbuckle
+винтовая	стяжка
+turncoat
+перебежчик
+turndown
+наклон	отложной
+turned
+поворачивать
+turner
+токарь
+turning
+поворачивать	поворот	поворотный
+turning-point
+поворотный пункт	перелом
+turnip
+репа
+turnkey
+под-ключ
+turnkey contract
+контракт на строительство "под ключ" (с доведением объекта	до полной эксплуатационной готовности)
+turnkey system
+система, сдаваемая "под ключ". система (вычислительная система или	программный продукт), не предполагающая никакой доработки или настройки пользователем
+turnoff
+выключение
+turnout
+собрание
+turnover
+опрокидывание	экон)оборот	оборотный
+turnover ratio
+норма оборачиваемости (оборота)
+turnpike
+автомагистраль
+turnstile
+турникет
+turntable
+поворотный	круг
+turnup
+загиб
+turpentine
+скипидар
+turpitude
+развращенность
+turquoise
+бирюза	бирюзовый
+turquoises
+бирюза
+turret
+головка
+turreted
+Пс головкой
+turtle
+черепаший
+turtle graphics
+черепашья графика; графика, использующая только относительные команды
+turtledove
+горлица
+turtleneck
+ворот-стойка
+tusk
+бивень
+tusked
+Пс бивнями
+tusker
+животное с бивнями
+tussive
+кашлевой
+tussle
+драться	драка
+tussock
+кочка
+tussocky
+кочковатый
+tut
+цыц
+tutankhamen
+тутанхамон
+tutelage
+обучение
+tutelar
+опекунский
+tutelary
+опекунский
+tutor
+обучать	преподаватель
+tutoress
+учительница	опекунша
+tutorial
+консультация
+tutoring
+обучение
+tutorship
+обязанность опекуна
+tutu
+пачка
+tux
+смокинг
+tuxedo
+смокинг
+tv
+#тв
+twaddle
+болтать	болтовня
+twaddler
+пустослов
+twain
+пара
+twang
+гнусавость
+twangy
+гнусавый
+tweak
+щипать	щипок
+tweaking
+щипать
+tweed
+твид	твидовый
+tweedy
+твидовый
+tweendeck
+транс)твиндек	твиндечный
+tweet
+чирикать	щебет
+tweeter
+высокочастотный	громкоговоритель
+tweezers
+пинцет	щипцы
+twelfth
+двенадцатый
+twelve
+двенадцать	двенадцати
+twelvemonth
+год
+twelver
+шиллинг
+twentieth
+двадцатый
+twenty
+двадцать	двадцати
+twerp
+хам
+twice
+дважды
+twiddle
+вертеть	тильда
+twiddler
+бездельник
+twig
+прут
+twiggy
+тонкий
+twilight
+сумерки
+twilights
+сумерки
+twilit
+сумеречный
+twill
+саржа
+twin
+двойной
+twine
+обвивать	шпагат
+twiner
+вьющееся	растение
+twinge
+угрызение совести
+twinkle
+мерцает	мерцание
+twinkler
+мигалка
+twinkling
+мерцать	мерцающий
+twinned
+сдвоенный
+twinning
+сдваивание	двойниковый
+twins
+близнец
+twirl
+кружить	кружение
+twist
+скручивать	искривление
+twistable
+скручиваемый
+twisted
+скручивать	искривленный
+twister
+крутильщик
+twisting
+скручивать
+twisty
+извилистый	уклончивый
+twit
+поддевать
+twitch
+дергать	подергивание
+twitchily
+нервно
+twitchingly
+нервно
+twitchy
+нервный
+twitter
+щебетать	щебет
+two
+два	двух
+two-way
+дуплексный; двухсторонний
+twofold
+вдвойне	двойственный
+twopence
+два	пенс
+twosome
+пара
+tycoon
+биржевой	магнат
+tyke
+малыш
+tylenol
+тиленол
+tyler
+тайлер
+tympani
+тимпан
+tympanic
+тимпанный
+tympanum
+барабанная	полость
+typamatic keyboard
+клавиатура с автоматическим повторением. клавиатура, обеспечивающая	повторную выдачу кода, если нажатая	клавиша не отпущена
+type
+набирать	тип
+type check
+проверять соответствие типов
+type checking
+контроль (соответствия) типов; проверка (соответствия) типов. проверка соответствия между операциями и	комбинациями типов операндов, между	формальными и фактическими параметрами и между левой и правой частями	присваивания. контроль типов может	выполняться статически - во время	трансляции, и динамически - во время выполнения программы
+type coercion
+приведение (типов). в языках с развитой системой типов данных - выполняемое транслятором преобразование	типа выражения к типу, требуемого	контекстом, или явно указанному типу. приведение может включать или	не включать преобразование представления значения
+type conversion
+преобразование типов. операция программы, преобразующая значение одного типа в соответствующее значение	другого типа
+type declaration
+описание типа
+type face
+начертание шрифта. вариант изображения литер одной гарнитуры:	например, полужирный, курсивный.	шрифт
+type mismatch
+несоответствие типов. ошибка в программе, вызванная нарушением правил	соответствия типов
+type specification
+описание типа
+type-in
+набирать, вводить
+type-out
+выводить, печатать (о действиях программы)
+typeahead buffer
+буфер клавиатуры. буфер, в который	записываются символы, поступившие	от клавиатуры раньше, чем они были	запрошены программой
+typed
+набирать	напечатанный
+typed constant
+типизованная константа. константа	определенного типа данных. в языке	со строгим контролем типов могут	различаться константы, имеющие одно	значение, но разные типы
+typed language
+язык с контролем типов
+typeface
+тип шрифта
+typematic
+автоматический
+typer
+принтер
+typescript
+машинописный	текст
+typeset
+автонабор
+typesetter
+наборщик
+typesetting
+набор
+typewrite
+печатать
+typewriter
+	пишущая	машинка
+typewriter keyboard
+клавиатура типа пишущей машинки
+typewritten
+печатать	отпечатанный
+typhoid
+тиф	тифозный
+typhoon
+тайфун
+typhous
+тифозный
+typhus
+тиф
+typic
+типичный
+typical
+типичный
+typicality
+типичность
+typically
+обычно	естественно
+typicalness
+типичность
+typification
+олицетворение
+typified
+отражать	отраженный
+typify
+отражать
+typing
+печатать	занесение
+typing system
+система типов
+typist
+оператор
+typo
+опечатка
+typographer
+печатник
+typographic
+типографский
+typographical
+типографский
+typographically
+типографски
+typography
+книгопечатание
+tyrannic
+тиранический
+tyrannical
+тиранический
+tyrannically
+тиранически
+tyrannicalness
+тираничность
+tyrannize
+тиранствовать
+tyrannosaur
+тиранозавр
+tyrannosaurus
+тиранозавр
+tyrannous
+тиранический
+tyranny
+тирания
+tyrant
+тиран
+tyre
+шина
+tyro
+новичок
+tzar
+царь
+tzarist
+царский

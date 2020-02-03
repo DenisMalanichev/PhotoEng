@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name='PhotoEng'
+include ':app', ':tess-two'
+include ':libraries:tess-two'
+project(':tess-two').projectDir = new File('libs/tess-two')

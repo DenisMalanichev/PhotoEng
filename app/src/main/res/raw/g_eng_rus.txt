@@ -1,0 +1,2263 @@
+
+gab
+болтать	болтовня
+gabardine
+габардин	габардиновый
+gabarit
+габарит
+gabby
+болтливый
+gable
+щипец
+gabon
+габон
+gabriel
+габриэль
+gad
+шляться
+gad about
+шляться, шататься
+gad-fly
+овод, слепень *
+gadfly
+овод
+gadget
+приспособление
+gadolinium
+гадолиний
+gaelic
+гэльский
+gaff
+рыболовный	багор
+gaffe
+оплошность
+gag
+давиться	кляп
+gage
+измеритель
+gaggle
+возмущаться	возмущение
+gai
+Йгаи
+gaiety
+веселось
+gaily
+весело
+gain
+приобретать	Р)выигрывать	прирост	увеличение
+gain sharing
+участие рабочих в прибылях предприятия
+gainer
+победитель
+gainful
+выгодный
+gainful employment
+работа за вознаграждение	оплачиваемая работа
+gainful occupation
+оплачиваемая работа	занятие, приносящее доход
+gainful workers
+рабочая сила
+gaining
+получать	получение
+gains
+получает	прибыль
+gainsay
+отрицать
+gait
+походка
+gaiters
+гетра
+gal
+девушка
+gala
+праздничный
+galactic
+астр)галактический
+galaxy
+астр)галактика
+gale
+шторм
+galena
+галенит
+galion
+галион
+gall
+желчь	желчный
+gallant
+галантный
+gallantry
+галантность
+galleon
+галеон
+gallery
+галерея
+galley
+галера
+galley-proof
+гранка
+gallic
+галльский
+gallicism
+галлицизм
+galling
+обидный
+gallinule
+водяная	курочка
+gallium
+галлий	галлиевый
+gallivant
+шляться
+gallnut
+чернильный	орешек
+gallon
+галлон
+gallop
+скакать галопом	галоп
+galloping inflation
+галопирующая инфляция
+gallows
+виселица
+gallstone
+желчный	камень
+gallup
+гэллоп
+galoon
+галун
+galore
+в изобилии
+galosh
+галоша
+galvanic
+гальванический
+galvanization
+гальванизация
+galvanize
+гальванизировать
+gambia
+гамбия
+gambit
+гамбит
+gamble
+играть	Т)рисковать	игра
+gambler
+игрок
+gambol
+резвиться
+game
+игра
+gameing
+играть	игорный
+gamely
+стойко
+gameplay
+компьютерный	игра
+gamete
+гамета
+gaming
+	теория деловых игр	игорный
+gamist
+специалист по теории игр
+gamma
+гамма
+gamut
+диапазон
+gander
+гусак	гандер
+gang
+комплект	галетный
+gang boss
+старший рабочий	десятник	артельщик
+gang foreman
+десятник	бригадир
+gang up
+организовать шайку
+ganged
+спаренный
+gangling
+долговязый
+ganglion
+ганглий
+gangplank
+сходня
+gangrene
+гангрена
+gangrenous
+гангренозный
+gangster
+гангстер
+gangway
+проход
+gannet
+олуша
+gantlet
+сквозь строй
+gaol
+тюрьма
+gap
+промежуток	брешь
+gape
+глазеть
+gaping
+глазеть	зияющий
+gar
+щука-травянка
+garage
+гараж
+garb
+наряд
+garbage
+мусор	мусорный
+garbage collect
+чистить память, собирать мусор
+garbage collection
+чистка памяти, сборка мусора. действия системы динамического распределения памяти для обнаружения неиспользуемых программой блоков памяти	и присоединения их к списку свободной памяти для повторного использования
+garbage collector
+сборщик мусора, программа чистки	памяти. часть системы динамического	распределения памяти, выполняющая	чистку памяти (garbage collection)
+garble
+искажать
+garbled
+искажать	искаженный
+garbling
+искажать	искажение
+garden
+сад
+gargantuan
+гигантский
+gargle
+полоскать горло
+gariand
+гирлянда
+garish
+ослепительный
+garland
+гирлянда
+garlic
+чеснок	чесночный
+garment
+одежда	предмет одежды
+garments
+одежда
+garner
+складывать	получить
+garnet
+гранат
+garnish
+украшать
+garnishment
+украшение	уведомление
+garniture
+гарнитур
+garret
+чердак
+garrison
+гарнизон
+garrulous
+болтливый
+garter
+орден подвязки
+gary
+гари
+gas
+газ	газовый
+gas-lighter
+газовая зажигалка
+gas-mantle
+калильная сетка
+gas-stove
+газовая плита
+gas-works
+газовый завод
+gaseous
+газообразный
+gash
+разрезать	порез
+gasket
+прокладка
+gaslight
+газовое	освещение
+gasmain
+газопровод
+gasolene
+газолин	газолиновый
+gasoline
+бензин	бензиновый
+gasp
+задыхаться
+gastonia
+гастония
+gastric
+желудочный
+gastritis
+гастрит
+gastrointestinal
+желудочно-кишечный
+gastronome
+гастроном
+gastronomic
+гастрономический
+gastronomy
+гастрономия
+gastropod
+гастропод
+gate
+пропускать	ворота
+gated
+пропускать	вентильный
+gatehouse
+сторожка
+gatekeeper
+привратник
+gates
+пропускать	ворота
+gateway
+шлюз	межсетевой
+gateway server
+шлюз; станция связи с внешней сетью. специализированный узел (станция) локальной сети, обеспечивающий	доступ узлов данной локальной сети	к внешней сети передачи данных и	другим вычислительным сетям
+gather
+собирать
+gather speed
+набирать скорость	ускорять ход
+gathering
+собирать	сбор
+gating
+вентильное	действие
+gatt
+гатт
+gauche
+бестактный
+gaudy
+кричащий
+gauge
+измеритель	мера
+gaunt
+изможденный
+gauntlet
+перчатка
+gauze
+марля
+gauzy
+прозрачный
+gavel
+молоток
+gawk
+глазеть
+gay
+веселый
+gayly
+весело
+gaz
+газ	газовый
+gaze
+глядеть	пристально
+gazelle
+газель
+gazette
+газета
+gazetteer
+географический	справочник
+gdp
+#вал	нац	продукт
+gear
+устройство	мех)шестерня	передача
+gearbox
+коробка передач
+gearboxes
+редуктор
+gearcase
+коробка передач
+gearchange
+переключение передач
+gearchanging
+переключение передач
+geared
+включать
+gearing
+включать	привод
+gearless
+бескрановый
+gearshift
+переключение передач
+gearwheel
+шестерня
+gedanken
+недоделанный
+geese
+гусь
+geisha
+гейша
+gel
+гель
+gelatin
+желатин	желатиновый
+gelatine
+желатин	желатиновый
+gelatinous
+желатиновый
+geld
+кастрировать
+gelding
+мерин
+gelid
+замороженный
+gelt
+кастрировать
+gem
+драгоценный	камень
+gemini
+близнец
+gemma
+почка
+gemstone
+драгоценный	камень
+gendarme
+жандарм
+gendarmerie
+жандармерия
+gender
+род
+gene
+ген
+genealogical
+генеалогический
+genealogy
+генеалогия
+general
+генерал	Д)общее	общий
+general accountant
+главный бухгалтер
+general accounting
+общий бухгалтерский учет
+general agency
+генеральное агенство
+general agent
+генеральный агент
+general average
+общая авария (в страховании)
+general cargo
+генеральный груз	смешанный (сборный) груз
+general election
+всеобщие выборы *
+general employment
+общее число занятых
+general engineering
+общее машиностроение
+general equilibrium
+общее (рыночное) равновесие
+general estimate
+генеральная смета
+general expenses
+общие накладные расходы
+general factor
+общий множитель
+general farms
+неспециализированные фермы
+general foreman
+старший мастер
+general fund
+нецелевой фонд	фонд на разные расходы
+general labour
+вспомогательные рабочие	разнорабочие
+general layout
+генеральный план
+general ledger
+общая главная (бухгалтерская) книга
+general manager
+главный управляющий	директор-распорядитель
+general meeting
+общее собрание (акционеров, пайщиков)
+general office
+главная контора	штаб-квартира
+general overhaul
+капитальный ремонт
+general overhead
+общие накладные расходы
+general report
+сводный отчет
+general ship
+грузовые суда общего назначения (перевозящие грузы различных грузоотправителей)
+general store
+сельский магазин
+general strike
+всеобщая стачка
+general stuff
+администрация	административный персонал
+general theory
+общая теория
+general totality
+генеральная совокупность
+general worker
+неквалифицированный рабочий	разнорабочий
+generalissimo
+генералиссимус
+generality
+общность
+generalization
+обобщение
+generalize
+обобщать
+generalized
+обобщать	универсальный
+generally
+обычно
+generate
+генерировать
+generate employment
+создавать новые (дополнительные) рабочие места	увеличивать занятость
+generating
+генерировать	генерация
+generation
+поколение	генерация
+generation number
+номер версии (файла)
+generation time
+время одного поколения
+generative
+порождающий
+generative grammar
+порождающая грамматика. формальное	описание языка в виде совокупности	правил вывода (inference rule)
+generator
+генератор
+generic
+общий	родовой
+generic description
+обобщенное описание
+generic function
+родовая функция
+generic operation
+родовая операция
+generic package
+родовой пакет, настраиваемый пакет
+generic procedure
+родовая процедура
+generic subroutine
+родовая подпрограмма
+generic type
+родовой тип, параметризованный тип;	настраиваемый тип. понятие языка	программирования, определяющее класс типов данных, различающихся значениями некоторого параметра или	группы. родовой тип используется	только для описания конкретных типов или других родовых объектов, но	не для определения переменных
+generically
+вообще
+genericity
+степень универсальности
+generosity
+щедрость
+generous
+великодушный	обильный
+generously
+щедро
+genesis
+генезис
+genetic
+генетический
+genetically
+генетически
+geneticist
+генетик
+genetics
+генетика
+geneva
+женева	женевский
+genial
+сердечный
+genie
+джин
+genii
+гений
+genital
+половой
+genitive
+родительный
+genius
+гений
+genocide
+геноцид
+genre
+жанр	жанровый
+genteel
+благовоспитанный
+gentian
+горечавка
+gentile
+нежный
+gentility
+родовитость
+gentle
+мягкий
+gentlefolk
+дворянство
+gentleman
+джентльмен
+gentlemanly
+по-джентельменски	благопристойный
+gentlemen
+господа
+gentleness
+мягкость
+gently
+осторожно	мягко
+gentry
+дворянство
+genue
+вид
+genuflect
+преклонять колена
+genuine
+истинный
+genuinely
+искренне
+genus
+род
+geo
+гео
+geocentric
+геоцентрический
+geodesy
+геодезия
+geodetic
+геодезический
+geographer
+географ
+geographic
+географический
+geographical
+географический
+geography
+география
+geologic
+геологический
+geological
+геологический
+geological examination
+геологическое изыскание	бурение
+geologist
+геолог
+geology
+геология
+geometric
+геометрический
+geometric average
+среднегеометрическая (величина)
+geometric distribution
+геометрическое распределение
+geometric mean
+геометрическая средняя
+geometry
+геометрия
+geophisical
+геофизический
+geophisics
+геофизика
+geophysics
+геофизика
+geopolitics
+геополитика
+geoprocessing
+обработка данных о земле
+georga
+джорджа
+george
+джордж
+georgia
+джорджия
+georgian
+грузин	грузинский
+geothermal
+геотермический
+geranium
+герань
+gerbil
+песчинка
+geriatric
+гериатрический
+geriatrics
+гериатрия
+germ
+микроб
+german
+немец	1)немецкий	немецкий	по-немецки	немецко
+german silver
+нейзильбер
+germane
+относящийся к делу
+germanic
+германский
+germanium
+германий	германиевый
+germany
+германия
+germinal
+зачаточный
+germinate
+порождать
+germination
+прорастание
+gerontology
+геронтология
+gerund
+герундий
+gestalt
+гештальт
+gestate
+вынашивать
+gestation period
+период (срок) ввода в действие
+gesticulate
+жестикулировать
+gesticulation
+жестикуляция
+gesture
+жест
+get
+получать	становиться	убеждать	понять, осознать	удивить, изумить
+get about
+начинать ходить (после болезни)
+get abroad
+распространяться [-ниться] (о слухах)
+get accustomed
+привыкать [-выкнуть]
+get ahead
+продвигаться вперед
+get at
+доб(и)раться до
+get away
+уд(и)рать, уходить [уйти]	отправляться [-авиться]
+get drunk
+напиваться пьяным
+get in
+входить [войти]
+getting
+получать	а)и)становиться	х)уговаривать	получение
+getup
+наряд
+geyser
+гейзер
+ghastly
+жуткий
+ghat
+горный	переход
+gherkin
+корнишон
+ghetto
+гетто
+ghost
+призрак
+ghostly
+призрачный
+ghoul
+вампир
+ghoulish
+жуткий
+giant
+гигант	гигантский
+gibberish
+тарабарщина
+gibbet
+виселица
+gibbon
+гиббон
+gibbous
+закругленный
+gibe
+насмехаться	насмешка
+giblet
+потроха
+gibraltar
+гибралтар
+giddap
+гей
+giddiness
+головокружение
+giddy
+головокружительный
+giddyap
+гей
+gift
+дар (подарок)	артс)талант
+gift tax
+налог на дарение
+gifted
+одаренный
+giftware
+подарок
+gig
+гарпунить	гарпун	шарабан	работа музыканта
+gigabyte
+гигабайт
+gigantic
+гигантский
+gigantle
+гигантский
+giggle
+хихикать
+gigolo
+сутенер
+gild
+золотить
+gilded
+позолоченный
+gilding
+золотить	золочение
+gillette
+жилетт
+gills
+жабры
+gillyflower
+левкой
+gilt
+позолота	золоченный
+gimlet
+бурав
+gimmick
+трюк
+gin
+джин
+ginger
+имбирь	имбирный
+gingerbread
+пряник
+gingerly
+осмотрительно
+gingival
+десна	десенный
+gingivitis
+гингивит
+ginseng
+женьшень
+gipsy
+цыган	цыганский
+giraffe
+жираф
+girandole
+жирандоль
+gird
+подпоясывать
+girder
+техн)балка
+girdle
+пояс
+girl
+девушка
+girlfriend
+подруга
+girlhood
+девичество
+girlish
+девический
+giro
+жирорасчеты
+girth
+обхват
+gist
+суть
+give
+давать
+give away
+отд(ав)ать	выда(ва)ть, пред(ав)ать
+give forth
+изд(ав)ать (запах и т.п.)	объявлять [-вить]
+give in
+под(ав)ать	уступать [-пить]
+give into
+выходить на  (об окнах и т.п.)
+give notice
+предупреждать об увольнении (или об уходе)	извещать [-естить]
+give on
+выходить на  (об окнах и т.п.)
+give upon
+выходить на  (об окнах и т.п.)
+give way
+уступать [-пить]
+giveaway programmes
+программы даровых (безвозмездных) поставок
+given
+давать	данный
+giving
+давать	подача	щедрый
+glacial
+ледниковый
+glacier
+ледник
+glad
+радый
+gladden
+радовать
+glade
+поляна
+gladiator
+гладиатор
+gladiolus
+гладиолус
+gladly
+охотно
+gladness
+радость
+glamorous
+очаровательный
+glamour
+очарование
+glamourous
+очаровательный
+glance
+взгляд
+glance at
+мельком взглянуть на
+gland
+железа
+glanders
+сап
+glandular
+железистый
+glandule
+железка
+glare
+фото)сверкать	блик
+glaring
+ослепительный
+glasgow
+глазго
+glasnost
+гласность
+glass
+стекло	Р)стакан	стеклянный
+glass teletype
+"стеклянный телетайп". о применении	видео-терминала для последовательного вывода и ввода строк текста без	использования средств управления	курсором и экранных операций
+glass-shade
+(стеклянный) колпак	абажур
+glassful
+стакан
+glasspaper
+шкурка
+glassware
+стекольный	изделие
+glassworks
+стекольный	завод
+glassy
+стеклянный
+glaucoma
+глаукома
+glaze
+глазировать	глазурь
+glazed
+глазированный
+glazier
+стекольщик
+gleam
+блестеть	проблеск
+gleaming
+блестеть	светящийся
+glean
+отбирать	тщательно
+glee
+радость
+glee club
+клуб для хорового пения
+gleeful
+радостный
+glen
+лощина
+glib
+бойкий
+glide
+скользить	планировать
+glider
+планер
+glimmer
+мерцать	мерцание
+glimpse
+проблеск
+glint
+блестеть	блеск
+glisten
+блестеть
+glitch
+глитч
+glitter
+блестеть	блеск
+gloaming
+сумерки
+gloat
+злорадствовать
+gloat on
+пожирать глазами
+gloat over
+пожирать глазами
+gloat upon
+пожирать глазами
+global
+глобальный
+global identifier
+глобальный идентификатор, глобальное имя
+global optimization
+глобальная оптимизация.	оптимизация программы на уровне	операторов и процедур: вынесение	константных выражений из циклов,	объединение общих последовательностей, выполнение смешанных вычислений (partial evaluation).	нахождение глобального максимума	или минимума целевой функции
+global permit
+общее разрешение
+global quota
+общая квота
+global quotas
+глобальные квоты
+global slump
+мировой спад	мировой кризис
+global total
+итог(о) по всем странам мира
+global variable
+глобальная переменная. переменная,	описанная в объемлющем блоке; переменная, описанная на верхнем уровне
+globalink
+Йглобалинк
+globalization
+глобализация
+globe
+земной	шар
+globous
+шаровидный
+globular
+шаровой
+globule
+шарик
+gloom
+мрак
+gloominess
+мрачность
+gloomy
+мрачный
+glorification
+прославление
+glorify
+прославлять
+glorious
+славный
+glork
+сбиваться
+glory
+слава
+gloss
+смазывать	глянец
+gloss over
+прикрашивать [-красить]
+glossary
+глоссарий	словарный
+glossy
+глянцевый
+glottis
+голосовая	щель
+glottochronological
+глоттохронологический
+glottochronology
+глоттохронология
+glove
+перчатка
+glow
+светиться	свечение	разряд
+glower
+смотреть зверем
+glowing
+яркий
+glowworm
+светляк
+gloxinia
+глоксиния
+glucose
+глюкоза
+glue
+клеить	клей
+glum
+мрачный
+glut
+пресыщать	избыток
+glutted market
+затоваривание (рынка)
+glutton
+обжора
+gluttonous
+прожорливый
+gluttony
+обжорство
+glycerin
+глицерин
+glycerine
+глицерин
+glycogen
+гликоген
+glycol
+гликоль
+gmt
+#по Гринвичу
+gnarl
+сучок
+gnarled
+сучковатый
+gnash
+скрежетать
+gnat
+мошка
+gnaw
+грызть
+gnawing
+сверлящий
+gneiss
+гнейс
+gnome
+гном
+gnu
+гну
+go
+ходить|пойти	Х)проходить
+go astray
+заблудиться, сбиться с пути
+go at
+набрасываться [-роситься] на
+go between
+посредничать между
+go by
+проходить [пройти]	руководиться
+go for
+идти [пойти] за
+go mad
+сходить с ума
+go marketing
+ходить на рынок
+go off
+уходить [уйти]
+go on
+продолжать [-должить]	идти дальше
+go shares
+делиться поровну
+goad
+подгонять
+goal
+цель	целевой
+goal function
+целевая функция. в задачах оптимизации - функция, значение которой	необходимо сделать максимальным или	минимальным; функция, описывающая	степень близости к цели
+goalie
+вратарь
+goalkeeper
+вратарь
+goals thrashing
+переполнение списка целей.	* система логического вывода (inference)
+goat
+козел	козий
+goatee
+козлиная	бородка
+goatskin
+козья	шкура	козловый
+goatsucker
+козодой
+gobble
+поглощать
+goblet
+бокал
+goblin
+гном
+goby
+бычок
+god
+бог
+godchild
+крестник
+goddaughter
+крестница
+goddess
+богиня
+godfather
+крестный	отец
+godforsaken
+захолустный
+godless
+безбожный
+godlessness
+безбожие
+godly
+набожный
+godmother
+крестная	мать
+godparent
+крестный
+godsend
+божий	дар
+godson
+крестник
+goes
+идет
+goggle
+таращить глаза
+goggles
+таращиться	очка
+going
+ходить	действующий
+going business
+действующее коммерческое предприятие
+going concern
+действующее предприятие
+going rate
+общепринятая ставка
+going value
+текущая стоимость
+going wage
+общепринятая ставка зарплаты
+goiter
+зоб
+gold
+золото	золотой
+gold backing
+золотое покрытие
+gold clause
+золотая оговорка (о золотом обеспечении)
+gold cover
+золотое покрытие	золотой резерв
+gold flows
+движение золота (из страны в страну)
+gold inflow
+прилив золота
+gold link
+связь с золотом
+gold parity
+золотой паритет	золотое содержание валюты
+gold point
+золотая точка
+gold points
+золотые точки (максимальные пределы отклонения валютного	курса от монетного паритета при золотом стандарте)
+gold pool
+золотой пул
+gold reserve
+золотой запас
+gold reserves
+золотой запас
+gold standard
+золотой стандарт
+gold stock
+золотой запас
+gold substitutes
+заменители золота
+golden
+золотой	золотистый
+goldeneye
+гоголь
+goldenrod
+золотарник
+goldfinch
+щегол
+goldfish
+золотая	рыбка
+goldmine
+золотое	дно
+golf
+гольф
+gonad
+яичник
+gondola
+гондола
+gondolier
+гондольер
+gone
+идти	Х)проходить	ушедший
+gong
+гонг
+gonococcus
+гонококк
+gonorrhea
+гоноррея
+gonorrhoera
+гоноррея
+goo
+липкий
+goober
+арахисовый	орех
+good
+хорошо	хороший
+good bargain
+выгодная сделка
+good delivery
+поставка (доставка) товаров в хорошем состоянии
+good luck
+счастливый случай, удача
+good offices
+добрые услуги
+good seller
+$ ходкий товар
+good title
+законный титул
+good will
+доброе имя (репутация) фирмы
+goodby
+до свидания
+goodly
+изрядный
+goodness
+хорошее	качество
+goods
+товар
+goods carried
+грузооборот
+goodwill
+добрая	воля
+goof
+глупость	глупый
+goofy
+дурацкий
+goon
+придурок
+goose
+гусь	гусиный
+goose-flesh
+FIG* гусиная кожа (от холода)
+goose-pimples
+PL гусиная кожа (от холода)
+gooseberry
+крыжовник
+gopher
+суслик
+gore
+бодать	кровь
+gorge
+обкармливать	ущелье
+gorgeous
+великолепный
+gorilla
+горилла
+gory
+кровавый
+gosh
+боже
+goshawk
+тетеревятник
+gosling
+гусенок
+gospel
+евангелие
+gossamer
+паутина
+gossip
+сплетничать	сплетня
+goth
+гот
+gothic
+готический
+gotten
+получать
+gouache
+гуашь
+gouge
+долбить	обжуливать	долото	канавка
+goulash
+гуляш
+gourd
+горлянка
+gourmand
+обжора
+gourmet
+гурман
+gout
+подагра
+gouty
+подагрический
+govern
+управлять
+governess
+гувернантка
+governing
+управлять	управление
+government
+союз)правительство	инф)руководство	государственный	правительственный
+government activitys
+сфера экономической деятельности государства
+government consumption
+государственное потребление
+government debt
+государственный долг
+government deficit
+дефицит государственного бюджета
+government employee
+государственный служащий
+government enterprise
+государственное предприятие
+government intervention
+государственное вмешательство (интервенция)
+government promotion
+государственное покровительство (поддержка)
+government receipts
+бюджетные поступления	государственные доходы
+government receiptss
+бюджетные поступления	государственные доходы
+government regulation
+государственное регулирование
+government securities
+государственные ценные бумаги
+government spending
+государственные расходы
+government take
+государственное потребление
+government workers
+государственные служащие
+governmental
+правительственный
+governments
+правительство	государственные ценные бумаги
+governor
+управляющий	регулятор
+gown
+платье
+grab
+захватывать	захват
+grabber
+эмулятор
+grace
+грация
+grace period
+льготный (бесплатный) период	срок отсрочки платежей
+graceful
+изящный	постепенный
+graceful degradation
+амортизация отказов, ошибкоустойчивость
+gracefully
+грациозно
+gracios
+любезный
+gracious
+любезный
+graciousness
+любезность
+gradation
+градация
+grade
+сортировать	сорт	степень	класс
+grade testing
+сортоиспытание
+grader
+грейдер
+gradient
+градиент	уклон
+grading
+сортировать	сортировка	уровень
+gradual
+постепенный
+gradually
+постепенно
+graduate
+оканчивать	и)	заканчивать обучение	выпускник
+graduate student
+аспирант
+graduated
+оканчивать	и)	заканчивать обучение	градуированный
+graduation
+окончание
+graduation curve
+(#стат.) кривая квантилей
+graduation work
+дипломная работа
+graffiti
+надпись на стене
+graffito
+надпись на стене
+graft
+прививать	черенок	подкуп
+grail
+чаша грааля
+grain
+зерно
+grain basis
+в пересчете на зерно
+grain bill
+вексель, выданный под зерно
+grain equivalent
+в пересчете на зерно (о продуктах мукомольной промышленности)
+grain exchange
+зерновая биржа
+grain pool
+кооператив по сбыту зерна
+grain supply
+ресурсы зерновых	зерновые ресурсы
+graininess
+степень дробности
+grainy
+зернистый
+gram
+грамм
+grammar
+грамматика	грамматический
+grammar school
+средняя школа	старшие классы средней школы
+grammatical
+грамматический
+grammatically
+грамматически
+grammatics
+грамматика
+gramme
+грамм
+gramophone
+граммофон	граммофонный
+grams
+грамм
+granary
+зернохранилище
+grand
+большой
+grand piano
+* рояль *
+grandchild
+внук
+grandchildren
+внук
+granddaughter
+внучка
+grandeur
+великолепие
+grandfather
+дед
+grandiose
+грандиозный
+grandmother
+бабушка
+grandparent
+дед	бабушка
+grandstand
+трибуна
+grange
+усадьба
+granite
+гранит	гранитный
+grant
+предоставлять	дар	конт)предоставление	субсидия	стипендия
+grant credit
+предоставлять кредит
+grant delay
+предоставлять отсрочку
+grant element
+льготный компонент
+grant-in-aid
+субсидии	дары в порядке помощи
+granted
+предоставлять	при условии
+grantee
+получатель
+granting
+предоставлять	при условии
+granting state
+бенефицирующее государство (предоставляющее помощь в кредит)
+grants
+предоставлять	субсидия
+granular
+зернистый
+granularity
+степень детализации
+granulate
+гранулировать
+granulated
+гранулированный
+granulation
+грануляция
+granule
+гранула
+grape
+виноград	виноградный
+grape-fruit
+* грейпфрут
+grapefruit
+грейпфрут
+grapevine
+виноградная	лоза
+graph
+граф
+graph follower
+устройство ввода контурных графических изображений
+graph theory
+теория графов
+graphechon
+графекон
+graphecon
+графекон
+grapheme
+графема
+grapher
+самописец
+graphic
+графический	символ	графический
+graphic arts
+изобразительные искусства *
+graphic character
+графический символ. литера, используемая для построения графических	изображений
+graphic chart
+график	диаграмма	кривая зависимости
+graphic display
+графический дисплей
+graphic interface
+графический интерфейс; средства графического взаимодействия
+graphic model
+пространственная диаграмма
+graphic pallet
+палитра. соответствие между кодами	цветов и цветами, изображаемыми на	экране дисплея
+graphic schedule
+календарный график
+graphic tablet
+(графический) планшет. устройство	для поточечного ввода контурных изображений
+graphical
+графический
+graphical arts
+изобразительные искусства *
+graphically
+наглядно
+graphics
+графика	графический
+graphics digitizer
+устройство ввода изображений. устройство, обеспечивающее ввод двумерного, возможно полутонового, изображения в ЭВМ в виде растровой матрицы
+graphics editor
+графический редактор, редактор изображений
+graphics mode
+графический режим. режим работы дисплея, обеспечивающий вывод графических изображений. растровые дисплеи с поточечной адресацией могут	обеспечивать несколько графических	режимов: в режиме с высоким разрешением (high resolution) каждый бит	представляет одну точку, точек на	экране много, а цветов мало; в режиме с низким разрешением (low resolution) каждая точка представляется	несколькими битами, поэтому точек	меньше, но цветов или уровней яркости больше
+graphics pad
+(графический) планшет
+graphics terminal
+графический терминал
+graphing
+построение графика
+graphite
+графит
+grapnel
+кошка
+grapple
+зацеплять
+grapple with
+бороться с	пытаться преодолеть (затруднение)
+grappling
+зацеплять
+grasp
+понимать	понимание	хватка
+grass
+трава
+grass-widow
+"соломенная" вдова
+grasshopper
+кузнечик
+grassland
+травяное	угодье
+grassy
+травянистый
+grate
+тереть	решетка
+grate on
+раздражать [-жить]
+grateful
+благодарный
+grater
+терка
+gratification
+удовлетворение
+gratify
+удовлетворять
+gratifying
+удовлетворять	обнадеживающий
+grating
+тереть	решетка	скрипучий
+gratis
+бесплатно	бесплатный
+gratitude
+благодарность
+gratuitous
+безвозмездный
+gratuity
+чаевые
+grave
+могила	ударение	серьезный	важный
+grave-digger
+могильщик
+gravedigger
+могильщик
+gravel
+гравий
+gravely
+тяжело
+graven
+высеченный
+gravestone
+могильная	плита
+graveyard
+кладбище
+gravitate
+тяготеть
+gravity
+тяжесть	серьезность
+gravy
+соус
+gray
+серый
+gray level
+уровень яркости
+gray scale
+шкала яркости
+grayscale
+полутоновая	шкала
+graze
+пастись
+grease
+смазывать	жир
+greased
+смазанный
+greasy
+грязный	сальный
+great
+большой
+great grandchild
+правнук (-учка)
+greater
+больше	больший
+greatest
+величайший
+greatly
+существенно
+greatness
+величие
+grebe
+поганка
+greece
+греция
+greed
+жадность
+greedily
+жадно
+greediness
+жадность
+greedy
+жадный
+greek
+грек	греческий
+green
+зеленый
+greenbelt
+зеленая	зона
+greenery
+зелень
+greenglass
+бутылочное	стекло
+greengrocer
+зеленщик
+greenhorn
+новичок
+greenhouse
+теплица
+greenish
+зеленоватый
+greenland
+гренландия
+greet
+приветствовать
+greeting
+приветствовать	приветствие
+gregarious
+общительный
+gregorian
+грегорианский
+gremlin
+чертенок
+grenade
+граната
+grenadier
+гренадер
+grenadine
+гренадин
+grew
+выращивать	и)расти
+grey
+серый
+grey market
+рынок остродефицитных товаров	полулегальный рынок	"серый" рынок (характеризуется продажей дефицитных товаров со значительной	наценкой)
+greyhound
+борзая
+greyhound system
+система "кто раньше"
+greyish
+сероватый
+grid
+сетка	решетка
+griddle
+сковородка
+gridiron
+рашпер
+grief
+горе
+grievance
+недовольство
+grievance committee
+смешанная комиссия по разбору трудовых конфликтов
+grieve
+горевать
+grievous
+мучительный
+griffin
+гриф
+griffon
+грифон
+grill
+гриль
+grill-room
+комната ресторана, где мясо жарится при публике
+grille
+решетка
+grilled
+жареный
+grim
+жуткий
+grimace
+ужимка
+grime
+сажа
+grin
+ухмыляться	усмешка
+grind
+перемалывать	шлифовать
+grinder
+дробилка
+grinding
+перемалывать	растирание	мучительный
+grindstone
+точильный	камень
+grip
+захватывать	зажим	чемодан
+gripe
+раздражать	ворчать	жалоба
+grippe
+грипп
+gripper
+механизм захвата
+grisly
+жуткий
+grist
+зерно для помола
+gristle
+хрящ
+grit
+стискивать	твердость	выдержка
+gritty
+шершавый
+grizzle
+седой
+grizzly
+гризли
+groan
+стонать	стон
+groats
+крупа
+grocer
+бакалейщик
+groceries
+продукт
+grocery
+продуктовый
+grog
+грог
+groggy
+обалделый
+groin
+пах
+gronk
+отключать
+gronked
+отключать	неработоспособный
+groom
+холить	конюх	жених
+groove
+бороздка
+groovy
+ограниченный
+grope
+нащупывать
+grosbeak
+дубонос
+gross
+брутто	валовой	грубый
+gross accumulation
+валовое накопление
+gross amount
+валовая сумма	сумма-брутто
+gross assets
+общая сумма активов
+gross balance
+предварительный (пробный) баланс
+gross coefficient
+общий коэффициент	брутто-коэффициент
+gross data
+валовые показатели
+gross earnings
+валовые прибыли
+gross error
+накопленная ошибка
+gross export
+валовый экспорт	брутто-экспорт
+gross index
+главный индекс, первичный индекс
+gross interest
+общая сумма процента
+gross investments
+валовые капиталовложения
+gross liabilities
+общая сумма обязательств
+gross margin
+валовая прибыль
+gross measure
+валовой показатель
+gross output
+валовая продукция
+gross proceeds
+валовая выручка (прибыль)
+gross product
+валовой продукт
+gross profit
+валовая прибыль
+gross receipts
+валовой доход (поступления)
+gross remuneration
+вознаграждение брутто
+gross rent
+валовая квартирная плата
+gross retention
+общая сумма нераспределенной прибыли и амортизационных отчислений
+gross return
+валовая прибыль	валовая сумма поступлений
+gross revenue
+валовой доход (бюджета)
+gross sales
+валовая выручка от реализации	валовой оборот	валовая сумма продаж
+gross weight
+брутто-вес
+grotesque
+абсурдный
+grotto
+грот
+grouch
+брюзга
+grouchy
+брюзгливый
+ground
+заземлять	земля	заземление
+ground glass
+матовое стекло
+ground rent
+арендная плата за землю
+ground-floor
+нижний этаж
+ground-staff
+нелетный состав
+grounded
+заземлять	заземленный
+groundhog
+сурок
+grounding
+заземлять	заземление	заземляющий
+groundless
+беспричинный
+groundswell
+мертвая	зыбь
+groundwater
+геол)	грунтовая	вода
+groundwork
+фундамент
+group
+группировать	группа	групповой
+group factor
+общий множитель
+group incentive
+коллективная форма поощрения
+group insurance
+коллективное страхование
+group medicine
+коллективное медицинское страхование
+group wage
+коллеективная оплата труда
+grouping
+группировать	группирование
+grouping criterion
+признак для объединения в группы	критерий группировки
+grouse
+тетерев
+grove
+роща
+grovel
+пресмыкаться
+grow
+выращивать	и)расти	б)расти
+growing
+выращивать	и)расти	рост	возрастающий
+growl
+рычать	рычание
+grown
+выращивать	и)расти
+grown-up
+взрослый
+growth
+рост	прирост
+growth curve
+кривая возрастающей функции
+growth potential
+потенциал роста
+growth rate
+темпы роста
+growth recession
+спад темпов роста	кризис, при котором продолжается слабый рост производства
+growth stock
+акции, курс которых растет длительное время и быстрее акций других компаний
+growth target
+намеченные темпы роста
+growth theory
+теория экономического роста
+grub
+выкорчевывать	личинка
+grubby
+грязный	неряшливый
+grudge
+злоба
+grudging
+неохотный
+grudgingly
+неохотно
+gruel
+кашица
+grueling
+изнурительный
+gruelling
+изнурительный
+gruesome
+жуткий
+gruff
+грубый
+grumble
+ворчать
+grump
+бука
+grumpy
+ворчливый
+grunt
+хрюкать	хрюкание
+gtc
+#гтк
+guano
+гуано
+guarantee
+гарантировать	гарантия
+guarantee commitment
+гарантийное обязательство
+guarantee fund
+фонд для оплаты обязательств по гарантиям	гарантийный фонд
+guarantee period
+гарантийный срок
+guarantee test
+гарантийное испытание
+guaranteed
+гарантировать
+guaranteed credit
+гарантированный кредит
+guaranteed royalty
+гарантированные платежи в счет роялти
+guarantor
+гарант	поручитель
+guaranty
+гарантия
+guard
+охранять	охрана
+guard bit
+разряд защиты, бит защиты
+guard digit
+разряд защиты. дополнительный разряд регистров, в которых располагаются промежуточные разряды, обеспечивающий сохранение точности
+guarded
+охранять
+guarded commands
+охраняемые команды. управляющая структура (control structure), обобщающая условный оператор и оператор	цикла с условием продолжения
+guardhouse
+караульная
+guardian
+опекун	сторож
+guardianship
+опекунство
+guardsman
+гвардеец
+guatemala
+гватемала
+guava
+гуава
+gubbish
+мусор
+gubernatorial
+губернаторский
+gudgeon
+ось	пескарь
+guerilla
+партизан	партизанский
+guernsey
+гернзейская	порода
+guerrilla
+партизан	партизанский
+guess
+догадываться	догадка
+guessing
+догадываться	рассуждение на базе догадок
+guesswork
+догадка
+guest
+гость
+guffa
+хохотать	хохот
+gui
+графический	интерфейс пользователя
+guiana
+гвиана
+guidance
+управление
+guide
+вести	руководство
+guide-book
+путеводитель *
+guide-post
+указательный столб
+guidebook
+путеводитель
+guided
+направлять	направляемый
+guideless
+неуправляемый
+guideline
+основное	направление
+guidelines
+руководящий	принцип
+guidepost
+указательный	столб
+guiding price
+ориентировочная цена
+guild
+гильдия
+guilder
+гульден
+guile
+хитрость
+guillemot
+чистик
+guillotine
+гильотина
+guilt
+вина
+guiltless
+невиновный
+guilty
+виновный
+guinea
+гвинея
+guise
+вид
+guitar
+гитара
+gulch
+ущелье
+gulden
+гульден
+gulf
+залив
+gull
+чайка
+gullet
+пищевод
+gullibility
+легковерие
+gullible
+легковерный
+gully
+овраг
+gulp
+глоток
+gum
+клей	смола
+gumbo
+бамия
+gumboil
+флюс
+gummy
+клейкий
+gumption
+смелость
+gums
+десна
+gun
+пушка	ружье
+gunboat
+канонерка
+gunfire
+орудийный	огонь
+gunk
+дрянь
+gunman
+бандит
+gunnel
+борт
+gunner
+артиллерист
+gunnery
+артиллерийское	депо
+gunny
+грубая	джутовая	ткань
+gunpoint
+дуло пистолета
+gunpowder
+порох
+gunshot
+выстрел
+gunsmith
+оружейник
+gunwale
+борт
+guppy
+гуппия
+gurgle
+булькать	булькание
+gush
+хлынуть
+gusher
+нефтяной	фонтан
+gusset
+клин
+gust
+порыв
+gustatory
+вкусовой
+gusto
+смак
+gusty
+порывистый
+gut
+кишка
+guts
+внутренность
+gutter
+сточная	канава
+guttersnipe
+беспризорник
+guttural
+горловой
+guy
+парень
+guyana
+гайана
+guzzle
+лакать
+gym
+гимнастический	зал
+gymnasium
+гимнастический	зал
+gymnast
+гимнаст
+gymnastic
+гимнастический
+gynecological
+гинеокологический
+gynecologist
+гинеколог
+gynecology
+гинекология
+gyp
+жулик
+gypsum
+гипс
+gypsy
+цыган	цыганка	цыганский
+gyrate
+вращаться
+gyration
+вращение
+gyrfalcon
+кречет
+gyrocompass
+гирокомпас
+gyroscope
+гироскоп
