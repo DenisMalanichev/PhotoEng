@@ -2,19 +2,19 @@ package com.example.photoeng;
 
 
         import android.content.Context;
+        import android.graphics.Bitmap;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
         import android.os.Bundle;
         import android.speech.tts.TextToSpeech;
-        import android.text.Editable;
-        import android.text.TextWatcher;
         import android.util.Log;
         import android.view.View;
         import android.widget.Button;
         import android.widget.EditText;
         import android.widget.TextView;
+        import com.googlecode.tesseract.android.TessBaseAPI;
         import java.io.BufferedReader;
-        import java.io.EOFException;
+        import java.io.File;
         import java.io.InputStream;
         import java.io.InputStreamReader;
         import java.util.Locale;
@@ -662,4 +662,6 @@ public class MainScreen extends MainActivity {
         }
         return false;
     }
+
+
 }
