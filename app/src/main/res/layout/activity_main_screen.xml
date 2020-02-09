@@ -40,6 +40,16 @@
             android:scaleType="centerCrop"
             android:background="@drawable/background"
             android:id="@+id/say"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="translate"
+            android:id="@+id/save_button"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="show"
+            android:id="@+id/show_button"/>
 
         <TextView
             android:layout_width="match_parent"

@@ -1,7 +1,10 @@
 package com.example.photoeng;
 
 
+        import android.content.ContentValues;
         import android.content.Context;
+        import android.database.Cursor;
+        import android.database.sqlite.SQLiteDatabase;
         import android.graphics.Bitmap;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
@@ -13,6 +16,8 @@ package com.example.photoeng;
         import android.widget.EditText;
         import android.widget.ImageButton;
         import android.widget.TextView;
+        import android.widget.Toast;
+
         import com.googlecode.tesseract.android.TessBaseAPI;
         import java.io.BufferedReader;
         import java.io.File;
@@ -53,7 +58,10 @@ public class MainScreen extends MainActivity {
     private String[] linesArrayY;
     private String[] linesArrayZ;
     private ImageButton SayButton;
+    private Button SaveButton;
+    private  Button ShowButton;
     private TextToSpeech TTS;
+    DBHelper dbhelper;
 
 
 
@@ -65,8 +73,11 @@ public class MainScreen extends MainActivity {
         Translate =  findViewById(R.id.research_button);
         TextReader =  findViewById(R.id.text_reader);
         TranslatedWord =  findViewById(R.id.translated_word);
+        SaveButton = findViewById(R.id.save_button);
+        ShowButton = findViewById(R.id.show_button);
         SayButton =  findViewById(R.id.say);
-
+        dbhelper = new DBHelper(this);
+        SQLiteDatabase database;
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
@@ -353,6 +364,33 @@ public class MainScreen extends MainActivity {
 
             }
         });
+        SaveButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SQLiteDatabase database = dbhelper.getWritableDatabase();
+
+                ContentValues contentValues = new ContentValues();
+
+                contentValues.put(DBHelper.KEY_NAME, TextReader.getText().toString());
+                database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
+                Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
+                        null, null, null, null);
+                if (cursor.moveToFirst()) {
+                    int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
+                    int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
+                    do {
+                        Log.d("mLog", "ID = " + cursor.getInt(idIndex) +
+                                ", name = " + cursor.getString(nameIndex));
+                        Toast.makeText(MainScreen.this, cursor.getString(nameIndex), Toast.LENGTH_LONG).show();
+                    } while (cursor.moveToNext());
+                } else
+                    Log.d("mLog","0 rows");
+                database.delete(DBHelper.TABLE_CONTACTS, null, null);
+                dbhelper.close();
+                cursor.close();
+            }
+        });
+
     }
 
     @Override
