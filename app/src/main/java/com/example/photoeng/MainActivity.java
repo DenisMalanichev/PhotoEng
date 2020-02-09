@@ -9,6 +9,7 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
@@ -25,18 +26,21 @@ public class MainActivity extends AppCompatActivity {
 
     private Button BackButton;
     private TextView CameraText;
-    private Button ScaneButton;
+    private ImageButton ScaneButton;
     private ImageView ImageView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        BackButton = (Button) findViewById(R.id.Back_button);
-        CameraText = (TextView) findViewById(R.id.Camera_text);
-        ScaneButton = (Button) findViewById(R.id.scane_button);
-        ImageView = (ImageView) findViewById(R.id.image);
+        try {
+            BackButton =  findViewById(R.id.Back_button);
+            CameraText =  findViewById(R.id.Camera_text);
+            ScaneButton =  findViewById(R.id.scane_button);
+            ImageView =  findViewById(R.id.image);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
 
         BackButton.setOnClickListener(new View.OnClickListener() {
 
@@ -65,12 +69,10 @@ public class MainActivity extends AppCompatActivity {
         Bitmap bitmap = (Bitmap)data.getExtras().get("data");
        // ImageView.setImageBitmap(bitmap);
         try {
-            CameraText.setText(extractText(bitmap));
-            Log.d("TESS", extractText(bitmap));
+            extractText(bitmap);
         }catch (Exception e){
             e.printStackTrace();
         }
-
         //TODO tesseract(find text on photo)
 
     }

@@ -5,7 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainScreen">
+    tools:context=".MainScreen"
+    android:background="@drawable/background">
 
     <EditText
         android:layout_width="wrap_content"
@@ -15,7 +16,9 @@
         android:hint="@string/text_reader_first_text"
         android:layout_gravity="center|top"
         android:imeOptions="actionDone"
-        android:inputType="textNoSuggestions"/>
+        android:inputType="textNoSuggestions"
+        android:radius="10dp"/>
+
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -23,26 +26,26 @@
         android:orientation="vertical"
         android:layout_gravity="center">
 
-        <Button
-            android:id="@+id/research_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="fill_vertical"
-            android:padding="24dp"
-            android:text="@string/research_text" />
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/say"
-            android:layout_gravity="center_vertical"
-            android:padding="24dp"
-            android:text="@string/say"/>
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/translate_colour"
+            android:scaleType="centerCrop"
+            android:background="@drawable/background"
+            android:id="@+id/research_button"/>
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/listen_green"
+            android:scaleType="centerCrop"
+            android:background="@drawable/background"
+            android:id="@+id/say"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="24dp"
             android:gravity="center"
-            android:text="text_view"
             android:id="@+id/translated_word"/>
     </LinearLayout>
 

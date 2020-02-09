@@ -5,23 +5,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@drawable/background">;
 
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/Camera_text"
-        android:layout_gravity="center"
-        android:text="@string/camera_text"
-        android:padding="24dp"/>
+        android:layout_width="wrap_content"
+        android:layout_height="413dp"
+        android:layout_gravity="center_vertical"
+        android:padding="24dp"
+        android:text="@string/camera_text" />
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="fill_parent"
         android:id="@+id/image"
-        android:layout_weight="9"/>
-
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -30,13 +29,14 @@
         android:orientation="vertical">
 
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
+        <ImageButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/camera_green"
             android:id="@+id/scane_button"
-            android:text="@string/scane_text"
-            android:gravity="center_vertical"/>
+            android:scaleType="centerCrop"
+            android:background="@drawable/background"
+            android:contentDescription="@null"/>
 
         <Button
             android:id="@+id/Back_button"

@@ -11,6 +11,7 @@ package com.example.photoeng;
         import android.view.View;
         import android.widget.Button;
         import android.widget.EditText;
+        import android.widget.ImageButton;
         import android.widget.TextView;
         import com.googlecode.tesseract.android.TessBaseAPI;
         import java.io.BufferedReader;
@@ -22,7 +23,7 @@ package com.example.photoeng;
 
 public class MainScreen extends MainActivity {
 
-    private Button Translate;
+    private ImageButton Translate;
     private EditText TextReader;
     private TextView TranslatedWord;
     public String[] linesArrayA;
@@ -51,7 +52,7 @@ public class MainScreen extends MainActivity {
     private String[] linesArrayX;
     private String[] linesArrayY;
     private String[] linesArrayZ;
-    private Button SayButton;
+    private ImageButton SayButton;
     private TextToSpeech TTS;
 
 
@@ -61,10 +62,10 @@ public class MainScreen extends MainActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
 
-        Translate = (Button) findViewById(R.id.research_button);
-        TextReader = (EditText) findViewById(R.id.text_reader);
-        TranslatedWord = (TextView) findViewById(R.id.translated_word);
-        SayButton = (Button) findViewById(R.id.say);
+        Translate =  findViewById(R.id.research_button);
+        TextReader =  findViewById(R.id.text_reader);
+        TranslatedWord =  findViewById(R.id.translated_word);
+        SayButton =  findViewById(R.id.say);
 
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
