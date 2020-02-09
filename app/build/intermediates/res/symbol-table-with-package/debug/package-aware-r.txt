@@ -809,6 +809,7 @@ id research_button
 id right
 id right_icon
 id right_side
+id save_button
 id say
 id scane_button
 id screen
@@ -830,6 +831,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id show_button
 id spacer
 id split_action_bar
 id spread

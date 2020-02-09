@@ -701,6 +701,4 @@ public class MainScreen extends MainActivity {
         }
         return false;
     }
-
-
 }
