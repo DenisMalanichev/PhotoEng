@@ -1,5 +1,6 @@
 package com.example.photoeng;
 
+import android.content.Context;
 import android.content.Intent;
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;
@@ -28,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView CameraText;
     private ImageButton ScaneButton;
     private ImageView ImageView;
+    private TesseractOCR tesseractOCR;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,22 +71,27 @@ public class MainActivity extends AppCompatActivity {
         Bitmap bitmap = (Bitmap)data.getExtras().get("data");
        // ImageView.setImageBitmap(bitmap);
         try {
-            extractText(bitmap);
+           tesseractOCR = new TesseractOCR(this, "eng");
+           CameraText.setText(tesseractOCR.getOCRResult(bitmap));
         }catch (Exception e){
             e.printStackTrace();
         }
         //TODO tesseract(find text on photo)
 
     }
-    private String extractText(Bitmap bitmap) throws Exception{
+    private String extractText(Bitmap bitmap, Context context) throws Exception{
+        String dstPathDir = "/tesseract/tessdata/";
+        String srcFile = "eng.traineddata";
+        InputStream inFile = null;
+        dstPathDir = context.getFilesDir() + dstPathDir;
+        String dstInitPathDir = context.getFilesDir() + "/tesseract";
+        String dstPathFile = dstPathDir + srcFile;
         TessBaseAPI tessBaseApi = new TessBaseAPI();
-        tessBaseApi.init("/mnt/sdcard/tesseract/tessdata/eng.trainedata", "eng");
+        tessBaseApi.init((context.getFilesDir() + dstPathDir), "eng");
         tessBaseApi.setImage(bitmap);
         String extractedText = tessBaseApi.getUTF8Text();
         tessBaseApi.end();
         return extractedText;
     }
-
-
 }
 

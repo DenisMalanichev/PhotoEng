@@ -1,7 +1,7 @@
-#Sun Feb 09 20:36:32 EET 2020
-base.0=D\:\\PhotoEngGit\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Mon Feb 10 17:41:33 EET 2020
+base.0=C\:\\Users\\sams7\\AndroidStudioProjects\\PhotoEng1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\PhotoEngGit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\sams7\\AndroidStudioProjects\\PhotoEng1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
