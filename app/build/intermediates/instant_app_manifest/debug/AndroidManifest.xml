@@ -22,6 +22,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.photoeng.DictionaryActivity" />
         <activity android:name="com.example.photoeng.MainScreen" />
         <activity android:name="com.example.photoeng.MainActivity" >
             <intent-filter>

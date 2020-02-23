@@ -50,14 +50,20 @@
             android:layout_height="wrap_content"
             android:text="show"
             android:id="@+id/show_button"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:padding="24dp"
-            android:gravity="center"
-            android:id="@+id/translated_word"/>
     </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="24dp"
+        android:gravity="center"
+        android:id="@+id/translated_word"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dictionary_text"
+        android:layout_gravity="bottom|right"
+        android:id="@+id/dictionary_button"/>
 
 
 </FrameLayout>

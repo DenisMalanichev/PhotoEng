@@ -2,25 +2,20 @@ package com.example.photoeng;
 
 import android.content.Context;
 import android.content.Intent;
-import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.os.Environment;
 import android.provider.MediaStore;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+
 import androidx.appcompat.app.AppCompatActivity;
+
 import com.googlecode.tesseract.android.TessBaseAPI;
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.InputStream;
-import java.io.OutputStream;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -30,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageButton ScaneButton;
     private ImageView ImageView;
     private TesseractOCR tesseractOCR;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

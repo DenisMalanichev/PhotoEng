@@ -3,6 +3,7 @@ package com.example.photoeng;
 
         import android.content.ContentValues;
         import android.content.Context;
+        import android.content.Intent;
         import android.database.Cursor;
         import android.database.sqlite.SQLiteDatabase;
         import android.graphics.Bitmap;
@@ -28,10 +29,11 @@ package com.example.photoeng;
 
 public class MainScreen extends MainActivity {
 
+    private Button DictionaryButton;
     private ImageButton Translate;
     private EditText TextReader;
     private TextView TranslatedWord;
-    public String[] linesArrayA;
+    public  String[] linesArrayA;
     private String[] linesArrayB;
     private String[] linesArrayC;
     private String[] linesArrayD;
@@ -59,7 +61,7 @@ public class MainScreen extends MainActivity {
     private String[] linesArrayZ;
     private ImageButton SayButton;
     private Button SaveButton;
-    private  Button ShowButton;
+    private Button ShowButton;
     private TextToSpeech TTS;
     DBHelper dbhelper;
 
@@ -70,6 +72,7 @@ public class MainScreen extends MainActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
 
+        DictionaryButton = findViewById(R.id.dictionary_button);
         Translate =  findViewById(R.id.research_button);
         TextReader =  findViewById(R.id.text_reader);
         TranslatedWord =  findViewById(R.id.translated_word);
@@ -357,11 +360,17 @@ public class MainScreen extends MainActivity {
             }
 
         });
+        DictionaryButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
+                startActivity(intent);
+            }
+        });
         SayButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 TTS.speak(TextReader.getText().toString(), TextToSpeech.QUEUE_FLUSH, null);
-
             }
         });
         SaveButton.setOnClickListener(new View.OnClickListener() {

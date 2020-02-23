@@ -6,5 +6,10 @@
     <string name="research_text">Перевести</string>
     <string name="say">Озвучить</string>
     <string name="scane_text">Сканировать</string>
+    <string name="dictionary_text">Мой словарь</string>
+    <string-array name="words">
+        <item>Слово</item>
+        <sub-item>Перевод</sub-item>
+    </string-array>
 </resources>
 
