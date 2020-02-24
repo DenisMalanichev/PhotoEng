@@ -9,7 +9,34 @@
     <string name="dictionary_text">Мой словарь</string>
     <string-array name="words">
         <item>Слово</item>
-        <sub-item>Перевод</sub-item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+        <item>Слово</item>
+    </string-array>
+    <string-array name="translation">
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
+        <item>Превод</item>
     </string-array>
 </resources>
 

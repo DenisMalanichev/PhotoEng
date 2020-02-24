@@ -596,6 +596,10 @@
         "source": "C:\\Users\\denis\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "D:\\PhotoEng1\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
+        "source": "D:\\PhotoEng1\\app\\src\\main\\res\\layout\\my_row.xml"
+    },
+    {
         "merged": "D:\\PhotoEng1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\denis\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
