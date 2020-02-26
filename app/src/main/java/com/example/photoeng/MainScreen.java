@@ -80,7 +80,7 @@ public class MainScreen extends MainActivity {
         ShowButton = findViewById(R.id.show_button);
         SayButton =  findViewById(R.id.say);
         dbhelper = new DBHelper(this);
-        SQLiteDatabase database;
+
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
@@ -342,7 +342,7 @@ public class MainScreen extends MainActivity {
         Translate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               //TODO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
                 String word = TextReader.getText().toString().trim();//delete "_" in text
                 if(isNetworkAvailable(MainScreen.this)){
@@ -379,11 +379,12 @@ public class MainScreen extends MainActivity {
                 SQLiteDatabase database = dbhelper.getWritableDatabase();
 
                 ContentValues contentValues = new ContentValues();
-
+               // int countID = 0;
                 contentValues.put(DBHelper.KEY_NAME, TextReader.getText().toString());
                 database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
                 Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
                         null, null, null, null);
+               // countID++;
                 if (cursor.moveToFirst()) {
                     int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
                     int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
@@ -394,7 +395,7 @@ public class MainScreen extends MainActivity {
                     } while (cursor.moveToNext());
                 } else
                     Log.d("mLog","0 rows");
-                database.delete(DBHelper.TABLE_CONTACTS, null, null);
+               // database.delete(DBHelper.TABLE_CONTACTS, null, null);
                 dbhelper.close();
                 cursor.close();
             }

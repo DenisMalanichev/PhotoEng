@@ -13,14 +13,22 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.util.ArrayList;
+
 public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
-    DBHelper mDBHelper;
     String[] data1, data2;
     Context mContext;
+    ArrayList<String> temp;
+
     public Adapter(Context context, String s1[], String s2[]){
         data1 = s1;
         data2 = s2;
         mContext = context;
+    }
+
+    public Adapter(Context mContext, ArrayList<String> temp) {
+        this.mContext = mContext;
+        this.temp = temp;
     }
 
     @NonNull
@@ -33,13 +41,13 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
 
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
-    holder.text1.setText(data1[position]);
-        holder.text2.setText(data2[position]);
+    holder.text1.setText(temp.get(position));
+        //holder.text2.setText(data2[position]);
     }
 
     @Override
     public int getItemCount() {
-        return data1.length;
+        return temp.size();//data1.length;
     }
 
     public class MyViewHolder extends RecyclerView.ViewHolder{
