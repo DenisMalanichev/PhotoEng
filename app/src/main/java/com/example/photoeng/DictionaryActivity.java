@@ -17,7 +17,7 @@ import java.util.ArrayList;
 
 public class DictionaryActivity extends AppCompatActivity {
 
-    private String s1[], s2[];
+
     DBHelper dbhelper;
     private androidx.recyclerview.widget.RecyclerView DictionaryView;
 
@@ -26,23 +26,11 @@ public class DictionaryActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dictionary);
-        Cursor cursor;
         DictionaryView = findViewById(R.id.dictionary_view);
         dbhelper = new DBHelper(this);
-        //SQLiteDatabase database;
         ArrayList<String> temp = CursorHelper();
-        Log.i("CursorHelper", temp.size()+"");
-        //s1= new String[4];
-        /*for(int i =0; i<CursorHelper().size(); i++){
-
-
-        }*/
-        //CursorHelper().toArray(s1);
-//        for(int q = 0; q<TranslationArray().size(); q++){
-//            s2[q] = TranslationArray().get(q);
-//        }
-        //Adapter adapter = new Adapter(this, s1, s2);
-        Adapter adapter = new Adapter(this,temp);
+        ArrayList<String> temp2 = TranslationArray();
+        Adapter adapter = new Adapter(this,temp, temp2);
 
         DictionaryView.setLayoutManager(new LinearLayoutManager(this));
         DictionaryView.setAdapter(adapter);
@@ -69,7 +57,6 @@ public class DictionaryActivity extends AppCompatActivity {
             } while (cursor.moveToNext());
         } else
             Log.d("mLog","0 rows");
-       // database.delete(DBHelper.TABLE_CONTACTS, null, null);
         dbhelper.close();
         cursor.close();
         return wordsArray;

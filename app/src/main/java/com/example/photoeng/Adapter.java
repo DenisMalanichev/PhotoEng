@@ -16,19 +16,15 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
-    String[] data1, data2;
+    
     Context mContext;
-    ArrayList<String> temp;
+    ArrayList<String> temp, temp2;
 
-    public Adapter(Context context, String s1[], String s2[]){
-        data1 = s1;
-        data2 = s2;
-        mContext = context;
-    }
 
-    public Adapter(Context mContext, ArrayList<String> temp) {
+    public Adapter(Context mContext, ArrayList<String> temp, ArrayList<String> temp2) {
         this.mContext = mContext;
         this.temp = temp;
+        this.temp2 = temp2;
     }
 
     @NonNull
@@ -42,7 +38,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
     holder.text1.setText(temp.get(position));
-        //holder.text2.setText(data2[position]);
+    holder.text2.setText(temp2.get(position));
     }
 
     @Override
