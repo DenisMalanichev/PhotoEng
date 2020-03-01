@@ -71,6 +71,7 @@ public class MainScreen extends MainActivity {
 
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -85,6 +86,7 @@ public class MainScreen extends MainActivity {
         SayButton =  findViewById(R.id.say);
         dbhelper = new DBHelper(this);
         learnButton = findViewById(R.id.learn_button);
+
 
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
@@ -342,6 +344,8 @@ public class MainScreen extends MainActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        Intent intent = new Intent();
+       getExtras(intent);
 
 
         Translate.setOnClickListener(new View.OnClickListener() {
@@ -729,6 +733,12 @@ public class MainScreen extends MainActivity {
     public  void stopService(View v){
         Intent intent = new Intent(this, LearningService.class);
         stopService(intent);
+    }
+    public void getExtras(Intent intent){
+        String extra = intent.getStringExtra("extraString");
+        if(extra != "") {
+            TextReader.setText(extra);
+        }
     }
 
     public static EditText getTextReader() {
