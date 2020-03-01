@@ -7,35 +7,7 @@
     <string name="say">Озвучить</string>
     <string name="scane_text">Сканировать</string>
     <string name="dictionary_text">Мой словарь</string>
-    <string-array name="words">
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-        <item>Слово</item>
-
-    </string-array>
-    <string-array name="translation">
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-        <item>Превод</item>
-    </string-array>
+    <string name="learn">Учить</string>
+    <string name="Say_text">Сказать</string>
 </resources>
 

@@ -3,8 +3,10 @@ package com.example.photoeng;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
+import android.app.Notification;
 import android.content.ContentValues;
 import android.content.Context;
+import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
@@ -20,6 +22,8 @@ public class DictionaryActivity extends AppCompatActivity {
 
     DBHelper dbhelper;
     private androidx.recyclerview.widget.RecyclerView DictionaryView;
+    static ArrayList<String> temp;
+    static ArrayList<String> temp2;
 
 
     @Override
@@ -28,12 +32,18 @@ public class DictionaryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_dictionary);
         DictionaryView = findViewById(R.id.dictionary_view);
         dbhelper = new DBHelper(this);
-        ArrayList<String> temp = CursorHelper();
-        ArrayList<String> temp2 = TranslationArray();
+        temp = CursorHelper();
+        temp2 = TranslationArray();
         Adapter adapter = new Adapter(this,temp, temp2);
 
         DictionaryView.setLayoutManager(new LinearLayoutManager(this));
         DictionaryView.setAdapter(adapter);
+        //TODO finish foreground speach
+        /*Intent i = new Intent(context, DictionaryActivity.class);
+        context.startService(i);
+
+        Notification notification = new Notification();
+        startForeground(1, notification);*/
 
     }
     public ArrayList<String> CursorHelper(){
@@ -78,4 +88,11 @@ public class DictionaryActivity extends AppCompatActivity {
         return translatorBackgroundTask.doInBackground(textToBeTranslated, languagePair);
     }
 
+    public static ArrayList<String> getTemp() {
+        return temp;
+    }
+
+    public static ArrayList<String> getTemp2() {
+        return temp2;
+    }
 }

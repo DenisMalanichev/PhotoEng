@@ -23,8 +23,6 @@ anim btn_radio_to_off_mtrl_ring_outer_path_animation
 anim btn_radio_to_on_mtrl_dot_group_animation
 anim btn_radio_to_on_mtrl_ring_outer_animation
 anim btn_radio_to_on_mtrl_ring_outer_path_animation
-array translation
-array words
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -715,6 +713,7 @@ drawable camera_colour
 drawable camera_green
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_whatshot
 drawable listen_green
 drawable notification_action_background
 drawable notification_bg
@@ -731,6 +730,7 @@ drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable translate_colour
+drawable voice_green
 id ALT
 id Back_button
 id CTRL
@@ -847,6 +847,7 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id learn_button
 id left
 id line1
 id line3
@@ -877,6 +878,7 @@ id right_icon
 id right_side
 id save_button
 id say
+id say_button
 id scane_button
 id screen
 id scrollIndicatorDown
@@ -1033,6 +1035,7 @@ raw w_eng_rus
 raw x_eng_rus
 raw y_eng_rus
 raw z_eng_rus
+string Say_text
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1064,6 +1067,7 @@ string app_name
 string back_text
 string camera_text
 string dictionary_text
+string learn
 string research_text
 string say
 string scane_text

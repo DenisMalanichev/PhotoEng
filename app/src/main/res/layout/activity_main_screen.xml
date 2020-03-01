@@ -58,12 +58,22 @@
         android:padding="24dp"
         android:gravity="center"
         android:id="@+id/translated_word"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/dictionary_text"
         android:layout_gravity="bottom|right"
         android:id="@+id/dictionary_button"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/learn"
+        android:id="@+id/learn_button"/>
 
+</LinearLayout>
 
 </FrameLayout>

@@ -16,7 +16,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
-    
+
     Context mContext;
     ArrayList<String> temp, temp2;
 

@@ -1,6 +1,7 @@
 package com.example.photoeng;
 
 
+        import android.app.Notification;
         import android.content.ContentValues;
         import android.content.Context;
         import android.content.Intent;
@@ -10,6 +11,7 @@ package com.example.photoeng;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
         import android.os.Bundle;
+        import android.speech.RecognizerIntent;
         import android.speech.tts.TextToSpeech;
         import android.util.Log;
         import android.view.View;
@@ -31,7 +33,7 @@ public class MainScreen extends MainActivity {
 
     private Button DictionaryButton;
     private ImageButton Translate;
-    private EditText TextReader;
+    private static EditText TextReader;
     private TextView TranslatedWord;
     public  String[] linesArrayA;
     private String[] linesArrayB;
@@ -64,6 +66,8 @@ public class MainScreen extends MainActivity {
     private Button ShowButton;
     private TextToSpeech TTS;
     DBHelper dbhelper;
+    private Button learnButton;
+
 
 
 
@@ -80,6 +84,7 @@ public class MainScreen extends MainActivity {
         ShowButton = findViewById(R.id.show_button);
         SayButton =  findViewById(R.id.say);
         dbhelper = new DBHelper(this);
+        learnButton = findViewById(R.id.learn_button);
 
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
@@ -379,12 +384,10 @@ public class MainScreen extends MainActivity {
                 SQLiteDatabase database = dbhelper.getWritableDatabase();
 
                 ContentValues contentValues = new ContentValues();
-               // int countID = 0;
                 contentValues.put(DBHelper.KEY_NAME, TextReader.getText().toString());
                 database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
                 Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
                         null, null, null, null);
-               // countID++;
                 if (cursor.moveToFirst()) {
                     int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
                     int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
@@ -395,9 +398,14 @@ public class MainScreen extends MainActivity {
                     } while (cursor.moveToNext());
                 } else
                     Log.d("mLog","0 rows");
-               // database.delete(DBHelper.TABLE_CONTACTS, null, null);
                 dbhelper.close();
                 cursor.close();
+            }
+        });
+        learnButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startService(v);
             }
         });
 
@@ -412,7 +420,7 @@ public class MainScreen extends MainActivity {
         super.onDestroy();
 
     }
-//TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 
     public void translationNoInternet(String word) {
@@ -710,5 +718,24 @@ public class MainScreen extends MainActivity {
             }
         }
         return false;
+    }
+
+    public void startService(View v){
+        Intent intent  = new Intent(this, LearningService.class);
+        intent.putExtra("inputExtraArray1", DictionaryActivity.getTemp());
+        intent.putExtra("inputExtraArray2", DictionaryActivity.getTemp2());
+        startService(intent);
+    }
+    public  void stopService(View v){
+        Intent intent = new Intent(this, LearningService.class);
+        stopService(intent);
+    }
+
+    public static EditText getTextReader() {
+        return TextReader;
+    }
+
+    public static void setTextReader(EditText textReader) {
+        TextReader = textReader;
     }
 }

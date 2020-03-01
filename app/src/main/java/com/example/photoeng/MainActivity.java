@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.provider.MediaStore;
+import android.speech.RecognizerIntent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
@@ -16,6 +17,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.googlecode.tesseract.android.TessBaseAPI;
 
 import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.Locale;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -24,7 +27,9 @@ public class MainActivity extends AppCompatActivity {
     private TextView CameraText;
     private ImageButton ScaneButton;
     private ImageView ImageView;
-    private TesseractOCR tesseractOCR;
+    private static final int REQUEST_CODE_SPEECH_INPUT = 1000;
+    private ImageButton SayButton;
+    public String returnedStringData;
 
 
     @Override
@@ -36,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
             CameraText =  findViewById(R.id.Camera_text);
             ScaneButton =  findViewById(R.id.scane_button);
             ImageView =  findViewById(R.id.image);
+            SayButton = findViewById(R.id.say_button);
         }catch (Exception e){
             e.printStackTrace();
         }
@@ -56,16 +62,18 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(intent, 0);
             }
         });
-
-
-
+        SayButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                speak();
+            }
+        });
     }
 
-    @Override
+   /* @Override
     protected void onActivityResult(int requestCode, int resultCode,  Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         Bitmap bitmap = (Bitmap)data.getExtras().get("data");
-       // ImageView.setImageBitmap(bitmap);
         try {
            tesseractOCR = new TesseractOCR(this, "eng");
            CameraText.setText(tesseractOCR.getOCRResult(bitmap));
@@ -74,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         }
         //TODO tesseract(find text on photo)
 
-    }
+    }*/
     private String extractText(Bitmap bitmap, Context context) throws Exception{
         String dstPathDir = "/tesseract/tessdata/";
         String srcFile = "eng.traineddata";
@@ -88,6 +96,40 @@ public class MainActivity extends AppCompatActivity {
         String extractedText = tessBaseApi.getUTF8Text();
         tessBaseApi.end();
         return extractedText;
+    }
+    public void speak() {
+        Intent intent = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
+        intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL,
+                RecognizerIntent.LANGUAGE_MODEL_FREE_FORM);
+        intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE, Locale.UK);
+        intent.putExtra(RecognizerIntent.EXTRA_PROMPT, "Ваша фраза:");
+
+        try {
+            startActivityForResult(intent, REQUEST_CODE_SPEECH_INPUT);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        Intent intent = new Intent(this, MainScreen.class);
+
+        try {
+            switch (requestCode) {
+                case REQUEST_CODE_SPEECH_INPUT: {
+                    if (resultCode == RESULT_OK && null != data) {
+                        ArrayList<String> result = data.getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
+                        MainScreen.getTextReader().setText(result.get(0));
+                    }
+                    break;
+                }
+            }
+        }
+        catch(Exception e){
+            e.printStackTrace();
+            }
+        startActivity(intent);
     }
 }
 

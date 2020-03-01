@@ -45,5 +45,15 @@
             android:text="@string/back_text"
             android:layout_gravity="left|bottom"/>
 
+
     </LinearLayout>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/voice_green"
+        android:id="@+id/say_button"
+        android:scaleType="centerCrop"
+        android:background="@drawable/background"
+        android:contentDescription="@null"
+        android:layout_gravity="right|bottom"/>
 </FrameLayout>
