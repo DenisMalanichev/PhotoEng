@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_CODE_SPEECH_INPUT = 1000;
     private ImageButton SayButton;
     public String returnedStringData;
+    TesseractOCR tesseractOCR;
+    int count =0;
 
 
     @Override
@@ -60,29 +62,18 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
                 startActivityForResult(intent, 0);
+                count = 1;
             }
         });
         SayButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 speak();
+                count = 2;
             }
         });
     }
 
-   /* @Override
-    protected void onActivityResult(int requestCode, int resultCode,  Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        Bitmap bitmap = (Bitmap)data.getExtras().get("data");
-        try {
-           tesseractOCR = new TesseractOCR(this, "eng");
-           CameraText.setText(tesseractOCR.getOCRResult(bitmap));
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-        //TODO tesseract(find text on photo)
-
-    }*/
     private String extractText(Bitmap bitmap, Context context) throws Exception{
         String dstPathDir = "/tesseract/tessdata/";
         String srcFile = "eng.traineddata";
@@ -113,23 +104,35 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        Intent intent = new Intent(this, MainScreen.class);
-
-        try {
-            switch (requestCode) {
-                case REQUEST_CODE_SPEECH_INPUT: {
-                    if (resultCode == RESULT_OK && null != data) {
-                        ArrayList<String> result = data.getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
-                        intent.putExtra("extraString",result.get(0));
+        if(count == 2) {
+            Intent intent = new Intent(this, MainScreen.class);
+            count =0;
+            try {
+                switch (requestCode) {
+                    case REQUEST_CODE_SPEECH_INPUT: {
+                        if (resultCode == RESULT_OK && null != data) {
+                            ArrayList<String> result = data.getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
+                            //CameraText.setText(result.get(0));
+                            intent.putExtra("extraString", result.get(0));
+                            startActivity(intent);
+                        }
+                        break;
                     }
-                    break;
                 }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+
+        }else if(count == 1){
+            Bitmap bitmap = (Bitmap)data.getExtras().get("data");
+            count =0;
+            try {
+                tesseractOCR = new TesseractOCR(this, "eng");
+                CameraText.setText(tesseractOCR.getOCRResult(bitmap));
+            }catch (Exception e){
+                e.printStackTrace();
             }
         }
-        catch(Exception e){
-            e.printStackTrace();
-            }
-        startActivity(intent);
     }
 }
 

@@ -87,7 +87,7 @@ public class MainScreen extends MainActivity {
         dbhelper = new DBHelper(this);
         learnButton = findViewById(R.id.learn_button);
 
-
+        getExtras();
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
@@ -344,8 +344,7 @@ public class MainScreen extends MainActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        Intent intent = new Intent();
-       getExtras(intent);
+
 
 
         Translate.setOnClickListener(new View.OnClickListener() {
@@ -734,8 +733,10 @@ public class MainScreen extends MainActivity {
         Intent intent = new Intent(this, LearningService.class);
         stopService(intent);
     }
-    public void getExtras(Intent intent){
+    public void getExtras(){
+        Intent intent = getIntent();
         String extra = intent.getStringExtra("extraString");
+
         if(extra != "") {
             TextReader.setText(extra);
         }
