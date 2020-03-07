@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <service android:name=".LearningService" />
+        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity"/>
     </application>
 
 </manifest>

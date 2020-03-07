@@ -35,6 +35,8 @@
         </activity>
 
         <service android:name="com.example.photoeng.LearningService" />
+
+        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity" />
     </application>
 
 </manifest>

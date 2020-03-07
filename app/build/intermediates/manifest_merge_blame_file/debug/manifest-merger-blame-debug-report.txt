@@ -21,7 +21,7 @@
 13-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:7:22-74
 14
 15    <application
-15-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:8:5-26:19
+15-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:8:5-27:19
 16        android:name="com.example.photoeng.DictionaryToSay"
 16-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:9:9-40
 17        android:allowBackup="true"
@@ -64,6 +64,10 @@
 36        <service android:name="com.example.photoeng.LearningService" />
 36-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:25:9-52
 36-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:25:18-49
-37    </application>
-38
-39</manifest>
+37
+38        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity" />
+38-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:26:9-84
+38-->D:\PhotoEng3\app\src\main\AndroidManifest.xml:26:19-82
+39    </application>
+40
+41</manifest>
