@@ -72,6 +72,7 @@ public class MainScreen extends MainActivity {
 
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -395,14 +396,12 @@ public class MainScreen extends MainActivity {
                     int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
                     int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
                     do {
-                        Log.d("mLog", "ID = " + cursor.getInt(idIndex) +
-                                ", name = " + cursor.getString(nameIndex));
                         Toast.makeText(MainScreen.this, cursor.getString(nameIndex), Toast.LENGTH_LONG).show();
                     } while (cursor.moveToNext());
-                } else
-                    Log.d("mLog","0 rows");
+                }
                 dbhelper.close();
                 cursor.close();
+
             }
         });
         learnButton.setOnClickListener(new View.OnClickListener() {
@@ -740,13 +739,5 @@ public class MainScreen extends MainActivity {
         if(extra != "") {
             TextReader.setText(extra);
         }
-    }
-
-    public static EditText getTextReader() {
-        return TextReader;
-    }
-
-    public static void setTextReader(EditText textReader) {
-        TextReader = textReader;
     }
 }

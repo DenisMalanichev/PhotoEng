@@ -4,7 +4,8 @@
     android:layout_height="100dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_margin="8dp"
-    app:cardElevation="4dp">
+    app:cardElevation="4dp"
+    android:id="@+id/mCardView">
 
     <LinearLayout
         android:id="@+id/view_foreground"

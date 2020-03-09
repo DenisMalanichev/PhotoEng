@@ -1,9 +1,11 @@
 package com.example.photoeng;
 
+import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
+import android.view.ContextMenu;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,6 +13,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
+import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
@@ -19,12 +22,13 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
 
     Context mContext;
     ArrayList<String> temp, temp2;
-
+    DBHelper dbhelper;
 
     public Adapter(Context mContext, ArrayList<String> temp, ArrayList<String> temp2) {
         this.mContext = mContext;
         this.temp = temp;
         this.temp2 = temp2;
+
     }
 
     @NonNull
@@ -46,12 +50,28 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
         return temp.size();//data1.length;
     }
 
-    public class MyViewHolder extends RecyclerView.ViewHolder{
+    public class MyViewHolder extends RecyclerView.ViewHolder implements View.OnCreateContextMenuListener{
         TextView text1, text2;
+        CardView cardView;
+
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
+
             text1 = itemView.findViewById(R.id.word_item);
             text2 = itemView.findViewById(R.id.translated_item);
+            cardView = itemView.findViewById(R.id.mCardView);
+            cardView.setOnCreateContextMenuListener(this);
         }
+
+        @Override
+        public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
+            menu.add(this.getAdapterPosition(), 121, 0, "Добавить в список для изучения");
+            menu.add(this.getAdapterPosition(), 122, 1, "Удалить из словаря");
+        }
+    }
+    public boolean deleteTitle(String name)
+    {
+        SQLiteDatabase db = dbhelper.getWritableDatabase();
+        return db.delete(DBHelper.TABLE_CONTACTS, DBHelper.KEY_NAME + "=?", new String[]{name}) > 0;
     }
 }

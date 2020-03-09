@@ -1,5 +1,6 @@
 package com.example.photoeng;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
@@ -11,6 +12,10 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.ContextMenu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
@@ -26,6 +31,7 @@ public class DictionaryActivity extends AppCompatActivity {
     static ArrayList<String> temp2;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,16 +42,21 @@ public class DictionaryActivity extends AppCompatActivity {
         temp2 = TranslationArray();
         Adapter adapter = new Adapter(this,temp, temp2);
 
+
+
         DictionaryView.setLayoutManager(new LinearLayoutManager(this));
         DictionaryView.setAdapter(adapter);
         //TODO finish foreground speach
-        /*Intent i = new Intent(context, DictionaryActivity.class);
+       /* Intent i = new Intent(context, DictionaryActivity.class);
         context.startService(i);
 
         Notification notification = new Notification();
         startForeground(1, notification);*/
 
     }
+
+
+
     public ArrayList<String> CursorHelper(){
         SQLiteDatabase database = dbhelper.getWritableDatabase();
 
@@ -60,13 +71,9 @@ public class DictionaryActivity extends AppCompatActivity {
             int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
             int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
             do {
-                Log.d("mLog", "ID = " + cursor.getInt(idIndex) +
-                        ", name = " + cursor.getString(nameIndex));
                 wordsArray.add(cursor.getString(nameIndex));
-                Toast.makeText(this, cursor.getString(nameIndex), Toast.LENGTH_LONG).show();
             } while (cursor.moveToNext());
-        } else
-            Log.d("mLog","0 rows");
+        }
         dbhelper.close();
         cursor.close();
         return wordsArray;
@@ -95,4 +102,21 @@ public class DictionaryActivity extends AppCompatActivity {
     public static ArrayList<String> getTemp2() {
         return temp2;
     }
+
+    @Override
+    public boolean onContextItemSelected(@NonNull MenuItem item) {
+        String name;
+        switch (item.getItemId()){
+            case 121:
+
+                Toast.makeText(this, "Added", Toast.LENGTH_SHORT).show();
+                return true;
+            case 122:
+                Toast.makeText(this, "Deleted", Toast.LENGTH_SHORT).show();
+            default:    return super.onContextItemSelected(item);
+        }
+
+    }
+
 }
+

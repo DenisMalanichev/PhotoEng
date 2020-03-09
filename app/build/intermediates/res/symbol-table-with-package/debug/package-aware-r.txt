@@ -842,6 +842,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id callAction
 id cancel_action
 id center
 id centerCrop
@@ -903,6 +904,7 @@ id line1
 id line3
 id listMode
 id list_item
+id mCardView
 id media_actions
 id message
 id middle
@@ -1063,6 +1065,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu crop_image_menu
+menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw a_eng_rus
