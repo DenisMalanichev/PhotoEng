@@ -49,7 +49,6 @@ public class DictionaryActivity extends AppCompatActivity {
         //TODO finish foreground speach
        /* Intent i = new Intent(context, DictionaryActivity.class);
         context.startService(i);
-
         Notification notification = new Notification();
         startForeground(1, notification);*/
 
@@ -65,7 +64,7 @@ public class DictionaryActivity extends AppCompatActivity {
         database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
         Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
                 null, null, null, null);
-       ArrayList<String> wordsArray = new ArrayList<>();
+        ArrayList<String> wordsArray = new ArrayList<>();
 
         if (cursor.moveToFirst()) {
             int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
@@ -85,8 +84,8 @@ public class DictionaryActivity extends AppCompatActivity {
             for (int i = 0; i < CursorHelper().size(); i++) {
                 arrayList.add(TranslateYandex(CursorHelper().get(i), "en-ru"));
             }}catch(Exception e){
-                e.printStackTrace();
-            }
+            e.printStackTrace();
+        }
         return arrayList;
     }
 
@@ -106,12 +105,18 @@ public class DictionaryActivity extends AppCompatActivity {
     @Override
     public boolean onContextItemSelected(@NonNull MenuItem item) {
         String name;
+        int id ;
+        SQLiteDatabase database = dbhelper.getWritableDatabase();
         switch (item.getItemId()){
             case 121:
-
                 Toast.makeText(this, "Added", Toast.LENGTH_SHORT).show();
                 return true;
             case 122:
+                try {
+                database.delete(DBHelper.TABLE_CONTACTS, "id = " + 0, null);
+            }catch (Exception e){
+                e.printStackTrace();
+            }
                 Toast.makeText(this, "Deleted", Toast.LENGTH_SHORT).show();
             default:    return super.onContextItemSelected(item);
         }
@@ -119,4 +124,3 @@ public class DictionaryActivity extends AppCompatActivity {
     }
 
 }
-

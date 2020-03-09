@@ -43,63 +43,61 @@ public class LearningService extends Service {
 
 
 
+        TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                if (status == TextToSpeech.SUCCESS) {
+                    int result = TTS.setLanguage(Locale.UK);
+
+                    if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                        Log.e("TTS", "Language not supported");
+                    } else {
+
+                    }
+                } else {
+                    Log.e("TTS", "Initialization failed");
+                }
+            }
+        });
+        TTS2 = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                if (status == TextToSpeech.SUCCESS) {
+                    Locale locale = new Locale("ru");
+                    int result = TTS.setLanguage(locale);
+
+                    if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                        Log.e("TTS", "Language not supported");
+                    } else {
+
+                    }
+                } else {
+                    Log.e("TTS", "Initialization failed");
+                }
+            }
+        });
+
+
+        for (int i = 0; i < temp1.size(); i++) {
+            TTS.speak(temp1.get(i), TextToSpeech.QUEUE_FLUSH, null);
+            try {
+                Thread.sleep(1000);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            TTS2.speak(temp2.get(i), TextToSpeech.QUEUE_FLUSH, null);
+            try {
+                Thread.sleep(1000);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
 
 
 
         startForeground(1, notification);
-       /*@Override
-        public void run() {
-            TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
-                @Override
-                public void onInit(int status) {
-                    if (status == TextToSpeech.SUCCESS) {
-                        int result = TTS.setLanguage(Locale.UK);
-
-                        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-                            Log.e("TTS", "Language not supported");
-                        } else {
-
-                        }
-                    } else {
-                        Log.e("TTS", "Initialization failed");
-                    }
-                }
-            });
-            TTS2 = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
-                @Override
-                public void onInit(int status) {
-                    if (status == TextToSpeech.SUCCESS) {
-                        Locale locale = new Locale("ru");
-                        int result = TTS.setLanguage(locale);
-
-                        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-                            Log.e("TTS", "Language not supported");
-                        } else {
-
-                        }
-                    } else {
-                        Log.e("TTS", "Initialization failed");
-                    }
-                }
-            });
 
 
-            for (int i = 0; i < temp1.size(); i++) {
-                TTS.speak(temp1.get(i), TextToSpeech.QUEUE_FLUSH, null);
-                try {
-                    Thread.sleep(1000);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-                TTS2.speak(temp2.get(i), TextToSpeech.QUEUE_FLUSH, null);
-                try {
-                    Thread.sleep(1000);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-            return super.onStartCommand(intent, flags, startId);
-        }*/
 
 
         return START_NOT_STICKY;

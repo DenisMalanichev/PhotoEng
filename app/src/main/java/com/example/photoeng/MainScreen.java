@@ -701,7 +701,6 @@ public class MainScreen extends MainActivity {
         ConnectivityManager connectivity = (ConnectivityManager) context
                 .getSystemService(Context.CONNECTIVITY_SERVICE);
         if (connectivity == null) {
-            Log.d("NetworkCheck", "isNetworkAvailable: No");
             return false;
         }
 
@@ -714,7 +713,6 @@ public class MainScreen extends MainActivity {
             for (int i = 0; i < info.length; i++) {
                 // check this interface for a connected state
                 if (info[i].getState() == NetworkInfo.State.CONNECTED) {
-                    Log.d("NetworkCheck", "isNetworkAvailable: Yes");
                     return true;
                 }
             }
