@@ -770,6 +770,7 @@ drawable translate_colour
 drawable voice_green
 id ALT
 id Back_button
+id Back_to_dictionary_button
 id CTRL
 id Camera_text
 id CropOverlayView
@@ -869,6 +870,8 @@ id custom
 id customPanel
 id decor_content_parent
 id default_activity_button
+id delete_button
+id details_text
 id dialog_button
 id dictionary_button
 id dictionary_view
@@ -899,6 +902,7 @@ id invisible
 id italic
 id item_touch_helper_previous_elevation
 id learn_button
+id learn_button_details
 id left
 id line1
 id line3
@@ -954,7 +958,6 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
-id show_button
 id spacer
 id split_action_bar
 id spread
@@ -1038,6 +1041,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_details
 layout activity_dictionary
 layout activity_main
 layout activity_main_screen
@@ -1132,8 +1136,11 @@ string crop_image_menu_flip_horizontally
 string crop_image_menu_flip_vertically
 string crop_image_menu_rotate_left
 string crop_image_menu_rotate_right
+string delete_text
 string dictionary_text
+string foreground_text
 string learn
+string learn_text
 string pick_image_intent_chooser_title
 string research_text
 string say

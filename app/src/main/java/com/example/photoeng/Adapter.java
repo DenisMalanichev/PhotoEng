@@ -2,6 +2,7 @@ package com.example.photoeng;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
@@ -21,7 +22,7 @@ import java.util.ArrayList;
 public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
 
     Context mContext;
-    ArrayList<String> temp, temp2;
+     ArrayList<String> temp, temp2;
     DBHelper dbhelper;
 
     public Adapter(Context mContext, ArrayList<String> temp, ArrayList<String> temp2) {
@@ -50,28 +51,41 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
         return temp.size();//data1.length;
     }
 
-    public class MyViewHolder extends RecyclerView.ViewHolder implements View.OnCreateContextMenuListener{
+    public class MyViewHolder extends RecyclerView.ViewHolder {
         TextView text1, text2;
         CardView cardView;
 
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
 
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent(v.getContext(), Details.class);
+                    intent.putExtra("title", temp.get(getAdapterPosition()));
+                    intent.putExtra("position", getAdapterPosition());
+                    v.getContext().startActivity(intent);
+                }
+            });
             text1 = itemView.findViewById(R.id.word_item);
             text2 = itemView.findViewById(R.id.translated_item);
             cardView = itemView.findViewById(R.id.mCardView);
-            cardView.setOnCreateContextMenuListener(this);
+            //cardView.setOnCreateContextMenuListener(this);
         }
 
-        @Override
+      /*  @Override
         public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
             menu.add(this.getAdapterPosition(), 121, 0, "Добавить в список для изучения");
             menu.add(this.getAdapterPosition(), 122, 1, "Удалить из словаря");
-        }
+            Intent intent = new Intent();
+            intent.putExtra("AdapterPosition", getAdapterPosition());
+        }*/
     }
     public boolean deleteTitle(String name)
     {
         SQLiteDatabase db = dbhelper.getWritableDatabase();
         return db.delete(DBHelper.TABLE_CONTACTS, DBHelper.KEY_NAME + "=?", new String[]{name}) > 0;
     }
+
+
 }

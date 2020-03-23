@@ -25,10 +25,11 @@ import java.util.ArrayList;
 public class DictionaryActivity extends AppCompatActivity {
 
 
-    DBHelper dbhelper;
+    private DBHelper dbhelper;
     private androidx.recyclerview.widget.RecyclerView DictionaryView;
-    static ArrayList<String> temp;
-    static ArrayList<String> temp2;
+    public static ArrayList<String> temp;
+    public static ArrayList<String> temp2;
+
 
 
 
@@ -42,6 +43,9 @@ public class DictionaryActivity extends AppCompatActivity {
         temp2 = TranslationArray();
         Adapter adapter = new Adapter(this,temp, temp2);
 
+
+        Intent intent = new Intent(DictionaryActivity.this, TrainingActivity.class);
+        intent.putExtra("extraWords", temp);
 
 
         DictionaryView.setLayoutManager(new LinearLayoutManager(this));
@@ -78,7 +82,7 @@ public class DictionaryActivity extends AppCompatActivity {
         return wordsArray;
     }
 
-    public ArrayList<String> TranslationArray(){
+    private ArrayList<String> TranslationArray(){
         ArrayList<String> arrayList = new ArrayList<>();
         try {
             for (int i = 0; i < CursorHelper().size(); i++) {
@@ -102,25 +106,6 @@ public class DictionaryActivity extends AppCompatActivity {
         return temp2;
     }
 
-    @Override
-    public boolean onContextItemSelected(@NonNull MenuItem item) {
-        String name;
-        int id ;
-        SQLiteDatabase database = dbhelper.getWritableDatabase();
-        switch (item.getItemId()){
-            case 121:
-                Toast.makeText(this, "Added", Toast.LENGTH_SHORT).show();
-                return true;
-            case 122:
-                try {
-                database.delete(DBHelper.TABLE_CONTACTS, "id = " + 0, null);
-            }catch (Exception e){
-                e.printStackTrace();
-            }
-                Toast.makeText(this, "Deleted", Toast.LENGTH_SHORT).show();
-            default:    return super.onContextItemSelected(item);
-        }
 
-    }
 
 }

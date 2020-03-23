@@ -9,5 +9,11 @@
     <string name="dictionary_text">Мой словарь</string>
     <string name="learn">Учить</string>
     <string name="Say_text">Сказать</string>
+    <string name="learn_text">Изучать</string>
+    <string name="delete_text">Удалить</string>
+    <string name="foreground_text">Учим слова</string>
+    <string name="training">Тренеровать</string>
+    <string name="training_edittext_text">Введите слово на английском</string>
+    <string name="check_text">Проверить</string>
 </resources>
 

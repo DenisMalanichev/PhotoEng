@@ -21,6 +21,8 @@ package com.example.photoeng;
         import android.widget.TextView;
         import android.widget.Toast;
 
+        import androidx.core.content.ContextCompat;
+
         import com.googlecode.tesseract.android.TessBaseAPI;
         import java.io.BufferedReader;
         import java.io.File;
@@ -63,10 +65,10 @@ public class MainScreen extends MainActivity {
     private String[] linesArrayZ;
     private ImageButton SayButton;
     private Button SaveButton;
-    private Button ShowButton;
     private TextToSpeech TTS;
-    DBHelper dbhelper;
-    private Button learnButton;
+    private DBHelper dbhelper;
+    private Button newButton;
+    private Button trainingButton;
 
 
 
@@ -83,10 +85,10 @@ public class MainScreen extends MainActivity {
         TextReader =  findViewById(R.id.text_reader);
         TranslatedWord =  findViewById(R.id.translated_word);
         SaveButton = findViewById(R.id.save_button);
-        ShowButton = findViewById(R.id.show_button);
         SayButton =  findViewById(R.id.say);
         dbhelper = new DBHelper(this);
-        learnButton = findViewById(R.id.learn_button);
+        newButton = findViewById(R.id.learn_button);
+        trainingButton = findViewById(R.id.training_button);
 
         getExtras();
 
@@ -404,10 +406,19 @@ public class MainScreen extends MainActivity {
 
             }
         });
-        learnButton.setOnClickListener(new View.OnClickListener() {
+
+        final Intent intent = new Intent(this, HelloService.class);
+        newButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startService(v);
+                ContextCompat.startForegroundService(getApplicationContext(), intent);
+            }
+        });
+        trainingButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainScreen.this, TrainingActivity.class);
+                startActivity(intent);
             }
         });
 
@@ -721,13 +732,13 @@ public class MainScreen extends MainActivity {
     }
 
     public void startService(View v){
-        Intent intent  = new Intent(this, LearningService.class);
+        Intent intent  = new Intent(this, HelloService.class);
         intent.putExtra("inputExtraArray1", DictionaryActivity.getTemp());
         intent.putExtra("inputExtraArray2", DictionaryActivity.getTemp2());
         startService(intent);
     }
     public  void stopService(View v){
-        Intent intent = new Intent(this, LearningService.class);
+        Intent intent = new Intent(this, HelloService.class);
         stopService(intent);
     }
     public void getExtras(){

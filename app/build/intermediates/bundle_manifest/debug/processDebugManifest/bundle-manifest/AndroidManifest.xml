@@ -23,6 +23,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.photoeng.Details" />
         <activity android:name="com.example.photoeng.DictionaryActivity" />
         <activity android:name="com.example.photoeng.MainScreen" />
         <activity android:name="com.example.photoeng.MainActivity" >
@@ -34,6 +35,9 @@
         </activity>
 
         <service android:name="com.example.photoeng.LearningService" />
+        <service
+            android:name="com.example.photoeng.HelloService"
+            android:enabled="true" />
 
         <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity" />
     </application>
