@@ -1,13 +1,11 @@
 package com.example.photoeng;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.Activity;
 import android.content.ContentValues;
-import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.os.Handler;
 import android.util.Log;
 import android.view.View;
@@ -16,8 +14,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.lang.reflect.Array;
-import java.sql.Time;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -28,8 +24,10 @@ public class TrainingActivity extends Activity {
     private TextView  TextToTranslate;
     private  String[] wordsToTrain;
     private int[] wordsToTrainId;
-    private Handler mHandler = new Handler();
-    private int c = 0;
+    private CountDownTimer mTimer;
+    private int currentId = 0;
+    private int time = 15;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,21 +39,58 @@ public class TrainingActivity extends Activity {
         Check = findViewById(R.id.check_button);
         TextToTranslate = findViewById(R.id.textview_word_to_translate);
 
-
-
         train(TranslationArray());
+        //устанавливаем нулевое слово
+        TextToTranslate.setText(wordsToTrain[0]);
+        //вызываем метод для показа нового слова
+        showNewWord(currentId);
+        //
+        Check.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(currentId <4) {
+                    Log.d("DEBUG ans is", ""+ArrayHelper().get(wordsToTrainId[currentId]));
+                                if(TextToCheck.getText().equals(ArrayHelper().get(wordsToTrainId[currentId]))){
+                                Log.d("DEBUG ans", "true");
+                            }else{
+                                Log.d("DEBUG ans", "false");
+                            }
+                            mTimer.onFinish();
+                            mTimer.cancel();
+                            //currentId++;
+
+                                showNewWord(currentId);
+                }
+            }
+        });
 
 
 
-        int[] test = new int[5];
-        TimeThread timeThread = new TimeThread(10);
-        for(int i =0; i<5; i++){
-            test[i] = i;
-            TextToTranslate.setText(""+test[i]);
-             new Thread(timeThread).start();
-        }
+    }
 
+    private void showNewWord(int id) {
+        TextToTranslate.setText(wordsToTrain[id]);
 
+        mTimer = new CountDownTimer(1000 * time, 1000*time) {
+
+            public void onTick(long millisUntilFinished) {
+                if(currentId!=0)Toast.makeText(TrainingActivity.this, "Время вышло!", Toast.LENGTH_SHORT).show();
+                new Handler().postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(TrainingActivity.this, "Время пошло!", Toast.LENGTH_SHORT).show();
+                    }
+                },500);
+            }
+
+            public void onFinish() {
+                currentId++;
+                if(currentId < 4){
+                    showNewWord(currentId);
+                }
+            }
+        };
+        mTimer.start();
     }
 
 
@@ -97,7 +132,7 @@ public class TrainingActivity extends Activity {
                 i++;
             }
         }
-            return array1;
+        return array1;
     }
 
 
@@ -140,37 +175,7 @@ public class TrainingActivity extends Activity {
 
 
     private void Asking(int queue){
-            TextToTranslate.setText(wordsToTrain[queue]);
+        TextToTranslate.setText(wordsToTrain[queue]);
     }
-
-
-    class TimeThread implements Runnable{
-        int seconds;
-        TimeThread(int seconds){
-            this.seconds = seconds;
-        }
-        @Override
-        public void run() {
-            mHandler.post(new Runnable() {
-                @Override
-                public void run() {
-                    Toast.makeText(TrainingActivity.this, "Время пошло!", Toast.LENGTH_SHORT).show();
-                }
-            });
-            for(int i =0; i <seconds; i++) {
-                try {
-                    Thread.sleep(1000);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-            mHandler.post(new Runnable() {
-                @Override
-                public void run() {
-                    Toast.makeText(TrainingActivity.this, "Время вышло!", Toast.LENGTH_SHORT).show();
-                }
-            });
-        }
-    }
-
 }
+

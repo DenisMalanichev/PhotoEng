@@ -27,8 +27,9 @@ public class DictionaryActivity extends AppCompatActivity {
 
     private DBHelper dbhelper;
     private androidx.recyclerview.widget.RecyclerView DictionaryView;
-    public static ArrayList<String> temp;
-    public static ArrayList<String> temp2;
+    public static ArrayList<String> tempD;
+    public static ArrayList<String> tempD2;
+    private OnlineTranslateTread OnTT = new OnlineTranslateTread(this);
 
 
 
@@ -39,73 +40,45 @@ public class DictionaryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_dictionary);
         DictionaryView = findViewById(R.id.dictionary_view);
         dbhelper = new DBHelper(this);
-        temp = CursorHelper();
-        temp2 = TranslationArray();
-        Adapter adapter = new Adapter(this,temp, temp2);
+       /* tempD = OnTT.getTemp();
+        tempD2 = OnTT.getTemp2();
+        for(int i =0; i<tempD.size(); i++){
+            Log.d("DEBUG ", tempD.get(i));
+        }*/
+        Adapter adapter = new Adapter(this, OnTT.getTemp(), OnTT.getTemp2());
+
+
 
 
         Intent intent = new Intent(DictionaryActivity.this, TrainingActivity.class);
-        intent.putExtra("extraWords", temp);
+        intent.putExtra("extraWords", tempD);
 
 
         DictionaryView.setLayoutManager(new LinearLayoutManager(this));
         DictionaryView.setAdapter(adapter);
-        //TODO finish foreground speach
-       /* Intent i = new Intent(context, DictionaryActivity.class);
-        context.startService(i);
-        Notification notification = new Notification();
-        startForeground(1, notification);*/
-
     }
 
 
 
-    public ArrayList<String> CursorHelper(){
-        SQLiteDatabase database = dbhelper.getWritableDatabase();
 
-        ContentValues contentValues = new ContentValues();
 
-        database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
-        Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
-                null, null, null, null);
-        ArrayList<String> wordsArray = new ArrayList<>();
 
-        if (cursor.moveToFirst()) {
-            int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
-            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
-            do {
-                wordsArray.add(cursor.getString(nameIndex));
-            } while (cursor.moveToNext());
-        }
-        dbhelper.close();
-        cursor.close();
-        return wordsArray;
-    }
 
-    private ArrayList<String> TranslationArray(){
-        ArrayList<String> arrayList = new ArrayList<>();
-        try {
-            for (int i = 0; i < CursorHelper().size(); i++) {
-                arrayList.add(TranslateYandex(CursorHelper().get(i), "en-ru"));
-            }}catch(Exception e){
-            e.printStackTrace();
-        }
-        return arrayList;
-    }
 
-    public String TranslateYandex(String textToBeTranslated, String languagePair) {
-        YandexTranslate translatorBackgroundTask = new YandexTranslate();
-        return translatorBackgroundTask.doInBackground(textToBeTranslated, languagePair);
-    }
 
     public static ArrayList<String> getTemp() {
-        return temp;
+        return tempD;
     }
 
     public static ArrayList<String> getTemp2() {
-        return temp2;
+        return tempD2;
     }
 
+    public static void setTemp(ArrayList<String> temp) {
+        DictionaryActivity.tempD = temp;
+    }
 
-
+    public static void setTemp2(ArrayList<String> temp2) {
+        DictionaryActivity.tempD2 = temp2;
+    }
 }

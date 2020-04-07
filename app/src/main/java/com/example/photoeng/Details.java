@@ -13,13 +13,14 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-public class Details extends AppCompatActivity {
+public class Details extends MainScreen {
     TextView DetailsText;
     Button BackToDictionaryButton;
     Button LearnButton;
     Button DeleteButton;
     DBHelper mDBHelper;
-    ArrayList<String> learningList;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,6 +34,10 @@ public class Details extends AppCompatActivity {
         mDBHelper = new DBHelper(this);
         Intent intent = getIntent();
         final String title = intent.getStringExtra("title");
+
+
+
+        DetailsText.setText(title);
 
         BackToDictionaryButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -60,12 +65,25 @@ public class Details extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+
+
+
+
         LearnButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                    learningList.add(title);
+            public  void onClick(View v) {
+                final Intent serviceIntent = new Intent(Details.this, HelloService.class);
+                final ArrayList<String> words = new ArrayList<>();
+                    Log.d("DEBUG WORD", ""+title);
+                    Toast.makeText(getApplicationContext(), title+" added", Toast.LENGTH_SHORT).show();
+                    serviceIntent.putExtra("String extra", words);
+                    MainScreen.getWords().add(title);
             }
         });
-        DetailsText.setText(title);
+
+
     }
+
 }
+
