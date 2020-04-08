@@ -96,6 +96,10 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\z_eng_rus.txt"
     },
     {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },

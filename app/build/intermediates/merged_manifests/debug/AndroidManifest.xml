@@ -28,6 +28,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.photoeng.LoadingActivity" />
         <activity android:name="com.example.photoeng.TrainingActivity" />
         <activity android:name="com.example.photoeng.Details" />
         <activity android:name="com.example.photoeng.DictionaryActivity" />

@@ -16,16 +16,18 @@ public class OnlineTranslateTread extends Thread {
     public static ArrayList<String> temp2;
 
 
+
     public  OnlineTranslateTread(Context context){
         this.context = context;
     }
+
     @Override
     public void run() {
         dbhelper = new DBHelper(context);
         DictionaryActivity.setTemp(CursorHelper());
         DictionaryActivity.setTemp2(TranslationArray());
     }
-    public ArrayList<String> CursorHelper(){
+   public ArrayList<String> CursorHelper(){
         SQLiteDatabase database = dbhelper.getWritableDatabase();
 
         ContentValues contentValues = new ContentValues();

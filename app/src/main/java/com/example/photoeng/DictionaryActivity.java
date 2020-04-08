@@ -45,7 +45,7 @@ public class DictionaryActivity extends AppCompatActivity {
         for(int i =0; i<tempD.size(); i++){
             Log.d("DEBUG ", tempD.get(i));
         }*/
-        Adapter adapter = new Adapter(this, OnTT.getTemp(), OnTT.getTemp2());
+        Adapter adapter = new Adapter(this, tempD, tempD2);
 
 
 

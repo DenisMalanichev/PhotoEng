@@ -68,8 +68,8 @@ public class MainScreen extends MainActivity {
         OnTT.start();
         getExtras();
 
-        OTT.context = getApplicationContext();
-        OTT.start();
+      //  OTT.context = getApplicationContext();
+       // OTT.start();
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
@@ -116,7 +116,7 @@ public class MainScreen extends MainActivity {
         DictionaryButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
+                Intent intent = new Intent(MainScreen.this, LoadingActivity.class);
                 startActivity(intent);
             }
         });
