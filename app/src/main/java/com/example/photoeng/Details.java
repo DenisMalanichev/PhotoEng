@@ -14,11 +14,11 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class Details extends MainScreen {
-    TextView DetailsText;
-    Button BackToDictionaryButton;
-    Button LearnButton;
-    Button DeleteButton;
-    DBHelper mDBHelper;
+    private TextView DetailsText;
+    private Button BackToDictionaryButton;
+    private Button LearnButton;
+    private Button DeleteButton;
+    private DBHelper mDBHelper;
 
 
 
@@ -73,12 +73,9 @@ public class Details extends MainScreen {
         LearnButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public  void onClick(View v) {
-                final Intent serviceIntent = new Intent(Details.this, HelloService.class);
-                final ArrayList<String> words = new ArrayList<>();
-                    Log.d("DEBUG WORD", ""+title);
-                    Toast.makeText(getApplicationContext(), title+" added", Toast.LENGTH_SHORT).show();
-                    serviceIntent.putExtra("String extra", words);
-                    MainScreen.getWords().add(title);
+               MainScreen.getWords().add(title);
+               Toast.makeText(Details.this, title+ " added", Toast.LENGTH_SHORT).show();
+               //Toast.makeText(Details.this, ""+MainScreen.getWords().get(0), Toast.LENGTH_SHORT).show();
             }
         });
 

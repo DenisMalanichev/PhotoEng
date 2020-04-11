@@ -15,5 +15,7 @@
     <string name="training">Тренировать</string>
     <string name="training_edittext_text">Введите слово на английском</string>
     <string name="check_text">Проверить</string>
+    <string name="result_button_again_text">Eще раз</string>
+    <string name="result_button_back_text">Назад</string>
 </resources>
 

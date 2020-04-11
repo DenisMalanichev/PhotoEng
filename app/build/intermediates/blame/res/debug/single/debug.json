@@ -16,6 +16,10 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_training_result.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_training_result.xml"
+    },
+    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_o_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\o_eng_rus.txt"
     },
@@ -186,6 +190,10 @@
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_x_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\x_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.jpg.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable-v24\\logo.jpg"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",

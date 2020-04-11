@@ -9,10 +9,12 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.Locale;
 
+import static com.example.photoeng.MainScreen.SPEECH_ARRAY_MESSAGE;
+
 
 public class HelloService extends Service {
 
-
+    private String str;
     private static TextToSpeech mTts;
     private static final String TAG = "TTSService";
 
@@ -21,7 +23,7 @@ public class HelloService extends Service {
         return null;
     }
 
-     @Override
+    @Override
     public void onCreate() {
         mTts = new TextToSpeech(this,
                 new TextToSpeech.OnInitListener() {
@@ -49,11 +51,10 @@ public class HelloService extends Service {
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
 
-
-        final ArrayList<String> astr = intent.getStringArrayListExtra("String extra");
+        final ArrayList<String> stringArrayExtra = intent.getStringArrayListExtra(SPEECH_ARRAY_MESSAGE);
 
         if (!mTts.isSpeaking()) {
-            say(astr);
+            say(stringArrayExtra);
         }
 
         Log.v(TAG, "onstart_service");

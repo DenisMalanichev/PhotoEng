@@ -44,8 +44,9 @@ public class MainScreen extends MainActivity {
     private DBHelper dbhelper;
     private Button newButton;
     private Button trainingButton;
-    public static ArrayList words = new ArrayList();
+    private static final ArrayList<String> words = new ArrayList<>();
     private OfflineTranslateThread OTT = new OfflineTranslateThread();
+    public final static String SPEECH_ARRAY_MESSAGE = "speech_array";
 
 
 
@@ -68,8 +69,6 @@ public class MainScreen extends MainActivity {
         OnTT.start();
         getExtras();
 
-      //  OTT.context = getApplicationContext();
-       // OTT.start();
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
@@ -149,14 +148,24 @@ public class MainScreen extends MainActivity {
             }
         });
 
-       // final Intent intent = new Intent(MainScreen.this, HelloService.class);
+
+        final Intent serviceIntent = new Intent(MainScreen.this, HelloService.class);
+
+
+
+        //words.add("test");
+
+
+        serviceIntent.putExtra(SPEECH_ARRAY_MESSAGE, words);
+        startService(serviceIntent);
+
         newButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Log.d("DEBUG ", ""+words.size());
                 HelloService.say(words);
             }
         });
+
         trainingButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

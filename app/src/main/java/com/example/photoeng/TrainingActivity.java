@@ -2,6 +2,7 @@ package com.example.photoeng;
 
 import android.app.Activity;
 import android.content.ContentValues;
+import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
@@ -18,6 +19,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class TrainingActivity extends Activity {
+
     private DBHelper dbhelper;
     private EditText TextToCheck;
     private Button Check;
@@ -27,12 +29,14 @@ public class TrainingActivity extends Activity {
     private CountDownTimer mTimer;
     private int currentId = 0;
     private int time = 15;
+    public int trueAnswers = 0;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_training);
+
 
         dbhelper = new DBHelper(this);
         TextToCheck = findViewById(R.id.training_edittext);
@@ -42,6 +46,7 @@ public class TrainingActivity extends Activity {
         train(TranslationArray());
         //устанавливаем нулевое слово
         TextToTranslate.setText(wordsToTrain[0]);
+        Log.d("DEBUG ans is", ""+ wordsToTrain[0]);
         //вызываем метод для показа нового слова
         showNewWord(currentId);
         //
@@ -50,8 +55,9 @@ public class TrainingActivity extends Activity {
             public void onClick(View v) {
                 if(currentId <4) {
                     Log.d("DEBUG ans is", ""+ArrayHelper().get(wordsToTrainId[currentId]));
-                                if(TextToCheck.getText().equals(ArrayHelper().get(wordsToTrainId[currentId]))){
-                                Log.d("DEBUG ans", "true");
+                                if( TextToCheck.getText().toString().trim().equals(ArrayHelper().get(wordsToTrainId[currentId]))){
+                                    trueAnswers++;
+                                    Log.d("DEBUG ans", "true");
                             }else{
                                 Log.d("DEBUG ans", "false");
                             }
@@ -59,7 +65,11 @@ public class TrainingActivity extends Activity {
                             mTimer.cancel();
                             //currentId++;
 
-                                showNewWord(currentId);
+                    showNewWord(currentId);
+                }else if(currentId == 4){
+                    Intent intent = new Intent(TrainingActivity.this, TrainingResult.class);
+                    intent.putExtra("ExtraTrueAnswers", trueAnswers);
+                    startActivity(intent);
                 }
             }
         });
@@ -70,6 +80,7 @@ public class TrainingActivity extends Activity {
 
     private void showNewWord(int id) {
         TextToTranslate.setText(wordsToTrain[id]);
+        Log.d("DEBUG ans is", ""+ ArrayHelper().get(wordsToTrainId[id]));
 
         mTimer = new CountDownTimer(1000 * time, 1000*time) {
 
