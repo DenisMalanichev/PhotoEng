@@ -1,0 +1,98 @@
+package com.example.photoeng;
+
+import android.content.Context;
+import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.CheckBox;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.cardview.widget.CardView;
+import androidx.recyclerview.widget.RecyclerView;
+
+import java.util.ArrayList;
+
+public class AdapterForLearning  extends RecyclerView.Adapter<AdapterForLearning.MyViewHolderLearning>{
+
+    public Context mContext;
+    public ArrayList<String> temp, temp2;
+    public DBHelper dbhelper;
+    public static final String KEY_FOR_CHECKED_WORDS = "extra_checked";
+
+    public AdapterForLearning(Context mContext, ArrayList<String> temp, ArrayList<String> temp2) {
+        this.mContext = mContext;
+        this.temp = temp;
+        this.temp2 = temp2;
+
+    }
+
+    @NonNull
+    @Override
+    public MyViewHolderLearning onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+        LayoutInflater inflater = LayoutInflater.from(mContext);
+        View view = inflater.inflate(R.layout.row_for_learning,parent, false);
+        return  new MyViewHolderLearning(view);
+    }
+
+    @Override
+    public void onBindViewHolder(@NonNull AdapterForLearning.MyViewHolderLearning holder, int position) {
+        holder.text1.setText(temp.get(position));
+        holder.text2.setText(temp2.get(position));
+    }
+
+    @Override
+    public int getItemCount() {
+        return temp.size();
+    }
+
+    public class MyViewHolderLearning extends RecyclerView.ViewHolder {
+        TextView text1, text2;
+        CardView cardView;
+        CheckBox checkBox;
+
+        public MyViewHolderLearning(@NonNull View itemView) {
+            super(itemView);
+
+            /*itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent(v.getContext(), Details.class);
+                    intent.putExtra("title", temp.get(getAdapterPosition()));
+                    intent.putExtra("position", getAdapterPosition());
+                    v.getContext().startActivity(intent);
+                }
+            });*/
+            text1 = itemView.findViewById(R.id.word_item);
+            text2 = itemView.findViewById(R.id.translated_item);
+            checkBox = itemView.findViewById(R.id.row_checkBox);
+            cardView = itemView.findViewById(R.id.mCardViewForLearning);
+
+            checkBox.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    if(checkBox.isChecked()) {
+                        Log.d("Test", ""+temp.get(getAdapterPosition()));
+                        DictionaryForLearningActivity.getWordsEngArray().add(temp.get(getAdapterPosition()));
+                        DictionaryForLearningActivity.getWordsRuArray().add(temp2.get(getAdapterPosition()));
+                    }
+                }
+            });
+
+        }
+
+
+    }
+    public boolean deleteTitle(String name)
+    {
+        SQLiteDatabase db = dbhelper.getWritableDatabase();
+        return db.delete(DBHelper.TABLE_CONTACTS, DBHelper.KEY_NAME + "=?", new String[]{name}) > 0;
+    }
+
+
+}
+

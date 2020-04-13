@@ -1,230 +1,242 @@
 [
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_c_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\c_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_z_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\z_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_c_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\c_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_i_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\i_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_training_result.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_training_result.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_o_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\o_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_d_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\d_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_y_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\y_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_y_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\y_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_s_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\s_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_green.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\camera_green.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_j_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\j_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_i_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\i_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_s_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\s_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listen_green.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\listen_green.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.jpg.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable-v24\\logo.jpg"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_m_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\m_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_learning.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_learning.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_u_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\u_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_training.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_training.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_b_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\b_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_k_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\k_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_colour.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\camera_colour.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_g_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\g_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_r_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\r_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_h_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\h_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listen_green.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\listen_green.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_e_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\e_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_a_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\a_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_learning.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\row_for_learning.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_translate_colour.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\translate_colour.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_x_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\x_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_n_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\n_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_z_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\z_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_w_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\w_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_loading.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_details.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\menu\\menu.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_f_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\f_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_q_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\q_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_w_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\w_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_green.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\camera_green.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_l_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\l_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_details.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_screen.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_main_screen.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_f_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\f_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_whatshot.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_whatshot.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\my_row.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\my_row.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_a_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\a_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_r_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\r_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_v_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\v_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_v_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\v_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_g_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\g_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_l_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\l_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dictionary.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_dictionary.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_m_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\m_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_colour.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\camera_colour.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_p_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\p_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_training.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_training.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_training_result.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_training_result.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_d_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\d_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_p_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\p_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_voice_green.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable-v24\\voice_green.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_u_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\u_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_j_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\j_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_x_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\x_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_h_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\h_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.jpg.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable-v24\\logo.jpg"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_n_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\n_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dictionary_for_learning.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_dictionary_for_learning.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dictionary.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_dictionary.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\menu\\menu.xml"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_o_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\o_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_e_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\e_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_voice_green.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable-v24\\voice_green.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\background.jpg"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_translate_colour.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\translate_colour.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_k_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\k_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_screen.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_main_screen.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_q_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\q_eng_rus.txt"
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_whatshot.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\ic_whatshot.xml"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_b_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\b_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

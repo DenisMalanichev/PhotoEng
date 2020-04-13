@@ -63,13 +63,4 @@ public class OnlineTranslateTread extends Thread {
         YandexTranslate translatorBackgroundTask = new YandexTranslate();
         return translatorBackgroundTask.doInBackground(textToBeTranslated, languagePair);
     }
-
-
-    public static ArrayList<String> getTemp() {
-        return temp;
-    }
-
-    public static ArrayList<String> getTemp2() {
-        return temp2;
-    }
 }

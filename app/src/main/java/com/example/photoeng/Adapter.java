@@ -10,6 +10,7 @@ import android.view.ContextMenu;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -25,7 +26,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
     public ArrayList<String> temp, temp2;
     public DBHelper dbhelper;
 
-    public Adapter(Context mContext, ArrayList<String> temp, ArrayList<String> temp2) {
+    public Adapter(Context mContext, ArrayList<String> temp, ArrayList<String> temp2 ) {
         this.mContext = mContext;
         this.temp = temp;
         this.temp2 = temp2;
@@ -36,7 +37,9 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
     @Override
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         LayoutInflater inflater = LayoutInflater.from(mContext);
-        View view = inflater.inflate(R.layout.my_row,parent, false);
+        View view;
+
+           view = inflater.inflate(R.layout.my_row , parent, false);
         return new MyViewHolder(view);
     }
 
@@ -54,6 +57,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
     public class MyViewHolder extends RecyclerView.ViewHolder {
         TextView text1, text2;
         CardView cardView;
+
 
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);

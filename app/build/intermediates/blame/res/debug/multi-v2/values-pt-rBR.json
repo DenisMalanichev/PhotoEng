@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\PhotoEng\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "D:\\PhotoEngNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\denis\\.gradle\\caches\\transforms-2\\files-2.1\\e3c8d187b784a73bc84c21de474e0b3b\\jetified-android-image-cropper-2.4.7\\res\\values-pt-rBR\\values-pt-rBR.xml",

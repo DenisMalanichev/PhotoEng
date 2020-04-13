@@ -13,6 +13,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.ContextMenu;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
@@ -22,6 +23,9 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+import static com.example.photoeng.MainScreen.EXTRA_KEY_DICTIONARY_ACTIVITY;
+
+
 public class DictionaryActivity extends AppCompatActivity {
 
 
@@ -29,7 +33,7 @@ public class DictionaryActivity extends AppCompatActivity {
     private androidx.recyclerview.widget.RecyclerView DictionaryView;
     public static ArrayList<String> tempD;
     public static ArrayList<String> tempD2;
-    private OnlineTranslateTread OnTT = new OnlineTranslateTread(this);
+
 
 
 
@@ -40,28 +44,20 @@ public class DictionaryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_dictionary);
         DictionaryView = findViewById(R.id.dictionary_view);
         dbhelper = new DBHelper(this);
-       /* tempD = OnTT.getTemp();
-        tempD2 = OnTT.getTemp2();
-        for(int i =0; i<tempD.size(); i++){
-            Log.d("DEBUG ", tempD.get(i));
-        }*/
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        OnlineTranslateTread OnTT = new OnlineTranslateTread(this);
+        OnTT.start();
+        do{
+        }while (OnTT.isAlive());
+
         Adapter adapter = new Adapter(this, tempD, tempD2);
-
-
-
 
         Intent intent = new Intent(DictionaryActivity.this, TrainingActivity.class);
         intent.putExtra("extraWords", tempD);
 
-
         DictionaryView.setLayoutManager(new LinearLayoutManager(this));
         DictionaryView.setAdapter(adapter);
     }
-
-
-
-
-
 
 
 
@@ -81,4 +77,6 @@ public class DictionaryActivity extends AppCompatActivity {
     public static void setTemp2(ArrayList<String> temp2) {
         DictionaryActivity.tempD2 = temp2;
     }
+
+
 }

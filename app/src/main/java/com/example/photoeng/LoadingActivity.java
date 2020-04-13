@@ -17,6 +17,10 @@ public class LoadingActivity extends AppCompatActivity {
 
     private OnlineTranslateTread OnTT = new OnlineTranslateTread(this);
     private ProgressBar mBar;
+    private DBHelper dbhelper;
+    private Context context;
+    public static ArrayList<String> temp;
+    public static ArrayList<String> temp2;
 
 
 
@@ -27,12 +31,14 @@ public class LoadingActivity extends AppCompatActivity {
         mBar = findViewById(R.id.progress_circular);
 
         OnTT.start();
-          do {
-        }while(OnTT.isAlive());
+        do{
+
+        }while (OnTT.isAlive());
 
 
-        Intent intent = new Intent(LoadingActivity.this, DictionaryActivity.class);
-        startActivity(intent);
+
+           Intent intent = new Intent(LoadingActivity.this, DictionaryActivity.class);
+           startActivity(intent);
+
     }
-
 }

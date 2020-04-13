@@ -47,7 +47,7 @@ public class MainScreen extends MainActivity {
     private static final ArrayList<String> words = new ArrayList<>();
     private OfflineTranslateThread OTT = new OfflineTranslateThread();
     public final static String SPEECH_ARRAY_MESSAGE = "speech_array";
-
+    public final static String EXTRA_KEY_DICTIONARY_ACTIVITY = "task_number_for_dictionary";
 
 
 
@@ -55,7 +55,7 @@ public class MainScreen extends MainActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
-
+        getSupportActionBar().setDisplayHomeAsUpEnabled(false);
         DictionaryButton = findViewById(R.id.dictionary_button);
         Translate =  findViewById(R.id.research_button);
         TextReader =  findViewById(R.id.text_reader);
@@ -65,8 +65,6 @@ public class MainScreen extends MainActivity {
         dbhelper = new DBHelper(this);
         newButton = findViewById(R.id.learn_button);
         trainingButton = findViewById(R.id.training_button);
-        OnlineTranslateTread OnTT  = new OnlineTranslateTread(this);
-        OnTT.start();
         getExtras();
 
 
@@ -115,7 +113,7 @@ public class MainScreen extends MainActivity {
         DictionaryButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainScreen.this, LoadingActivity.class);
+                Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
                 startActivity(intent);
             }
         });
@@ -162,7 +160,9 @@ public class MainScreen extends MainActivity {
         newButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                HelloService.say(words);
+                Intent intent = new Intent(MainScreen.this, DictionaryForLearningActivity.class);
+                startActivity(intent);
+               // HelloService.say(words);
             }
         });
 
