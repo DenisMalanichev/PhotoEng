@@ -4,12 +4,12 @@
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\z_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_c_eng_rus.txt.flat",
-        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\c_eng_rus.txt"
-    },
-    {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_i_eng_rus.txt.flat",
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\i_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_c_eng_rus.txt.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\c_eng_rus.txt"
     },
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -18,6 +18,10 @@
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_logo.jpg.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable\\loading_logo.jpg"
     },
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_d_eng_rus.txt.flat",
@@ -52,12 +56,12 @@
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_learning.xml.flat",
-        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_learning.xml"
-    },
-    {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_learning.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_learning.xml"
     },
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_training.xml.flat",
@@ -94,6 +98,10 @@
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_test.xml"
     },
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_w_eng_rus.txt.flat",

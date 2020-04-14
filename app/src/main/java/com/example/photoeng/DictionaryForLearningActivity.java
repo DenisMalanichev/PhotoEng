@@ -55,14 +55,13 @@ public class DictionaryForLearningActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()) {
             case R.id.ready_button:
-                Log.d("Test", ""+wordsEngArray.get(0));
-                for(int i =0; i<wordsEngArray.size(); i++){
-                    wordsToLearn.add(wordsEngArray.get(i) + " " + wordsRuArray.get(i));
-                }
-                LearningActivity.setLearningWords(wordsToLearn);
-                Intent intent = new Intent(DictionaryForLearningActivity.this, LearningActivity.class);
-                //intent.putExtra(KEY_FOR_LEARNING_ARRAY, wordsToLearn);
-                startActivity(intent);
+               if(wordsToLearn.size() != 0) {
+                   LearningActivity.setLearningWords(wordsToLearn);
+                   Intent intent = new Intent(DictionaryForLearningActivity.this, LearningActivity.class);
+                   startActivity(intent);
+               }else{
+                   Toast.makeText(this, "Выбери слова!", Toast.LENGTH_LONG).show();
+               }
                 return true;
         }
         return super.onOptionsItemSelected(item);
@@ -84,5 +83,7 @@ public class DictionaryForLearningActivity extends AppCompatActivity {
         DictionaryForLearningActivity.wordsRuArray = tempD2;
     }
 
-
+    public static ArrayList<String> getWordsToLearn() {
+        return wordsToLearn;
+    }
 }

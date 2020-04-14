@@ -28,7 +28,16 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.photoeng.LearningActivity" />
+        <activity android:name="com.example.photoeng.StartActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.photoeng.LearningActivity"
+            android:parentActivityName="com.example.photoeng.DictionaryForLearningActivity" />
         <activity
             android:name="com.example.photoeng.DictionaryForLearningActivity"
             android:parentActivityName="com.example.photoeng.MainScreen" />
@@ -40,14 +49,7 @@
             android:name="com.example.photoeng.DictionaryActivity"
             android:parentActivityName="com.example.photoeng.MainScreen" />
         <activity android:name="com.example.photoeng.MainScreen" />
-        <activity
-            android:name="com.example.photoeng.MainActivity"
-            android:parentActivityName="com.example.photoeng.MainScreen" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <activity android:name="com.example.photoeng.MainActivity" >
         </activity>
 
         <service

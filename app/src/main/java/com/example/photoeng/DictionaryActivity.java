@@ -1,6 +1,7 @@
 package com.example.photoeng;
 
 import androidx.annotation.NonNull;
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
@@ -10,6 +11,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.ContextMenu;
@@ -19,6 +21,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import java.util.ArrayList;
@@ -33,22 +36,23 @@ public class DictionaryActivity extends AppCompatActivity {
     private androidx.recyclerview.widget.RecyclerView DictionaryView;
     public static ArrayList<String> tempD;
     public static ArrayList<String> tempD2;
+    private ProgressBar mBar;
 
 
 
 
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dictionary);
         DictionaryView = findViewById(R.id.dictionary_view);
+        mBar = findViewById(R.id.progress_circular);
         dbhelper = new DBHelper(this);
+
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        OnlineTranslateTread OnTT = new OnlineTranslateTread(this);
-        OnTT.start();
-        do{
-        }while (OnTT.isAlive());
+
 
         Adapter adapter = new Adapter(this, tempD, tempD2);
 

@@ -26,9 +26,8 @@ public class LearningActivity extends AppCompatActivity {
         StartButton = findViewById(R.id.start_learning_button);
         StopButton = findViewById(R.id.stop_learning_button);
 
-        Intent intent = new Intent(LearningActivity.this, DictionaryForLearningActivity.class);
-        //learningWords = intent.getStringArrayListExtra(KEY_FOR_LEARNING_ARRAY);
-        Log.d("Test", ""+learningWords.size());
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         final Intent serviceIntent = new Intent(LearningActivity.this, HelloService.class);
         serviceIntent.putExtra(SPEECH_ARRAY_MESSAGE, learningWords);
         startService(serviceIntent);
@@ -36,7 +35,7 @@ public class LearningActivity extends AppCompatActivity {
         StartButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                HelloService.say(learningWords);
+                    HelloService.say(learningWords);
             }
         });
 
@@ -44,6 +43,7 @@ public class LearningActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 HelloService.stop();
+                DictionaryForLearningActivity.getWordsToLearn().clear();
             }
         });
 

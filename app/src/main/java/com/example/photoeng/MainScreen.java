@@ -113,8 +113,9 @@ public class MainScreen extends MainActivity {
         DictionaryButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
-                startActivity(intent);
+                    Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
+                    startActivity(intent);
+
             }
         });
         SayButton.setOnClickListener(new View.OnClickListener() {
@@ -123,11 +124,12 @@ public class MainScreen extends MainActivity {
                 TTS.speak(TextReader.getText().toString(), TextToSpeech.QUEUE_FLUSH, null);
             }
         });
+
         SaveButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                SQLiteDatabase database = dbhelper.getWritableDatabase();
 
+                SQLiteDatabase database = dbhelper.getWritableDatabase();
                 ContentValues contentValues = new ContentValues();
                 contentValues.put(DBHelper.KEY_NAME, TextReader.getText().toString());
                 database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
@@ -160,8 +162,12 @@ public class MainScreen extends MainActivity {
         newButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainScreen.this, DictionaryForLearningActivity.class);
-                startActivity(intent);
+                if(getDBSize() == true) {
+                    Intent intent = new Intent(MainScreen.this, DictionaryForLearningActivity.class);
+                    startActivity(intent);
+                }else{
+                    Toast.makeText(MainScreen.this, "У вас еще нет слов для изучения", Toast.LENGTH_LONG).show();
+                }
                // HelloService.say(words);
             }
         });
@@ -235,5 +241,17 @@ public class MainScreen extends MainActivity {
         return words;
     }
 
+    public boolean getDBSize(){
+        SQLiteDatabase database = dbhelper.getWritableDatabase();
+        ContentValues contentValues = new ContentValues();
+        contentValues.put(DBHelper.KEY_NAME, TextReader.getText().toString());
+        database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
+        Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
+                null, null, null, null);
+        if(cursor.moveToPosition(1) == true){
+            return true;
+        }
+        return false;
+    }
 
 }

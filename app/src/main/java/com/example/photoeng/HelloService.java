@@ -16,6 +16,7 @@ public class HelloService extends Service {
 
     private String str;
     private static TextToSpeech mTts;
+    private static TextToSpeech mTtsRU;
     private static final String TAG = "TTSService";
 
     @Override
@@ -34,6 +35,13 @@ public class HelloService extends Service {
                     }
                 }
         );
+        mTtsRU = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                mTts.setSpeechRate(1.0f);
+                mTts.setLanguage(new Locale("ru"));
+            }
+        });
         Log.v(TAG, "oncreate_service");
         super.onCreate();
     }
@@ -45,6 +53,11 @@ public class HelloService extends Service {
             mTts.stop();
             mTts.shutdown();
         }
+        if (mTtsRU != null) {
+            mTtsRU.stop();
+            mTtsRU.shutdown();
+        }
+       // DictionaryForLearningActivity.getWordsToLearn().clear();
         super.onDestroy();
     }
 
@@ -62,18 +75,25 @@ public class HelloService extends Service {
     }
 
     public static void say(ArrayList<String> str) {
-        StringBuilder strToSay = new StringBuilder();
-        for (String word : str) {
-
-            strToSay.append(word);
-
-        }
-        mTts.speak(strToSay.toString(),
-                TextToSpeech.QUEUE_FLUSH,
-                null);
+            sayingLoop(str);
 
     }
     public static void stop(){
         mTts.stop();
+    }
+
+    public static boolean sayingLoop(ArrayList<String> str){
+      for(int j = 0; j<10; j++) {
+          for (int i = 0; i < str.size(); i++) {
+              mTtsRU.speak(str.get(i),
+                      TextToSpeech.QUEUE_ADD,
+                      null);
+              i++;
+              mTts.speak(str.get(i),
+                      TextToSpeech.QUEUE_ADD, null);
+
+          }
+      }
+        return false;
     }
 }

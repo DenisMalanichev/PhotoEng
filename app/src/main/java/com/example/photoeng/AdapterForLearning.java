@@ -58,15 +58,6 @@ public class AdapterForLearning  extends RecyclerView.Adapter<AdapterForLearning
         public MyViewHolderLearning(@NonNull View itemView) {
             super(itemView);
 
-            /*itemView.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    Intent intent = new Intent(v.getContext(), Details.class);
-                    intent.putExtra("title", temp.get(getAdapterPosition()));
-                    intent.putExtra("position", getAdapterPosition());
-                    v.getContext().startActivity(intent);
-                }
-            });*/
             text1 = itemView.findViewById(R.id.word_item);
             text2 = itemView.findViewById(R.id.translated_item);
             checkBox = itemView.findViewById(R.id.row_checkBox);
@@ -77,8 +68,8 @@ public class AdapterForLearning  extends RecyclerView.Adapter<AdapterForLearning
                 public void onClick(View v) {
                     if(checkBox.isChecked()) {
                         Log.d("Test", ""+temp.get(getAdapterPosition()));
-                        DictionaryForLearningActivity.getWordsEngArray().add(temp.get(getAdapterPosition()));
-                        DictionaryForLearningActivity.getWordsRuArray().add(temp2.get(getAdapterPosition()));
+                        DictionaryForLearningActivity.getWordsToLearn().add(temp.get(getAdapterPosition()));
+                        DictionaryForLearningActivity.getWordsToLearn().add(temp2.get(getAdapterPosition()));
                     }
                 }
             });

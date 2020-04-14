@@ -1,4 +1,4 @@
-#Mon Apr 13 22:30:38 EEST 2020
+#Tue Apr 14 23:34:50 EEST 2020
 base.0=D\:\\PhotoEngNew\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
