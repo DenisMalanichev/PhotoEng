@@ -204,12 +204,12 @@
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\n_eng_rus.txt"
     },
     {
-        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dictionary_for_learning.xml.flat",
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_dictionary_for_learning.xml"
+    },
+    {
+        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dictionary.xml.flat",
@@ -238,10 +238,6 @@
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\raw_b_eng_rus.txt.flat",
         "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\raw\\b_eng_rus.txt"
-    },
-    {
-        "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
-        "source": "D:\\PhotoEngNew\\app\\src\\main\\res\\layout\\activity_loading.xml"
     },
     {
         "merged": "D:\\PhotoEngNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",

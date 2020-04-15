@@ -28,7 +28,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.photoeng.StartActivity" >
+        <activity
+            android:name="com.example.photoeng.StartActivity"
+            android:screenOrientation="fullSensor" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -42,7 +44,6 @@
             android:name="com.example.photoeng.DictionaryForLearningActivity"
             android:parentActivityName="com.example.photoeng.MainScreen" />
         <activity android:name="com.example.photoeng.TrainingResult" />
-        <activity android:name="com.example.photoeng.LoadingActivity" />
         <activity android:name="com.example.photoeng.TrainingActivity" />
         <activity android:name="com.example.photoeng.Details" />
         <activity

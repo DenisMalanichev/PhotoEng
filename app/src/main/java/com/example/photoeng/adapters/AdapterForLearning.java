@@ -1,7 +1,6 @@
-package com.example.photoeng;
+package com.example.photoeng.adapters;
 
 import android.content.Context;
-import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -9,11 +8,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CheckBox;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.photoeng.DictionaryForLearningActivity;
+import com.example.photoeng.R;
+import com.example.photoeng.data.DBHelper;
 
 import java.util.ArrayList;
 
@@ -81,7 +83,7 @@ public class AdapterForLearning  extends RecyclerView.Adapter<AdapterForLearning
     public boolean deleteTitle(String name)
     {
         SQLiteDatabase db = dbhelper.getWritableDatabase();
-        return db.delete(DBHelper.TABLE_CONTACTS, DBHelper.KEY_NAME + "=?", new String[]{name}) > 0;
+        return db.delete(DBHelper.TABLE_CONTACTS, DBHelper.KEY_WORDS + "=?", new String[]{name}) > 0;
     }
 
 

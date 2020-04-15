@@ -1,17 +1,15 @@
 package com.example.photoeng;
 
 
-        import android.app.Notification;
         import android.content.ContentValues;
         import android.content.Context;
         import android.content.Intent;
+        import android.content.pm.ActivityInfo;
         import android.database.Cursor;
         import android.database.sqlite.SQLiteDatabase;
-        import android.graphics.Bitmap;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
         import android.os.Bundle;
-        import android.speech.RecognizerIntent;
         import android.speech.tts.TextToSpeech;
         import android.util.Log;
         import android.view.View;
@@ -21,13 +19,8 @@ package com.example.photoeng;
         import android.widget.TextView;
         import android.widget.Toast;
 
-        import androidx.core.content.ContextCompat;
+        import com.example.photoeng.data.DBHelper;
 
-        import com.googlecode.tesseract.android.TessBaseAPI;
-        import java.io.BufferedReader;
-        import java.io.File;
-        import java.io.InputStream;
-        import java.io.InputStreamReader;
         import java.util.ArrayList;
         import java.util.Locale;
 
@@ -41,13 +34,13 @@ public class MainScreen extends MainActivity {
     private ImageButton SayButton;
     private Button SaveButton;
     private TextToSpeech TTS;
-    private DBHelper dbhelper;
     private Button newButton;
     private Button trainingButton;
     private static final ArrayList<String> words = new ArrayList<>();
     private OfflineTranslateThread OTT = new OfflineTranslateThread();
     public final static String SPEECH_ARRAY_MESSAGE = "speech_array";
     public final static String EXTRA_KEY_DICTIONARY_ACTIVITY = "task_number_for_dictionary";
+    private DBHelper mDBHelper;
 
 
 
@@ -55,6 +48,7 @@ public class MainScreen extends MainActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
+       // setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         getSupportActionBar().setDisplayHomeAsUpEnabled(false);
         DictionaryButton = findViewById(R.id.dictionary_button);
         Translate =  findViewById(R.id.research_button);
@@ -62,7 +56,6 @@ public class MainScreen extends MainActivity {
         TranslatedWord =  findViewById(R.id.translated_word);
         SaveButton = findViewById(R.id.save_button);
         SayButton =  findViewById(R.id.say);
-        dbhelper = new DBHelper(this);
         newButton = findViewById(R.id.learn_button);
         trainingButton = findViewById(R.id.training_button);
         getExtras();
@@ -114,6 +107,8 @@ public class MainScreen extends MainActivity {
             @Override
             public void onClick(View v) {
                     Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
+                    DictionaryActivity.setTemp(getDBDataEng(MainScreen.this));
+                    DictionaryActivity.setTemp2(getDBDataRu(MainScreen.this));
                     startActivity(intent);
 
             }
@@ -128,34 +123,14 @@ public class MainScreen extends MainActivity {
         SaveButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-                SQLiteDatabase database = dbhelper.getWritableDatabase();
-                ContentValues contentValues = new ContentValues();
-                contentValues.put(DBHelper.KEY_NAME, TextReader.getText().toString());
-                database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
-                Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
-                        null, null, null, null);
-                if (cursor.moveToFirst()) {
-                    int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
-                    int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
-                    do {
-                        Toast.makeText(MainScreen.this, cursor.getString(nameIndex), Toast.LENGTH_LONG).show();
-                    } while (cursor.moveToNext());
-                }
-                dbhelper.close();
-                cursor.close();
-
+                DBHelper dbhelper = new DBHelper(MainScreen.this);
+               dbhelper.addWordsToDB(TextReader.getText().toString().trim().toLowerCase(), TranslatedWord.getText().toString().toLowerCase().trim());
+               dbhelper.close();
             }
         });
 
 
         final Intent serviceIntent = new Intent(MainScreen.this, HelloService.class);
-
-
-
-        //words.add("test");
-
-
         serviceIntent.putExtra(SPEECH_ARRAY_MESSAGE, words);
         startService(serviceIntent);
 
@@ -168,7 +143,6 @@ public class MainScreen extends MainActivity {
                 }else{
                     Toast.makeText(MainScreen.this, "У вас еще нет слов для изучения", Toast.LENGTH_LONG).show();
                 }
-               // HelloService.say(words);
             }
         });
 
@@ -242,16 +216,63 @@ public class MainScreen extends MainActivity {
     }
 
     public boolean getDBSize(){
-        SQLiteDatabase database = dbhelper.getWritableDatabase();
+        mDBHelper = new DBHelper(MainScreen.this);
+        SQLiteDatabase database = mDBHelper.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
-        contentValues.put(DBHelper.KEY_NAME, TextReader.getText().toString());
+        contentValues.put(DBHelper.KEY_WORDS, TextReader.getText().toString());
         database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
+
         Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
                 null, null, null, null);
-        if(cursor.moveToPosition(1) == true){
-            return true;
-        }
+
+
+            if (cursor.moveToPosition(1) == true) {
+                return true;
+            }
+
+
+
         return false;
     }
+    public ArrayList<String> getDBDataEng(Context context){
+        mDBHelper = new DBHelper(MainScreen.this);
+          SQLiteDatabase database = mDBHelper.getReadableDatabase();
+          Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
+                        null, null, null, null);
+        ArrayList<String>  listEng = new ArrayList<>();
+          try {
+              Log.e("size", "" + cursor.getCount());
+              int nameIndex = cursor.getColumnIndex(DBHelper.KEY_WORDS);
 
-}
+              if (cursor.moveToNext()) {
+
+                  do {
+                      listEng.add(cursor.getString(nameIndex));
+                  } while (cursor.moveToNext());
+                  cursor.close();
+              }
+          }catch (Exception e){
+              e.printStackTrace();
+          }
+        return listEng;
+    }
+    public ArrayList<String> getDBDataRu(Context context){
+        mDBHelper = new DBHelper(MainScreen.this);
+        SQLiteDatabase database = mDBHelper.getReadableDatabase();
+        Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
+                null, null, null, null);
+
+
+        int nameIndex = cursor.getColumnIndex(DBHelper.KEY_TRANSLATION);
+        ArrayList<String> listRu = new ArrayList<>();
+        if(cursor.moveToNext()) {
+
+            do {
+                listRu.add(cursor.getString(nameIndex));
+            } while (cursor.moveToNext());
+            cursor.close();
+            }
+        return listRu;
+        }
+    }
+

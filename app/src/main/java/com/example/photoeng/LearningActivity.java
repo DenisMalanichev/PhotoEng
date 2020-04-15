@@ -3,6 +3,7 @@ package com.example.photoeng;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -25,7 +26,7 @@ public class LearningActivity extends AppCompatActivity {
         setContentView(R.layout.activity_learning);
         StartButton = findViewById(R.id.start_learning_button);
         StopButton = findViewById(R.id.stop_learning_button);
-
+        //setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         final Intent serviceIntent = new Intent(LearningActivity.this, HelloService.class);

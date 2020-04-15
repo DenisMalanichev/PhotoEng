@@ -4,7 +4,8 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.util.Log;
+
+import com.example.photoeng.data.DBHelper;
 
 import java.util.ArrayList;
 
@@ -26,6 +27,8 @@ public class OnlineTranslateTread extends Thread {
         dbhelper = new DBHelper(context);
         DictionaryActivity.setTemp(CursorHelper());
         DictionaryActivity.setTemp2(TranslationArray());
+        DictionaryForLearningActivity.setTemp(CursorHelper());
+        DictionaryForLearningActivity.setTemp2(TranslationArray());
     }
    public ArrayList<String> CursorHelper(){
         SQLiteDatabase database = dbhelper.getWritableDatabase();
@@ -39,7 +42,7 @@ public class OnlineTranslateTread extends Thread {
 
         if (cursor.moveToFirst()) {
             int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
-            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
+            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_WORDS);
             do {
                 wordsArray.add(cursor.getString(nameIndex));
             } while (cursor.moveToNext());

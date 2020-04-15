@@ -80,6 +80,7 @@ public class HelloService extends Service {
     }
     public static void stop(){
         mTts.stop();
+        mTtsRU.stop();
     }
 
     public static boolean sayingLoop(ArrayList<String> str){

@@ -3,6 +3,7 @@ package com.example.photoeng;
 import android.app.Activity;
 import android.content.ContentValues;
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
@@ -14,6 +15,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.photoeng.data.DBHelper;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -36,7 +39,7 @@ public class TrainingActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_training);
-
+       // setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         dbhelper = new DBHelper(this);
         TextToCheck = findViewById(R.id.training_edittext);
@@ -159,7 +162,7 @@ public class TrainingActivity extends Activity {
 
         if (cursor.moveToFirst()) {
             int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
-            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
+            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_WORDS);
             do {
                 wordsArray.add(cursor.getString(nameIndex));
             } while (cursor.moveToNext());

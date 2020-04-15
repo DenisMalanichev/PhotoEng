@@ -6,10 +6,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
+
+import com.example.photoeng.adapters.AdapterForLearning;
+import com.example.photoeng.data.DBHelper;
 
 import java.util.ArrayList;
 
@@ -33,11 +35,7 @@ public class DictionaryForLearningActivity extends AppCompatActivity {
         dbhelper = new DBHelper(this);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        OnlineTranslationForLearning OnTTFL = new OnlineTranslationForLearning(this);
-        OnTTFL.start();
 
-        do{
-        }while(OnTTFL.isAlive());
 
         AdapterForLearning adapter = new AdapterForLearning(this, wordsEngArray, wordsRuArray);
 

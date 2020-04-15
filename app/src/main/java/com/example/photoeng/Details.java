@@ -1,8 +1,7 @@
 package com.example.photoeng;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
@@ -11,7 +10,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.util.ArrayList;
+import com.example.photoeng.data.DBHelper;
 
 public class Details extends MainScreen {
     private TextView DetailsText;
@@ -26,7 +25,7 @@ public class Details extends MainScreen {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
-
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         DetailsText = findViewById(R.id.details_text);
         BackToDictionaryButton = findViewById(R.id.Back_to_dictionary_button);
         DeleteButton = findViewById(R.id.delete_button);
@@ -57,7 +56,7 @@ public class Details extends MainScreen {
                 }
 
                 SQLiteDatabase database = mDBHelper.getWritableDatabase();
-                int deletedItem = database.delete(mDBHelper.TABLE_CONTACTS, mDBHelper.KEY_NAME+ " = ?", new  String[]{title});
+                int deletedItem = database.delete(mDBHelper.TABLE_CONTACTS, mDBHelper.KEY_WORDS+ " = ?", new  String[]{title});
                 Toast.makeText(Details.this, "deleted", Toast.LENGTH_SHORT);
                 Log.d("DEBAG: deleted item id", ""+deletedItem);
                 mDBHelper.close();

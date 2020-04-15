@@ -2,48 +2,29 @@ package com.example.photoeng;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.ContentValues;
 import android.content.Context;
 import android.content.Intent;
-import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.os.Handler;
 
-import java.util.ArrayList;
+import com.example.photoeng.data.DBHelper;
 
 public class StartActivity extends AppCompatActivity {
-    private static final int LOADING_TIME = 15000;
-    private DBHelper dbhelper;
-    private Context context;
+    private static final int LOADING_TIME = 2500;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
-       /* new Handler().postDelayed(new Runnable() {
+        //setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        new Handler().postDelayed(new Runnable(){
             @Override
             public void run() {
-                dbhelper = new DBHelper(context);
-                DictionaryActivity.setTemp(CursorHelper());
-                DictionaryActivity.setTemp2(TranslationArray());
-                DictionaryForLearningActivity.setTemp(CursorHelper());
-                DictionaryForLearningActivity.setTemp2(TranslationArray());
-                Intent intent = new Intent(StartActivity.this, MainActivity.class);
-                startActivity(intent);
-                finish();
+                /* Create an Intent that will start the Menu-Activity. */
+                Intent mainIntent = new Intent(StartActivity.this, MainScreen.class);
+              startActivity(mainIntent);
             }
-        }, LOADING_TIME);*/
-       OnlineTranslateTread OnTT = new OnlineTranslateTread(this);
-       OnlineTranslationForLearning OnTTFl = new OnlineTranslationForLearning(this);
-       OnTT.start();
-       OnTTFl.start();
-       do{
-
-       }while(OnTT.isAlive() || OnTTFl.isAlive());
-        Intent intent = new Intent(StartActivity.this, MainActivity.class);
-        startActivity(intent);
+        }, LOADING_TIME);
     }
-
-
 }

@@ -3,6 +3,7 @@ package com.example.photoeng;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -18,7 +19,7 @@ public class TrainingResult extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_training_result);
-
+        //setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         ResultAgainButton = findViewById(R.id.result_button_again);
         ResultBackButton = findViewById(R.id.result_button_back);
         ResultTextView = findViewById(R.id.result_text_view);

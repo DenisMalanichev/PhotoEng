@@ -5,6 +5,8 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
+import com.example.photoeng.data.DBHelper;
+
 import java.util.ArrayList;
 
 public class OnlineTranslationForLearning extends Thread {
@@ -37,8 +39,7 @@ public class OnlineTranslationForLearning extends Thread {
         ArrayList<String> wordsArray = new ArrayList<>();
 
         if (cursor.moveToFirst()) {
-            int idIndex = cursor.getColumnIndex(DBHelper.KEY_ID);
-            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_NAME);
+            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_WORDS);
             do {
                 wordsArray.add(cursor.getString(nameIndex));
             } while (cursor.moveToNext());
