@@ -17,6 +17,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.theartofdev.edmodo.cropper.CropImage;
@@ -82,20 +83,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    /*private String extractText(Bitmap bitmap, Context context) throws Exception {
-        String dstPathDir = "/tesseract/tessdata/";
-        String srcFile = "eng.traineddata";
-        InputStream inFile = null;
-        dstPathDir = context.getFilesDir() + dstPathDir;
-        String dstInitPathDir = context.getFilesDir() + "/tesseract";
-        String dstPathFile = dstPathDir + srcFile;
-        TessBaseAPI tessBaseApi = new TessBaseAPI();
-        tessBaseApi.init((context.getFilesDir() + dstPathDir), "eng");
-        tessBaseApi.setImage(bitmap);
-        String extractedText = tessBaseApi.getUTF8Text();
-        tessBaseApi.end();
-        return extractedText;
-    }*/
 
     public void speak() {
         Intent intent = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
@@ -111,12 +98,12 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
+
     @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        if (count == 2) {
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+
             Intent intent = new Intent(this, MainScreen.class);
-            count = 0;
             try {
                 switch (requestCode) {
                     case REQUEST_CODE_SPEECH_INPUT: {
@@ -133,42 +120,35 @@ public class MainActivity extends AppCompatActivity {
                 e.printStackTrace();
             }
 
-        } else if (count == 1) {
 
 
-            if (requestCode == CropImage.PICK_IMAGE_CHOOSER_REQUEST_CODE
-                    && resultCode == Activity.RESULT_OK) {
-                Uri imageUri = CropImage.getPickImageResultUri(this, data);
-                if (CropImage.isReadExternalStoragePermissionsRequired(this, imageUri)) {
-                    uri = imageUri;
+            if (requestCode == CropImage.PICK_IMAGE_CHOOSER_REQUEST_CODE && resultCode == Activity.RESULT_OK) {
+                Uri imageuri = CropImage.getPickImageResultUri(this, data);
+                if (CropImage.isReadExternalStoragePermissionsRequired(this, imageuri)) {
+                    uri = imageuri;
                     requestPermissions(new String[]{Manifest.permission.READ_EXTERNAL_STORAGE}, 0);
                 } else {
-                    startCrop(imageUri);
+                    startCrop(imageuri);
                 }
             }
-            if (requestCode == CropImage.CROP_IMAGE_ACTIVITY_REQUEST_CODE){
+
+            if (requestCode == CropImage.CROP_IMAGE_ACTIVITY_REQUEST_CODE) {
                 CropImage.ActivityResult result = CropImage.getActivityResult(data);
-                if (requestCode == RESULT_OK){
-                     Bitmap bitmap = result.getBitmap();
-                     try {
-                        tesseractOCR = new TesseractOCR(this, "eng");
-                        CameraText.setText(tesseractOCR.getOCRResult(bitmap));
-                    }catch (Exception e){
-                        e.printStackTrace();
-                    }
-                    Toast.makeText(this, "Okkk", Toast.LENGTH_SHORT).show();
+                if (resultCode == RESULT_OK) {
+
+                    ImageView.setImageURI(result.getUri());
+                    Toast.makeText(this, "working blua", Toast.LENGTH_LONG).show();
                 }
-             }
-
-
+            }
         }
 
-        count =0;
-    }
+
+
 
     private void startCrop(Uri uri) {
         CropImage.activity(uri).setGuidelines(CropImageView.Guidelines.ON)
                 .setMultiTouchEnabled(true)
                 .start(this);
     }
+
 }

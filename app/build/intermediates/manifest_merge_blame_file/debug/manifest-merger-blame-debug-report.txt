@@ -19,198 +19,96 @@
 13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 13-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:7:5-77
 13-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:7:22-74
-14
-15    <!-- To store the heap dumps and leak analysis results. -->
-16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:23:5-80
-16-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:23:22-77
-17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:24:5-81
-17-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:24:22-78
-18
-19    <application
-19-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:9:5-48:19
-20        android:name="com.example.photoeng.DictionaryToSay"
-20-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:10:9-40
-21        android:allowBackup="true"
-21-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:11:9-35
-22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.1.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
-23        android:debuggable="true"
-24        android:extractNativeLibs="false"
-25        android:icon="@drawable/logo"
-25-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:12:9-38
-26        android:label="@string/app_name"
-26-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:13:9-41
-27        android:roundIcon="@mipmap/ic_launcher_round"
-27-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:14:9-54
-28        android:supportsRtl="true"
-28-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:15:9-35
-29        android:testOnly="true"
-30        android:theme="@style/AppTheme" >
-30-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:16:9-40
-31        <activity
-31-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:17:9-23:36
-32            android:name="com.example.photoeng.StartActivity"
-32-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:17:19-48
-33            android:screenOrientation="fullSensor" >
-33-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:18:13-51
-34            <intent-filter>
-34-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:19:14-23:25
-35                <action android:name="android.intent.action.MAIN" />
-35-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:20:13-65
-35-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:20:21-62
-36
-37                <category android:name="android.intent.category.LAUNCHER" />
-37-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:22:13-73
-37-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:22:23-70
-38            </intent-filter>
-39        </activity>
-40        <activity
-40-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:24:9-26:75
-41            android:name="com.example.photoeng.LearningActivity"
-41-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:25:13-45
-42            android:parentActivityName="com.example.photoeng.DictionaryForLearningActivity" />
-42-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:26:13-72
-43        <activity
-43-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:27:9-29:56
-44            android:name="com.example.photoeng.DictionaryForLearningActivity"
-44-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:28:13-58
-45            android:parentActivityName="com.example.photoeng.MainScreen" />
-45-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:29:13-53
-46        <activity android:name="com.example.photoeng.TrainingResult" />
-46-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:30:9-52
-46-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:30:19-49
-47        <activity android:name="com.example.photoeng.TrainingActivity" />
-47-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:32:9-54
-47-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:32:19-51
-48        <activity android:name="com.example.photoeng.Details" />
-48-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:33:9-45
-48-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:33:19-42
-49        <activity
-49-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:34:9-36:56
-50            android:name="com.example.photoeng.DictionaryActivity"
-50-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:35:13-47
-51            android:parentActivityName="com.example.photoeng.MainScreen" />
-51-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:36:13-53
-52        <activity android:name="com.example.photoeng.MainScreen" />
-52-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:37:9-48
-52-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:37:19-45
-53        <activity android:name="com.example.photoeng.MainActivity" >
-53-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:38:9-41:20
-53-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:39:13-41
-54        </activity>
-55
-56        <service
-56-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:43:9-45:38
-57            android:name="com.example.photoeng.HelloService"
-57-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:44:13-41
-58            android:enabled="true" />
-58-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:45:13-35
-59
-60        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity" />
-60-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:47:9-85
-60-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:47:19-82
-61
-62        <service
-62-->[com.squareup.leakcanary:leakcanary-android:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\748314f1138f2ecf458f98c0fedc57ff\jetified-leakcanary-android-2.2\AndroidManifest.xml:23:9-25:40
-63            android:name="leakcanary.internal.HeapAnalyzerService"
-63-->[com.squareup.leakcanary:leakcanary-android:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\748314f1138f2ecf458f98c0fedc57ff\jetified-leakcanary-android-2.2\AndroidManifest.xml:24:13-67
-64            android:exported="false" />
-64-->[com.squareup.leakcanary:leakcanary-android:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\748314f1138f2ecf458f98c0fedc57ff\jetified-leakcanary-android-2.2\AndroidManifest.xml:25:13-37
-65
-66        <provider
-66-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:29:9-37:20
-67            android:name="leakcanary.internal.LeakCanaryFileProvider"
-67-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:30:13-70
-68            android:authorities="com.squareup.leakcanary.fileprovider.com.example.photoeng"
-68-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:31:13-88
-69            android:exported="false"
-69-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:32:13-37
-70            android:grantUriPermissions="true" >
-70-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:33:13-47
-71            <meta-data
-71-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:34:13-36:66
-72                android:name="android.support.FILE_PROVIDER_PATHS"
-72-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:35:17-67
-73                android:resource="@xml/leak_canary_file_paths" />
-73-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:36:17-63
-74        </provider>
-75
-76        <activity
-76-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:39:9-44:66
-77            android:name="leakcanary.internal.activity.LeakActivity"
-77-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:40:13-69
-78            android:icon="@mipmap/leak_canary_icon"
-78-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:41:13-52
-79            android:label="@string/leak_canary_display_activity_label"
-79-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:42:13-71
-80            android:taskAffinity="com.squareup.leakcanary.com.example.photoeng"
-80-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:43:13-76
-81            android:theme="@style/leak_canary_LeakCanary.Base" />
-81-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:44:13-63
-82
-83        <activity-alias
-83-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:46:9-62:26
-84            android:name="leakcanary.internal.activity.LeakLauncherActivity"
-84-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:47:13-77
-85            android:banner="@drawable/leak_canary_tv_icon"
-85-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:48:13-59
-86            android:enabled="@bool/leak_canary_add_launcher_icon"
-86-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:49:13-66
-87            android:icon="@mipmap/leak_canary_icon"
-87-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:50:13-52
-88            android:label="@string/leak_canary_display_activity_label"
-88-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:51:13-71
-89            android:targetActivity="leakcanary.internal.activity.LeakActivity"
-89-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:52:13-79
-90            android:taskAffinity="com.squareup.leakcanary.com.example.photoeng"
-90-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:53:13-76
-91            android:theme="@style/leak_canary_LeakCanary.Base" >
-91-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:54:13-63
-92            <intent-filter>
-92-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:55:13-61:29
-93                <action android:name="android.intent.action.MAIN" />
-93-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:20:13-65
-93-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:20:21-62
-94
-95                <category android:name="android.intent.category.LAUNCHER" />
-95-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:22:13-73
-95-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:22:23-70
-96                <!-- Android TV launcher intent -->
-97                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-97-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:60:17-86
-97-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:60:27-83
-98            </intent-filter>
-99        </activity-alias>
-100
-101        <activity
-101-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:64:9-70:68
-102            android:name="leakcanary.internal.RequestStoragePermissionActivity"
-102-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:65:13-80
-103            android:excludeFromRecents="true"
-103-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:66:13-46
-104            android:icon="@mipmap/leak_canary_icon"
-104-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:67:13-52
-105            android:label="@string/leak_canary_storage_permission_activity_label"
-105-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:68:13-82
-106            android:taskAffinity="com.squareup.leakcanary.com.example.photoeng"
-106-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:69:13-76
-107            android:theme="@style/leak_canary_Theme.Transparent" />
-107-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:70:13-65
-108
-109        <receiver android:name="leakcanary.internal.NotificationReceiver" />
-109-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:72:9-77
-109-->[com.squareup.leakcanary:leakcanary-android-core:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\961606b133cd04ac8503a319da2fdefe\jetified-leakcanary-android-core-2.2\AndroidManifest.xml:72:19-74
-110
-111        <provider
-111-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\d96dba986685deb2ba5699a0730ab05e\jetified-leakcanary-object-watcher-android-2.2\AndroidManifest.xml:8:9-11:40
-112            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
-112-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\d96dba986685deb2ba5699a0730ab05e\jetified-leakcanary-object-watcher-android-2.2\AndroidManifest.xml:9:13-79
-113            android:authorities="com.example.photoeng.leakcanary-installer"
-113-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\d96dba986685deb2ba5699a0730ab05e\jetified-leakcanary-object-watcher-android-2.2\AndroidManifest.xml:10:13-72
-114            android:exported="false" />
-114-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.2] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\d96dba986685deb2ba5699a0730ab05e\jetified-leakcanary-object-watcher-android-2.2\AndroidManifest.xml:11:13-37
-115    </application>
-116
-117</manifest>
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:8:5-80
+14-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:9:5-81
+15-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:9:22-78
+16
+17    <application
+17-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:11:5-50:19
+18        android:name="com.example.photoeng.DictionaryToSay"
+18-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:12:9-40
+19        android:allowBackup="true"
+19-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@drawable/logo"
+23-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:14:9-38
+24        android:label="@string/app_name"
+24-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:15:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:16:9-54
+26        android:supportsRtl="true"
+26-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:17:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:18:9-40
+29        <activity
+29-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:19:9-25:36
+30            android:name="com.example.photoeng.StartActivity"
+30-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:19:19-48
+31            android:screenOrientation="fullSensor" >
+31-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:20:13-51
+32            <intent-filter>
+32-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:21:14-25:25
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:22:13-65
+33-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:22:21-62
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:24:13-73
+35-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:24:23-70
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:26:9-28:75
+39            android:name="com.example.photoeng.LearningActivity"
+39-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:27:13-45
+40            android:parentActivityName="com.example.photoeng.DictionaryForLearningActivity" />
+40-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:28:13-72
+41        <activity
+41-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:29:9-31:56
+42            android:name="com.example.photoeng.DictionaryForLearningActivity"
+42-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:30:13-58
+43            android:parentActivityName="com.example.photoeng.MainScreen" />
+43-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:31:13-53
+44        <activity android:name="com.example.photoeng.TrainingResult" />
+44-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:32:9-52
+44-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:32:19-49
+45        <activity android:name="com.example.photoeng.TrainingActivity" />
+45-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:34:9-54
+45-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:34:19-51
+46        <activity android:name="com.example.photoeng.Details" />
+46-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:35:9-45
+46-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:35:19-42
+47        <activity
+47-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:36:9-38:56
+48            android:name="com.example.photoeng.DictionaryActivity"
+48-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:37:13-47
+49            android:parentActivityName="com.example.photoeng.MainScreen" />
+49-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:38:13-53
+50        <activity android:name="com.example.photoeng.MainScreen" />
+50-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:39:9-48
+50-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:39:19-45
+51        <activity android:name="com.example.photoeng.MainActivity" >
+51-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:40:9-43:20
+51-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:41:13-41
+52        </activity>
+53
+54        <service
+54-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:45:9-47:38
+55            android:name="com.example.photoeng.HelloService"
+55-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:46:13-41
+56            android:enabled="true" />
+56-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:47:13-35
+57
+58        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity" />
+58-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:49:9-85
+58-->D:\PhotoEngNew\app\src\main\AndroidManifest.xml:49:19-82
+59    </application>
+60
+61</manifest>

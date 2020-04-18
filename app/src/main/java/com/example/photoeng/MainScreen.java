@@ -124,8 +124,8 @@ public class MainScreen extends MainActivity {
             @Override
             public void onClick(View v) {
                 DBHelper dbhelper = new DBHelper(MainScreen.this);
-               dbhelper.addWordsToDB(TextReader.getText().toString().trim().toLowerCase(), TranslatedWord.getText().toString().toLowerCase().trim());
-               dbhelper.close();
+                dbhelper.addWordsToDB(TextReader.getText().toString().trim().toLowerCase(), TranslatedWord.getText().toString().toLowerCase().trim());
+                dbhelper.close();
             }
         });
 
