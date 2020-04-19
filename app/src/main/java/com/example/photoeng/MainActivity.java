@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.graphics.Bitmap;
+import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
@@ -35,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
     private ImageView ImageView;
     private static final int REQUEST_CODE_SPEECH_INPUT = 1000;
     private ImageButton SayButton;
-    TesseractOCR tesseractOCR;
     Uri uri;
     int count = 0;
 
@@ -137,7 +137,20 @@ public class MainActivity extends AppCompatActivity {
                 if (resultCode == RESULT_OK) {
 
                     ImageView.setImageURI(result.getUri());
-                    Toast.makeText(this, "working blua", Toast.LENGTH_LONG).show();
+                    final TesseractOCR tesseract = new TesseractOCR(this, "eng");
+                    //CameraText.setText(tesseract.getOCRResult(imageView2Bitmap(ImageView)));
+                    Toast.makeText(this, "working", Toast.LENGTH_LONG).show();
+                    new Handler().post(new Runnable() {
+                        @Override
+                        public void run() {
+
+                            Intent intent1 = new Intent(MainActivity.this, MainScreen.class);
+                            intent1.putExtra("extraString", tesseract.getOCRResult(imageView2Bitmap(ImageView)));
+                            startActivity(intent1);
+                        }
+                    });
+
+
                 }
             }
         }
@@ -149,6 +162,10 @@ public class MainActivity extends AppCompatActivity {
         CropImage.activity(uri).setGuidelines(CropImageView.Guidelines.ON)
                 .setMultiTouchEnabled(true)
                 .start(this);
+    }
+    private Bitmap imageView2Bitmap(ImageView view){
+        Bitmap bitmap = ((BitmapDrawable)view.getDrawable()).getBitmap();
+        return bitmap;
     }
 
 }

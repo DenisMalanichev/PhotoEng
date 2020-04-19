@@ -20,5 +20,8 @@
     <string name="toolbar_textview_text">Готово</string>
     <string name="start_learning_button_text">Старт</string>
     <string name="stop_learning_button_text">Стоп</string>
+    <string name="dictionary">Словарь</string>
+    <string name="train">Учить</string>
+    <string name="home">Домой</string>
 </resources>
 

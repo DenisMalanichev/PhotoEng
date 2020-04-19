@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\PhotoEngNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "D:\\PhotoEng\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\denis\\.gradle\\caches\\transforms-2\\files-2.1\\271d0ad8fab014e1b69399f7396f344c\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

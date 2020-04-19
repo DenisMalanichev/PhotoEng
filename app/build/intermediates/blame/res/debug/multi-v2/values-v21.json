@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\PhotoEngNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\PhotoEng\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\denis\\.gradle\\caches\\transforms-2\\files-2.1\\34b4ab0d8b65ac74ddd00d45b26dd963\\core-1.1.0\\res\\values-v21\\values-v21.xml",
@@ -14,12 +14,31 @@
                         "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,264,265,272,276,280,283",
+                        "startLines": "2,3,4,5,264,265,272,276,312,315",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,19270,19386,19843,20137,20432,20604",
-                        "endLines": "2,3,4,5,264,265,272,276,282,287",
+                        "startOffsets": "55,159,223,290,19270,19386,19843,20137,22145,22317",
+                        "endLines": "2,3,4,5,264,265,272,276,314,319",
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,19381,19507,19964,20260,20599,20937"
+                        "endOffsets": "154,218,285,349,19381,19507,19964,20260,22312,22650"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\denis\\.gradle\\caches\\transforms-2\\files-2.1\\16de5a105d918594ea18965f8161a8bc\\material-1.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,10,18,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,484,910,1333",
+                        "endLines": "9,17,25,33",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "479,905,1328,1763"
+                    },
+                    "to": {
+                        "startLines": "280,288,296,304",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "20432,20861,21287,21710",
+                        "endLines": "287,295,303,311",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "20856,21282,21705,22140"
                     }
                 },
                 {

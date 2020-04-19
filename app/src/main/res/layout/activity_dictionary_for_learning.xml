@@ -5,14 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".DictionaryActivity"
-    android:background="@drawable/background"
-    android:id="@+id/dictionary_for_learning_view">
+    android:background="@drawable/background">
 
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/dictionary_view"/>
+        android:id="@+id/dictionary_for_learning_view"/>
 
 
 </FrameLayout>

@@ -10,8 +10,10 @@ package com.example.photoeng;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
         import android.os.Bundle;
+        import android.os.Handler;
         import android.speech.tts.TextToSpeech;
         import android.util.Log;
+        import android.view.MenuItem;
         import android.view.View;
         import android.widget.Button;
         import android.widget.EditText;
@@ -19,7 +21,10 @@ package com.example.photoeng;
         import android.widget.TextView;
         import android.widget.Toast;
 
+        import androidx.annotation.NonNull;
+
         import com.example.photoeng.data.DBHelper;
+        import com.google.android.material.bottomnavigation.BottomNavigationView;
 
         import java.util.ArrayList;
         import java.util.Locale;
@@ -27,20 +32,18 @@ package com.example.photoeng;
 
 public class MainScreen extends MainActivity {
 
-    private Button DictionaryButton;
     private ImageButton Translate;
     private static EditText TextReader;
     private static TextView TranslatedWord;
     private ImageButton SayButton;
     private Button SaveButton;
     private TextToSpeech TTS;
-    private Button newButton;
-    private Button trainingButton;
     private static final ArrayList<String> words = new ArrayList<>();
     private OfflineTranslateThread OTT = new OfflineTranslateThread();
     public final static String SPEECH_ARRAY_MESSAGE = "speech_array";
     public final static String EXTRA_KEY_DICTIONARY_ACTIVITY = "task_number_for_dictionary";
     private DBHelper mDBHelper;
+    private BottomNavigationView mBottomNavigationView ;
 
 
 
@@ -48,17 +51,52 @@ public class MainScreen extends MainActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
-       // setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         getSupportActionBar().setDisplayHomeAsUpEnabled(false);
-        DictionaryButton = findViewById(R.id.dictionary_button);
         Translate =  findViewById(R.id.research_button);
         TextReader =  findViewById(R.id.text_reader);
         TranslatedWord =  findViewById(R.id.translated_word);
         SaveButton = findViewById(R.id.save_button);
         SayButton =  findViewById(R.id.say);
-        newButton = findViewById(R.id.learn_button);
-        trainingButton = findViewById(R.id.training_button);
+        mBottomNavigationView = findViewById(R.id.bottom_navigation);
         getExtras();
+
+        mBottomNavigationView.setSelectedItemId(R.id.home_navigation_view);
+
+        mBottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
+                switch (menuItem.getItemId()){
+                    case R.id.dictionary_navigation_view:
+                        Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
+                        DictionaryActivity.setTemp(getDBDataEng(MainScreen.this));
+                        DictionaryActivity.setTemp2(getDBDataRu(MainScreen.this));
+                        startActivity(intent);
+                        overridePendingTransition(0,0);
+                        return true;
+
+                    case R.id.learn_navigation_view:
+                        if(getDBSize() == true) {
+                            Intent intentLearn = new Intent(MainScreen.this, DictionaryForLearningActivity.class);
+                            DictionaryForLearningActivity.setTemp(getDBDataEng(MainScreen.this));
+                            DictionaryForLearningActivity.setTemp2(getDBDataRu(MainScreen.this));
+                            startActivity(intentLearn);
+                        }else{
+                            Toast.makeText(MainScreen.this, "У вас еще нет слов для изучения", Toast.LENGTH_LONG).show();
+                        }
+                        overridePendingTransition(0,0);
+                        return true;
+
+                    case R.id.train_navigation_view:
+                        Intent intentTrain = new Intent(MainScreen.this, TrainingActivity.class);
+                        startActivity(intentTrain);
+                        overridePendingTransition(0,0);
+                        return true;
+
+                }
+                return false;
+            }
+        });
 
 
         TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
@@ -84,35 +122,11 @@ public class MainScreen extends MainActivity {
         Translate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-
-                String word = TextReader.getText().toString().trim();//delete "_" in text
-                if(isNetworkAvailable(MainScreen.this)){
-                try {
-                    TranslatedWord.setText(TranslateYandex(word, "en-ru"));
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }}else{
-                try {
-                    OTT.translationNoInternet(word);
-                    TranslatedWord.setText(OTT.Answer);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }}
-
+                translate(TextReader.getText().toString().trim());//delete "_" in text
             }
 
         });
-        DictionaryButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                    Intent intent = new Intent(MainScreen.this, DictionaryActivity.class);
-                    DictionaryActivity.setTemp(getDBDataEng(MainScreen.this));
-                    DictionaryActivity.setTemp2(getDBDataRu(MainScreen.this));
-                    startActivity(intent);
 
-            }
-        });
         SayButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -124,8 +138,20 @@ public class MainScreen extends MainActivity {
             @Override
             public void onClick(View v) {
                 DBHelper dbhelper = new DBHelper(MainScreen.this);
-                dbhelper.addWordsToDB(TextReader.getText().toString().trim().toLowerCase(), TranslatedWord.getText().toString().toLowerCase().trim());
-                dbhelper.close();
+                String word =  TextReader.getText().toString().trim().toLowerCase();
+                String translation = TranslatedWord.getText().toString().toLowerCase().trim();
+                Log.d("TEST", ""+translation.trim().length());
+                if(word.length() != 0 && translation.length() != 0) {
+                    dbhelper.addWordsToDB(word, translation);
+                    dbhelper.close();
+                }else if(word.length() != 0 && translation.trim().length() == 0){
+                    String translatedWord = translate(word);
+                    Log.d("TEST", ""+translatedWord);
+                    dbhelper.addWordsToDB(word, translatedWord);
+                    dbhelper.close();
+                }else {
+                    Toast.makeText(MainScreen.this, "Вы еще ничего не перевели", Toast.LENGTH_SHORT).show();
+                }
             }
         });
 
@@ -133,26 +159,6 @@ public class MainScreen extends MainActivity {
         final Intent serviceIntent = new Intent(MainScreen.this, HelloService.class);
         serviceIntent.putExtra(SPEECH_ARRAY_MESSAGE, words);
         startService(serviceIntent);
-
-        newButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(getDBSize() == true) {
-                    Intent intent = new Intent(MainScreen.this, DictionaryForLearningActivity.class);
-                    startActivity(intent);
-                }else{
-                    Toast.makeText(MainScreen.this, "У вас еще нет слов для изучения", Toast.LENGTH_LONG).show();
-                }
-            }
-        });
-
-        trainingButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainScreen.this, TrainingActivity.class);
-                startActivity(intent);
-            }
-        });
 
     }
 
@@ -226,7 +232,7 @@ public class MainScreen extends MainActivity {
                 null, null, null, null);
 
 
-            if (cursor.moveToPosition(1) == true) {
+            if(cursor.moveToPosition(1) == true) {
                 return true;
             }
 
@@ -241,7 +247,6 @@ public class MainScreen extends MainActivity {
                         null, null, null, null);
         ArrayList<String>  listEng = new ArrayList<>();
           try {
-              Log.e("size", "" + cursor.getCount());
               int nameIndex = cursor.getColumnIndex(DBHelper.KEY_WORDS);
 
               if (cursor.moveToNext()) {
@@ -273,6 +278,26 @@ public class MainScreen extends MainActivity {
             cursor.close();
             }
         return listRu;
+        }
+
+        public String translate(String word){
+        String translation;
+            if(isNetworkAvailable(MainScreen.this)){
+                try {
+                    translation = TranslateYandex(word, "en-ru");
+                    TranslatedWord.setText(translation);
+                    return translation;
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }}else{
+                try {
+                    OTT.translationNoInternet(word);
+                    translation = OTT.Answer;
+                    return translation;
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }}
+        return null;
         }
     }
 
