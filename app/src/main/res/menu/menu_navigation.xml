@@ -4,21 +4,17 @@
     <item
         android:id="@+id/dictionary_navigation_view"
         android:title="@string/dictionary"
-        app:showAsAction="ifRoom"
         android:icon="@drawable/ic_library_books_black_24dp"/>
     <item
         android:id="@+id/learn_navigation_view"
         android:title="@string/learn_text"
-        app:showAsAction="ifRoom"
         android:icon="@drawable/headset_icon"/>
     <item
         android:id="@+id/home_navigation_view"
         android:title="@string/home"
-        app:showAsAction="ifRoom"
         android:icon="@drawable/home_icon"/>
     <item
         android:id="@+id/train_navigation_view"
         android:title="@string/train"
-        app:showAsAction="ifRoom"
         android:icon="@drawable/train_icon"/>
 </menu>

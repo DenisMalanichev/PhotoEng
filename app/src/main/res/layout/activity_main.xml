@@ -9,24 +9,40 @@
     android:background="@drawable/background">
 
 
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="330dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="60dp"
+        app:cardCornerRadius="8dp">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
     <TextView
         android:id="@+id/Camera_text"
         android:layout_width="wrap_content"
-        android:layout_height="413dp"
-        android:layout_gravity="center_vertical"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|top"
         android:padding="24dp"
         android:text="@string/camera_text" />
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center|bottom"
+        android:layout_margin="7dp"/>
+
+    </LinearLayout>
+    </androidx.cardview.widget.CardView>
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:orientation="vertical">
 
-    <ImageView
-        android:id="@+id/image"
-        android:layout_width="wrap_content"
-        android:layout_height="fill_parent"
-        android:layout_gravity="center"/>
 
 
 
@@ -48,6 +64,12 @@
 
 
     </LinearLayout>
+    <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="к переводу!"
+    android:id="@+id/totranslate"
+        android:layout_gravity="bottom|center"/>
     <ImageButton
         android:layout_width="100dp"
         android:layout_height="100dp"

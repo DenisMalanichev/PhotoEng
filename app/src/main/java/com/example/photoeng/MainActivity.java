@@ -36,27 +36,33 @@ public class MainActivity extends AppCompatActivity {
     private ImageView ImageView;
     private static final int REQUEST_CODE_SPEECH_INPUT = 1000;
     private ImageButton SayButton;
+    private Button toTranslate;
     Uri uri;
-    int count = 0;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         getSupportActionBar().setDisplayHomeAsUpEnabled(false);
 
-        try {
+
             BackButton = findViewById(R.id.Back_button);
             CameraText = findViewById(R.id.Camera_text);
             ScaneButton = findViewById(R.id.scane_button);
             ImageView = findViewById(R.id.image);
             SayButton = findViewById(R.id.say_button);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        Log.i("Test", "working");
+            toTranslate = findViewById(R.id.totranslate);
+
+        toTranslate.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent1 = new Intent(MainActivity.this, MainScreen.class);
+                intent1.putExtra("extraString", CameraText.getText().toString());
+                startActivity(intent1);
+            }
+        });
         BackButton.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -69,16 +75,13 @@ public class MainActivity extends AppCompatActivity {
         ScaneButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 CropImage.startPickImageActivity(MainActivity.this);
-                count = 1;
             }
         });
         SayButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 speak();
-                count = 2;
             }
         });
     }
@@ -140,17 +143,6 @@ public class MainActivity extends AppCompatActivity {
                     final TesseractOCR tesseract = new TesseractOCR(this, "eng");
                     //CameraText.setText(tesseract.getOCRResult(imageView2Bitmap(ImageView)));
                     Toast.makeText(this, "working", Toast.LENGTH_LONG).show();
-                    new Handler().post(new Runnable() {
-                        @Override
-                        public void run() {
-
-                            Intent intent1 = new Intent(MainActivity.this, MainScreen.class);
-                            intent1.putExtra("extraString", tesseract.getOCRResult(imageView2Bitmap(ImageView)));
-                            startActivity(intent1);
-                        }
-                    });
-
-
                 }
             }
         }

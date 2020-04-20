@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
-    },
-    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_c_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\c_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_train_icon.xml.flat",
@@ -36,12 +36,12 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_library_books_black_24dp.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_s_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\s_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_i_eng_rus.txt.flat",
@@ -204,12 +204,16 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_training.xml"
     },
     {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\home_icon.xml"
+    },
+    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circle_black_24dp.xml.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_add_circle_black_24dp.xml"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\home_icon.xml"
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_icon.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\add_icon.xml"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headset_icon.xml.flat",

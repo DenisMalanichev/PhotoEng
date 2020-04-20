@@ -25,9 +25,13 @@ package com.example.photoeng;
 
         import com.example.photoeng.data.DBHelper;
         import com.google.android.material.bottomnavigation.BottomNavigationView;
+        import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
+        import java.io.File;
         import java.util.ArrayList;
         import java.util.Locale;
+
+        import static android.database.DatabaseUtils.queryNumEntries;
 
 
 public class MainScreen extends MainActivity {
@@ -36,14 +40,13 @@ public class MainScreen extends MainActivity {
     private static EditText TextReader;
     private static TextView TranslatedWord;
     private ImageButton SayButton;
-    private Button SaveButton;
     private TextToSpeech TTS;
     private static final ArrayList<String> words = new ArrayList<>();
     private OfflineTranslateThread OTT = new OfflineTranslateThread();
     public final static String SPEECH_ARRAY_MESSAGE = "speech_array";
-    public final static String EXTRA_KEY_DICTIONARY_ACTIVITY = "task_number_for_dictionary";
     private DBHelper mDBHelper;
-    private BottomNavigationView mBottomNavigationView ;
+    private BottomNavigationView mBottomNavigationView;
+    private FloatingActionButton FloatingButton;
 
 
 
@@ -56,13 +59,34 @@ public class MainScreen extends MainActivity {
         Translate =  findViewById(R.id.research_button);
         TextReader =  findViewById(R.id.text_reader);
         TranslatedWord =  findViewById(R.id.translated_word);
-        SaveButton = findViewById(R.id.save_button);
         SayButton =  findViewById(R.id.say);
         mBottomNavigationView = findViewById(R.id.bottom_navigation);
+        FloatingButton = findViewById(R.id.floating_button);
         getExtras();
 
         mBottomNavigationView.setSelectedItemId(R.id.home_navigation_view);
 
+
+        FloatingButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                DBHelper dbhelper = new DBHelper(MainScreen.this);
+                String word =  TextReader.getText().toString().trim().toLowerCase();
+                String translation = TranslatedWord.getText().toString().toLowerCase().trim();
+                Log.d("TEST", ""+translation.trim().length());
+                if(word.length() != 0 && translation.length() != 0) {
+                    dbhelper.addWordsToDB(word, translation);
+                    dbhelper.close();
+                }else if(word.length() != 0 && translation.trim().length() == 0){
+                    String translatedWord = translate(word);
+                    Log.d("TEST", ""+translatedWord);
+                    dbhelper.addWordsToDB(word, translatedWord);
+                    dbhelper.close();
+                }else {
+                    Toast.makeText(MainScreen.this, "Вы еще ничего не перевели", Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
         mBottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
@@ -76,7 +100,7 @@ public class MainScreen extends MainActivity {
                         return true;
 
                     case R.id.learn_navigation_view:
-                        if(getDBSize() == true) {
+                        if(getDBSize() > 0) {
                             Intent intentLearn = new Intent(MainScreen.this, DictionaryForLearningActivity.class);
                             DictionaryForLearningActivity.setTemp(getDBDataEng(MainScreen.this));
                             DictionaryForLearningActivity.setTemp2(getDBDataRu(MainScreen.this));
@@ -88,9 +112,13 @@ public class MainScreen extends MainActivity {
                         return true;
 
                     case R.id.train_navigation_view:
-                        Intent intentTrain = new Intent(MainScreen.this, TrainingActivity.class);
-                        startActivity(intentTrain);
-                        overridePendingTransition(0,0);
+                        if(getDBSize() > 4) {
+                            Intent intentTrain = new Intent(MainScreen.this, TrainingActivity.class);
+                            startActivity(intentTrain);
+                            overridePendingTransition(0, 0);
+                        }else{
+                            Toast.makeText(MainScreen.this, "Нужно иметь минимум 5 слов", Toast.LENGTH_SHORT).show();
+                        }
                         return true;
 
                 }
@@ -131,27 +159,6 @@ public class MainScreen extends MainActivity {
             @Override
             public void onClick(View v) {
                 TTS.speak(TextReader.getText().toString(), TextToSpeech.QUEUE_FLUSH, null);
-            }
-        });
-
-        SaveButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                DBHelper dbhelper = new DBHelper(MainScreen.this);
-                String word =  TextReader.getText().toString().trim().toLowerCase();
-                String translation = TranslatedWord.getText().toString().toLowerCase().trim();
-                Log.d("TEST", ""+translation.trim().length());
-                if(word.length() != 0 && translation.length() != 0) {
-                    dbhelper.addWordsToDB(word, translation);
-                    dbhelper.close();
-                }else if(word.length() != 0 && translation.trim().length() == 0){
-                    String translatedWord = translate(word);
-                    Log.d("TEST", ""+translatedWord);
-                    dbhelper.addWordsToDB(word, translatedWord);
-                    dbhelper.close();
-                }else {
-                    Toast.makeText(MainScreen.this, "Вы еще ничего не перевели", Toast.LENGTH_SHORT).show();
-                }
             }
         });
 
@@ -221,7 +228,7 @@ public class MainScreen extends MainActivity {
         return words;
     }
 
-    public boolean getDBSize(){
+    public long getDBSize(){
         mDBHelper = new DBHelper(MainScreen.this);
         SQLiteDatabase database = mDBHelper.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
@@ -230,15 +237,9 @@ public class MainScreen extends MainActivity {
 
         Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
                 null, null, null, null);
-
-
-            if(cursor.moveToPosition(1) == true) {
-                return true;
-            }
-
-
-
-        return false;
+        long dbSize = queryNumEntries(database, mDBHelper.TABLE_CONTACTS, null);
+        Log.d("TEST", ""+dbSize);
+        return dbSize;
     }
     public ArrayList<String> getDBDataEng(Context context){
         mDBHelper = new DBHelper(MainScreen.this);
