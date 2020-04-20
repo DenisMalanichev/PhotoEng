@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
 
                     ImageView.setImageURI(result.getUri());
                     final TesseractOCR tesseract = new TesseractOCR(this, "eng");
-                    //CameraText.setText(tesseract.getOCRResult(imageView2Bitmap(ImageView)));
+                    CameraText.setText(tesseract.getOCRResult(imageView2Bitmap(ImageView)));
                     Toast.makeText(this, "working", Toast.LENGTH_LONG).show();
                 }
             }

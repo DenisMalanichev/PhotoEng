@@ -29,7 +29,6 @@ public class Details extends MainScreen {
         DetailsText = findViewById(R.id.details_text);
         BackToDictionaryButton = findViewById(R.id.Back_to_dictionary_button);
         DeleteButton = findViewById(R.id.delete_button);
-        LearnButton = findViewById(R.id.learn_button_details);
         mDBHelper = new DBHelper(this);
         Intent intent = getIntent();
         final String title = intent.getStringExtra("title");
@@ -64,21 +63,6 @@ public class Details extends MainScreen {
                 startActivity(i);
             }
         });
-
-
-
-
-
-        LearnButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public  void onClick(View v) {
-               MainScreen.getWords().add(title);
-               Toast.makeText(Details.this, title+ " added", Toast.LENGTH_SHORT).show();
-               //Toast.makeText(Details.this, ""+MainScreen.getWords().get(0), Toast.LENGTH_SHORT).show();
-            }
-        });
-
-
     }
 
 }
