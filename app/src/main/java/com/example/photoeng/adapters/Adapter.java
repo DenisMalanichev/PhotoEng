@@ -66,6 +66,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
                     Intent intent = new Intent(v.getContext(), Details.class);
                     intent.putExtra("title", temp.get(getAdapterPosition()));
                     intent.putExtra("position", getAdapterPosition());
+                    intent.putExtra("translation", temp2.get(getAdapterPosition()));
                     v.getContext().startActivity(intent);
                 }
             });

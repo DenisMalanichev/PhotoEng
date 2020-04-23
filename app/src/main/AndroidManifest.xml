@@ -16,13 +16,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".StartActivity"
+        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".HelloActivity" />
+        <activity android:name=".hello_activity" />
+        <activity
+            android:name=".StartActivity"
             android:screenOrientation="fullSensor">
-             <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter></activity>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".LearningActivity"
             android:parentActivityName=".DictionaryForLearningActivity" />
@@ -30,17 +35,15 @@
             android:name=".DictionaryForLearningActivity"
             android:parentActivityName=".MainScreen" />
         <activity android:name=".TrainingResult" />
-
         <activity android:name=".TrainingActivity" />
-        <activity android:name=".Details" />
+        <activity
+            android:name=".Details"
+            android:parentActivityName=".DictionaryActivity" />
         <activity
             android:name=".DictionaryActivity"
             android:parentActivityName=".MainScreen" />
         <activity android:name=".MainScreen" />
-        <activity
-            android:name=".MainActivity">
-
-        </activity>
+        <activity android:name=".MainActivity" />
 
         <service
             android:name=".HelloService"

@@ -39,11 +39,7 @@ public class DictionaryActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-
         Adapter adapter = new Adapter(this, tempD, tempD2);
-
-        Intent intent = new Intent(DictionaryActivity.this, TrainingActivity.class);
-        intent.putExtra("extraWords", tempD);
 
         DictionaryView.setLayoutManager(new LinearLayoutManager(this));
         DictionaryView.setAdapter(adapter);

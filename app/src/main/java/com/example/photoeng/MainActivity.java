@@ -20,7 +20,9 @@ import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.viewpager.widget.ViewPager;
 
+import com.example.photoeng.adapters.IntroAdapter;
 import com.theartofdev.edmodo.cropper.CropImage;
 import com.theartofdev.edmodo.cropper.CropImageView;
 
@@ -37,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_CODE_SPEECH_INPUT = 1000;
     private ImageButton SayButton;
     private Button toTranslate;
+    private ViewPager mViewPager;
     Uri uri;
 
 
@@ -54,6 +57,9 @@ public class MainActivity extends AppCompatActivity {
             ImageView = findViewById(R.id.image);
             SayButton = findViewById(R.id.say_button);
             toTranslate = findViewById(R.id.totranslate);
+            mViewPager = findViewById(R.id.viewPager);
+
+        
 
         toTranslate.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -85,7 +91,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
 
     public void speak() {
         Intent intent = new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);

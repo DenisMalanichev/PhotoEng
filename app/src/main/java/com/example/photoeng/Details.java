@@ -4,21 +4,25 @@ import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.speech.tts.TextToSpeech;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.photoeng.data.DBHelper;
 
+import java.util.Locale;
+
 public class Details extends MainScreen {
     private TextView DetailsText;
-    private Button BackToDictionaryButton;
-    private Button LearnButton;
-    private Button DeleteButton;
+    private ImageButton DeleteButton;
     private DBHelper mDBHelper;
-
+    private TextView translatedText;
+    private ImageButton sayButton;
+    private TextToSpeech TTS;
 
 
     @Override
@@ -27,21 +31,42 @@ public class Details extends MainScreen {
         setContentView(R.layout.activity_details);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         DetailsText = findViewById(R.id.details_text);
-        BackToDictionaryButton = findViewById(R.id.Back_to_dictionary_button);
         DeleteButton = findViewById(R.id.delete_button);
         mDBHelper = new DBHelper(this);
+        translatedText = findViewById(R.id.details_text_translated);
+        sayButton = findViewById(R.id.speaker_button);
+
         Intent intent = getIntent();
         final String title = intent.getStringExtra("title");
 
-
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         DetailsText.setText(title);
+        translatedText.setText(intent.getStringExtra("translation"));
 
-        BackToDictionaryButton.setOnClickListener(new View.OnClickListener() {
+
+        TTS = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                if (status == TextToSpeech.SUCCESS) {
+                    int result = TTS.setLanguage(Locale.UK);
+
+                    if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                        Log.e("TTS", "Language not supported");
+                    } else {
+                        sayButton.setEnabled(true);
+                    }
+                } else {
+                    Log.e("TTS", "Initialization failed");
+                }
+            }
+        });
+
+        sayButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Details.this, MainScreen.class);
-                startActivity(intent);
+                String words = DetailsText.getText().toString();
+                TTS.speak(words, TextToSpeech.QUEUE_FLUSH, null);
             }
         });
         DeleteButton.setOnClickListener(new View.OnClickListener() {
@@ -63,6 +88,15 @@ public class Details extends MainScreen {
                 startActivity(i);
             }
         });
+    }
+    @Override
+    protected void onDestroy() {
+        if (TTS != null) {
+            TTS.stop();
+            TTS.shutdown();
+        }
+        super.onDestroy();
+
     }
 
 }

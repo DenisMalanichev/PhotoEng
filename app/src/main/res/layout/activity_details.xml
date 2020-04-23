@@ -26,41 +26,57 @@
             android:layout_gravity="center|top"
             android:src="@drawable/start_icon_green"/>
 
-    <TextView
-        android:id="@+id/details_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_margin="20px"
-        android:padding="20px"
-        android:textColor="@android:color/black" />
+            <TextView
+                android:id="@+id/details_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:padding="5dp"
+                android:textColor="@android:color/black"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textAllCaps="true"/>
+
+            <TextView
+                android:id="@+id/details_text_translated"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:padding="20dp"
+                android:textColor="@android:color/black"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textAllCaps="true"/>
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
 
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/delete_button"
-        android:text="@string/delete_text"
-        android:layout_gravity="center|left"
-        android:src="@drawable/delete_icon"
-        android:background="null"/>
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="start|center"
+        android:background="@null"
+        android:scaleType="fitXY"
+        android:src="@drawable/delete_icon" />
 
+    <ImageButton
+        android:id="@+id/speaker_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@null"
+        android:layout_gravity="end"
+        android:foregroundGravity="right"
+        app:srcCompat="@drawable/speaker"
+        android:scaleType="fitXY"/>
+
+
+            </FrameLayout>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom">
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|left"
-        android:id="@+id/Back_to_dictionary_button"
-        android:text="@string/back_text" />
-    </LinearLayout>
 </FrameLayout>
 
 

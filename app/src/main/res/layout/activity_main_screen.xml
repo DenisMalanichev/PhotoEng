@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainScreen"
-    android:background="@drawable/background">
+    android:background="@drawable/background_gradient">
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -21,48 +21,53 @@
         android:layout_gravity="center|top"
         android:imeOptions="actionDone"
         android:inputType="textNoSuggestions"
-        android:radius="10dp"/>
+        android:radius="10dp"
+        android:background="@drawable/edittext_shape"
+        android:autoSizeTextType="none"/>
 
 
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_gravity="center">
-        <TextView
-            android:id="@+id/translated_word"
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
-            android:padding="24dp"
-            android:textColor="@color/black"
-            android:layout_margin="20dp"
-            android:textSize="20sp" />
+            android:layout_gravity="center"
+            android:orientation="vertical">
 
-        <ImageButton
-            android:id="@+id/research_button"
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:background="@drawable/background"
-            android:scaleType="centerCrop"
-            android:src="@drawable/translate_colour"
-            android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/translated_word"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:gravity="center"
+                android:padding="24dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:layout_marginBottom="30dp"
+                android:textAllCaps="true"/>
 
-        <ImageButton
-            android:id="@+id/say"
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:background="@drawable/background"
-            android:scaleType="centerCrop"
-            android:src="@drawable/listen_green"
-            android:layout_gravity="center"/>
+            <ImageButton
+                android:id="@+id/research_button"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@drawable/translate_colour"
+                android:scaleType="fitXY"
+                android:background="@null"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageButton
+                android:id="@+id/say"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/listen_green"
+                android:background="@null"/>
 
 
-    </LinearLayout>
+        </LinearLayout>
 
 
-</FrameLayout>
+    </FrameLayout>
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

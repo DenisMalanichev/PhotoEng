@@ -5,13 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".StartActivity"
-    android:gravity="center">
-    <!-- android:background="@drawable/loading_logo"-->
+    android:gravity="center"
+    android:orientation="horizontal">
+    <!-- android:background="@drawable/loading_logo"
 
    <ImageView
         android:layout_width="220dp"
         android:layout_height="220dp"
-        android:layout_centerInParent="true"
-        android:src="@drawable/start_icon_green" />
+        android:layout_gravity="center"
+        android:src="@drawable/start_icon_green" />-->
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
 </LinearLayout>

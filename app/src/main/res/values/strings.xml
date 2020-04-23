@@ -23,5 +23,8 @@
     <string name="dictionary">Словарь</string>
     <string name="train">Учить</string>
     <string name="home">Домой</string>
+    <string name="next">Дальше</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>
 
