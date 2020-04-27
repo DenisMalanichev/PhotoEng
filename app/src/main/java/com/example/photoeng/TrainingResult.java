@@ -27,7 +27,7 @@ public class TrainingResult extends AppCompatActivity {
         Intent intent = new Intent(TrainingResult.this, TrainingActivity.class);
         trueAnswers = intent.getIntExtra("ExtraTrueAnswers", 0);
 
-        ResultTextView.setText("Правельных ответов - " + trueAnswers);
+        ResultTextView.setText("Правельных ответов - " + TrainingActivity.getTrueAnswers());
         ResultBackButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

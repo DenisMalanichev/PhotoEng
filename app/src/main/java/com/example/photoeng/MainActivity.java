@@ -59,14 +59,18 @@ public class MainActivity extends AppCompatActivity {
             toTranslate = findViewById(R.id.totranslate);
             mViewPager = findViewById(R.id.viewPager);
 
-        
+
 
         toTranslate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent1 = new Intent(MainActivity.this, MainScreen.class);
-                intent1.putExtra("extraString", CameraText.getText().toString());
-                startActivity(intent1);
+                if(CameraText.getText().toString().equals("Наведите камеру на текст, который нужно перевести")) {
+                    Toast.makeText(MainActivity.this, "Вы еще ничего не просканировали", Toast.LENGTH_SHORT).show();
+                }else{
+                    Intent intent1 = new Intent(MainActivity.this, MainScreen.class);
+                    intent1.putExtra("extraString", CameraText.getText().toString());
+                    startActivity(intent1);
+                }
             }
         });
         BackButton.setOnClickListener(new View.OnClickListener() {

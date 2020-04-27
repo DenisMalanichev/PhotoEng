@@ -4,16 +4,41 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TrainingActivity">
+    tools:context=".TrainingActivity"
+    android:background="@drawable/background_gradient">
 
+
+<LinearLayout
+    android:layout_width="100dp"
+    android:layout_height="60dp"
+    android:layout_gravity="end|top"
+    android:layout_margin="30dp"
+    android:background="@drawable/button_shape"
+    android:orientation="horizontal"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/timer_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_timer"/>
+   <TextView
+       android:id="@+id/timer_view"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:textColor="@color/white"
+       android:textSize="25dp"
+       android:text="15"
+       android:textStyle="bold"/>
+</LinearLayout>
 
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
+        android:orientation="horizontal"
         android:layout_gravity="top|center"
-        android:padding="125px">
+        android:padding="100px">
 
         <TextView
             android:layout_width="wrap_content"
@@ -21,7 +46,11 @@
             android:id="@+id/textview_word_to_translate"
             android:layout_gravity="center|top"
             android:text="test word"
-            android:textColor="#000000"/>
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:background="@drawable/edittext_shape"
+            android:padding="10dp"
+            android:textAllCaps="true" />
     </LinearLayout>
     <LinearLayout
         android:layout_width="wrap_content"
@@ -33,13 +62,19 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:id="@+id/training_edittext"
-        android:hint="@string/training_edittext_text"/>
+        android:hint="@string/training_edittext_text"
+        android:background="@drawable/edittext_shape"
+        android:padding="17dp"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="@string/check_text"
-            android:id="@+id/check_button"/>
+            android:id="@+id/check_button"
+            android:background="@drawable/button_shape"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
 </LinearLayout>
 
 </FrameLayout>

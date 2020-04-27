@@ -27,9 +27,6 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.photoeng.Main2Activity" />
-        <activity android:name="com.example.photoeng.HelloActivity" />
-        <activity android:name="com.example.photoeng.hello_activity" />
         <activity
             android:name="com.example.photoeng.StartActivity"
             android:screenOrientation="fullSensor" >
@@ -53,7 +50,9 @@
         <activity
             android:name="com.example.photoeng.DictionaryActivity"
             android:parentActivityName="com.example.photoeng.MainScreen" />
-        <activity android:name="com.example.photoeng.MainScreen" />
+        <activity
+            android:name="com.example.photoeng.MainScreen"
+            android:parentActivityName="com.example.photoeng.MainActivity" />
         <activity android:name="com.example.photoeng.MainActivity" />
 
         <service

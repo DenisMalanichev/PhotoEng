@@ -13,16 +13,16 @@
         android:layout_width="260dp"
         android:layout_height="260dp"
         android:layout_gravity="center"
-        android:src="@drawable/listen_green"
+        android:src="@drawable/camera_green"
         android:layout_margin="50dp"/>
 
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Fragment 3"
+        android:text="Сканируй слова или текст с фотографий или документов и мгновенно переводи"
         android:textColor="@color/white"
-        android:textSize="45sp"
+        android:textSize="30sp"
         android:layout_gravity="center"
         android:gravity="center"/>
     <LinearLayout
@@ -43,13 +43,13 @@
             android:layout_marginRight="110dp"/>
 
         <TextView
-            android:id="@+id/slide_done"
+            android:id="@+id/slide_third_next"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_gravity=""
             android:clickable="true"
             android:focusable="true"
-            android:text="@string/start_learning_button_text"
+            android:text="@string/next"
             android:gravity="bottom|end"
             android:textColor="@color/white"
             android:textSize="20dp" />

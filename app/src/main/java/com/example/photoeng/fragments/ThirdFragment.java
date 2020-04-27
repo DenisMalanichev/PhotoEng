@@ -22,7 +22,7 @@ import com.example.photoeng.StartActivity;
 public class ThirdFragment extends Fragment {
     private TextView back;
     private ViewPager mViewPager;
-    private TextView done;
+    private TextView next;
     public ThirdFragment() {
         // Required empty public constructor
     }
@@ -33,7 +33,7 @@ public class ThirdFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_third, container, false);
         back = view.findViewById(R.id.slide_three_back);
-        done = view.findViewById(R.id.slide_done);
+        next = view.findViewById(R.id.slide_third_next);
         mViewPager = getActivity().findViewById(R.id.viewPager);
 
         back.setOnClickListener(new View.OnClickListener() {
@@ -42,11 +42,10 @@ public class ThirdFragment extends Fragment {
                 mViewPager.setCurrentItem(1);
             }
         });
-        done.setOnClickListener(new View.OnClickListener() {
+        next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), MainActivity.class);
-                startActivity(intent);
+                mViewPager.setCurrentItem(3);
             }
         });
         return view;

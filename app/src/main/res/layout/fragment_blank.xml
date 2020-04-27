@@ -12,18 +12,19 @@
         android:layout_width="260dp"
         android:layout_height="260dp"
         android:layout_gravity="center"
-        android:src="@drawable/listen_green"
+        android:src="@drawable/ic_spellcheck_black_blue"
         android:layout_margin="50dp"/>
 
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Fragment 1"
+        android:text="Тренируй свое произношение и восприятие на слух"
         android:textColor="@color/white"
-        android:textSize="45sp"
+        android:textSize="30sp"
         android:layout_gravity="center"
         android:gravity="center"/>
+
 
 
     <TextView

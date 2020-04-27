@@ -79,12 +79,20 @@
             android:layout_height="wrap_content"
             android:text="к переводу!"
             android:id="@+id/totranslate"
-            android:layout_gravity="bottom|center"/>
+            android:layout_gravity="bottom|center"
+            android:background="@drawable/button_shape"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
     </LinearLayout>
     <Button
     android:id="@+id/Back_button"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="@string/back_text"
-    android:layout_gravity="left|bottom"/>
+    android:layout_gravity="left|bottom"
+        android:background="@drawable/button_shape"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
 </FrameLayout>

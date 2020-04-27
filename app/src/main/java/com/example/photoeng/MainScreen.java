@@ -55,13 +55,15 @@ public class MainScreen extends MainActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(false);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         Translate =  findViewById(R.id.research_button);
         TextReader =  findViewById(R.id.text_reader);
         TranslatedWord =  findViewById(R.id.translated_word);
         SayButton =  findViewById(R.id.say);
         mBottomNavigationView = findViewById(R.id.bottom_navigation);
         FloatingButton = findViewById(R.id.floating_button);
+
         getExtras();
 
         mBottomNavigationView.setSelectedItemId(R.id.home_navigation_view);
@@ -74,12 +76,8 @@ public class MainScreen extends MainActivity {
                 String word =  TextReader.getText().toString().trim().toLowerCase();
                 String translation = TranslatedWord.getText().toString().toLowerCase().trim();
                 Log.d("TEST", ""+translation.trim().length());
-                if(word.length() != 0 && translation.length() != 0) {
-                    dbhelper.addWordsToDB(word, translation);
-                    dbhelper.close();
-                }else if(word.length() != 0 && translation.trim().length() == 0){
+                if(word.length() != 0) {
                     String translatedWord = translate(word);
-                    Log.d("TEST", ""+translatedWord);
                     dbhelper.addWordsToDB(word, translatedWord);
                     dbhelper.close();
                 }else {
@@ -231,12 +229,6 @@ public class MainScreen extends MainActivity {
     public long getDBSize(){
         mDBHelper = new DBHelper(MainScreen.this);
         SQLiteDatabase database = mDBHelper.getWritableDatabase();
-        ContentValues contentValues = new ContentValues();
-        contentValues.put(DBHelper.KEY_WORDS, TextReader.getText().toString());
-        database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
-
-        Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
-                null, null, null, null);
         long dbSize = queryNumEntries(database, mDBHelper.TABLE_CONTACTS, null);
         Log.d("TEST", ""+dbSize);
         return dbSize;

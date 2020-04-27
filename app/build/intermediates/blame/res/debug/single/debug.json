@@ -20,6 +20,10 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\back_arrow_icon.png"
     },
     {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_timer_red.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_timer_red.xml"
+    },
+    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
@@ -58,6 +62,14 @@
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_i_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\i_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_spellcheck_black_blue.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_spellcheck_black_blue.xml"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_library_books_black_blue.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_library_books_black_blue.xml"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_start_icon_green.png.flat",
@@ -134,6 +146,10 @@
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_a_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\a_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_headset_black_24dp.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_headset_black_24dp.xml"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hello_backgound.png.flat",
@@ -256,6 +272,10 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_add_circle_black_24dp.xml"
     },
     {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_timer.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_timer.xml"
+    },
+    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_icon.xml.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\add_icon.xml"
     },
@@ -286,6 +306,10 @@
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_j_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\j_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_four2.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\fragment_four2.xml"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_x_eng_rus.txt.flat",
@@ -338,6 +362,10 @@
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape.xml.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_start_background.jpg.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\start_background.jpg"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_icon.png.flat",

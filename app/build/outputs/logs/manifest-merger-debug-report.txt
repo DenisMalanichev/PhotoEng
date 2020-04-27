@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\ec92470413662aecf81ea1b234c1da9d\jetified-android-image-cropper-2.4.7\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.msayan:tutorial-view:v1.0.10] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\c44bb0584fc21f9dad439726b952b3d1\jetified-tutorial-view-v1.0.10\AndroidManifest.xml:2:1-17:12
@@ -44,20 +44,20 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\denis\.gradle\caches
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml
 		INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:2:11-69
@@ -82,7 +82,7 @@ ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
 		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:9:22-78
 application
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:11:5-53:19
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:11:5-50:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.github.msayan:tutorial-view:v1.0.10] C:\Users\denis\.gradle\caches\transforms-2\files-2.1\c44bb0584fc21f9dad439726b952b3d1\jetified-tutorial-view-v1.0.10\AndroidManifest.xml:11:5-15:19
@@ -109,84 +109,74 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\de
 		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:18:9-40
 	android:name
 		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:12:9-40
-activity#com.example.photoeng.Main2Activity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:19:9-60
-	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:19:19-48
-activity#com.example.photoeng.HelloActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:20:9-51
-	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:20:19-48
-activity#com.example.photoeng.hello_activity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:21:9-52
-	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:21:19-49
 activity#com.example.photoeng.StartActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:22:9-30:20
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:19:9-26:20
 	android:screenOrientation
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:24:13-51
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:21:13-51
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:23:13-42
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:20:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:28:27-74
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:24:27-74
 activity#com.example.photoeng.LearningActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:31:9-33:75
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:27:9-29:75
 	android:parentActivityName
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:33:13-72
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:29:13-72
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:32:13-45
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:28:13-45
 activity#com.example.photoeng.DictionaryForLearningActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:34:9-36:56
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:30:9-32:56
 	android:parentActivityName
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:36:13-53
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:32:13-53
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:35:13-58
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:31:13-58
 activity#com.example.photoeng.TrainingResult
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:37:9-52
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:33:9-52
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:37:19-49
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:33:19-49
 activity#com.example.photoeng.TrainingActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:38:9-54
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:34:9-54
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:38:19-51
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:34:19-51
 activity#com.example.photoeng.Details
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:39:9-41:64
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:35:9-37:64
 	android:parentActivityName
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:41:13-61
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:37:13-61
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:36:13-36
 activity#com.example.photoeng.DictionaryActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:42:9-44:56
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:38:9-40:56
 	android:parentActivityName
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:44:13-53
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:40:13-53
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:43:13-47
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:39:13-47
 activity#com.example.photoeng.MainScreen
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:45:9-48
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:41:9-42:57
+	android:parentActivityName
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:42:13-55
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:45:19-45
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:41:19-45
 activity#com.example.photoeng.MainActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:46:9-50
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:43:9-50
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:46:19-47
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:43:19-47
 service#com.example.photoeng.HelloService
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:48:9-50:38
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:45:9-47:38
 	android:enabled
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:50:13-35
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:47:13-35
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:49:13-41
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:46:13-41
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:52:9-85
+ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:49:9-85
 	android:name
-		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:52:19-82
+		ADDED from D:\PhotoEng\app\src\main\AndroidManifest.xml:49:19-82
 uses-sdk
 INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\PhotoEng\app\src\main\AndroidManifest.xml

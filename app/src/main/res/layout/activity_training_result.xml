@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TrainingResult">
+    tools:context=".TrainingResult"
+    android:background="@drawable/background_gradient">
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -14,7 +15,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/result_text_view"
-        android:layout_gravity="center"/>
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"/>
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -26,14 +29,20 @@
         android:id="@+id/result_button_again"
         android:layout_gravity="center"
        android:layout_margin="70px"
-        android:text="@string/result_button_again_text"/>
+        android:text="@string/result_button_again_text"
+        android:background="@drawable/button_shape"
+        android:padding="15dp"
+        android:textColor="@color/white"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/result_button_back"
         android:layout_gravity="center"
         android:layout_margin="70px"
-        android:text="@string/result_button_back_text"/>
+        android:text="@string/result_button_back_text"
+        android:background="@drawable/button_shape"
+        android:padding="15dp"
+        android:textColor="@color/white"/>
         </LinearLayout>
     </LinearLayout>
 
