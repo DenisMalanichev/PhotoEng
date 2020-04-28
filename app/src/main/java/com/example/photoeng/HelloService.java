@@ -14,7 +14,6 @@ import static com.example.photoeng.MainScreen.SPEECH_ARRAY_MESSAGE;
 
 public class HelloService extends Service {
 
-    private String str;
     private static TextToSpeech mTts;
     private static TextToSpeech mTtsRU;
     private static final String TAG = "TTSService";
@@ -26,29 +25,26 @@ public class HelloService extends Service {
 
     @Override
     public void onCreate() {
-        mTts = new TextToSpeech(this,
-                new TextToSpeech.OnInitListener() {
-                    @Override
-                    public void onInit(int status) {
-                        mTts.setSpeechRate(0.7f);
-                        mTts.setLanguage(Locale.US);
-                    }
-                }
-        );
+        mTts = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                mTts.setSpeechRate(0.7f);
+                mTts.setLanguage(Locale.ENGLISH);
+            }
+        });
         mTtsRU = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
             public void onInit(int status) {
-                mTts.setSpeechRate(1.0f);
-                mTts.setLanguage(new Locale("ru"));
+                mTtsRU.setSpeechRate(1.0f);
+                mTtsRU.setLanguage(new Locale("ru"));
             }
         });
-        Log.v(TAG, "oncreate_service");
         super.onCreate();
     }
 
     @Override
     public void onDestroy() {
-        // TODO Auto-generated method stub
+
         if (mTts != null) {
             mTts.stop();
             mTts.shutdown();
@@ -57,7 +53,7 @@ public class HelloService extends Service {
             mTtsRU.stop();
             mTtsRU.shutdown();
         }
-       // DictionaryForLearningActivity.getWordsToLearn().clear();
+
         super.onDestroy();
     }
 
@@ -86,11 +82,11 @@ public class HelloService extends Service {
     public static boolean sayingLoop(ArrayList<String> str){
       for(int j = 0; j<10; j++) {
           for (int i = 0; i < str.size(); i++) {
-              mTtsRU.speak(str.get(i),
+              mTts.speak(str.get(i),
                       TextToSpeech.QUEUE_ADD,
                       null);
               i++;
-              mTts.speak(str.get(i),
+              mTtsRU.speak(str.get(i),
                       TextToSpeech.QUEUE_ADD, null);
 
           }

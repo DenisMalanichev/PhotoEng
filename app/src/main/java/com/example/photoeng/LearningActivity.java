@@ -26,7 +26,7 @@ public class LearningActivity extends AppCompatActivity {
         setContentView(R.layout.activity_learning);
         StartButton = findViewById(R.id.start_learning_button);
         StopButton = findViewById(R.id.stop_learning_button);
-        //setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         final Intent serviceIntent = new Intent(LearningActivity.this, HelloService.class);
@@ -44,7 +44,7 @@ public class LearningActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 HelloService.stop();
-                DictionaryForLearningActivity.getWordsToLearn().clear();
+
             }
         });
 
@@ -52,5 +52,23 @@ public class LearningActivity extends AppCompatActivity {
 
     public static void setLearningWords(ArrayList<String> learningWords) {
         LearningActivity.learningWords = learningWords;
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        DictionaryForLearningActivity.getWordsToLearn().clear();
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        DictionaryForLearningActivity.getWordsToLearn().clear();
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        DictionaryForLearningActivity.getWordsToLearn().clear();
     }
 }

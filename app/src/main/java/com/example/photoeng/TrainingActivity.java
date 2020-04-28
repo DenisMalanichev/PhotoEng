@@ -55,88 +55,16 @@ public class TrainingActivity extends Activity {
         setWordsToTrain(ArrayHelper());
         //устанавливаем нулевое слово
         TextToTranslate.setText(wordsToTrain[0]);
-        Log.d("DEBUG ans is", ""+TranslationArray().get(0));
         //вызываем метод для показа нового слова
         train(currentId);
+        Check.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                   mTimer.cancel();
+                    isAnswerTrue();
+            }
+        });
     }
-
-   /* private void showNewWord(int id) {
-        TextToTranslate.setText(wordsToTrain[id]);
-        mTimer = new CountDownTimer(15000, 1000) {
-
-            //Здесь обновляем текст счетчика обратного отсчета с каждой секундой
-            public void onTick(long millisUntilFinished) {
-                timerView.setText(""+millisUntilFinished / 1000);
-                if(millisUntilFinished < 6000){
-                    timerView.setTextColor(TrainingActivity.this.getResources().getColor(R.color.red));
-                    timerImageView.setImageResource(R.drawable.ic_timer_red);
-                }
-            }
-            //Задаем действия после завершения отсчета
-            public void onFinish() {
-                 isAnswerTrue();
-                 if(currentId < 4){
-                    timerView.setTextColor(TrainingActivity.this.getResources().getColor(R.color.white));
-                    timerImageView.setImageResource(R.drawable.ic_timer);
-                }
-            }
-        }.start();
-
-    }
-
-
-    private void train(ArrayList<String> temp){
-
-        if(temp.size()>=5) {
-            int count = temp.size();
-            wordsToTrain = new String[5];
-            wordsToTrainId =  arrayRandom(count);
-            for (int i = 0; i < 5; i++) {
-                wordsToTrain[i] = temp.get(wordsToTrainId[i]-1);
-                Log.d("DEBUG: words to train", "" + wordsToTrain[i]);
-            }
-        }else{
-            Log.d("DEBUG temp size", ""+temp.size());
-            Toast.makeText(this,"Не достаточно слов", Toast.LENGTH_LONG).show();
-        }
-
-
-    }
-
-
-
-
-
-
-
-
-    private void isAnswerTrue(){
-        Log.d("DEBUG ", ""+currentId);
-        if(currentId < 4) {
-            Log.d("DEBUG ans is", ""+wordsToTrain[wordsToTrainId[currentId]]);
-            if(TextToCheck.getText().toString().trim().toLowerCase().equals(ArrayHelper().get(wordsToTrainId[currentId]))){
-                trueAnswers++;
-                Log.d("DEBUG ans", "true");
-            }else{
-                Log.d("DEBUG ans", "false");
-            }
-            currentId++;
-            TextToCheck.setText("");
-            showNewWord(currentId);
-        }else if(currentId == 4){
-                Log.d("DEBUG ans is", ""+ArrayHelper().get(wordsToTrainId[currentId]));
-                if(TextToCheck.getText().toString().trim().toLowerCase().equals(ArrayHelper().get(wordsToTrainId[currentId]))){
-                    trueAnswers++;
-                    Log.d("DEBUG ans", "true");
-                }else{
-                    Log.d("DEBUG ans", "false");
-                }
-            Intent intent = new Intent(TrainingActivity.this, TrainingResult.class);
-            intent.putExtra("ExtraTrueAnswers", trueAnswers);
-            startActivity(intent);
-        }
-        Log.d("DEBUG ", ""+currentId);
-    }*/
 
    public void train(int id){
        //set 1 word
@@ -154,12 +82,9 @@ public class TrainingActivity extends Activity {
           //task after time out
            public void onFinish() {
                //check word
-               Log.d("DEBUG shicking word", "finish method");
                isAnswerTrue();
-               /*if(currentId < 4){
                    timerView.setTextColor(TrainingActivity.this.getResources().getColor(R.color.white));
                    timerImageView.setImageResource(R.drawable.ic_timer);
-               }*/
            }
        }.start();
    }
@@ -188,11 +113,9 @@ public class TrainingActivity extends Activity {
 
 
     public void isAnswerTrue(){
-        Log.d("DEBUG shicking word", "isAnswerTrue method");
        if(TextToCheck.getText().toString().trim().toLowerCase().equals(wordsToTrain[currentId].trim().toLowerCase())){
            trueAnswers++;
            TextToCheck.setText("");
-           Log.d("DEBUG shicking word", "if");
            if (currentId < 4){
                currentId++;
                train(currentId);
@@ -201,7 +124,6 @@ public class TrainingActivity extends Activity {
                startActivity(intent);
            }
        }else{
-           Log.d("DEBUG shicking word", "else");
            TextToCheck.setText("");
            if (currentId < 4){
                currentId++;
@@ -211,8 +133,6 @@ public class TrainingActivity extends Activity {
                startActivity(intent);
            }
        }
-       Log.d("DEBUG", ""+currentId);
-       Log.d("DEBUG", ""+trueAnswers);
     }
 
     public void setWordsToTrain(ArrayList<String> temp){
@@ -221,7 +141,6 @@ public class TrainingActivity extends Activity {
         wordsToTrainId =  arrayRandom(count);
         for (int i = 0; i < 5; i++) {
             wordsToTrain[i] = temp.get(wordsToTrainId[i]-1);
-            Log.d("DEBUG: words to train", "" + wordsToTrain[i]);
         }
     }
     public static int[] arrayRandom(int c){
