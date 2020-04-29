@@ -44,7 +44,6 @@ public class LearningActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 HelloService.stop();
-
             }
         });
 
@@ -58,17 +57,20 @@ public class LearningActivity extends AppCompatActivity {
     protected void onDestroy() {
         super.onDestroy();
         DictionaryForLearningActivity.getWordsToLearn().clear();
+        HelloService.stop();
     }
 
     @Override
     protected void onPause() {
         super.onPause();
         DictionaryForLearningActivity.getWordsToLearn().clear();
+        HelloService.stop();
     }
 
     @Override
     protected void onRestart() {
         super.onRestart();
         DictionaryForLearningActivity.getWordsToLearn().clear();
+        HelloService.stop();
     }
 }

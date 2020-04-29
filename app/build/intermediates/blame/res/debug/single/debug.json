@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
-    },
-    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_c_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\c_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_train_icon.xml.flat",
@@ -76,6 +76,10 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable-v24\\start_icon_green.png"
     },
     {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hat_is_learning.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_hat_is_learning.xml"
+    },
+    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation.xml.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\menu\\menu_navigation.xml"
     },
@@ -140,16 +144,16 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\fragment_third.xml"
     },
     {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_headset_black_24dp.xml.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_headset_black_24dp.xml"
+    },
+    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_a_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\a_eng_rus.txt"
-    },
-    {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_headset_black_24dp.xml.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable\\ic_headset_black_24dp.xml"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hello_backgound.png.flat",
@@ -304,12 +308,12 @@
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\drawable-v24\\voice_green.png"
     },
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_j_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\j_eng_rus.txt"
-    },
-    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_four2.xml.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\layout\\fragment_four2.xml"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_j_eng_rus.txt.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\j_eng_rus.txt"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_x_eng_rus.txt.flat",

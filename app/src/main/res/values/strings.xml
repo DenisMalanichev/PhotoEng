@@ -24,10 +24,10 @@
     <string name="train">Учить</string>
     <string name="home">Домой</string>
     <string name="next">Дальше</string>
+    <string name="cross">x</string>
+    <string name="what_is_learning_title">Как это работает?</string>
+    <string name="what_is_learning_text">Вы просто надиваете ваши любимые наушники, а PhotoEng надиктовывает вам слова, по 10 раз каждое. Мы рекомендуем повторять слова про себя. 0x1F3A7</string>
+    <string name="dont_show_more">Боль не показывать</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
 </resources>
 

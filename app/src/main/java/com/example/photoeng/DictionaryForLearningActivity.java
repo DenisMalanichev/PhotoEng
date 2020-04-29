@@ -34,7 +34,7 @@ public class DictionaryForLearningActivity extends AppCompatActivity {
         DictionaryView = findViewById(R.id.dictionary_for_learning_view);
         dbhelper = new DBHelper(this);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setTitle("Выбери слова");
 
 
         AdapterForLearning adapter = new AdapterForLearning(this, wordsEngArray, wordsRuArray);
@@ -55,7 +55,7 @@ public class DictionaryForLearningActivity extends AppCompatActivity {
             case R.id.ready_button:
                if(wordsToLearn.size() != 0) {
                    LearningActivity.setLearningWords(wordsToLearn);
-                   Intent intent = new Intent(DictionaryForLearningActivity.this, LearningActivity.class);
+                   Intent intent = new Intent(DictionaryForLearningActivity.this, WhatIsLearningActivity.class);
                    startActivity(intent);
                }else{
                    Toast.makeText(this, "Выбери слова!", Toast.LENGTH_LONG).show();
