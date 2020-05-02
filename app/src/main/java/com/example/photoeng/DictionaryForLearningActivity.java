@@ -4,10 +4,13 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
+import android.app.Dialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.photoeng.adapters.AdapterForLearning;
@@ -57,6 +60,7 @@ public class DictionaryForLearningActivity extends AppCompatActivity {
                    LearningActivity.setLearningWords(wordsToLearn);
                    Intent intent = new Intent(DictionaryForLearningActivity.this, WhatIsLearningActivity.class);
                    startActivity(intent);
+                  // openDialogWhatIs();
                }else{
                    Toast.makeText(this, "Выбери слова!", Toast.LENGTH_LONG).show();
                }
@@ -84,4 +88,20 @@ public class DictionaryForLearningActivity extends AppCompatActivity {
     public static ArrayList<String> getWordsToLearn() {
         return wordsToLearn;
     }
+  /*  private void openDialogWhatIs(){
+        Dialog dialog = new Dialog(DictionaryForLearningActivity.this);
+        //dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
+        dialog.setContentView(R.layout.activity_hat_is_learning);
+        dialog.setTitle(R.string.what_is_learning_title);
+        TextView cross = dialog.findViewById(R.id.cross_textview);
+        cross.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                    Intent intent = new Intent(DictionaryForLearningActivity.this, WhatIsLearningActivity.class);
+                   startActivity(intent);
+            }
+        });
+
+        dialog.show();
+    }*/
 }

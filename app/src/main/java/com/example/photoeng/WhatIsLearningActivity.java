@@ -2,6 +2,7 @@ package com.example.photoeng;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.Dialog;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -20,13 +21,14 @@ public class WhatIsLearningActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hat_is_learning);
 
+
         cross = findViewById(R.id.cross_textview);
         check = findViewById(R.id.ckeckbox);
 
         sPref = getPreferences(MODE_PRIVATE);
         boolean help = sPref.getBoolean(INTRO_KEY, true);
 
-        if(help){
+        if(help == false){
             Intent intent = new Intent(WhatIsLearningActivity.this, LearningActivity.class);
             startActivity(intent);
         }
@@ -46,7 +48,8 @@ public class WhatIsLearningActivity extends AppCompatActivity {
         if(check.isChecked()){
             sPref = getPreferences(MODE_PRIVATE);
             SharedPreferences.Editor editor = sPref.edit();
-            editor.putBoolean(INTRO_KEY, true);
+            editor.putBoolean(INTRO_KEY, false);
+            editor.commit();
         }
     }
 
@@ -56,7 +59,8 @@ public class WhatIsLearningActivity extends AppCompatActivity {
         if(check.isChecked()){
             sPref = getPreferences(MODE_PRIVATE);
             SharedPreferences.Editor editor = sPref.edit();
-            editor.putBoolean(INTRO_KEY, true);
+            editor.putBoolean(INTRO_KEY, false);
+            editor.commit();
         }
     }
 
@@ -66,7 +70,9 @@ public class WhatIsLearningActivity extends AppCompatActivity {
         if(check.isChecked()){
             sPref = getPreferences(MODE_PRIVATE);
             SharedPreferences.Editor editor = sPref.edit();
-            editor.putBoolean(INTRO_KEY, true);
+            editor.putBoolean(INTRO_KEY, false);
+            editor.commit();
         }
     }
+
 }

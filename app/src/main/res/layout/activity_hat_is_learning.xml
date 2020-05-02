@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".WhatIsLearningActivity"
     android:orientation="vertical"
-    android:background="@drawable/button_shape">
+   >
 
 <LinearLayout
     android:layout_width="match_parent"
@@ -34,7 +34,7 @@
         android:layout_margin="40dp"
         android:textStyle="bold"
         android:textSize="25sp"
-        android:textColor="@color/white" />
+        android:textColor="@color/black" />
 
 
 </LinearLayout>
@@ -48,9 +48,12 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="@string/what_is_learning_text"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:layout_marginEnd="25dp"
-            android:layout_marginStart="25dp"/></LinearLayout>
+            android:layout_marginStart="25dp"
+            android:textLocale="center"
+            android:textSize="18sp"
+            android:gravity="center"/></LinearLayout>
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

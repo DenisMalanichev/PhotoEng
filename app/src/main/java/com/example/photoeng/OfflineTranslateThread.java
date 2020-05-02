@@ -36,8 +36,8 @@ public class OfflineTranslateThread extends Thread{
     public String[] linesArrayZ;
     public Context context;
     public String Answer;
-    @Override
-    public void run() {
+    //@Override
+    public void initialize() {
         //Scanning files
         try {
             InputStream fileA = context.getResources().openRawResource(R.raw.a_eng_rus);
@@ -542,5 +542,9 @@ public class OfflineTranslateThread extends Thread{
             }
         }
 
+    }
+
+    public String getAnswer() {
+        return Answer;
     }
 }

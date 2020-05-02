@@ -18,6 +18,7 @@ public class StartActivity extends AppCompatActivity {
     private ViewPager mViewPager;
     private static final String INTRO_KEY = "show_intro";
     private SharedPreferences sPref;
+    public static OfflineTranslateThread OTT = new OfflineTranslateThread();
 
 
     @Override
@@ -34,6 +35,7 @@ public class StartActivity extends AppCompatActivity {
             public void run() {
                 sPref = getPreferences(MODE_PRIVATE);
                 boolean intro = sPref.getBoolean(INTRO_KEY, true);
+                OTT.start();
                 if(intro) {
                     IntroAdapter introAdapter = new IntroAdapter(getSupportFragmentManager());
                     mViewPager.setAdapter(introAdapter);
@@ -46,5 +48,9 @@ public class StartActivity extends AppCompatActivity {
                 }
             }
         }, LOADING_TIME);
+    }
+
+    public static OfflineTranslateThread getOTT() {
+        return OTT;
     }
 }
