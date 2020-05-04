@@ -37,6 +37,7 @@ public class TrainingActivity extends Activity {
     private CountDownTimer mTimer;
     private int currentId = 0;
     public static int trueAnswers = 0;
+   private String strArrayToShow[] = new String[5];
 
 
     @Override
@@ -64,11 +65,12 @@ public class TrainingActivity extends Activity {
                     isAnswerTrue();
             }
         });
+        strArrayToShow = TranslationArray().toArray(strArrayToShow);
     }
 
    public void train(int id){
        //set 1 word
-       TextToTranslate.setText(TranslationArray().get(currentId));
+       TextToTranslate.setText(strArrayToShow[currentId]);
        //start timer
        mTimer = new CountDownTimer(15000, 1000) {
            //update timer
@@ -90,11 +92,15 @@ public class TrainingActivity extends Activity {
    }
 
     public ArrayList<String> ArrayHelper(){
-        SQLiteDatabase database = dbhelper.getWritableDatabase();
+       /* SQLiteDatabase database = dbhelper.getWritableDatabase();
 
         ContentValues contentValues = new ContentValues();
 
         database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
+        Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
+                null, null, null, null);*/
+        DBHelper mDBHelper = new DBHelper(TrainingActivity.this);
+        SQLiteDatabase database = mDBHelper.getReadableDatabase();
         Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
                 null, null, null, null);
         ArrayList<String> wordsArray = new ArrayList<>();

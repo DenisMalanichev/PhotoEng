@@ -828,7 +828,7 @@ public class MainScreen extends MainActivity {
                 e.printStackTrace();
             }
         }
-            return "test";
+            return "Слова нет в словаре, подключите интернет";
     }
 }
 
