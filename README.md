@@ -16,5 +16,5 @@ This project has been created in **Android Studio 3.6** and tested on Huawei P10
 **tess-two**</br>
 **android-image-cropper** </br>
 **tutorial-view**</br>
-**GSON**</br>
+**JSON**</br>
 **Yandex translate API**</br>
