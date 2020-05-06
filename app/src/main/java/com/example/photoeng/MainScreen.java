@@ -1,18 +1,22 @@
 package com.example.photoeng;
 
 
+        import android.app.Activity;
         import android.content.ContentValues;
         import android.content.Context;
         import android.content.Intent;
         import android.content.pm.ActivityInfo;
         import android.database.Cursor;
         import android.database.sqlite.SQLiteDatabase;
+        import android.inputmethodservice.InputMethodService;
+        import android.inputmethodservice.Keyboard;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
         import android.os.Bundle;
         import android.os.Handler;
         import android.speech.tts.TextToSpeech;
         import android.util.Log;
+        import android.view.KeyEvent;
         import android.view.MenuItem;
         import android.view.View;
         import android.widget.Button;
@@ -45,12 +49,12 @@ public class MainScreen extends MainActivity {
     private ImageButton SayButton;
     private TextToSpeech TTS;
     private static final ArrayList<String> words = new ArrayList<>();
-    private OfflineTranslateThread OTT = new OfflineTranslateThread();
     public final static String SPEECH_ARRAY_MESSAGE = "speech_array";
     private DBHelper mDBHelper;
     private BottomNavigationView mBottomNavigationView;
     private FloatingActionButton FloatingButton;
-    public  String[] linesArrayA;
+    private Button setLangButton;
+    public String[] linesArrayA;
     public String[] linesArrayB;
     public String[] linesArrayC;
     public String[] linesArrayD;
@@ -76,7 +80,7 @@ public class MainScreen extends MainActivity {
     public String[] linesArrayX;
     public String[] linesArrayY;
     public String[] linesArrayZ;
-    private String Answer;
+    private boolean isEng = true;
 
 
 
@@ -93,12 +97,39 @@ public class MainScreen extends MainActivity {
         SayButton =  findViewById(R.id.say);
         mBottomNavigationView = findViewById(R.id.bottom_navigation);
         FloatingButton = findViewById(R.id.floating_button);
+        setLangButton = findViewById(R.id.language_set_button);
 
         getExtras();
 
         mBottomNavigationView.setSelectedItemId(R.id.home_navigation_view);
 
 
+        TextReader.setOnKeyListener(new View.OnKeyListener() {
+            @Override
+            public boolean onKey(View v, int keyCode, KeyEvent event) {
+                if (keyCode == KeyEvent.KEYCODE_ENTER && event.getAction() == KeyEvent.ACTION_DOWN) {
+                    Translate.performClick();
+                    Translate.callOnClick();
+                    InputMethodService ims = (InputMethodService)getSystemService(Context.INPUT_METHOD_SERVICE);
+                    ims.hideStatusIcon();
+
+                    return false;
+                }
+                return false;
+            }
+        });
+        setLangButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(isEng) {
+                    isEng = false;
+                    setLangButton.setText(R.string.ru);
+                }else{
+                    isEng = true;
+                    setLangButton.setText(R.string.eng);
+                }
+            }
+        });
         FloatingButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -107,9 +138,27 @@ public class MainScreen extends MainActivity {
                 String translation = TranslatedWord.getText().toString().toLowerCase().trim();
                 Log.d("TEST", ""+translation.trim().length());
                 if(word.length() != 0) {
-                    String translatedWord = translate(word);
-                    dbhelper.addWordsToDB(word, translatedWord);
-                    dbhelper.close();
+                    String translatedWord ;
+                            if(isEng) {
+                                translatedWord = translate(word);
+                            }else {
+                                translatedWord = translateRu(word);
+                            }
+                    ArrayList<String> arrayList = getDBDataEng(MainScreen.this);
+                    boolean isWordExistInDB = false;
+                    for(int i=0; i < arrayList.size(); i++){
+                        if(word.equals(arrayList.get(i))){
+                            Toast.makeText(MainScreen.this, "Такое слово уже есть", Toast.LENGTH_SHORT).show();
+                            isWordExistInDB = true;
+                            break;
+                        }
+                    }
+                    if(isWordExistInDB == false) {
+                        dbhelper.addWordsToDB(word, translatedWord);
+                        dbhelper.close();
+                        Toast.makeText(MainScreen.this, "Добавлено", Toast.LENGTH_SHORT).show();
+                    }
+
                 }else {
                     Toast.makeText(MainScreen.this, "Вы еще ничего не перевели", Toast.LENGTH_SHORT).show();
                 }
@@ -178,7 +227,11 @@ public class MainScreen extends MainActivity {
         Translate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                translate(TextReader.getText().toString().trim());//delete "_" in text
+                if(isEng) {
+                    translate(TextReader.getText().toString().trim());//delete "_" in text
+                }else {
+                    translateRu(TextReader.getText().toString().trim());
+                }
             }
 
         });
@@ -252,9 +305,7 @@ public class MainScreen extends MainActivity {
         return TranslatedWord.getText().toString().trim();
     }
 
-    public static ArrayList getWords() {
-        return words;
-    }
+
 
     public long getDBSize(){
         mDBHelper = new DBHelper(MainScreen.this);
@@ -306,8 +357,33 @@ public class MainScreen extends MainActivity {
         public String translate(String word){
         String translation;
             if(isNetworkAvailable(MainScreen.this)){
+                        try {
+                            translation = TranslateYandex(word, "en-ru");
+                            TranslatedWord.setText(translation);
+                            return translation;
+                        } catch (Exception e) {
+                            initialize();
+                            TranslatedWord.setText(translationNoInternet(word));
+                            return translationNoInternet(word);
+                        
+                }
+            }else{
                 try {
-                    translation = TranslateYandex(word, "en-ru");
+                    Log.d("DEBUG", "no internet");
+                    initialize();
+                    TranslatedWord.setText(translationNoInternet(word));
+                    return translationNoInternet(word);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }}
+        return null;
+        }
+
+        public String translateRu(String word){
+            String translation;
+            if(isNetworkAvailable(MainScreen.this)){
+                try {
+                    translation = TranslateYandex(word, "ru-en");
                     TranslatedWord.setText(translation);
                     return translation;
                 } catch (Exception e) {
@@ -321,8 +397,18 @@ public class MainScreen extends MainActivity {
                 } catch (Exception e) {
                     e.printStackTrace();
                 }}
-        return null;
+            return null;
         }
+
+
+    /*public static void hide() {
+        View view = this.getCurrentFocus();
+        if(view != null){
+            InputMethodService ims = (InputMethodService)getSystemService(Context.INPUT_METHOD_SERVICE);
+            ims.hideStatusIcon();
+        }
+    }*/
+
     public void initialize() {
         //Scanning files
         try {

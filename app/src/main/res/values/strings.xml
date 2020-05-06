@@ -28,6 +28,8 @@
     <string name="what_is_learning_title">Как это работает?</string>
     <string name="what_is_learning_text">Вы выбераете слова для изучения и PhotoEng надиктовывает вам их, по 10 раз каждое. Мы рекомендуем повторять слова про себя. 0x1F3A7</string>
     <string name="dont_show_more">Больше не показывать</string>
+    <string name="ru">ru</string>
+    <string name="eng">eng</string>
 
 </resources>
 

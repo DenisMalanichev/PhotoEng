@@ -31,13 +31,14 @@ public class TrainingActivity extends Activity {
     private Button Check;
     private TextView  TextToTranslate;
     private  String[] wordsToTrain;
+    private  String[] wordsToCheck;
     private int[] wordsToTrainId;
     private ImageView timerImageView;
     private TextView timerView;
     private CountDownTimer mTimer;
     private int currentId = 0;
     public static int trueAnswers = 0;
-   private String strArrayToShow[] = new String[5];
+   //private String strArrayToShow[] = new String[5];
 
 
     @Override
@@ -53,11 +54,19 @@ public class TrainingActivity extends Activity {
         timerView = findViewById(R.id.timer_view);
         timerImageView = findViewById(R.id.timer_image_view);
 
-        setWordsToTrain(ArrayHelper());
+        setWordsToTrain(ArrayHelperFirstLine());
+        setWordsToCheck(ArrayHelperSecondLine());
         //устанавливаем нулевое слово
         TextToTranslate.setText(wordsToTrain[0]);
         //вызываем метод для показа нового слова
+        for(int i =0; i<wordsToCheck.length; i++) {
+            Log.d("DEBUG", "wordsToCheck "+wordsToCheck[i]);
+        }
+        for(int i =0; i<wordsToCheck.length; i++) {
+            Log.d("DEBUG", "wordsToTrain "+wordsToTrain[i]);
+        }
         train(currentId);
+
         Check.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -65,12 +74,20 @@ public class TrainingActivity extends Activity {
                     isAnswerTrue();
             }
         });
-        strArrayToShow = TranslationArray().toArray(strArrayToShow);
+       // strArrayToShow = TranslationArray().toArray(strArrayToShow);
     }
 
-   public void train(int id){
+    private void setWordsToCheck(ArrayList<String> temp) {
+        int count = temp.size();
+        wordsToCheck = new String[5];
+        for (int i = 0; i < 5; i++) {
+            wordsToCheck[i] = temp.get(wordsToTrainId[i]-1);
+        }
+    }
+
+    public void train(int id){
        //set 1 word
-       TextToTranslate.setText(strArrayToShow[currentId]);
+       TextToTranslate.setText(wordsToCheck[currentId]);
        //start timer
        mTimer = new CountDownTimer(15000, 1000) {
            //update timer
@@ -91,23 +108,49 @@ public class TrainingActivity extends Activity {
        }.start();
    }
 
-    public ArrayList<String> ArrayHelper(){
-       /* SQLiteDatabase database = dbhelper.getWritableDatabase();
+    public ArrayList<String> ArrayHelperFirstLine(){
+        SQLiteDatabase database = dbhelper.getWritableDatabase();
 
         ContentValues contentValues = new ContentValues();
 
         database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
         Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
-                null, null, null, null);*/
-        DBHelper mDBHelper = new DBHelper(TrainingActivity.this);
+                null, null, null, null);
+       /* DBHelper mDBHelper = new DBHelper(TrainingActivity.this);
         SQLiteDatabase database = mDBHelper.getReadableDatabase();
         Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
-                null, null, null, null);
+                null, null, null, null);*/
         ArrayList<String> wordsArray = new ArrayList<>();
 
         if (cursor.moveToFirst()) {
 
             int nameIndex = cursor.getColumnIndex(DBHelper.KEY_WORDS);
+            do {
+                wordsArray.add(cursor.getString(nameIndex));
+            } while (cursor.moveToNext());
+        }
+        dbhelper.close();
+        cursor.close();
+        return wordsArray;
+    }
+
+    public ArrayList<String> ArrayHelperSecondLine(){
+        SQLiteDatabase database = dbhelper.getWritableDatabase();
+
+        ContentValues contentValues = new ContentValues();
+
+        database.insert(DBHelper.TABLE_CONTACTS, null, contentValues);
+        Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
+                null, null, null, null);
+       /* DBHelper mDBHelper = new DBHelper(TrainingActivity.this);
+        SQLiteDatabase database = mDBHelper.getReadableDatabase();
+        Cursor cursor = database.query(DBHelper.TABLE_CONTACTS, null, null,
+                null, null, null, null);*/
+        ArrayList<String> wordsArray = new ArrayList<>();
+
+        if (cursor.moveToFirst()) {
+
+            int nameIndex = cursor.getColumnIndex(DBHelper.KEY_TRANSLATION);
             do {
                 wordsArray.add(cursor.getString(nameIndex));
             } while (cursor.moveToNext());
@@ -170,23 +213,19 @@ public class TrainingActivity extends Activity {
         }
         return array1;
     }
-    private ArrayList<String> TranslationArray(){
-        ArrayList<String> arrayList = new ArrayList<>();
-        try {
-            for (int i = 0; i < ArrayHelper().size(); i++) {
-                arrayList.add(TranslateYandex(wordsToTrain[i], "en-ru"));
-            }}catch(Exception e){
-            e.printStackTrace();
-        }
-        return arrayList;
-    }
-
-    public String TranslateYandex(String textToBeTranslated, String languagePair) {
-        YandexTranslate translatorBackgroundTask = new YandexTranslate();
-        return translatorBackgroundTask.doInBackground(textToBeTranslated, languagePair);
-    }
 
     public static int getTrueAnswers() {
         return trueAnswers;
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if(mTimer != null){
+
+            mTimer.cancel();
+        }
+    }
+
+
 }
