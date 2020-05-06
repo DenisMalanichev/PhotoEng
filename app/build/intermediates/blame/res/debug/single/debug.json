@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
-        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
-    },
-    {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_c_eng_rus.txt.flat",
         "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\c_eng_rus.txt"
+    },
+    {
+        "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\raw_t_eng_rus.txt.flat",
+        "source": "D:\\PhotoEng\\app\\src\\main\\res\\raw\\t_eng_rus.txt"
     },
     {
         "merged": "D:\\PhotoEng\\app\\build\\intermediates\\res\\merged\\debug\\drawable_train_icon.xml.flat",

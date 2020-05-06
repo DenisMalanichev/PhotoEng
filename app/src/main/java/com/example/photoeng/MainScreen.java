@@ -12,6 +12,7 @@ package com.example.photoeng;
         import android.inputmethodservice.Keyboard;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
+        import android.os.AsyncTask;
         import android.os.Bundle;
         import android.os.Handler;
         import android.speech.tts.TextToSpeech;
@@ -33,8 +34,12 @@ package com.example.photoeng;
 
         import java.io.BufferedReader;
         import java.io.File;
+        import java.io.IOException;
         import java.io.InputStream;
         import java.io.InputStreamReader;
+        import java.net.MalformedURLException;
+        import java.net.URL;
+        import java.net.URLConnection;
         import java.util.ArrayList;
         import java.util.Locale;
 
@@ -273,6 +278,10 @@ public class MainScreen extends MainActivity {
     public static boolean isNetworkAvailable(Context context) {
         ConnectivityManager connectivity = (ConnectivityManager) context
                 .getSystemService(Context.CONNECTIVITY_SERVICE);
+
+        isConnected isConnected = new isConnected();
+        isConnected.doInBackground(null);
+
         if (connectivity == null) {
             return false;
         }
@@ -365,7 +374,7 @@ public class MainScreen extends MainActivity {
                             initialize();
                             TranslatedWord.setText(translationNoInternet(word));
                             return translationNoInternet(word);
-                        
+
                 }
             }else{
                 try {
@@ -915,6 +924,22 @@ public class MainScreen extends MainActivity {
             }
         }
             return "Слова нет в словаре, подключите интернет";
+    }
+
+    static class isConnected extends AsyncTask{
+
+        @Override
+        protected Object doInBackground(Object[] objects) {
+
+            try {
+                URL url = new URL("https://translate.yandex.com/");
+                URLConnection conn = url.openConnection();
+                conn.connect();
+            } catch (IOException e) {
+                return false;
+            }
+            return null;
+        }
     }
 }
 

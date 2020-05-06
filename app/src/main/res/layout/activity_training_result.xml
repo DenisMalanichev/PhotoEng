@@ -38,21 +38,21 @@
         android:layout_height="wrap_content"
         android:id="@+id/result_button_again"
         android:layout_gravity="center"
-       android:layout_margin="70px"
         android:text="@string/result_button_again_text"
         android:background="@drawable/button_shape"
-        android:padding="15dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginEnd="25dp"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/result_button_back"
         android:layout_gravity="center"
-        android:layout_margin="70px"
         android:text="@string/result_button_back_text"
         android:background="@drawable/button_shape"
-        android:padding="15dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginStart="25dp"/>
         </LinearLayout>
     </LinearLayout>
 </androidx.cardview.widget.CardView>
