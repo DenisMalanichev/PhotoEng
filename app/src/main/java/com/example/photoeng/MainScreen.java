@@ -1,20 +1,16 @@
 package com.example.photoeng;
 
 
-        import android.app.Activity;
-        import android.content.ContentValues;
         import android.content.Context;
         import android.content.Intent;
         import android.content.pm.ActivityInfo;
         import android.database.Cursor;
         import android.database.sqlite.SQLiteDatabase;
         import android.inputmethodservice.InputMethodService;
-        import android.inputmethodservice.Keyboard;
         import android.net.ConnectivityManager;
         import android.net.NetworkInfo;
         import android.os.AsyncTask;
         import android.os.Bundle;
-        import android.os.Handler;
         import android.speech.tts.TextToSpeech;
         import android.util.Log;
         import android.view.KeyEvent;
@@ -33,10 +29,10 @@ package com.example.photoeng;
         import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
         import java.io.BufferedReader;
-        import java.io.File;
         import java.io.IOException;
         import java.io.InputStream;
         import java.io.InputStreamReader;
+        import java.net.HttpURLConnection;
         import java.net.MalformedURLException;
         import java.net.URL;
         import java.net.URLConnection;
@@ -59,6 +55,7 @@ public class MainScreen extends MainActivity {
     private BottomNavigationView mBottomNavigationView;
     private FloatingActionButton FloatingButton;
     private Button setLangButton;
+    private InternetConnection ic = new InternetConnection();
     public String[] linesArrayA;
     public String[] linesArrayB;
     public String[] linesArrayC;
@@ -86,7 +83,7 @@ public class MainScreen extends MainActivity {
     public String[] linesArrayY;
     public String[] linesArrayZ;
     private boolean isEng = true;
-
+    public boolean isAliveSite;
 
 
     @Override
@@ -279,9 +276,6 @@ public class MainScreen extends MainActivity {
         ConnectivityManager connectivity = (ConnectivityManager) context
                 .getSystemService(Context.CONNECTIVITY_SERVICE);
 
-        isConnected isConnected = new isConnected();
-        isConnected.doInBackground(null);
-
         if (connectivity == null) {
             return false;
         }
@@ -365,7 +359,14 @@ public class MainScreen extends MainActivity {
 
         public String translate(String word){
         String translation;
-            if(isNetworkAvailable(MainScreen.this)){
+
+            try {
+                Task task = new Task();
+                task.execute();
+                Log.d("DEBUG", "isAlive is "+isAliveSite);
+
+        if(isNetworkAvailable(MainScreen.this) && isAliveSite){
+
                         try {
                             translation = TranslateYandex(word, "en-ru");
                             TranslatedWord.setText(translation);
@@ -373,9 +374,9 @@ public class MainScreen extends MainActivity {
                         } catch (Exception e) {
                             initialize();
                             TranslatedWord.setText(translationNoInternet(word));
+                                Toast.makeText(this, "Нет доступа к Yandex", Toast.LENGTH_SHORT).show();
                             return translationNoInternet(word);
-
-                }
+                        }
             }else{
                 try {
                     Log.d("DEBUG", "no internet");
@@ -385,11 +386,19 @@ public class MainScreen extends MainActivity {
                 } catch (Exception e) {
                     e.printStackTrace();
                 }}
-        return null;
-        }
+
+            }catch (Exception e){
+        e.printStackTrace();
+    }
+            return null;
+    }
 
         public String translateRu(String word){
             String translation;
+            try {
+                Task task = new Task();
+                task.execute();
+                Log.d("DEBUG", "isAlive is "+isAliveSite);
             if(isNetworkAvailable(MainScreen.this)){
                 try {
                     translation = TranslateYandex(word, "ru-en");
@@ -406,17 +415,14 @@ public class MainScreen extends MainActivity {
                 } catch (Exception e) {
                     e.printStackTrace();
                 }}
+            }catch (Exception e){
+                e.printStackTrace();
+            }
             return null;
         }
 
 
-    /*public static void hide() {
-        View view = this.getCurrentFocus();
-        if(view != null){
-            InputMethodService ims = (InputMethodService)getSystemService(Context.INPUT_METHOD_SERVICE);
-            ims.hideStatusIcon();
-        }
-    }*/
+
 
     public void initialize() {
         //Scanning files
@@ -926,20 +932,46 @@ public class MainScreen extends MainActivity {
             return "Слова нет в словаре, подключите интернет";
     }
 
-    static class isConnected extends AsyncTask{
+    class Task extends AsyncTask<Boolean, Boolean, Boolean> {
+
+        public boolean isAlive;
 
         @Override
-        protected Object doInBackground(Object[] objects) {
-
-            try {
-                URL url = new URL("https://translate.yandex.com/");
-                URLConnection conn = url.openConnection();
-                conn.connect();
-            } catch (IOException e) {
-                return false;
-            }
+        protected Boolean doInBackground(Boolean... booleans){
+            isAlive = isSiteAvail("https://tech.yandex.com/translate/");
             return null;
         }
+
+        @Override
+        protected void onPostExecute(Boolean aBoolean) {
+            super.onPostExecute(aBoolean);
+            setAliveSite(isAlive);
+            Toast.makeText(MainScreen.this, ""+isAliveSite, Toast.LENGTH_SHORT).show();
+        }
+
+        boolean isSiteAvail(String site) {
+            try {
+                URL url = new URL(site);
+                HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
+                urlc.setRequestProperty("Connection", "close");
+                urlc.setConnectTimeout(5000);
+                urlc.connect();
+                int Code = urlc.getResponseCode();
+                if (Code == HttpURLConnection.HTTP_OK) ;
+                Log.d("IJOIOIJ", "true");
+                return true;
+            } catch (MalformedURLException e) {
+            } catch (IOException e) {
+            }
+            Log.d("IJOIOIJ", "false");
+            return false;
+        }
+
+
+    }
+
+    public void setAliveSite(boolean aliveSite) {
+        isAliveSite = aliveSite;
     }
 }
 
