@@ -13,6 +13,7 @@ import android.widget.TextView;
 public class WhatIsLearningActivity extends AppCompatActivity {
     private TextView cross;
     private CheckBox check;
+    private TextView whatIsText;
     private SharedPreferences sPref;
     private static final String INTRO_KEY = "show_help";
 
@@ -22,9 +23,12 @@ public class WhatIsLearningActivity extends AppCompatActivity {
         setContentView(R.layout.activity_hat_is_learning);
 
 
+
         cross = findViewById(R.id.cross_textview);
         check = findViewById(R.id.ckeckbox);
-
+        whatIsText = findViewById(R.id.what_is_text);
+        String str = whatIsText.getText().toString();
+        whatIsText.setText(str + getEmojiByUnicode(0x1F3A7) + getEmojiByUnicode(0x1F60E));
         sPref = getPreferences(MODE_PRIVATE);
         boolean help = sPref.getBoolean(INTRO_KEY, true);
 
@@ -74,5 +78,7 @@ public class WhatIsLearningActivity extends AppCompatActivity {
             editor.commit();
         }
     }
-
+    public String getEmojiByUnicode(int unicode){
+        return new String(Character.toChars(unicode));
+    }
 }

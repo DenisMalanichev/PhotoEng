@@ -96,7 +96,8 @@
         app:itemTextColor="@drawable/selector"
         app:itemIconTint="@drawable/selector"
         app:menu="@menu/menu_navigation"
-        android:layout_gravity="bottom"/>
+        android:layout_gravity="bottom"
+        android:layout_margin="0dp"/>
 
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton

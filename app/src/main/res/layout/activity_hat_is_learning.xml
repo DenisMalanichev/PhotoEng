@@ -44,6 +44,7 @@
         android:layout_gravity="center"
         android:orientation="horizontal">
         <TextView
+            android:id="@+id/what_is_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"

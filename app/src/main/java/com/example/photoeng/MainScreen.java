@@ -102,7 +102,13 @@ public class MainScreen extends MainActivity {
         setLangButton = findViewById(R.id.language_set_button);
 
         getExtras();
-
+        try {
+            Task task = new Task();
+            task.execute();
+            Log.d("DEBUG", "isAlive is " + isAliveSite);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
         mBottomNavigationView.setSelectedItemId(R.id.home_navigation_view);
 
 
@@ -359,12 +365,6 @@ public class MainScreen extends MainActivity {
 
         public String translate(String word){
         String translation;
-
-            try {
-                Task task = new Task();
-                task.execute();
-                Log.d("DEBUG", "isAlive is "+isAliveSite);
-
         if(isNetworkAvailable(MainScreen.this) && isAliveSite){
 
                         try {
@@ -386,19 +386,12 @@ public class MainScreen extends MainActivity {
                 } catch (Exception e) {
                     e.printStackTrace();
                 }}
-
-            }catch (Exception e){
-        e.printStackTrace();
-    }
             return null;
-    }
+        }
 
         public String translateRu(String word){
             String translation;
-            try {
-                Task task = new Task();
-                task.execute();
-                Log.d("DEBUG", "isAlive is "+isAliveSite);
+
             if(isNetworkAvailable(MainScreen.this)){
                 try {
                     translation = TranslateYandex(word, "ru-en");
@@ -415,9 +408,6 @@ public class MainScreen extends MainActivity {
                 } catch (Exception e) {
                     e.printStackTrace();
                 }}
-            }catch (Exception e){
-                e.printStackTrace();
-            }
             return null;
         }
 
@@ -946,7 +936,6 @@ public class MainScreen extends MainActivity {
         protected void onPostExecute(Boolean aBoolean) {
             super.onPostExecute(aBoolean);
             setAliveSite(isAlive);
-            Toast.makeText(MainScreen.this, ""+isAliveSite, Toast.LENGTH_SHORT).show();
         }
 
         boolean isSiteAvail(String site) {
